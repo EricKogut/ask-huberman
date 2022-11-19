@@ -14,28 +14,28 @@ export const CTA = () => (
     <Button
       as={ChakraLink}
       isExternal
-      href='https://chakra-ui.com'
+      href=''
       variant='outline'
-      colorScheme='green'
+      colorScheme='white'
       rounded='button'
       flexGrow={1}
       mx={2}
       width='full'
     >
-      chakra-ui
+      temp
     </Button>
     <Button
       as={ChakraLink}
       isExternal
-      href='https://hubermanlab.com/'
+      href='https://www.hubermanlab.com'
       variant='solid'
-      colorScheme='green'
+      colorScheme='gray'
       rounded='button'
       flexGrow={3}
       mx={2}
       width='full'
     >
-      Hubermanlab.com
+      Huberman Lab Wesbite
     </Button>
   </Container>
 );
