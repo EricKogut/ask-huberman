@@ -15,6 +15,7 @@ import {
   Input,
   InputGroup,
 } from '@chakra-ui/react';
+import { useAxios } from '../../hooks/useAxios';
 
 interface TestimonialCardProps {
   name: string;
@@ -112,6 +113,21 @@ export function MessagingFeed() {
     let inputValue = e.target.value;
     setValue(inputValue);
   };
+
+  const {
+    loading,
+    errors,
+    data,
+    refetch,
+  }: {
+    loading: boolean;
+    errors: any;
+    data: any;
+    refetch(): void;
+  } = useAxios({
+    type: 'get',
+  });
+  console.log({ loading }, { errors }, { data });
   return (
     <>
       <Flex
