@@ -1,0 +1,10585 @@
+1
+00:00:00,108 --> 00:00:00,941
+[upbeat music]
+
+2
+00:00:00,941 --> 00:00:01,930
+- Welcome to the Huberman Lab Podcast
+
+3
+00:00:01,930 --> 00:00:03,720
+where we discuss science
+
+4
+00:00:03,720 --> 00:00:05,983
+and science-based tools for everyday life.
+
+5
+00:00:09,880 --> 00:00:12,410
+I'm Andrew Huberman, and I'm
+a Professor of Neurobiology
+
+6
+00:00:12,410 --> 00:00:15,600
+and Ophthalmology at
+Stanford School of Medicine.
+
+7
+00:00:15,600 --> 00:00:16,860
+This podcast is separate
+
+8
+00:00:16,860 --> 00:00:19,460
+from my teaching and
+research roles at Stanford.
+
+9
+00:00:19,460 --> 00:00:21,660
+It is however, part of
+my desire and effort
+
+10
+00:00:21,660 --> 00:00:23,870
+to bring zero cost to consumer information
+
+11
+00:00:23,870 --> 00:00:25,940
+about science and science-related tools
+
+12
+00:00:25,940 --> 00:00:27,700
+to the general public.
+
+13
+00:00:27,700 --> 00:00:28,570
+Along those lines,
+
+14
+00:00:28,570 --> 00:00:31,310
+I want to thank the
+sponsors of today's podcast.
+
+15
+00:00:31,310 --> 00:00:34,960
+Our first sponsor is Athletic
+Greens, which is an all-in-one
+
+16
+00:00:34,960 --> 00:00:38,100
+vitamin mineral probiotic
+liquid supplement.
+
+17
+00:00:38,100 --> 00:00:41,580
+I've been using Athletic Greens since 2012
+
+18
+00:00:41,580 --> 00:00:45,270
+because I really like getting
+my total vitamin mineral
+
+19
+00:00:45,270 --> 00:00:49,060
+base covered in one
+easy to consume product.
+
+20
+00:00:49,060 --> 00:00:50,010
+It also tastes really good.
+
+21
+00:00:50,010 --> 00:00:51,530
+I mix mine with a little
+bit of lemon juice.
+
+22
+00:00:51,530 --> 00:00:54,680
+I've been doing that
+well over a decade now.
+
+23
+00:00:54,680 --> 00:00:58,100
+And the inclusion of probiotics
+is important to me because
+
+24
+00:00:58,100 --> 00:01:00,040
+there's a lot of data out there right now
+
+25
+00:01:00,040 --> 00:01:01,540
+about the importance of gut health
+
+26
+00:01:01,540 --> 00:01:03,890
+for the immune system for, mood.
+
+27
+00:01:03,890 --> 00:01:06,940
+And so by combining all
+these things in one product
+
+28
+00:01:06,940 --> 00:01:08,600
+you get all those things at once.
+
+29
+00:01:08,600 --> 00:01:10,140
+If you want to try Athletic Greens,
+
+30
+00:01:10,140 --> 00:01:13,360
+you can go to athleticgreens.com/huberman
+
+31
+00:01:13,360 --> 00:01:15,590
+and that will give you a special offer
+
+32
+00:01:15,590 --> 00:01:20,230
+where you will get a year supply
+of liquid vitamin D3 and K2
+
+33
+00:01:20,230 --> 00:01:22,340
+vitamin D3 has been shown to be important
+
+34
+00:01:22,340 --> 00:01:25,300
+for various aspects of immune function
+
+35
+00:01:25,300 --> 00:01:27,380
+as well as other biological functions.
+
+36
+00:01:27,380 --> 00:01:29,750
+And so once more, if you
+want to try athletic greens
+
+37
+00:01:29,750 --> 00:01:32,430
+and get the year supply of vitamin D3 K2
+
+38
+00:01:32,430 --> 00:01:36,290
+just go to athletigreens.com/huberman.
+
+39
+00:01:36,290 --> 00:01:39,610
+The other sponsor of today's
+podcast is InsideTracker.
+
+40
+00:01:39,610 --> 00:01:44,590
+InsideTracker is a way to
+measure metabolic factors,
+
+41
+00:01:44,590 --> 00:01:48,230
+hormones, and DNA related factors
+
+42
+00:01:48,230 --> 00:01:50,580
+by way of blood tests and saliva
+
+43
+00:01:50,580 --> 00:01:52,930
+in order to assess one's health.
+
+44
+00:01:52,930 --> 00:01:55,990
+I'm a big believer in blood
+tests and saliva tests
+
+45
+00:01:55,990 --> 00:01:59,950
+for assessing one's health
+markers, because I like data.
+
+46
+00:01:59,950 --> 00:02:02,270
+And there's really no other way to measure
+
+47
+00:02:02,270 --> 00:02:04,480
+what's going on in one's body
+
+48
+00:02:04,480 --> 00:02:08,310
+without taking the occasional
+blood test or saliva test.
+
+49
+00:02:08,310 --> 00:02:10,259
+You can guess what's going on
+
+50
+00:02:10,259 --> 00:02:12,966
+but if you really want to know
+what's going on under the hood
+
+51
+00:02:12,966 --> 00:02:15,700
+InsideTracker can be of great help.
+
+52
+00:02:15,700 --> 00:02:18,320
+One of the problems with a
+lot of products out there
+
+53
+00:02:18,320 --> 00:02:19,690
+or just regular blood testing
+
+54
+00:02:19,690 --> 00:02:21,920
+is that you get a lot of
+data back about the levels
+
+55
+00:02:21,920 --> 00:02:23,930
+of various hormones,
+metabolic factors, et cetera,
+
+56
+00:02:23,930 --> 00:02:25,960
+but you don't know what
+to do with those data.
+
+57
+00:02:25,960 --> 00:02:29,410
+Great thing about InsideTracker
+is provided in a format.
+
+58
+00:02:29,410 --> 00:02:31,350
+They have an online dashboard
+
+59
+00:02:31,350 --> 00:02:35,040
+that given your particular
+levels of various things
+
+60
+00:02:35,040 --> 00:02:35,873
+directs you
+
+61
+00:02:35,873 --> 00:02:39,390
+toward potential lifestyle related changes
+
+62
+00:02:39,390 --> 00:02:43,230
+like changes in exercise, or
+changes in sleep patterns,
+
+63
+00:02:43,230 --> 00:02:45,640
+or changes in nutritional patterns,
+
+64
+00:02:45,640 --> 00:02:48,890
+that can really help move
+those markers and those numbers
+
+65
+00:02:48,890 --> 00:02:51,130
+on those metabolic factors,
+hormones, et cetera
+
+66
+00:02:51,130 --> 00:02:52,990
+in the direction that you want.
+
+67
+00:02:52,990 --> 00:02:54,570
+If you'd like to try InsideTracker
+
+68
+00:02:54,570 --> 00:02:57,710
+you can go to insidetracker.com/huberman.
+
+69
+00:02:57,710 --> 00:02:58,547
+And if you do that,
+
+70
+00:02:58,547 --> 00:03:02,740
+you'll 25% off their program at checkout.
+
+71
+00:03:02,740 --> 00:03:04,660
+Okay, let's get started.
+
+72
+00:03:04,660 --> 00:03:06,720
+Today is episode three of the podcast
+
+73
+00:03:06,720 --> 00:03:08,440
+and it is office hours.
+
+74
+00:03:08,440 --> 00:03:11,480
+Office hours as many of you
+know, it's where students
+
+75
+00:03:11,480 --> 00:03:13,430
+come to the office of the professor,
+
+76
+00:03:13,430 --> 00:03:15,390
+sit down and ask questions,
+
+77
+00:03:15,390 --> 00:03:18,690
+requesting clarification about
+things that were confusing,
+
+78
+00:03:18,690 --> 00:03:22,880
+or to simply go down the
+route of exploring a topic
+
+79
+00:03:22,880 --> 00:03:25,220
+with more depth and detail.
+
+80
+00:03:25,220 --> 00:03:27,810
+I asked for your questions to be listed
+
+81
+00:03:27,810 --> 00:03:30,100
+in the comment section of
+the previous two episodes
+
+82
+00:03:30,100 --> 00:03:33,170
+of the podcast on YouTube,
+as well as on Instagram.
+
+83
+00:03:33,170 --> 00:03:35,050
+And I first of all just want to thank you
+
+84
+00:03:35,050 --> 00:03:37,810
+for the many questions,
+they are excellent.
+
+85
+00:03:37,810 --> 00:03:39,200
+We read them all.
+
+86
+00:03:39,200 --> 00:03:43,240
+We distilled from that
+large batch of questions
+
+87
+00:03:43,240 --> 00:03:45,500
+to two types of questions.
+
+88
+00:03:45,500 --> 00:03:47,420
+Questions that were asked very often
+
+89
+00:03:47,420 --> 00:03:51,390
+and were light very often with
+a little thumbs up like tab
+
+90
+00:03:51,390 --> 00:03:53,700
+as well as questions that we
+thought could really expand
+
+91
+00:03:53,700 --> 00:03:56,510
+on the topics that we've
+covered previously.
+
+92
+00:03:56,510 --> 00:03:59,570
+And today we're going
+to cover both of those.
+
+93
+00:03:59,570 --> 00:04:03,890
+If we did not get to your
+question, please don't despair.
+
+94
+00:04:03,890 --> 00:04:05,290
+We will keep track of those.
+
+95
+00:04:05,290 --> 00:04:08,630
+And we have several more
+episodes devoted to this topic
+
+96
+00:04:08,630 --> 00:04:11,460
+of sleep and wakefulness and learning
+
+97
+00:04:11,460 --> 00:04:13,493
+during the month of January, maybe even,
+
+98
+00:04:14,380 --> 00:04:16,430
+leaking over a little bit
+into the month of February.
+
+99
+00:04:16,430 --> 00:04:19,029
+So, we have time that's
+one of the unique formats
+
+100
+00:04:19,029 --> 00:04:21,729
+of this podcast is that
+we have time for dialogue,
+
+101
+00:04:21,730 --> 00:04:22,970
+we have time for your questions
+
+102
+00:04:22,970 --> 00:04:25,620
+and we have time to really
+go deep into these topics.
+
+103
+00:04:26,490 --> 00:04:28,840
+It's official Costello is
+sleeping in the background.
+
+104
+00:04:28,840 --> 00:04:33,190
+So if you hear snoring, Costello
+is going to be keeping time
+
+105
+00:04:33,190 --> 00:04:36,430
+with his deep and melodic snoring.
+
+106
+00:04:36,430 --> 00:04:37,490
+There he goes.
+
+107
+00:04:37,490 --> 00:04:42,490
+So the questions that we
+received, I batched crudely
+
+108
+00:04:42,800 --> 00:04:44,820
+into a couple of different categories,
+
+109
+00:04:44,820 --> 00:04:49,820
+light, exercise, supplementation,
+temperature, learning,
+
+110
+00:04:51,500 --> 00:04:55,190
+plasticity, and mood, and sort
+of mood related disorders.
+
+111
+00:04:55,190 --> 00:04:57,000
+There were a lot of questions about those.
+
+112
+00:04:57,000 --> 00:04:58,630
+Before we begin any of this
+
+113
+00:04:58,630 --> 00:05:00,150
+I want to point out something that I,
+
+114
+00:05:00,150 --> 00:05:02,500
+I always say it sounds like boiler plate
+
+115
+00:05:02,500 --> 00:05:04,350
+but it's important not just to protect me
+
+116
+00:05:04,350 --> 00:05:07,380
+but to protect you, which is
+that I am not a physician.
+
+117
+00:05:07,380 --> 00:05:08,370
+I'm not a medical doctor.
+
+118
+00:05:08,370 --> 00:05:11,670
+I don't prescribe anything,
+including behavioral protocols.
+
+119
+00:05:11,670 --> 00:05:12,503
+I'm a professor.
+
+120
+00:05:12,503 --> 00:05:13,640
+So I profess a lot of things
+
+121
+00:05:13,640 --> 00:05:15,853
+based on quality peer reviewed studies.
+
+122
+00:05:16,710 --> 00:05:18,090
+You should take that information.
+
+123
+00:05:18,090 --> 00:05:20,120
+You should filter it
+through whatever it is
+
+124
+00:05:20,120 --> 00:05:22,680
+that you currently happen
+to be dealing with,
+
+125
+00:05:22,680 --> 00:05:24,990
+whether or not that's health
+or illness, you should consult
+
+126
+00:05:24,990 --> 00:05:29,280
+with a licensed healthcare
+professional before you add
+
+127
+00:05:29,280 --> 00:05:32,293
+or remove anything from
+your daily life protocol.
+
+128
+00:05:33,730 --> 00:05:35,010
+I'm not responsible for your health.
+
+129
+00:05:35,010 --> 00:05:37,318
+You are, so be smart with this information
+
+130
+00:05:37,318 --> 00:05:41,393
+and be a stringent filter, as we say.
+
+131
+00:05:42,360 --> 00:05:45,363
+Okay, very well let's get
+started on the actual material.
+
+132
+00:05:46,290 --> 00:05:51,290
+Somebody asked, what is the
+role of moonlight and fire,
+
+133
+00:05:52,200 --> 00:05:54,450
+I'm presuming they mean fireplace
+
+134
+00:05:54,450 --> 00:05:58,510
+or candle or things of that
+sort, in circadian rhythms.
+
+135
+00:05:58,510 --> 00:06:01,330
+Is it okay to view moonlight at night
+
+136
+00:06:01,330 --> 00:06:02,720
+or will that wake me up?
+
+137
+00:06:02,720 --> 00:06:06,270
+Will a fire in my fireplace
+or using candle light
+
+138
+00:06:06,270 --> 00:06:07,900
+be too much light.
+
+139
+00:06:07,900 --> 00:06:10,790
+Great question, also
+offers me the opportunity
+
+140
+00:06:10,790 --> 00:06:11,940
+to share with you
+
+141
+00:06:11,940 --> 00:06:14,320
+what I think is a quite
+beautiful definition
+
+142
+00:06:14,320 --> 00:06:17,750
+of what light is in a quantitative sense.
+
+143
+00:06:17,750 --> 00:06:21,330
+So I've mentioned a few
+times the use of apps
+
+144
+00:06:21,330 --> 00:06:24,920
+and light meters and things
+to measure things like locks,
+
+145
+00:06:24,920 --> 00:06:28,660
+which sometimes are also
+described in terms of Kendals.
+
+146
+00:06:28,660 --> 00:06:31,600
+So those are the two units
+for measuring light intensity.
+
+147
+00:06:31,600 --> 00:06:34,960
+Typically lux, L-U-X is the, is the unit.
+
+148
+00:06:34,960 --> 00:06:37,720
+And so before we go forward
+and discuss this many lux
+
+149
+00:06:37,720 --> 00:06:41,010
+or that many lux, I want to
+just tell you what a lux is
+
+150
+00:06:41,010 --> 00:06:42,800
+because it relates to this question.
+
+151
+00:06:42,800 --> 00:06:47,800
+One lux equals the illumination
+of one square meter surface
+
+152
+00:06:48,820 --> 00:06:52,730
+at one meter away from a single candle.
+
+153
+00:06:52,730 --> 00:06:53,563
+Think about that.
+
+154
+00:06:53,563 --> 00:06:55,800
+So somebody actually decided at some point
+
+155
+00:06:55,800 --> 00:07:00,290
+that the amount of illumination
+at one square meter surface,
+
+156
+00:07:00,290 --> 00:07:03,840
+one meter away from a single
+candle, that equals one lux.
+
+157
+00:07:03,840 --> 00:07:08,040
+So when we talk about 6,000
+lux of light intensity
+
+158
+00:07:08,040 --> 00:07:11,460
+or 10,000 lux of light
+intensity, now you have a kind of
+
+159
+00:07:11,460 --> 00:07:14,720
+a reference or a framework that
+would be the equivalent of,
+
+160
+00:07:14,720 --> 00:07:16,960
+you could think of it as 6,000 candles
+
+161
+00:07:16,960 --> 00:07:19,790
+all with their light intensity shown
+
+162
+00:07:19,790 --> 00:07:22,850
+on one square meter from
+one meters distance away.
+
+163
+00:07:22,850 --> 00:07:24,920
+Or of course, if it was
+a different number of lux
+
+164
+00:07:24,920 --> 00:07:26,430
+it would be a different number of candles.
+
+165
+00:07:26,430 --> 00:07:27,830
+So you get the idea.
+
+166
+00:07:27,830 --> 00:07:29,700
+Here's the great thing.
+
+167
+00:07:29,700 --> 00:07:33,310
+It turns out that moonlight, candle light,
+
+168
+00:07:33,310 --> 00:07:35,980
+and even a fireplace, if you
+have one of these roaring fires
+
+169
+00:07:35,980 --> 00:07:37,710
+going in the fireplace,
+
+170
+00:07:37,710 --> 00:07:41,110
+do not reset your circadian clock at night
+
+171
+00:07:41,110 --> 00:07:44,070
+and trick your brain into
+thinking that it's morning
+
+172
+00:07:44,070 --> 00:07:47,020
+even though if you've ever
+sat close to a fireplace
+
+173
+00:07:47,020 --> 00:07:50,090
+or even a candle, that
+light seems very bright.
+
+174
+00:07:50,090 --> 00:07:52,900
+And there are two reasons for
+that that are very important.
+
+175
+00:07:52,900 --> 00:07:56,320
+The first one is that
+these neurons in your eye
+
+176
+00:07:56,320 --> 00:07:58,100
+that I discussed in the previous episode
+
+177
+00:07:58,100 --> 00:08:00,660
+these melanopsin ganglion cells
+
+178
+00:08:00,660 --> 00:08:03,960
+also called intrinsically
+photosensitive ganglion cells.
+
+179
+00:08:03,960 --> 00:08:07,990
+Those cells adjust their
+sensitivity across the day,
+
+180
+00:08:07,990 --> 00:08:11,300
+and those cells respond best
+to the blue-yellow contrast
+
+181
+00:08:11,300 --> 00:08:13,860
+present in the rising and setting sun,
+
+182
+00:08:13,860 --> 00:08:15,780
+so-called low solar angle sun,
+
+183
+00:08:15,780 --> 00:08:18,010
+also discussed in the previous episode,
+
+184
+00:08:18,010 --> 00:08:21,690
+but those cells adjust
+their sensitivity such that
+
+185
+00:08:21,690 --> 00:08:25,810
+they will not activate
+the triggers in the brain
+
+186
+00:08:25,810 --> 00:08:30,810
+that conveyed daytime signals
+when they view moonlight,
+
+187
+00:08:30,960 --> 00:08:34,530
+even a full moon a really
+bright moon or fire.
+
+188
+00:08:34,530 --> 00:08:37,250
+Now this does raise an
+interesting kind of thought point,
+
+189
+00:08:37,250 --> 00:08:39,210
+which is, you know, a lot of people talked
+
+190
+00:08:39,210 --> 00:08:41,549
+about lunacy and the fact that
+when there's a full moon out
+
+191
+00:08:41,549 --> 00:08:44,049
+people act differently
+and behave differently.
+
+192
+00:08:44,049 --> 00:08:45,370
+There's a lot of lore around that.
+
+193
+00:08:45,370 --> 00:08:47,460
+There's actually a little bit
+of quality science around that
+
+194
+00:08:47,460 --> 00:08:49,320
+that maybe we can address in the future.
+
+195
+00:08:49,320 --> 00:08:53,850
+But, moonlight is typically
+not going to wake us up
+
+196
+00:08:53,850 --> 00:08:56,630
+too much, except maybe
+the moon is really full
+
+197
+00:08:56,630 --> 00:08:59,020
+and really bright, there's
+possibility for that.
+
+198
+00:08:59,020 --> 00:09:01,690
+So, providing you're not going
+to burn down the structure
+
+199
+00:09:01,690 --> 00:09:03,370
+you're in, you're not going
+to burn down the forest,
+
+200
+00:09:03,370 --> 00:09:08,130
+enjoy your, your fireplaces,
+enjoy your lights from candles.
+
+201
+00:09:08,130 --> 00:09:09,590
+And those are perfectly safe
+
+202
+00:09:09,590 --> 00:09:11,310
+without disrupting your circadian rhythm.
+
+203
+00:09:11,310 --> 00:09:13,760
+Because we talked about
+just how crucial it is
+
+204
+00:09:13,760 --> 00:09:14,800
+to avoid bright lights
+
+205
+00:09:14,800 --> 00:09:17,740
+between the hours of about
+10:00 PM and 4:00 AM.
+
+206
+00:09:17,740 --> 00:09:21,338
+Except when you need to view
+things for sake of safety
+
+207
+00:09:21,338 --> 00:09:24,530
+or work or so and so forth.
+
+208
+00:09:24,530 --> 00:09:27,610
+I also received a lot of
+questions about red light.
+
+209
+00:09:27,610 --> 00:09:29,270
+Now, I think I was asked those questions
+
+210
+00:09:29,270 --> 00:09:31,800
+because red light is used
+
+211
+00:09:31,800 --> 00:09:33,950
+in a number of different
+commercial products
+
+212
+00:09:33,950 --> 00:09:36,770
+where these products
+tend to include a sheet,
+
+213
+00:09:36,770 --> 00:09:38,650
+of very bright red lights.
+
+214
+00:09:38,650 --> 00:09:41,470
+That one is supposed to
+view early in the day.
+
+215
+00:09:41,470 --> 00:09:43,360
+And there are various claims attached
+
+216
+00:09:43,360 --> 00:09:45,130
+to these red light devices
+
+217
+00:09:45,130 --> 00:09:46,970
+that they improve mitochondrial function,
+
+218
+00:09:46,970 --> 00:09:49,090
+that they improve metabolism there-
+
+219
+00:09:49,090 --> 00:09:52,360
+I'm going to be really honest
+and I can't name brands,
+
+220
+00:09:52,360 --> 00:09:54,440
+and I'm not going to
+name particular studies.
+
+221
+00:09:54,440 --> 00:09:55,460
+'Cause what I'm about to say
+
+222
+00:09:55,460 --> 00:09:58,993
+about these studies is
+not particularly unkind
+
+223
+00:10:00,560 --> 00:10:03,600
+but let's just say that none
+of the studies that I've seen
+
+224
+00:10:03,600 --> 00:10:06,740
+except for one that I'll
+talk about in a moment,
+
+225
+00:10:06,740 --> 00:10:09,350
+pointing to the positive
+effects of red light
+
+226
+00:10:09,350 --> 00:10:13,850
+on the visual system are
+published in blue ribbon journals.
+
+227
+00:10:13,850 --> 00:10:15,260
+They tend to be published in journals
+
+228
+00:10:15,260 --> 00:10:17,163
+that I had to work hard to find.
+
+229
+00:10:18,183 --> 00:10:21,170
+I'm not sure what the peer
+review and stringency level is.
+
+230
+00:10:21,170 --> 00:10:23,060
+Now, that's not to say
+red light isn't beneficial
+
+231
+00:10:23,060 --> 00:10:25,340
+because there is one study in particular
+
+232
+00:10:25,340 --> 00:10:26,850
+that came from Glen Jeffrey's Lab
+
+233
+00:10:26,850 --> 00:10:28,200
+at the University of College, London
+
+234
+00:10:28,200 --> 00:10:30,240
+it was published last year.
+
+235
+00:10:30,240 --> 00:10:31,970
+Glen is somebody I happen to know
+
+236
+00:10:31,970 --> 00:10:34,720
+is an excellent reputation,
+excellent vision scientist,
+
+237
+00:10:35,610 --> 00:10:37,420
+what this study essentially showed.
+
+238
+00:10:37,420 --> 00:10:39,000
+And again, this is a study that
+
+239
+00:10:39,000 --> 00:10:40,800
+I very much liked the data
+
+240
+00:10:40,800 --> 00:10:43,190
+and think it was done
+with very high standards.
+
+241
+00:10:43,190 --> 00:10:47,690
+What this study shows is
+that, viewing red light
+
+242
+00:10:47,690 --> 00:10:50,090
+for a few minutes each morning
+
+243
+00:10:51,360 --> 00:10:54,190
+can have positive effects on mitochondria
+
+244
+00:10:54,190 --> 00:10:57,430
+in a particular retinal cell
+type, that tends to degenerate
+
+245
+00:10:57,430 --> 00:11:00,200
+or decline in function with age in humans.
+
+246
+00:11:00,200 --> 00:11:02,950
+And that cell type is the photoreceptor.
+
+247
+00:11:02,950 --> 00:11:06,380
+The photoreceptor is a
+type of cell in your eye
+
+248
+00:11:06,380 --> 00:11:08,120
+that sits at the back of the eye.
+
+249
+00:11:08,120 --> 00:11:10,600
+It's kind of some distance
+away from the ganglion cells.
+
+250
+00:11:10,600 --> 00:11:13,020
+And it's the cell that
+converts light information
+
+251
+00:11:13,020 --> 00:11:14,650
+into electrical signals that the rest
+
+252
+00:11:14,650 --> 00:11:17,380
+of the retina and brain can understand.
+
+253
+00:11:17,380 --> 00:11:20,010
+These are vitally important
+cells without them,
+
+254
+00:11:20,010 --> 00:11:21,170
+people are blind.
+
+255
+00:11:21,170 --> 00:11:24,780
+And many people's vision
+gets worse with age.
+
+256
+00:11:24,780 --> 00:11:26,780
+In particular, age related
+macular degeneration
+
+257
+00:11:26,780 --> 00:11:29,270
+but also related to some other factors
+
+258
+00:11:29,270 --> 00:11:32,510
+including photo receptor functionality
+
+259
+00:11:32,510 --> 00:11:33,740
+just getting worse with time.
+
+260
+00:11:33,740 --> 00:11:37,800
+And what Glen showed was
+that red light flashes
+
+261
+00:11:37,800 --> 00:11:39,870
+delivered in particular early in the day
+
+262
+00:11:39,870 --> 00:11:43,630
+but not late in the day can
+help repair the mitochondria.
+
+263
+00:11:43,630 --> 00:11:46,910
+Now this study needs more support
+
+264
+00:11:46,910 --> 00:11:48,830
+from additional studies of course.
+
+265
+00:11:48,830 --> 00:11:50,070
+They are doing a clinical trial.
+
+266
+00:11:50,070 --> 00:11:53,520
+They did report on what I
+think it was 12 patients.
+
+267
+00:11:53,520 --> 00:11:57,160
+And so the work is ongoing,
+but that was very interesting.
+
+268
+00:11:57,160 --> 00:12:00,030
+And it points to some
+potentially really useful things
+
+269
+00:12:00,030 --> 00:12:01,530
+about red light.
+
+270
+00:12:01,530 --> 00:12:03,740
+However, most of the questions I got
+
+271
+00:12:03,740 --> 00:12:06,140
+about red light for sake of office hours
+
+272
+00:12:06,140 --> 00:12:08,550
+were about the use of red
+light later in the day.
+
+273
+00:12:08,550 --> 00:12:11,930
+So here's the deal, in principle red light
+
+274
+00:12:11,930 --> 00:12:14,730
+will not stimulate the
+melanopsin retinal neurons
+
+275
+00:12:14,730 --> 00:12:17,240
+that wake up the brain and circadian clock
+
+276
+00:12:17,240 --> 00:12:19,040
+and signal daytime.
+
+277
+00:12:19,040 --> 00:12:21,780
+However, most of the red lights
+in particular the red lights
+
+278
+00:12:21,780 --> 00:12:23,390
+that come on these
+sheets of these products
+
+279
+00:12:23,390 --> 00:12:26,930
+that people are supposed
+to view them in order to
+
+280
+00:12:26,930 --> 00:12:29,730
+access a number of
+proclaimed health effects,
+
+281
+00:12:29,730 --> 00:12:31,410
+those are way too bright
+
+282
+00:12:31,410 --> 00:12:34,410
+and would definitely wake
+up your body and brain.
+
+283
+00:12:34,410 --> 00:12:36,280
+So if you're going to use those products
+
+284
+00:12:36,280 --> 00:12:38,300
+and I'm not suggesting
+you do, or you don't,
+
+285
+00:12:38,300 --> 00:12:40,460
+but if that's your thing,
+you would want to use those
+
+286
+00:12:40,460 --> 00:12:41,293
+early in the day.
+
+287
+00:12:41,293 --> 00:12:43,050
+Who knows you might
+even derive some benefit
+
+288
+00:12:43,050 --> 00:12:46,180
+on mitochondria function
+in these photo receptors.
+
+289
+00:12:46,180 --> 00:12:48,270
+But if you're thinking about red light
+
+290
+00:12:48,270 --> 00:12:51,100
+for sake of avoiding the
+negative effects of light
+
+291
+00:12:51,100 --> 00:12:54,250
+later in the day and at night,
+then you want that red light
+
+292
+00:12:54,250 --> 00:12:56,410
+to be very, very dim,
+certainly much dimmer
+
+293
+00:12:56,410 --> 00:12:59,303
+than is on most of those
+commercial products.
+
+294
+00:13:00,160 --> 00:13:02,040
+Now, do you need red lights? No.
+
+295
+00:13:02,040 --> 00:13:03,620
+Although red lights are rather convenient
+
+296
+00:13:03,620 --> 00:13:05,850
+because you can see
+pretty well with them on,
+
+297
+00:13:05,850 --> 00:13:08,770
+but if they're dim, they won't
+wake up the circadian clock.
+
+298
+00:13:08,770 --> 00:13:11,350
+They won't have this
+dopamine disrupting thing
+
+299
+00:13:11,350 --> 00:13:13,180
+that we talked about in
+the previous podcast.
+
+300
+00:13:13,180 --> 00:13:14,550
+So there's a role for red light
+
+301
+00:13:14,550 --> 00:13:15,930
+potentially early in the day
+
+302
+00:13:15,930 --> 00:13:18,720
+and for mitochondrial repair
+in the photoreceptors,
+
+303
+00:13:18,720 --> 00:13:20,940
+there's a role for dim red light
+
+304
+00:13:20,940 --> 00:13:22,570
+later in the day and at night.
+
+305
+00:13:22,570 --> 00:13:24,810
+So you're starting to notice
+a theme here which is that,
+
+306
+00:13:24,810 --> 00:13:28,120
+there's no immediate prescription
+of look at these light,
+
+307
+00:13:28,120 --> 00:13:30,290
+it's look at these lights potentially
+
+308
+00:13:30,290 --> 00:13:32,597
+if that's what you want to
+do at particular times of day
+
+309
+00:13:32,597 --> 00:13:34,430
+and we're particular intensities.
+
+310
+00:13:34,430 --> 00:13:36,040
+It brings us back to the blue light issue
+
+311
+00:13:36,040 --> 00:13:37,380
+which is so many people are obsessed
+
+312
+00:13:37,380 --> 00:13:39,010
+with avoiding blue light, but you actually
+
+313
+00:13:39,010 --> 00:13:40,570
+want a ton of blue light early in the day
+
+314
+00:13:40,570 --> 00:13:41,403
+and throughout the day.
+
+315
+00:13:41,403 --> 00:13:43,210
+So don't wear your blue blockers then
+
+316
+00:13:43,210 --> 00:13:44,550
+or maybe even don't wear them at all.
+
+317
+00:13:44,550 --> 00:13:47,160
+And at night, it doesn't matter
+if you have blue blockers on
+
+318
+00:13:47,160 --> 00:13:50,180
+if the lights are bright
+enough, then you're still
+
+319
+00:13:50,180 --> 00:13:52,800
+going to be activating
+these cells and mechanisms.
+
+320
+00:13:52,800 --> 00:13:54,650
+I just want to add something
+
+321
+00:13:55,560 --> 00:14:00,560
+about the science behind
+the blue blocker confusion.
+
+322
+00:14:00,580 --> 00:14:05,330
+So these melanopsin retinal
+cells do react to blue light.
+
+323
+00:14:05,330 --> 00:14:06,910
+That that is the best stimulus
+
+324
+00:14:06,910 --> 00:14:09,250
+for one of these
+melanopsin cells, which led
+
+325
+00:14:09,250 --> 00:14:11,300
+to the belief that blue
+blockers would be a good thing
+
+326
+00:14:11,300 --> 00:14:13,930
+for preventing resetting of
+the circadian clock at night
+
+327
+00:14:13,930 --> 00:14:17,040
+and deleterious effects
+of screens, et cetera.
+
+328
+00:14:17,040 --> 00:14:20,230
+However, the people
+that made these products
+
+329
+00:14:20,230 --> 00:14:23,360
+fail to actually read the
+papers from start to finish
+
+330
+00:14:23,360 --> 00:14:26,130
+or if they did, they didn't
+comprehend a critical element
+
+331
+00:14:26,130 --> 00:14:28,930
+which is that most of
+those papers early on
+
+332
+00:14:28,930 --> 00:14:31,440
+took those neurons out
+and put them in a dish.
+
+333
+00:14:31,440 --> 00:14:34,580
+And when they did that,
+they divorced those neurons
+
+334
+00:14:34,580 --> 00:14:37,660
+from their natural connections in the eye.
+
+335
+00:14:37,660 --> 00:14:40,400
+It turns out in your IMI right now,
+
+336
+00:14:40,400 --> 00:14:42,960
+because that's what we care
+about, these cells exist
+
+337
+00:14:42,960 --> 00:14:45,310
+and the cells respond to blue light
+
+338
+00:14:45,310 --> 00:14:47,330
+but also to other wavelengths of light
+
+339
+00:14:47,330 --> 00:14:49,870
+because they not only
+respond directly to light
+
+340
+00:14:49,870 --> 00:14:52,750
+as they do in a dish, they also respond
+
+341
+00:14:52,750 --> 00:14:55,410
+to input from photo receptors.
+
+342
+00:14:55,410 --> 00:14:58,500
+So if you talk to anyone in
+the circadian biology field,
+
+343
+00:14:58,500 --> 00:15:00,107
+they'll tell you, "Oh,
+yeah this blue light thing,
+
+344
+00:15:00,107 --> 00:15:01,590
+has really gotten out of control."
+
+345
+00:15:01,590 --> 00:15:04,950
+Because people assume that
+blue light is the culprit
+
+346
+00:15:04,950 --> 00:15:06,670
+because blue light is the best stimulus.
+
+347
+00:15:06,670 --> 00:15:09,120
+That doesn't mean that blue
+light is the only stimulus
+
+348
+00:15:09,120 --> 00:15:10,930
+that will trigger these cells, okay?
+
+349
+00:15:10,930 --> 00:15:14,250
+So like many things a
+scientific paper can be accurate
+
+350
+00:15:14,250 --> 00:15:15,500
+without being exhaustive.
+
+351
+00:15:15,500 --> 00:15:17,690
+And a lot of claims about
+products can be accurate,
+
+352
+00:15:17,690 --> 00:15:18,523
+but not exhaustive.
+
+353
+00:15:18,523 --> 00:15:20,570
+So blue light during the day is great.
+
+354
+00:15:20,570 --> 00:15:22,370
+Get that screen light, get that sunlight
+
+355
+00:15:22,370 --> 00:15:24,137
+especially getting overhead lights.
+
+356
+00:15:24,137 --> 00:15:27,050
+I'll talk about all this
+in the previous podcast,
+
+357
+00:15:27,050 --> 00:15:30,050
+but at night you really want
+to avoid those bright lights.
+
+358
+00:15:30,050 --> 00:15:32,140
+And it doesn't matter if it's
+blue light or something else.
+
+359
+00:15:32,140 --> 00:15:34,610
+And so there was a real confusion about
+
+360
+00:15:34,610 --> 00:15:38,160
+the papers and the data when most
+
+361
+00:15:38,160 --> 00:15:40,483
+of those product
+recommendations were made.
+
+362
+00:15:41,770 --> 00:15:42,830
+Okay.
+
+363
+00:15:42,830 --> 00:15:45,800
+While we're on that topic,
+let's talk about light
+
+364
+00:15:45,800 --> 00:15:48,040
+in other orifices of the body.
+
+365
+00:15:48,040 --> 00:15:51,070
+I made a kind of a joke about
+this, the last podcast episode
+
+366
+00:15:51,070 --> 00:15:52,840
+but a couple of people
+wrote to me and said,
+
+367
+00:15:52,840 --> 00:15:55,800
+well, I've seen some
+claims that light delivered
+
+368
+00:15:55,800 --> 00:15:59,050
+to the ears into the ears
+or the roof of the mouth
+
+369
+00:15:59,050 --> 00:16:00,770
+or up the nose can be beneficial
+
+370
+00:16:00,770 --> 00:16:05,463
+for some setting circadian rhythms, no.
+
+371
+00:16:06,370 --> 00:16:07,740
+Not directly anyway.
+
+372
+00:16:07,740 --> 00:16:10,120
+And this is a great opportunity
+for us to distinguish
+
+373
+00:16:10,120 --> 00:16:13,200
+between what is commonly
+called the placebo effect
+
+374
+00:16:13,200 --> 00:16:16,020
+but a more important way to
+think about any manipulation
+
+375
+00:16:16,020 --> 00:16:19,000
+behavioral or otherwise
+that you might do is
+
+376
+00:16:19,000 --> 00:16:22,210
+the difference between
+modulation and mediation.
+
+377
+00:16:22,210 --> 00:16:25,970
+There are a lot of things that
+will modulate your biology.
+
+378
+00:16:25,970 --> 00:16:27,830
+Putting a couple of lights up your nose,
+
+379
+00:16:27,830 --> 00:16:29,390
+please don't do this.
+
+380
+00:16:29,390 --> 00:16:32,080
+Might modulate your biology by way
+
+381
+00:16:32,080 --> 00:16:33,920
+of the stress hormone that's released
+
+382
+00:16:33,920 --> 00:16:35,860
+when you stuffed those
+things up your nose.
+
+383
+00:16:35,860 --> 00:16:38,760
+Remember earlier a previous
+podcast, I said that
+
+384
+00:16:38,760 --> 00:16:41,220
+virtually anything we'll face
+shifts your circadian rhythm
+
+385
+00:16:41,220 --> 00:16:43,300
+if it's different and dramatic enough.
+
+386
+00:16:43,300 --> 00:16:47,000
+So the question is, is
+it the light delivered
+
+387
+00:16:47,000 --> 00:16:48,920
+up the nose or through the ears
+
+388
+00:16:48,920 --> 00:16:51,880
+or some other orifice that's
+mediating the process?
+
+389
+00:16:51,880 --> 00:16:54,900
+Is it actually tapping
+into the natural biology
+
+390
+00:16:54,900 --> 00:16:57,710
+of the system that you're
+trying to manipulate?
+
+391
+00:16:57,710 --> 00:16:58,960
+And this is where I like to distinguish
+
+392
+00:16:58,960 --> 00:17:01,240
+between real biology and hacks.
+
+393
+00:17:01,240 --> 00:17:02,950
+I don't like the word hack
+
+394
+00:17:02,950 --> 00:17:05,450
+or frankly neuro hacking or bio hacking.
+
+395
+00:17:05,450 --> 00:17:08,460
+I just don't like the
+term because a hack is
+
+396
+00:17:08,460 --> 00:17:10,810
+is using something for a purpose
+
+397
+00:17:10,810 --> 00:17:13,079
+for which it was not intended, right?
+
+398
+00:17:13,079 --> 00:17:15,439
+But where you can kind
+of, it's kind of a cheat
+
+399
+00:17:15,440 --> 00:17:17,680
+and that's not how biology works well.
+
+400
+00:17:17,680 --> 00:17:18,930
+So I try and distinguish
+
+401
+00:17:18,930 --> 00:17:21,619
+between things that really
+mediate biological processes
+
+402
+00:17:21,619 --> 00:17:23,549
+and things that Modulate them.
+
+403
+00:17:23,550 --> 00:17:26,530
+There are a number of
+commercial products out there
+
+404
+00:17:26,530 --> 00:17:28,050
+with some studies attached to them,
+
+405
+00:17:28,050 --> 00:17:31,020
+claiming that light delivered
+to the ears or wherever can
+
+406
+00:17:32,200 --> 00:17:34,800
+adjust your wakefulness
+or adjust your sleep.
+
+407
+00:17:34,800 --> 00:17:36,840
+I've looked at those papers again,
+
+408
+00:17:36,840 --> 00:17:38,470
+I'm probably going to lose
+some friends by saying this
+
+409
+00:17:38,470 --> 00:17:40,410
+but maybe I'll gain a few as well.
+
+410
+00:17:40,410 --> 00:17:43,410
+Not blue ribbon journals, frankly,
+
+411
+00:17:43,410 --> 00:17:45,550
+oftentimes read the small print.
+
+412
+00:17:45,550 --> 00:17:47,360
+There was a conflict of
+interest clause there
+
+413
+00:17:47,360 --> 00:17:49,180
+related to commercial interests.
+
+414
+00:17:49,180 --> 00:17:52,050
+If somebody disagrees
+with me outright on this
+
+415
+00:17:52,050 --> 00:17:55,390
+and can send to me a peer reviewed paper,
+
+416
+00:17:55,390 --> 00:17:56,750
+published in a quality journal
+
+417
+00:17:56,750 --> 00:18:00,250
+about light delivered anywhere,
+but the eyes of humans
+
+418
+00:18:00,250 --> 00:18:03,730
+that can mediate circadian,
+rhythms, wakefulness et cetera,
+
+419
+00:18:03,730 --> 00:18:05,450
+I'm more than happy to take a look at that
+
+420
+00:18:05,450 --> 00:18:08,610
+and change my words and stance on this
+
+421
+00:18:08,610 --> 00:18:10,470
+and do it publicly, of course.
+
+422
+00:18:10,470 --> 00:18:13,670
+But until then I'm guessing that
+
+423
+00:18:13,670 --> 00:18:15,820
+the proper controls were not done
+
+424
+00:18:15,820 --> 00:18:18,300
+of adjusting for heat
+that could be delivered
+
+425
+00:18:18,300 --> 00:18:19,860
+which can definitely
+shift circadian rhythms.
+
+426
+00:18:19,860 --> 00:18:21,000
+We're going to talk about temperature
+
+427
+00:18:21,000 --> 00:18:22,200
+and other things like that.
+
+428
+00:18:22,200 --> 00:18:26,620
+So light to the eyes folks is
+where these light effects work
+
+429
+00:18:26,620 --> 00:18:28,050
+in humans, in other animals,
+
+430
+00:18:28,050 --> 00:18:30,773
+they have extra ocular photo
+reception in humans, no.
+
+431
+00:18:32,130 --> 00:18:33,930
+And just be mindful, I mean,
+
+432
+00:18:33,930 --> 00:18:34,910
+I'm not trying to encourage people
+
+433
+00:18:34,910 --> 00:18:37,260
+to avoid certain products in particular
+
+434
+00:18:37,260 --> 00:18:38,900
+but just be mindful of this difference
+
+435
+00:18:38,900 --> 00:18:41,570
+between modulation and mediation.
+
+436
+00:18:41,570 --> 00:18:46,470
+A mediating, a process
+through a hard wired
+
+437
+00:18:46,470 --> 00:18:48,860
+or long-standing biological
+mechanism is really
+
+438
+00:18:48,860 --> 00:18:51,240
+where you're going to see the
+powerful effects over time.
+
+439
+00:18:51,240 --> 00:18:53,550
+I also, as you've probably noticed,
+
+440
+00:18:53,550 --> 00:18:56,010
+I really tend to favor behavioral tools
+
+441
+00:18:56,010 --> 00:18:57,760
+and zero cost tools first,
+
+442
+00:18:57,760 --> 00:19:00,010
+and getting those dialed
+in before you start,
+
+443
+00:19:00,890 --> 00:19:04,240
+plugging in and swallowing
+and putting things
+
+444
+00:19:04,240 --> 00:19:07,140
+in various places just
+to really figure out
+
+445
+00:19:07,140 --> 00:19:09,210
+how your biology works and explore that,
+
+446
+00:19:09,210 --> 00:19:10,730
+unless there's of course a clinical need
+
+447
+00:19:10,730 --> 00:19:13,120
+to take a prescribed drug in which case,
+
+448
+00:19:13,120 --> 00:19:15,230
+by all means, listen to your doctor.
+
+449
+00:19:15,230 --> 00:19:19,490
+Okay, a huge number of
+people asked me about
+
+450
+00:19:19,490 --> 00:19:21,720
+what about light through windows?
+
+451
+00:19:21,720 --> 00:19:24,693
+And I actually did an
+Instagram post about this look,
+
+452
+00:19:27,010 --> 00:19:29,640
+setting your circadian clock with sunlight
+
+453
+00:19:29,640 --> 00:19:31,277
+coming through a window
+is going to take 50
+
+454
+00:19:31,277 --> 00:19:32,750
+to 100 times longer.
+
+455
+00:19:32,750 --> 00:19:36,000
+If you want the date on that,
+I'd be happy to send you
+
+456
+00:19:36,000 --> 00:19:37,720
+to the various papers that were described
+
+457
+00:19:37,720 --> 00:19:41,140
+in the previous podcast that
+Jamie Zeitzer from Stanford.
+
+458
+00:19:41,140 --> 00:19:43,280
+And I have discussed also elsewhere
+
+459
+00:19:43,280 --> 00:19:45,630
+but here's really the key thing with us.
+
+460
+00:19:45,630 --> 00:19:46,650
+Do the experiment.
+
+461
+00:19:46,650 --> 00:19:49,220
+You can download the free app Light Meter.
+
+462
+00:19:49,220 --> 00:19:50,950
+You can have a bright day outside
+
+463
+00:19:50,950 --> 00:19:53,470
+or some sunlight hold up
+that app, take a picture.
+
+464
+00:19:53,470 --> 00:19:56,050
+It'll tell you how many lux
+now, you know what lux are.
+
+465
+00:19:56,050 --> 00:19:58,160
+It will tell you how many
+lux are in that environment.
+
+466
+00:19:58,160 --> 00:19:59,620
+Now close the window.
+
+467
+00:19:59,620 --> 00:20:01,640
+And if you want close the
+screen or don't open the screen
+
+468
+00:20:01,640 --> 00:20:02,720
+you can do all sorts of experiments.
+
+469
+00:20:02,720 --> 00:20:06,410
+You'll see that it will at
+least half the amount of lux.
+
+470
+00:20:06,410 --> 00:20:08,820
+And it doesn't scale linearly.
+
+471
+00:20:08,820 --> 00:20:13,340
+Meaning let's say I get
+a 10,000 lux outside,
+
+472
+00:20:13,340 --> 00:20:15,450
+5,000 looking out through an open window
+
+473
+00:20:15,450 --> 00:20:18,290
+and then I closed the
+window and it's 2,500 lux.
+
+474
+00:20:18,290 --> 00:20:20,870
+It does not mean that you just
+need to view that sunlight
+
+475
+00:20:20,870 --> 00:20:25,253
+for twice as long if it's
+half as many lux, okay?
+
+476
+00:20:25,253 --> 00:20:29,010
+It's not like 2,500 lux
+means you need to look
+
+477
+00:20:29,010 --> 00:20:29,843
+for 10 minutes
+
+478
+00:20:29,843 --> 00:20:33,090
+and 5,000 lux means you
+look for five minutes.
+
+479
+00:20:33,090 --> 00:20:34,690
+It doesn't scale that way
+
+480
+00:20:34,690 --> 00:20:37,030
+just because the biology
+doesn't work that way.
+
+481
+00:20:37,030 --> 00:20:39,490
+Best thing to do is to
+get outside, if you can,
+
+482
+00:20:39,490 --> 00:20:40,990
+if you can't next best thing to do
+
+483
+00:20:40,990 --> 00:20:42,600
+is to keep that window open.
+
+484
+00:20:42,600 --> 00:20:45,170
+It is perfectly fine to
+wear prescription lenses
+
+485
+00:20:45,170 --> 00:20:46,600
+and contacts.
+
+486
+00:20:46,600 --> 00:20:49,060
+Why is it okay to wear
+prescription lenses and contacts,
+
+487
+00:20:49,060 --> 00:20:50,880
+when those are glass also,
+
+488
+00:20:50,880 --> 00:20:54,900
+but looking through a window,
+diminishes the effect.
+
+489
+00:20:54,900 --> 00:20:56,590
+Well, we should think about this.
+
+490
+00:20:56,590 --> 00:20:58,830
+The lenses that you wear
+in front of your eyes
+
+491
+00:20:58,830 --> 00:21:00,280
+by prescription or on your eyes
+
+492
+00:21:00,280 --> 00:21:03,470
+are designed to focus the
+light on to your neural retina.
+
+493
+00:21:03,470 --> 00:21:06,770
+In fact, that's what near-sightedness
+is, is when the image
+
+494
+00:21:06,770 --> 00:21:09,160
+because your lens
+doesn't work quite right.
+
+495
+00:21:09,160 --> 00:21:11,350
+The image falls in front
+of the neural retina,
+
+496
+00:21:11,350 --> 00:21:14,080
+wearing a particular lens in front of that
+
+497
+00:21:14,080 --> 00:21:17,400
+focuses the lens onto your
+retina onto these very neurons.
+
+498
+00:21:17,400 --> 00:21:19,590
+So they can communicate that to the brain.
+
+499
+00:21:19,590 --> 00:21:21,870
+It's Costello is loving this light.
+
+500
+00:21:21,870 --> 00:21:23,010
+He's deep in sleep.
+
+501
+00:21:23,010 --> 00:21:25,100
+And if we, maybe we
+could play him some tones
+
+502
+00:21:25,100 --> 00:21:27,020
+and he'll remember it
+later, based on the studies,
+
+503
+00:21:27,020 --> 00:21:28,953
+we're going to talk about in a little bit.
+
+504
+00:21:30,140 --> 00:21:32,150
+I don't know how we'd know
+if he remembered it or not,
+
+505
+00:21:32,150 --> 00:21:35,380
+but prescription lenses are fine.
+
+506
+00:21:35,380 --> 00:21:36,940
+In fact, they're great for this reason
+
+507
+00:21:36,940 --> 00:21:39,980
+they're actually focusing
+the light onto the retina.
+
+508
+00:21:39,980 --> 00:21:41,980
+So think about this logically
+
+509
+00:21:41,980 --> 00:21:44,840
+and all of a sudden it makes
+perfect sense your glass window
+
+510
+00:21:44,840 --> 00:21:48,280
+or your windshield or the
+side window of your car,
+
+511
+00:21:48,280 --> 00:21:53,030
+it isn't optically
+perfect to bring the image
+
+512
+00:21:53,030 --> 00:21:54,570
+and the light onto your retina.
+
+513
+00:21:54,570 --> 00:21:56,220
+In fact, what it's
+doing is it's scattering
+
+514
+00:21:56,220 --> 00:21:57,680
+and filtering light in particular
+
+515
+00:21:57,680 --> 00:21:59,470
+the wavelengths of light that you want.
+
+516
+00:21:59,470 --> 00:22:02,910
+So, if you live in a low light environment
+
+517
+00:22:02,910 --> 00:22:04,090
+lots of questions about this.
+
+518
+00:22:04,090 --> 00:22:05,800
+We talked about this, the previous podcast
+
+519
+00:22:05,800 --> 00:22:09,420
+but just get outside for longer or,
+
+520
+00:22:09,420 --> 00:22:12,890
+and/or use really bright lights inside.
+
+521
+00:22:12,890 --> 00:22:14,420
+Okay, so let's think about
+
+522
+00:22:14,420 --> 00:22:17,140
+why I'm making some of
+these recommendations
+
+523
+00:22:17,140 --> 00:22:20,540
+because I think it can really empower you
+
+524
+00:22:20,540 --> 00:22:23,840
+with the ability to change your behavior
+
+525
+00:22:23,840 --> 00:22:26,530
+in terms of light
+viewing and other things,
+
+526
+00:22:26,530 --> 00:22:28,260
+depending on time of year,
+
+527
+00:22:28,260 --> 00:22:32,050
+depending on other lifestyle factors.
+
+528
+00:22:32,050 --> 00:22:34,960
+The important point to understand
+is that early in the day,
+
+529
+00:22:34,960 --> 00:22:36,830
+your central circadian clocks
+
+530
+00:22:36,830 --> 00:22:40,240
+and all these mechanisms are
+looking for a lot of light.
+
+531
+00:22:40,240 --> 00:22:41,570
+I mean, they don't have
+a mind of their own,
+
+532
+00:22:41,570 --> 00:22:45,030
+but it needs a lot of light to
+trigger this daytime signal,
+
+533
+00:22:45,030 --> 00:22:46,263
+alertness et cetera.
+
+534
+00:22:47,480 --> 00:22:51,270
+And early in the day, but
+not in the middle of the day,
+
+535
+00:22:51,270 --> 00:22:53,950
+you can sum or add photons.
+
+536
+00:22:53,950 --> 00:22:56,240
+So there's this brief period
+of time early in the day,
+
+537
+00:22:56,240 --> 00:22:58,270
+when the sun is low in the sky
+
+538
+00:22:58,270 --> 00:23:00,500
+when your brain and body are expecting
+
+539
+00:23:00,500 --> 00:23:02,330
+a morning wake up signal
+
+540
+00:23:02,330 --> 00:23:04,570
+where let's say, it's
+not that bright outside.
+
+541
+00:23:04,570 --> 00:23:07,820
+Someone sent me a picture or
+a little movie of their walk
+
+542
+00:23:07,820 --> 00:23:10,010
+in England, and it was pretty overcast
+
+543
+00:23:10,010 --> 00:23:11,410
+and they were using
+light meter and they said
+
+544
+00:23:11,410 --> 00:23:15,090
+it's only about 700
+lux or maybe even less.
+
+545
+00:23:15,090 --> 00:23:17,610
+And I said, well, stay outside longer.
+
+546
+00:23:17,610 --> 00:23:20,200
+But when you get inside, turn
+on the lights really bright
+
+547
+00:23:20,200 --> 00:23:21,960
+and overhead lights in particular,
+
+548
+00:23:21,960 --> 00:23:25,780
+because those will be best for
+stimulating these mechanisms.
+
+549
+00:23:25,780 --> 00:23:27,110
+And that's because at least
+
+550
+00:23:27,110 --> 00:23:28,560
+for the first few hours of the day,
+
+551
+00:23:28,560 --> 00:23:32,840
+you can continue to some
+or add photon activation
+
+552
+00:23:32,840 --> 00:23:35,370
+of the cells in the eye and the brain.
+
+553
+00:23:35,370 --> 00:23:37,700
+In the middle of the day, once
+the sun is overhead, or even
+
+554
+00:23:37,700 --> 00:23:40,340
+if you stay inside all morning,
+
+555
+00:23:40,340 --> 00:23:43,040
+and then you're in the
+circadian dead zone,
+
+556
+00:23:43,040 --> 00:23:45,470
+which sounds terrible and it is terrible.
+
+557
+00:23:45,470 --> 00:23:48,280
+You doesn't matter if you
+get a ton of artificial light
+
+558
+00:23:48,280 --> 00:23:50,160
+or even sunlight,
+
+559
+00:23:50,160 --> 00:23:51,570
+you're not going to shift
+your circadian clock.
+
+560
+00:23:51,570 --> 00:23:53,990
+You're not going to get
+that wake up signal.
+
+561
+00:23:53,990 --> 00:23:56,790
+And then in the evening,
+you want to think about
+
+562
+00:23:56,790 --> 00:23:58,480
+this whole system as being vulnerable
+
+563
+00:23:58,480 --> 00:24:01,450
+to even a few photons of light
+because of their sensitivity
+
+564
+00:24:01,450 --> 00:24:03,210
+to light really goes up at night.
+
+565
+00:24:03,210 --> 00:24:05,530
+And I talked last time
+about how you can protect
+
+566
+00:24:05,530 --> 00:24:10,220
+against that sensitivity by
+looking at the setting sun
+
+567
+00:24:10,220 --> 00:24:12,250
+and watching the evening sun,
+
+568
+00:24:12,250 --> 00:24:13,870
+even if it's not crossing the horizon
+
+569
+00:24:13,870 --> 00:24:15,350
+around the time of sunset.
+
+570
+00:24:15,350 --> 00:24:17,960
+And that's because it adjusts
+your retinal sensitivity
+
+571
+00:24:17,960 --> 00:24:19,160
+and your melatonin pathway
+
+572
+00:24:19,160 --> 00:24:22,780
+so that light is not as
+detrimental to melatonin at night.
+
+573
+00:24:22,780 --> 00:24:26,800
+Think about the afternoon
+sunlight viewing as kind of a,
+
+574
+00:24:26,800 --> 00:24:29,400
+I think of it as kind of
+a Netflix inoculation.
+
+575
+00:24:29,400 --> 00:24:30,760
+It allows me to watch a little bit
+
+576
+00:24:30,760 --> 00:24:33,210
+of Netflix in the evening,
+although it's very
+
+577
+00:24:33,210 --> 00:24:35,310
+hard to watch a little bit
+of anything on Netflix.
+
+578
+00:24:35,310 --> 00:24:37,960
+It seems like there's some
+other neuro-biological process
+
+579
+00:24:37,960 --> 00:24:40,040
+that going on there where I have to watch
+
+580
+00:24:40,040 --> 00:24:42,420
+episode after episode after episode.
+
+581
+00:24:42,420 --> 00:24:45,730
+But in any case, you can protect yourself
+
+582
+00:24:45,730 --> 00:24:49,440
+against some of that bad
+effect of light at night
+
+583
+00:24:49,440 --> 00:24:50,730
+by looking at light in the evening.
+
+584
+00:24:50,730 --> 00:24:54,160
+It really does adjust down
+the sensitivity of the system.
+
+585
+00:24:54,160 --> 00:24:55,080
+Okay.
+
+586
+00:24:55,080 --> 00:24:57,540
+I want to talk about seasonal changes
+
+587
+00:24:57,540 --> 00:25:01,870
+in all these things as they
+relate to mood and metabolism.
+
+588
+00:25:01,870 --> 00:25:03,750
+So depending on where
+you are in the world,
+
+589
+00:25:03,750 --> 00:25:05,340
+Northern hemisphere, Southern hemisphere
+
+590
+00:25:05,340 --> 00:25:07,350
+at the equator or closer to the poles,
+
+591
+00:25:07,350 --> 00:25:10,720
+the days and nights are going
+to be different lengths.
+
+592
+00:25:10,720 --> 00:25:12,140
+That just makes sense.
+
+593
+00:25:12,140 --> 00:25:14,680
+But that translates to
+real biological signals
+
+594
+00:25:14,680 --> 00:25:18,370
+that impact everything from
+wakefulness and sleep times
+
+595
+00:25:18,370 --> 00:25:21,060
+but also mood and metabolism.
+
+596
+00:25:21,060 --> 00:25:22,740
+So here's how this works.
+
+597
+00:25:22,740 --> 00:25:25,970
+Now, after seeing the previous
+episode of the podcast
+
+598
+00:25:25,970 --> 00:25:29,620
+and paying attention here, you are armed
+
+599
+00:25:29,620 --> 00:25:32,710
+with the knowledge to
+really understand how it is
+
+600
+00:25:32,710 --> 00:25:36,350
+that believe it or not, every
+cell in your body is tuned
+
+601
+00:25:36,350 --> 00:25:39,840
+to the movement of the
+planet relative to the sun.
+
+602
+00:25:39,840 --> 00:25:41,360
+So as all of you know,
+
+603
+00:25:41,360 --> 00:25:45,110
+the earth spins once every
+24 hours on its axis.
+
+604
+00:25:45,110 --> 00:25:47,070
+So part of that day
+were bathed in sunlight
+
+605
+00:25:47,070 --> 00:25:48,860
+depending on where we are
+the other half of the day
+
+606
+00:25:48,860 --> 00:25:50,850
+or part of the day we're in darkness.
+
+607
+00:25:50,850 --> 00:25:55,360
+The earth also travels
+around the sun 365 days
+
+608
+00:25:55,360 --> 00:25:57,410
+is the time that it takes, one year,
+
+609
+00:25:57,410 --> 00:25:58,893
+to travel around that sun.
+
+610
+00:26:00,500 --> 00:26:02,080
+The earth is tilted.
+
+611
+00:26:02,080 --> 00:26:05,160
+It's not perfectly upright.
+
+612
+00:26:05,160 --> 00:26:08,220
+So the earth is tilted on its axis.
+
+613
+00:26:08,220 --> 00:26:11,790
+So depending on where we
+are in that 365 day journey
+
+614
+00:26:11,790 --> 00:26:13,650
+and depending on where we
+are in terms of hemisphere,
+
+615
+00:26:13,650 --> 00:26:15,770
+Northern hemisphere, Southern hemisphere,
+
+616
+00:26:15,770 --> 00:26:19,240
+some days of the year
+are longer than others.
+
+617
+00:26:19,240 --> 00:26:21,150
+Some are very short, some are very long.
+
+618
+00:26:21,150 --> 00:26:23,050
+If you're at the, at the equator
+
+619
+00:26:23,050 --> 00:26:24,590
+you experience less variation
+
+620
+00:26:24,590 --> 00:26:26,150
+in day length and therefore nightlife.
+
+621
+00:26:26,150 --> 00:26:27,930
+And if you're closer to the poles,
+
+622
+00:26:27,930 --> 00:26:30,760
+you're going to experience
+some very long days.
+
+623
+00:26:30,760 --> 00:26:33,410
+And you're also going to
+experience some very short days
+
+624
+00:26:33,410 --> 00:26:34,900
+depending on which poll you're at
+
+625
+00:26:34,900 --> 00:26:36,570
+and what time of year it is.
+
+626
+00:26:36,570 --> 00:26:38,900
+The simple way to put this
+as depending on time of year
+
+627
+00:26:38,900 --> 00:26:41,220
+the days are either getting
+shorter or getting longer.
+
+628
+00:26:41,220 --> 00:26:45,380
+Now, every cell in your
+body adjusts its biology
+
+629
+00:26:45,380 --> 00:26:50,380
+according to day length, except
+your brain, body and cells
+
+630
+00:26:51,160 --> 00:26:53,810
+don't actually know
+anything about day length.
+
+631
+00:26:53,810 --> 00:26:55,980
+It only knows night length.
+
+632
+00:26:55,980 --> 00:26:57,240
+And here's how it works.
+
+633
+00:26:57,240 --> 00:26:59,963
+Light inhibits melatonin powerfully.
+
+634
+00:27:01,430 --> 00:27:04,750
+If days are long and getting longer,
+
+635
+00:27:04,750 --> 00:27:08,200
+that means melatonin is reduced.
+
+636
+00:27:08,200 --> 00:27:11,500
+The total amount of melatonin is less
+
+637
+00:27:11,500 --> 00:27:16,130
+because light is more,
+therefore melatonin is less.
+
+638
+00:27:16,130 --> 00:27:18,440
+If days are getting shorter,
+
+639
+00:27:18,440 --> 00:27:21,510
+light can't inhibit melatonin as much,
+
+640
+00:27:21,510 --> 00:27:23,310
+through the summing of photon mechanisms
+
+641
+00:27:23,310 --> 00:27:24,980
+that we talked about before,
+
+642
+00:27:24,980 --> 00:27:28,840
+and that melatonin
+signal is getting longer.
+
+643
+00:27:28,840 --> 00:27:31,300
+So every cell in your body actually knows
+
+644
+00:27:31,300 --> 00:27:34,760
+external day length and
+therefore time of year
+
+645
+00:27:34,760 --> 00:27:37,870
+by way of the duration
+of the melatonin signal.
+
+646
+00:27:37,870 --> 00:27:41,710
+And in general, it's fair to
+say that in diurnal animals,
+
+647
+00:27:41,710 --> 00:27:43,870
+meaning animals like us
+that tend to be awake
+
+648
+00:27:43,870 --> 00:27:46,430
+during the daytime and
+not nocturnal animals,
+
+649
+00:27:46,430 --> 00:27:48,053
+which tend to be awake at night.
+
+650
+00:27:49,260 --> 00:27:52,700
+The longer the melatonin
+signal, the more depressed
+
+651
+00:27:52,700 --> 00:27:54,760
+not necessarily clinically depressed,
+
+652
+00:27:54,760 --> 00:27:55,770
+although that can happen
+
+653
+00:27:55,770 --> 00:27:58,173
+but the more depressed
+our systems tend to be.
+
+654
+00:27:59,300 --> 00:28:04,300
+Reproduction, metabolism, mood,
+turnover rates of skin cells
+
+655
+00:28:06,350 --> 00:28:08,890
+and hair cells all tend to be diminished
+
+656
+00:28:08,890 --> 00:28:13,210
+compared to the spring and summer months
+
+657
+00:28:13,210 --> 00:28:15,600
+for some Northern hemisphere,
+spring and summer months,
+
+658
+00:28:15,600 --> 00:28:17,910
+or the times in which days are very long.
+
+659
+00:28:17,910 --> 00:28:19,700
+And there's less melatonin that tends to,
+
+660
+00:28:19,700 --> 00:28:23,900
+in almost all animals,
+including humans, more breeding,
+
+661
+00:28:23,900 --> 00:28:26,610
+more hormone elevation of the hormones
+
+662
+00:28:26,610 --> 00:28:28,372
+that stimulate breeding reproduction
+
+663
+00:28:28,372 --> 00:28:33,372
+and fertility metabolism
+is up, lipid metabolism
+
+664
+00:28:35,020 --> 00:28:38,140
+fat-burning is up,
+protein synthesis is up.
+
+665
+00:28:38,140 --> 00:28:40,830
+These things tend to
+correlate with the seasons.
+
+666
+00:28:40,830 --> 00:28:43,050
+Now, some people are very, very
+
+667
+00:28:43,050 --> 00:28:44,330
+strongly tied to the seasons.
+
+668
+00:28:44,330 --> 00:28:47,280
+They get depressed,
+clinically depressed in winter
+
+669
+00:28:47,280 --> 00:28:51,570
+and light therapies are very
+useful for those people.
+
+670
+00:28:51,570 --> 00:28:53,960
+Some people love the winter
+and they're happiest in winter
+
+671
+00:28:53,960 --> 00:28:55,470
+and they feel kind of depressed in summer.
+
+672
+00:28:55,470 --> 00:28:57,650
+Although that is far more rare.
+
+673
+00:28:57,650 --> 00:28:59,880
+That doesn't mean depression
+cannot exist in the summer,
+
+674
+00:28:59,880 --> 00:29:02,680
+but when we're talking
+about seasonal depression
+
+675
+00:29:02,680 --> 00:29:04,080
+that tends to be true.
+
+676
+00:29:04,080 --> 00:29:06,203
+It's more depression in winter.
+
+677
+00:29:07,500 --> 00:29:09,900
+Now there's other things that
+correlate with seasonality.
+
+678
+00:29:09,900 --> 00:29:12,640
+Suicide rates tend to
+be highest in the spring
+
+679
+00:29:12,640 --> 00:29:13,980
+not in the winter,
+
+680
+00:29:13,980 --> 00:29:16,800
+but that has to do with some of the more
+
+681
+00:29:16,800 --> 00:29:20,150
+complicated and unfortunately
+tragic aspects of suicide
+
+682
+00:29:20,150 --> 00:29:22,910
+which is that oftentimes
+people will commit suicide
+
+683
+00:29:22,910 --> 00:29:26,420
+not at the very depths
+of their energy levels,
+
+684
+00:29:26,420 --> 00:29:29,720
+but as they're emerging from
+those depths of low energy.
+
+685
+00:29:29,720 --> 00:29:32,660
+So we'll talk about
+suicidality and mood disorders
+
+686
+00:29:32,660 --> 00:29:36,040
+in a later podcast season,
+meaning a month later.
+
+687
+00:29:36,040 --> 00:29:39,800
+But for now, just understand that
+
+688
+00:29:39,800 --> 00:29:41,850
+everybody is going through
+these natural fluctuations
+
+689
+00:29:41,850 --> 00:29:44,840
+depending on the duration
+of the melatonin signal.
+
+690
+00:29:44,840 --> 00:29:47,110
+Now this might lead you to say, "Well,
+
+691
+00:29:47,110 --> 00:29:49,160
+then I should just really
+get as much light as I can
+
+692
+00:29:49,160 --> 00:29:51,830
+all the time and reduce melatonin
+feel great all the time."
+
+693
+00:29:51,830 --> 00:29:53,050
+Unfortunately, doesn't work that way
+
+694
+00:29:53,050 --> 00:29:56,370
+because melatonin also
+has important effects
+
+695
+00:29:56,370 --> 00:29:57,883
+on the immune system.
+
+696
+00:29:58,760 --> 00:30:00,640
+It has important effects
+
+697
+00:30:00,640 --> 00:30:03,900
+on transmitter systems
+in the brain, et cetera.
+
+698
+00:30:03,900 --> 00:30:06,860
+So everybody needs to
+figure out for themselves
+
+699
+00:30:06,860 --> 00:30:09,970
+how much light they need early in the day
+
+700
+00:30:09,970 --> 00:30:12,250
+and how much light they need to avoid
+
+701
+00:30:12,250 --> 00:30:13,160
+late in the day,
+
+702
+00:30:13,160 --> 00:30:15,650
+in order to optimize
+their mood and metabolism.
+
+703
+00:30:15,650 --> 00:30:18,560
+There is no one size fits all prescription
+
+704
+00:30:18,560 --> 00:30:21,180
+because there's a range
+of melatonin receptors,
+
+705
+00:30:21,180 --> 00:30:25,480
+there are a range of
+everything from metabolic types
+
+706
+00:30:25,480 --> 00:30:29,410
+to genetic histories,
+family histories, et cetera.
+
+707
+00:30:29,410 --> 00:30:31,730
+There is no one size fits all prescription
+
+708
+00:30:31,730 --> 00:30:35,040
+but by understanding that
+light and extended day length
+
+709
+00:30:35,040 --> 00:30:37,650
+inhibit melatonin and melatonin tends
+
+710
+00:30:37,650 --> 00:30:39,360
+to be associated with a more depressed
+
+711
+00:30:39,360 --> 00:30:43,400
+or reduced functioning of
+these kinds of activity driving
+
+712
+00:30:43,400 --> 00:30:45,500
+and mood elevating signals,
+
+713
+00:30:45,500 --> 00:30:48,010
+and understanding that
+you have some control
+
+714
+00:30:48,010 --> 00:30:50,930
+over melatonin by way of
+light, including sunlight
+
+715
+00:30:50,930 --> 00:30:53,460
+but also artificial light,
+and that should empower you
+
+716
+00:30:53,460 --> 00:30:55,290
+I believe, to make the adjustments
+
+717
+00:30:55,290 --> 00:30:58,960
+that if you're feeling low you might ask,
+
+718
+00:30:58,960 --> 00:30:59,960
+how much light am I getting?
+
+719
+00:30:59,960 --> 00:31:01,580
+What am I getting that light?
+
+720
+00:31:01,580 --> 00:31:04,930
+Because sleep is also important
+for restoring mood, right?
+
+721
+00:31:04,930 --> 00:31:05,770
+So you need sleep.
+
+722
+00:31:05,770 --> 00:31:09,910
+You can't just, just crush
+melatonin across the board
+
+723
+00:31:09,910 --> 00:31:11,270
+and expect to feel good because
+
+724
+00:31:11,270 --> 00:31:14,010
+then you're not going to
+fall asleep and stay asleep.
+
+725
+00:31:14,010 --> 00:31:17,920
+Melatonin, not incidentally comes from,
+
+726
+00:31:17,920 --> 00:31:20,680
+is synthesized from serotonin.
+
+727
+00:31:20,680 --> 00:31:23,770
+Serotonin is a neurotransmitter
+that is associated
+
+728
+00:31:23,770 --> 00:31:27,470
+with feelings of well-being
+provided to proper levels,
+
+729
+00:31:27,470 --> 00:31:29,440
+but well-being of a particular kind.
+
+730
+00:31:29,440 --> 00:31:33,390
+Well-being associated
+with quiescence and calm
+
+731
+00:31:33,390 --> 00:31:35,840
+and the feeling that we
+have enough resources
+
+732
+00:31:35,840 --> 00:31:38,110
+in our immediate kind of conditions.
+
+733
+00:31:38,110 --> 00:31:40,150
+Is the kind of thing that
+comes from a good meal
+
+734
+00:31:40,150 --> 00:31:43,220
+or sitting down with friends
+or holding a loved one,
+
+735
+00:31:43,220 --> 00:31:47,740
+or conversing with somebody
+that you really bond with.
+
+736
+00:31:47,740 --> 00:31:50,730
+Serotonin does not stimulate action.
+
+737
+00:31:50,730 --> 00:31:53,630
+It tends to stimulate stillness.
+
+738
+00:31:53,630 --> 00:31:56,300
+Very different than the
+neuromodulator dopamine
+
+739
+00:31:56,300 --> 00:31:59,170
+which is a reward feel good neuromodulator
+
+740
+00:31:59,170 --> 00:32:00,730
+that stimulates action.
+
+741
+00:32:00,730 --> 00:32:05,040
+And actually dopamine is the cursor
+
+742
+00:32:05,040 --> 00:32:06,570
+to epinephrin, to adrenaline
+
+743
+00:32:06,570 --> 00:32:08,130
+which actually puts us into action.
+
+744
+00:32:08,130 --> 00:32:11,460
+There it's actually made
+from dopamine, right?
+
+745
+00:32:11,460 --> 00:32:14,260
+So, you can start to think how about light
+
+746
+00:32:14,260 --> 00:32:16,470
+as a signal that is very powerful
+
+747
+00:32:16,470 --> 00:32:18,660
+for modulating things
+like sleep and wakefulness
+
+748
+00:32:18,660 --> 00:32:22,530
+but also serotonin
+levels, melatonin levels.
+
+749
+00:32:22,530 --> 00:32:24,270
+And I talked about this previously
+
+750
+00:32:24,270 --> 00:32:25,200
+but I'll mention once more,
+
+751
+00:32:25,200 --> 00:32:26,210
+that light in the middle of the night
+
+752
+00:32:26,210 --> 00:32:28,570
+reduces dopamine levels to the point where
+
+753
+00:32:28,570 --> 00:32:30,510
+it can start causing problems
+
+754
+00:32:30,510 --> 00:32:32,680
+with learning and memory and mood.
+
+755
+00:32:32,680 --> 00:32:35,760
+That's one powerful reason
+to void bright light
+
+756
+00:32:35,760 --> 00:32:37,308
+in the middle of the night.
+
+757
+00:32:37,308 --> 00:32:38,950
+Okay.
+
+758
+00:32:38,950 --> 00:32:41,410
+Seasonal rhythms have a number of effects
+
+759
+00:32:41,410 --> 00:32:44,460
+but humans are not
+purely seasonal breeders.
+
+760
+00:32:44,460 --> 00:32:47,950
+Unlike a lot of animals,
+we breed all year long.
+
+761
+00:32:47,950 --> 00:32:52,390
+In fact, there's a preponderance
+of September babies
+
+762
+00:32:52,390 --> 00:32:54,050
+in my life, not actual babies,
+
+763
+00:32:54,050 --> 00:32:55,220
+because they're born in September
+
+764
+00:32:55,220 --> 00:32:58,170
+which means that they were
+conceived in December,
+
+765
+00:32:58,170 --> 00:33:01,143
+without knowing the details
+we can fairly assume that.
+
+766
+00:33:02,070 --> 00:33:04,470
+And December, at least in
+the Northern hemisphere
+
+767
+00:33:04,470 --> 00:33:08,490
+at days tend to be shorter
+and nights tend to be longer.
+
+768
+00:33:08,490 --> 00:33:10,890
+So clearly humans aren't seasonal breeders
+
+769
+00:33:10,890 --> 00:33:14,200
+but there are shifts in
+breeding and fertility
+
+770
+00:33:14,200 --> 00:33:15,240
+that exist in humans,
+
+771
+00:33:15,240 --> 00:33:17,700
+but also much more
+strongly in other animals.
+
+772
+00:33:17,700 --> 00:33:19,290
+So seasonal effects vary.
+
+773
+00:33:19,290 --> 00:33:21,360
+Some of you will experience
+very strong seasonal effects
+
+774
+00:33:21,360 --> 00:33:23,020
+others of you will not.
+
+775
+00:33:23,020 --> 00:33:26,110
+I think everybody should be taking care to
+
+776
+00:33:26,110 --> 00:33:29,050
+get adequate sunlight and to
+avoid bright light at night
+
+777
+00:33:29,050 --> 00:33:31,063
+throughout the year if possible.
+
+778
+00:33:32,750 --> 00:33:34,960
+Throughout this podcast
+and in previous episodes,
+
+779
+00:33:34,960 --> 00:33:36,830
+I've been mentioning neuromodulators,
+
+780
+00:33:36,830 --> 00:33:39,330
+things like serotonin and dopamine
+
+781
+00:33:39,330 --> 00:33:42,370
+which tend to buy a certain brain circuits
+
+782
+00:33:42,370 --> 00:33:45,030
+and things in our body to
+happen in certain brain circuits
+
+783
+00:33:45,030 --> 00:33:47,340
+and things in our body not to happen.
+
+784
+00:33:47,340 --> 00:33:50,000
+One of the ones I've mentioned
+numerous times is epinephrin
+
+785
+00:33:50,000 --> 00:33:53,030
+which is a neuromodulator that
+tends to put us into action,
+
+786
+00:33:53,030 --> 00:33:54,540
+make us want to move.
+
+787
+00:33:54,540 --> 00:33:56,617
+In fact, when it's released
+in high amounts in our brain
+
+788
+00:33:56,617 --> 00:33:59,240
+and body, it can lead
+to what we call stress
+
+789
+00:33:59,240 --> 00:34:00,933
+or the feeling of being stressed.
+
+790
+00:34:01,850 --> 00:34:03,590
+Several people ask me,
+what's the difference
+
+791
+00:34:03,590 --> 00:34:06,360
+between epinephrin and adrenaline.
+
+792
+00:34:06,360 --> 00:34:08,960
+Adrenaline is secreted
+from the adrenal glands
+
+793
+00:34:08,960 --> 00:34:10,920
+which sit right above our kidneys.
+
+794
+00:34:10,920 --> 00:34:14,139
+Epinephrin is the exact same molecule
+
+795
+00:34:14,139 --> 00:34:16,519
+except that it's released
+within the brain.
+
+796
+00:34:16,520 --> 00:34:19,219
+And so people use these
+phrases or these words
+
+797
+00:34:19,219 --> 00:34:22,909
+rather interchangeably, epi means near
+
+798
+00:34:22,909 --> 00:34:26,259
+or on top of sometimes and neph, neph
+
+799
+00:34:26,260 --> 00:34:29,219
+Anytime you see nephron
+or ph it means kidney.
+
+800
+00:34:29,219 --> 00:34:30,299
+So it means near the kidney.
+
+801
+00:34:30,300 --> 00:34:32,310
+So epinephrin actually
+means near the kidney.
+
+802
+00:34:32,310 --> 00:34:35,639
+So it was used originally
+to describe adrenaline,
+
+803
+00:34:35,639 --> 00:34:38,429
+but epinephrin and adrenaline
+are basically the same thing
+
+804
+00:34:38,429 --> 00:34:42,539
+and they tend to stimulate
+agitation and the desire to move.
+
+805
+00:34:42,540 --> 00:34:44,540
+That's what that's about.
+
+806
+00:34:44,540 --> 00:34:47,590
+Which brings us to the topic of exercise.
+
+807
+00:34:47,590 --> 00:34:49,969
+Got a lot of questions about exercise.
+
+808
+00:34:49,969 --> 00:34:53,609
+What forms of exercise are
+best for sleeping well?
+
+809
+00:34:53,610 --> 00:34:55,573
+When should I exercise et cetera.
+
+810
+00:34:56,960 --> 00:34:59,790
+There's a lot of them individual
+variability around this,
+
+811
+00:34:59,790 --> 00:35:04,360
+but I can talk about what I
+know from the science literature
+
+812
+00:35:04,360 --> 00:35:06,223
+and what I happened to do myself.
+
+813
+00:35:07,270 --> 00:35:09,280
+There are basically two forms of exercise
+
+814
+00:35:09,280 --> 00:35:10,670
+that we can talk about although, of course
+
+815
+00:35:10,670 --> 00:35:13,210
+I realize there are many
+different forms of exercise.
+
+816
+00:35:13,210 --> 00:35:14,410
+There's much more nuance to this,
+
+817
+00:35:14,410 --> 00:35:16,630
+but we can talk about
+cardiovascular exercise,
+
+818
+00:35:16,630 --> 00:35:18,670
+where the idea is to repeat a movement
+
+819
+00:35:18,670 --> 00:35:20,180
+over and over and over continuously.
+
+820
+00:35:20,180 --> 00:35:21,860
+So that'd be like running, biking, rowing
+
+821
+00:35:21,860 --> 00:35:24,040
+and cycling this kind of thing.
+
+822
+00:35:24,040 --> 00:35:28,930
+Or there's a resistance
+exercise where you're moving,
+
+823
+00:35:28,930 --> 00:35:30,800
+lifting, presumably putting down also
+
+824
+00:35:31,680 --> 00:35:35,010
+things of progressively
+heavier and heavier weight
+
+825
+00:35:35,010 --> 00:35:38,223
+that you couldn't do
+continuously for 30 minutes.
+
+826
+00:35:39,390 --> 00:35:42,890
+So cardiovascular exercise is typically
+
+827
+00:35:42,890 --> 00:35:45,840
+the more aerobic type exercise
+and resistance exercise
+
+828
+00:35:45,840 --> 00:35:47,690
+of course is the more
+anaerobic type exercise.
+
+829
+00:35:47,690 --> 00:35:50,070
+And yes, there's
+variation between the two.
+
+830
+00:35:50,070 --> 00:35:54,290
+Most studies of exercise have
+looked at aerobic exercise
+
+831
+00:35:54,290 --> 00:35:56,990
+because that's basically the
+thing that you can get a rat
+
+832
+00:35:56,990 --> 00:35:58,280
+or a mouse to do.
+
+833
+00:35:58,280 --> 00:35:59,880
+You know what's really
+weird about rats and mice,
+
+834
+00:35:59,880 --> 00:36:02,730
+they like to run on wheels so much,
+
+835
+00:36:02,730 --> 00:36:04,100
+that someone actually did this study,
+
+836
+00:36:04,100 --> 00:36:06,570
+it was published in
+science they put a wheel,
+
+837
+00:36:06,570 --> 00:36:08,500
+a running wheel in the middle of a field
+
+838
+00:36:08,500 --> 00:36:11,960
+and mice ran to that wheel
+and ran on the wheel.
+
+839
+00:36:11,960 --> 00:36:16,010
+They turns out that what
+they like is the passage
+
+840
+00:36:16,010 --> 00:36:19,170
+of the visual image of the
+bars in front of their face,
+
+841
+00:36:19,170 --> 00:36:23,030
+which I find kind of remarkable
+
+842
+00:36:23,030 --> 00:36:25,440
+and troubling because it
+seems so like trivial,
+
+843
+00:36:25,440 --> 00:36:27,547
+but anyway they love aerobic exercise.
+
+844
+00:36:27,547 --> 00:36:29,660
+And so most of the studies
+were done on these mice
+
+845
+00:36:29,660 --> 00:36:30,700
+that love running on wheels.
+
+846
+00:36:30,700 --> 00:36:34,700
+Whereas so far as it's
+been challenging to find
+
+847
+00:36:34,700 --> 00:36:37,120
+conditions in which mice
+really liked to lift weights
+
+848
+00:36:37,120 --> 00:36:38,880
+or we'll do it in a laboratory.
+
+849
+00:36:38,880 --> 00:36:41,210
+So any weight bearing exercise studies
+
+850
+00:36:41,210 --> 00:36:43,030
+really have to be done in humans.
+
+851
+00:36:43,030 --> 00:36:46,690
+And since humans are
+what we're interested in,
+
+852
+00:36:46,690 --> 00:36:50,300
+there are some studies
+looking at these two things
+
+853
+00:36:50,300 --> 00:36:52,040
+and when they tend to work best.
+
+854
+00:36:52,040 --> 00:36:54,110
+Now you will see some
+places aerobic exercise
+
+855
+00:36:54,110 --> 00:36:55,410
+is best done in the morning
+
+856
+00:36:55,410 --> 00:36:57,870
+and weight training is
+best done in the afternoon.
+
+857
+00:36:57,870 --> 00:37:00,933
+I think there's far more
+individual variation than that.
+
+858
+00:37:01,860 --> 00:37:04,840
+I think there are however,
+a couple of windows
+
+859
+00:37:04,840 --> 00:37:06,780
+that the exercise science literature
+
+860
+00:37:06,780 --> 00:37:09,400
+and the circadian literature points to as
+
+861
+00:37:09,400 --> 00:37:11,560
+windows related to body temperature
+
+862
+00:37:11,560 --> 00:37:14,433
+in which performance, injury,
+
+863
+00:37:15,350 --> 00:37:17,200
+in which performance is optimized
+
+864
+00:37:17,200 --> 00:37:20,300
+injury is reduced and so on.
+
+865
+00:37:20,300 --> 00:37:23,820
+And those tend to be 30
+minutes after waking.
+
+866
+00:37:23,820 --> 00:37:26,830
+And that probably correlates
+with the inflection in cortisol
+
+867
+00:37:26,830 --> 00:37:28,330
+associated with waking whether or not
+
+868
+00:37:28,330 --> 00:37:31,520
+you've gotten light or not,
+three hours after waking,
+
+869
+00:37:31,520 --> 00:37:34,360
+which probably correlates to
+the rise in body temperature
+
+870
+00:37:34,360 --> 00:37:36,120
+sometime right around waking.
+
+871
+00:37:36,120 --> 00:37:40,310
+And the later afternoon,
+usually 11 hours after waking
+
+872
+00:37:40,310 --> 00:37:42,800
+which is when temperature tends to peak.
+
+873
+00:37:42,800 --> 00:37:45,140
+So some people like to
+exercise in the morning.
+
+874
+00:37:45,140 --> 00:37:46,650
+Some people like to
+exercise in the afternoon.
+
+875
+00:37:46,650 --> 00:37:48,200
+It really depends.
+
+876
+00:37:48,200 --> 00:37:51,290
+I think for those of us
+with very busy schedules,
+
+877
+00:37:51,290 --> 00:37:55,870
+it's advantageous to be
+able to do your training
+
+878
+00:37:55,870 --> 00:37:58,510
+whenever you have the
+opportunity to do it,
+
+879
+00:37:58,510 --> 00:38:01,550
+unless you can really
+control your schedule.
+
+880
+00:38:01,550 --> 00:38:04,900
+And so I would never want
+these recommendations
+
+881
+00:38:04,900 --> 00:38:06,940
+to seem like recommendations,
+what I'm really describing
+
+882
+00:38:06,940 --> 00:38:09,600
+are some opportunities,
+30 minutes after waking,
+
+883
+00:38:09,600 --> 00:38:13,270
+three hours after waking
+or 11 hours after waking
+
+884
+00:38:13,270 --> 00:38:14,980
+has been shown at least in some studies
+
+885
+00:38:14,980 --> 00:38:17,327
+to optimize performance, reduce injury
+
+886
+00:38:17,327 --> 00:38:18,447
+and that sort of thing.
+
+887
+00:38:18,447 --> 00:38:21,370
+But you really have to figure
+out what works for you.
+
+888
+00:38:21,370 --> 00:38:24,000
+A note about working out
+first thing in the morning.
+
+889
+00:38:24,000 --> 00:38:26,430
+Last time we talked about
+non-photo phase shifts.
+
+890
+00:38:26,430 --> 00:38:29,280
+If you exercise first
+thing in the morning,
+
+891
+00:38:29,280 --> 00:38:32,510
+your body will start to develop
+an anticipatory circuit.
+
+892
+00:38:32,510 --> 00:38:35,190
+There's actually plasticity
+in these circadian circuits
+
+893
+00:38:35,190 --> 00:38:37,680
+that will lead you to want to wake up
+
+894
+00:38:37,680 --> 00:38:39,430
+at the particular time that you exercised
+
+895
+00:38:39,430 --> 00:38:41,090
+the previous three or four days.
+
+896
+00:38:41,090 --> 00:38:42,660
+So that can be a powerful tool
+
+897
+00:38:42,660 --> 00:38:44,740
+but you still want to get light exposure.
+
+898
+00:38:44,740 --> 00:38:48,140
+Because it turns out that
+light and exercise converged,
+
+899
+00:38:48,140 --> 00:38:52,290
+so giving even bigger, wake up
+signal to the brain and body.
+
+900
+00:38:52,290 --> 00:38:54,070
+So you might want to think about that.
+
+901
+00:38:54,070 --> 00:38:56,320
+Some people find if they
+exercise late in the day
+
+902
+00:38:56,320 --> 00:38:57,960
+they have trouble sleeping
+
+903
+00:38:57,960 --> 00:39:01,920
+in general intense exercise does that,
+
+904
+00:39:01,920 --> 00:39:05,030
+whereas the kind of lower
+intensity exercise doesn't.
+
+905
+00:39:05,030 --> 00:39:07,060
+I found some interesting literature
+
+906
+00:39:07,060 --> 00:39:09,250
+that talked about sleep need and exercise.
+
+907
+00:39:09,250 --> 00:39:11,170
+I found this fascinating that
+
+908
+00:39:12,210 --> 00:39:17,210
+if one is waking not feeling
+rested and recovered from
+
+909
+00:39:18,170 --> 00:39:21,860
+and yet sleeping the same
+amount that they typically have,
+
+910
+00:39:21,860 --> 00:39:24,940
+it's quite possible that
+the intensity of exercise
+
+911
+00:39:24,940 --> 00:39:27,430
+in the proceeding two or
+three days is too high.
+
+912
+00:39:27,430 --> 00:39:31,650
+Whereas if one can't recover
+
+913
+00:39:31,650 --> 00:39:33,390
+no matter how much sleep they get,
+
+914
+00:39:33,390 --> 00:39:35,200
+they're just sleepy all the time,
+
+915
+00:39:35,200 --> 00:39:36,830
+I realized these things are correlated
+
+916
+00:39:36,830 --> 00:39:39,450
+that the volume of
+training might be too high.
+
+917
+00:39:39,450 --> 00:39:40,920
+Now I'm not an exercise scientist.
+
+918
+00:39:40,920 --> 00:39:43,430
+We should probably get Andy
+Galpin or somebody else on here,
+
+919
+00:39:43,430 --> 00:39:45,999
+who's really an expert
+in this kind of stuff.
+
+920
+00:39:45,999 --> 00:39:48,760
+I do realize as soon as
+anyone talks about exercise
+
+921
+00:39:48,760 --> 00:39:49,840
+or nutrition publicly,
+
+922
+00:39:49,840 --> 00:39:51,830
+they're basically opening themselves up
+
+923
+00:39:51,830 --> 00:39:53,930
+to all sorts of challenges
+
+924
+00:39:53,930 --> 00:39:56,070
+because you can basically find support
+
+925
+00:39:56,070 --> 00:39:59,100
+for almost any protocol in the literature.
+
+926
+00:39:59,100 --> 00:40:02,246
+What I've looked at was
+two journals in particular,
+
+927
+00:40:02,246 --> 00:40:04,340
+International Journal Chronobiology
+
+928
+00:40:05,410 --> 00:40:08,030
+and journal Biological Rhythms.
+
+929
+00:40:08,030 --> 00:40:12,210
+Excuse me, to assess these parameters
+
+930
+00:40:12,210 --> 00:40:14,450
+that I I've mentioned
+just just a moment ago
+
+931
+00:40:14,450 --> 00:40:16,500
+because the studies tended
+to be done in humans.
+
+932
+00:40:16,500 --> 00:40:19,400
+They were fairly recent and they came from
+
+933
+00:40:19,400 --> 00:40:21,764
+groups that I recognized as well as
+
+934
+00:40:21,764 --> 00:40:24,700
+knowing that those
+journals are peer reviewed.
+
+935
+00:40:24,700 --> 00:40:27,550
+Many of your questions were
+about neural plasticity
+
+936
+00:40:27,550 --> 00:40:30,450
+which is the brain and nervous
+system's ability to change
+
+937
+00:40:30,450 --> 00:40:32,053
+in response to experience.
+
+938
+00:40:33,480 --> 00:40:35,450
+There was a question
+that asked whether or not
+
+939
+00:40:35,450 --> 00:40:38,910
+these really deep biological
+mechanisms around wakefulness,
+
+940
+00:40:38,910 --> 00:40:41,400
+time of waking sleep, et cetera
+
+941
+00:40:41,400 --> 00:40:44,820
+were subject to neuroplasticity
+and indeed they are.
+
+942
+00:40:44,820 --> 00:40:46,700
+Some of that plasticity is short-term
+
+943
+00:40:46,700 --> 00:40:49,000
+and some of it is more long-term.
+
+944
+00:40:49,000 --> 00:40:51,380
+There's a really good
+analogy here which is,
+
+945
+00:40:51,380 --> 00:40:55,610
+if you happen to eat on
+a very tight schedule
+
+946
+00:40:55,610 --> 00:41:00,140
+where every day say it
+8:00 AM, noon and 7:00 PM
+
+947
+00:41:00,140 --> 00:41:02,190
+is when you eat your food
+not suggesting you do this
+
+948
+00:41:02,190 --> 00:41:05,470
+but let's say you were to do
+that for a couple of days.
+
+949
+00:41:05,470 --> 00:41:06,800
+After a few days,
+
+950
+00:41:06,800 --> 00:41:09,150
+you would start to
+anticipate those meal times
+
+951
+00:41:09,150 --> 00:41:12,300
+where no matter where
+you were in the world,
+
+952
+00:41:12,300 --> 00:41:13,800
+no matter what was going on in your life
+
+953
+00:41:13,800 --> 00:41:17,100
+about five to 10 minutes
+before those meal times,
+
+954
+00:41:17,100 --> 00:41:19,990
+you would start to feel hungry
+and even a little agitated,
+
+955
+00:41:19,990 --> 00:41:21,900
+which is your body's way
+
+956
+00:41:21,900 --> 00:41:24,110
+of trying to get you to forage for food.
+
+957
+00:41:24,110 --> 00:41:26,690
+And that's because of some peptide signals
+
+958
+00:41:26,690 --> 00:41:29,260
+that come from the
+periphery from your body,
+
+959
+00:41:29,260 --> 00:41:32,150
+things like hypocretin norexin
+
+960
+00:41:32,150 --> 00:41:33,920
+that signal to the hypothalamus
+
+961
+00:41:33,920 --> 00:41:35,650
+and brainstem to make you active
+
+962
+00:41:35,650 --> 00:41:38,490
+and alert and look for
+food and feel hungry.
+
+963
+00:41:38,490 --> 00:41:41,070
+So there's kind of an
+anticipatory circuit,
+
+964
+00:41:41,070 --> 00:41:44,010
+that's a chemical circuit,
+but eventually over time,
+
+965
+00:41:44,010 --> 00:41:46,290
+the neurons, the neural circuits
+
+966
+00:41:46,290 --> 00:41:47,840
+that control hypocretin orexin
+
+967
+00:41:47,840 --> 00:41:50,350
+would get tuned to the neural circuits
+
+968
+00:41:50,350 --> 00:41:55,050
+that are involved in eating
+and maybe even smell and taste
+
+969
+00:41:55,050 --> 00:41:56,960
+to create a kind of eating circuit
+
+970
+00:41:56,960 --> 00:42:00,400
+that's unique to your
+pattern, to your rhythms.
+
+971
+00:42:00,400 --> 00:42:04,100
+The same thing is true for
+these waking and exercise
+
+972
+00:42:04,100 --> 00:42:06,770
+and other schedules, including
+all trade-in schedules.
+
+973
+00:42:06,770 --> 00:42:08,740
+If you wake up in the morning
+
+974
+00:42:08,740 --> 00:42:10,860
+and start getting your
+sunlight, you start exercising
+
+975
+00:42:10,860 --> 00:42:14,170
+in the morning or you
+exercise in the afternoon,
+
+976
+00:42:14,170 --> 00:42:16,360
+pretty soon, your body will
+start to anticipate that
+
+977
+00:42:16,360 --> 00:42:19,050
+and start to secrete
+hormones and other signals
+
+978
+00:42:19,050 --> 00:42:22,340
+that prepare your body
+for the ensuing activity
+
+979
+00:42:22,340 --> 00:42:24,360
+of waking up or going to sleep.
+
+980
+00:42:24,360 --> 00:42:28,070
+So if you get onto a pattern or a rhythm,
+
+981
+00:42:28,070 --> 00:42:30,890
+even if that rhythm
+isn't down to the minute,
+
+982
+00:42:30,890 --> 00:42:33,160
+you'll find that there's
+plasticity in these circuits
+
+983
+00:42:33,160 --> 00:42:35,050
+and it becomes easier to wake up early.
+
+984
+00:42:35,050 --> 00:42:37,270
+If that's your thing or
+exercise at a particular day
+
+985
+00:42:37,270 --> 00:42:38,320
+if that's your thing.
+
+986
+00:42:39,200 --> 00:42:42,220
+That's the beauty of neuroplasticity.
+
+987
+00:42:42,220 --> 00:42:43,277
+A number of people ask,
+
+988
+00:42:43,277 --> 00:42:45,837
+"What can I do to increase plasticity?"
+
+989
+00:42:45,837 --> 00:42:48,310
+And that really comes in two forms.
+
+990
+00:42:48,310 --> 00:42:51,950
+There's plasticity that
+we can access in sleep
+
+991
+00:42:51,950 --> 00:42:56,180
+to improve rates of learning
+and depth of learning
+
+992
+00:42:56,180 --> 00:42:58,090
+from the previous day or so.
+
+993
+00:42:58,090 --> 00:43:01,370
+And there's this an SDR
+non-sleep deep breaths
+
+994
+00:43:01,370 --> 00:43:04,350
+that can be done without
+sleeping, to improve rates
+
+995
+00:43:04,350 --> 00:43:06,560
+of learning and depth
+of retention, et cetera.
+
+996
+00:43:06,560 --> 00:43:08,650
+So let's consider those both
+
+997
+00:43:08,650 --> 00:43:10,860
+and you can incorporate
+these protocols if you like.
+
+998
+00:43:10,860 --> 00:43:14,690
+Again, these are based on
+quality peer reviewed studies.
+
+999
+00:43:14,690 --> 00:43:17,290
+First, let's talk about learning in sleep.
+
+1000
+00:43:17,290 --> 00:43:18,690
+This is based on some work that
+
+1001
+00:43:18,690 --> 00:43:20,930
+I'll provide the reference for
+
+1002
+00:43:20,930 --> 00:43:23,700
+that was published in the journal Science.
+
+1003
+00:43:23,700 --> 00:43:26,070
+Excellent journal, Matt
+Walker also talks about some
+
+1004
+00:43:26,070 --> 00:43:30,910
+of these studies done by others
+in his book "Why We Sleep".
+
+1005
+00:43:30,910 --> 00:43:33,300
+The studies just to remind you are
+
+1006
+00:43:33,300 --> 00:43:36,350
+structured in he following
+way an individual
+
+1007
+00:43:36,350 --> 00:43:38,900
+is brought into a laboratory, Lowe does a
+
+1008
+00:43:38,900 --> 00:43:39,940
+spatial memory task.
+
+1009
+00:43:39,940 --> 00:43:42,870
+So there tends to be a screen
+
+1010
+00:43:42,870 --> 00:43:45,520
+with a bunch of different
+objects popping up on the screen
+
+1011
+00:43:45,520 --> 00:43:46,480
+in different locations.
+
+1012
+00:43:46,480 --> 00:43:48,990
+So it might be a Bulldog's
+face that might be a cat,
+
+1013
+00:43:48,990 --> 00:43:51,310
+and it might be an Apple
+than it might be a pen
+
+1014
+00:43:51,310 --> 00:43:52,280
+in different locations.
+
+1015
+00:43:52,280 --> 00:43:54,010
+And that sounds trivial easy
+
+1016
+00:43:54,010 --> 00:43:56,690
+but with time you can
+imagine it gets pretty tough
+
+1017
+00:43:56,690 --> 00:43:58,710
+to come back a day later and remember,
+
+1018
+00:43:58,710 --> 00:44:01,140
+if something presented in a given location
+
+1019
+00:44:01,140 --> 00:44:03,070
+was something you've seen
+before and whether or not
+
+1020
+00:44:03,070 --> 00:44:05,150
+it was presented in that
+location or a different location.
+
+1021
+00:44:05,150 --> 00:44:08,100
+If you had enough objects
+and changed locations enough,
+
+1022
+00:44:08,100 --> 00:44:10,230
+this can actually be quite difficult.
+
+1023
+00:44:10,230 --> 00:44:13,640
+In this study, the subjects either just
+
+1024
+00:44:13,640 --> 00:44:17,510
+went through the experiment
+or a particular odor
+
+1025
+00:44:17,510 --> 00:44:21,560
+was released into the room
+while they were learning
+
+1026
+00:44:21,560 --> 00:44:25,080
+or a tone was played in the
+room while they were learning.
+
+1027
+00:44:25,080 --> 00:44:28,870
+And then during the
+sleep of those subjects
+
+1028
+00:44:28,870 --> 00:44:31,630
+the following night and
+the following night,
+
+1029
+00:44:31,630 --> 00:44:35,320
+so this was done repeatedly
+for several nights,
+
+1030
+00:44:35,320 --> 00:44:38,940
+the same odor or tone was played
+
+1031
+00:44:38,940 --> 00:44:40,913
+while the subjects were sleeping.
+
+1032
+00:44:41,890 --> 00:44:43,500
+They did this in different stages of sleep
+
+1033
+00:44:43,500 --> 00:44:46,770
+non-REM sleep and rapid eye
+movement, sleep REM sleep.
+
+1034
+00:44:46,770 --> 00:44:50,235
+They did this with just the tone in sleep.
+
+1035
+00:44:50,235 --> 00:44:54,500
+If the subjects had the
+odor but not the tone,
+
+1036
+00:44:54,500 --> 00:44:56,520
+they did it with putting the tone,
+
+1037
+00:44:56,520 --> 00:44:58,300
+if they had had the odor while learning.
+
+1038
+00:44:58,300 --> 00:44:59,520
+So basically all the controls,
+
+1039
+00:44:59,520 --> 00:45:01,570
+all the things you'd want
+to see done to make sure
+
+1040
+00:45:01,570 --> 00:45:04,960
+that it wasn't some indirect
+effects, a modulatory effect.
+
+1041
+00:45:04,960 --> 00:45:05,793
+Okay.
+
+1042
+00:45:05,793 --> 00:45:10,640
+And what they found was that
+providing the same stimulus,
+
+1043
+00:45:10,640 --> 00:45:13,590
+the odor, if they
+smelled an odor or a tone
+
+1044
+00:45:13,590 --> 00:45:16,550
+if the subjects heard
+a tone while learning
+
+1045
+00:45:16,550 --> 00:45:19,080
+if they just delivered that odor or tone
+
+1046
+00:45:19,080 --> 00:45:21,970
+while the subject slept, rates of learning
+
+1047
+00:45:21,970 --> 00:45:26,230
+and retention of information
+was significantly greater.
+
+1048
+00:45:26,230 --> 00:45:27,160
+This is pretty cool.
+
+1049
+00:45:27,160 --> 00:45:30,077
+What this means that you can
+cue the subconscious brain,
+
+1050
+00:45:30,077 --> 00:45:33,500
+and the asleep brain to
+learn particular things
+
+1051
+00:45:33,500 --> 00:45:35,900
+better and faster.
+
+1052
+00:45:35,900 --> 00:45:37,210
+So how might you implement this?
+
+1053
+00:45:37,210 --> 00:45:39,430
+Well, you could play
+with this if you want.
+
+1054
+00:45:39,430 --> 00:45:40,810
+I don't see any real challenge
+
+1055
+00:45:40,810 --> 00:45:43,930
+to this provided the
+odor and is a safe one
+
+1056
+00:45:43,930 --> 00:45:44,867
+and then doesn't wake you up
+
+1057
+00:45:44,867 --> 00:45:49,140
+and the tone is a safe one,
+and doesn't wake you up.
+
+1058
+00:45:49,140 --> 00:45:52,150
+You could do this by having
+a metronome, for instance,
+
+1059
+00:45:52,150 --> 00:45:53,550
+while I'm learning something,
+
+1060
+00:45:53,550 --> 00:45:55,440
+playing in the background
+or particular music
+
+1061
+00:45:55,440 --> 00:45:58,100
+and then have that very
+faintly while you sleep.
+
+1062
+00:45:58,100 --> 00:46:01,140
+So you could apply this
+if you like and try this.
+
+1063
+00:46:01,140 --> 00:46:03,310
+There are a number of groups I think now
+
+1064
+00:46:03,310 --> 00:46:05,460
+that are trying this
+using tactile stimulation.
+
+1065
+00:46:05,460 --> 00:46:08,350
+So slight vibration on
+the wrist during learning
+
+1066
+00:46:08,350 --> 00:46:10,900
+and then the same vibration
+on the wrist during sleep.
+
+1067
+00:46:10,900 --> 00:46:14,370
+It does not appear that
+the sensory modality,
+
+1068
+00:46:14,370 --> 00:46:17,550
+whether or not it's odor or auditory tone
+
+1069
+00:46:17,550 --> 00:46:19,900
+or tactile stimulation,
+
+1070
+00:46:19,900 --> 00:46:22,920
+some as a sensory stimulation,
+whether or not it matters.
+
+1071
+00:46:22,920 --> 00:46:24,620
+It's remarkable because it really shows
+
+1072
+00:46:24,620 --> 00:46:26,880
+that sleep is an extension
+of the waking state.
+
+1073
+00:46:26,880 --> 00:46:28,360
+We've known that for a long time
+
+1074
+00:46:28,360 --> 00:46:30,650
+but this really tethers those two
+
+1075
+00:46:30,650 --> 00:46:33,410
+in a very meaningful and actionable way.
+
+1076
+00:46:33,410 --> 00:46:35,190
+So I think I'll report back to you
+
+1077
+00:46:35,190 --> 00:46:36,540
+as I learned more about these studies,
+
+1078
+00:46:36,540 --> 00:46:39,140
+but that's what I know
+about them at this point.
+
+1079
+00:46:39,140 --> 00:46:39,973
+As long as we're there
+
+1080
+00:46:39,973 --> 00:46:41,120
+we might as well talk about dreaming
+
+1081
+00:46:41,120 --> 00:46:43,460
+'cause I got so many
+questions about dreams.
+
+1082
+00:46:43,460 --> 00:46:46,220
+A couple of you, we want to
+ask me what their dreams meant.
+
+1083
+00:46:46,220 --> 00:46:49,120
+Look, I don't even know what
+my dreams mean half the time.
+
+1084
+00:46:50,200 --> 00:46:53,810
+I occasionally will wake up
+from a dream and remember it.
+
+1085
+00:46:53,810 --> 00:46:55,650
+If you want to remember
+your dreams better,
+
+1086
+00:46:55,650 --> 00:46:57,740
+if you're somebody who has challenges
+
+1087
+00:46:57,740 --> 00:47:00,220
+remembering your dreams,
+you can set your alarms
+
+1088
+00:47:00,220 --> 00:47:01,450
+that you wake up in the middle of this
+
+1089
+00:47:01,450 --> 00:47:03,870
+one of these 90 minute
+cycles which toward morning
+
+1090
+00:47:03,870 --> 00:47:06,500
+tend to be occupied almost
+exclusively by REM sleep.
+
+1091
+00:47:06,500 --> 00:47:08,570
+Remember early in the night,
+you have less REM sleep
+
+1092
+00:47:08,570 --> 00:47:10,160
+than later in the night.
+
+1093
+00:47:10,160 --> 00:47:12,830
+But you want to get as
+much sleep as you can
+
+1094
+00:47:12,830 --> 00:47:13,663
+'cause that's healthy.
+
+1095
+00:47:13,663 --> 00:47:15,940
+So I don't know that you
+want to wake yourself up.
+
+1096
+00:47:15,940 --> 00:47:17,200
+Some people find that
+
+1097
+00:47:17,200 --> 00:47:19,070
+writing down their thoughts immediately
+
+1098
+00:47:19,070 --> 00:47:19,980
+first thing in the morning
+
+1099
+00:47:19,980 --> 00:47:23,040
+allows them to relater
+spontaneously remember
+
+1100
+00:47:23,040 --> 00:47:24,340
+their dream they had.
+
+1101
+00:47:24,340 --> 00:47:26,070
+There's some literature on that.
+
+1102
+00:47:26,070 --> 00:47:28,630
+The meaning of dreams is a
+little bit controversial.
+
+1103
+00:47:28,630 --> 00:47:30,180
+Some people believe
+they have strong meaning
+
+1104
+00:47:30,180 --> 00:47:33,410
+other people believe that they can be
+
+1105
+00:47:33,410 --> 00:47:36,720
+just spontaneous firing of
+neurons that were active
+
+1106
+00:47:36,720 --> 00:47:40,680
+in the waking state and
+don't have any meaning.
+
+1107
+00:47:40,680 --> 00:47:43,963
+There are good data to show
+that when you learn spatial,
+
+1108
+00:47:44,880 --> 00:47:47,490
+new spatial environments that
+there's a replay of those
+
+1109
+00:47:47,490 --> 00:47:51,640
+environments, so-called place
+cells that fire in your brain
+
+1110
+00:47:51,640 --> 00:47:53,650
+only when you enter a
+particular environment,
+
+1111
+00:47:53,650 --> 00:47:57,150
+that those are replayed in
+sleep in almost direct fashion
+
+1112
+00:47:57,150 --> 00:48:00,560
+to the way that things were activated
+
+1113
+00:48:00,560 --> 00:48:02,510
+when you were learning that spatial task.
+
+1114
+00:48:02,510 --> 00:48:05,980
+Dreams are fascinating, they're
+were paralyzed during dreams
+
+1115
+00:48:05,980 --> 00:48:07,790
+which brings us to another question.
+
+1116
+00:48:07,790 --> 00:48:10,519
+Somebody asked about sleep paralysis.
+
+1117
+00:48:10,519 --> 00:48:13,160
+We are paralyzed for much of our sleep,
+
+1118
+00:48:13,160 --> 00:48:15,160
+so-called atonia so presumably
+
+1119
+00:48:15,160 --> 00:48:16,890
+so we don't act out our dreams.
+
+1120
+00:48:16,890 --> 00:48:20,450
+Some people wake up and
+they're still paralyzed.
+
+1121
+00:48:20,450 --> 00:48:22,250
+I've actually had this happen to me
+
+1122
+00:48:22,250 --> 00:48:23,900
+not very many times, but a few times.
+
+1123
+00:48:23,900 --> 00:48:25,890
+And then they jolt themselves awake
+
+1124
+00:48:25,890 --> 00:48:27,410
+and it actually is quite terrifying.
+
+1125
+00:48:27,410 --> 00:48:29,570
+I can say from personal
+experience to wake up
+
+1126
+00:48:29,570 --> 00:48:33,220
+be wide awake and you cannot
+move your body at all.
+
+1127
+00:48:33,220 --> 00:48:34,890
+It's really quite frightening.
+
+1128
+00:48:34,890 --> 00:48:37,000
+There are a couple of
+things that will increase
+
+1129
+00:48:37,000 --> 00:48:40,560
+the intrusion of atonia
+into the wakeful state
+
+1130
+00:48:40,560 --> 00:48:42,600
+which is essentially
+means you're waking up
+
+1131
+00:48:42,600 --> 00:48:44,520
+but you can't, you can't move.
+
+1132
+00:48:44,520 --> 00:48:48,680
+One is marijuana, THC, a
+I'm not a marijuana smoker.
+
+1133
+00:48:48,680 --> 00:48:50,230
+I'm not a copper.
+
+1134
+00:48:50,230 --> 00:48:51,730
+I don't know the legality where you live.
+
+1135
+00:48:51,730 --> 00:48:53,820
+So I'm not saying one thing
+or another about marijuana.
+
+1136
+00:48:53,820 --> 00:48:56,695
+I'm just, the fact that
+I had that experience
+
+1137
+00:48:56,695 --> 00:49:00,360
+without marijuana means that
+it can happen regardless,
+
+1138
+00:49:00,360 --> 00:49:02,950
+but marijuana smokers, for whatever reason
+
+1139
+00:49:02,950 --> 00:49:06,160
+maybe it has something to do
+with the cannabinoid receptors
+
+1140
+00:49:06,160 --> 00:49:10,010
+or the serotonin receptors
+downstream of the motor pathways.
+
+1141
+00:49:10,010 --> 00:49:11,520
+I don't know.
+
+1142
+00:49:11,520 --> 00:49:13,040
+I couldn't find any literature on this
+
+1143
+00:49:13,040 --> 00:49:16,100
+but marijuana smokers
+report, higher frequency
+
+1144
+00:49:16,100 --> 00:49:19,340
+of this kind of paralysis and wakefulness
+
+1145
+00:49:19,340 --> 00:49:21,940
+as you transition from
+sleep to wakefulness.
+
+1146
+00:49:21,940 --> 00:49:22,860
+I suppose probably
+
+1147
+00:49:22,860 --> 00:49:24,720
+one could learn to get
+comfortable with it.
+
+1148
+00:49:24,720 --> 00:49:26,820
+For me, it was terrifying, 'cause I'm just
+
+1149
+00:49:26,820 --> 00:49:28,590
+used to being able to
+move my limbs fortunately
+
+1150
+00:49:28,590 --> 00:49:33,127
+and I wasn't able to,
+and it's a quite a thing,
+
+1151
+00:49:34,850 --> 00:49:36,830
+let me tell you, okay.
+
+1152
+00:49:36,830 --> 00:49:39,790
+some other questions
+about neuroplasticity.
+
+1153
+00:49:39,790 --> 00:49:42,770
+So the other form of neuroplasticity
+
+1154
+00:49:42,770 --> 00:49:45,950
+is not the neuroplasticity
+that you're amplifying
+
+1155
+00:49:45,950 --> 00:49:50,490
+by listening to tones or
+smelling odors in sleep,
+
+1156
+00:49:50,490 --> 00:49:52,180
+but the neuroplasticity
+that you can access
+
+1157
+00:49:52,180 --> 00:49:54,200
+with non sleep deep rest.
+
+1158
+00:49:54,200 --> 00:49:57,240
+So NSDR, non sleep deep rest
+
+1159
+00:49:57,240 --> 00:49:59,410
+as well as short 20 minute naps,
+
+1160
+00:49:59,410 --> 00:50:01,550
+which are very close
+to non sleep deep rest
+
+1161
+00:50:01,550 --> 00:50:02,910
+because people rarely drop
+
+1162
+00:50:02,910 --> 00:50:05,090
+into deep States of
+sleep during short naps,
+
+1163
+00:50:05,090 --> 00:50:07,053
+unless they're very sleep deprived.
+
+1164
+00:50:08,050 --> 00:50:12,940
+NSDR has been shown to
+increase rates of learning
+
+1165
+00:50:12,940 --> 00:50:16,560
+when done for 20 minute bouts for a proxy-
+
+1166
+00:50:16,560 --> 00:50:20,470
+to match an approximately
+90 minute about of learning.
+
+1167
+00:50:20,470 --> 00:50:21,710
+So what am I talking about?
+
+1168
+00:50:21,710 --> 00:50:24,810
+90 minute cycles are
+these ultradian cycles
+
+1169
+00:50:24,810 --> 00:50:26,410
+that I've talked about previously.
+
+1170
+00:50:26,410 --> 00:50:30,530
+And we tend to learn very well
+by taking a 90 minute cycle
+
+1171
+00:50:30,530 --> 00:50:33,570
+transitioning into some focus
+mode early in the cycle,
+
+1172
+00:50:33,570 --> 00:50:35,700
+and it's hard to focus and then deep focus
+
+1173
+00:50:35,700 --> 00:50:39,340
+and learning feels almost
+like agitation and strain
+
+1174
+00:50:39,340 --> 00:50:41,570
+and then by the end of
+that 90 minute cycle,
+
+1175
+00:50:41,570 --> 00:50:44,740
+it becomes very hard to maintain focus
+
+1176
+00:50:44,740 --> 00:50:46,700
+and learn more information.
+
+1177
+00:50:46,700 --> 00:50:49,040
+There's a study published
+in Cell Reports last year.
+
+1178
+00:50:49,040 --> 00:50:53,180
+Great journal, excellent
+paper showing that
+
+1179
+00:50:53,180 --> 00:50:56,290
+20 minute naps or light sleep
+
+1180
+00:50:56,290 --> 00:51:00,320
+of a sort of non sleep deep
+rest taken immediately after
+
+1181
+00:51:00,320 --> 00:51:01,680
+or close to it, doesn't have to be
+
+1182
+00:51:01,680 --> 00:51:03,620
+immediately after you
+finished the last sentence
+
+1183
+00:51:03,620 --> 00:51:07,120
+of learning or whatever
+it is, or bar of music.
+
+1184
+00:51:07,120 --> 00:51:09,230
+But you know, a couple of
+minutes after transitioning
+
+1185
+00:51:09,230 --> 00:51:11,960
+to a period of non sleep deep rest,
+
+1186
+00:51:11,960 --> 00:51:14,780
+where you're turning off the
+analysis of duration path
+
+1187
+00:51:14,780 --> 00:51:17,430
+and outcome has been shown
+to accelerate learning
+
+1188
+00:51:17,430 --> 00:51:19,050
+to a significant degree.
+
+1189
+00:51:19,050 --> 00:51:20,760
+Both the amount of information
+
+1190
+00:51:20,760 --> 00:51:22,720
+and the retention of that information.
+
+1191
+00:51:22,720 --> 00:51:24,320
+So that's pretty cool,
+
+1192
+00:51:24,320 --> 00:51:29,240
+because this is a
+cost-free, drug-free way of
+
+1193
+00:51:29,240 --> 00:51:32,600
+accelerating learning without
+having to get more sleep.
+
+1194
+00:51:32,600 --> 00:51:35,690
+But simply by introducing
+these 20 minute bouts.
+
+1195
+00:51:35,690 --> 00:51:37,730
+I would encourage people
+if they want to try this
+
+1196
+00:51:37,730 --> 00:51:41,270
+to consider the 20 minutes
+per every 90 minutes
+
+1197
+00:51:41,270 --> 00:51:43,780
+of ultradian learning cycle,
+there you're incorporating
+
+1198
+00:51:43,780 --> 00:51:47,410
+a number of different
+neuroscience backed tools
+
+1199
+00:51:47,410 --> 00:51:50,090
+90 minute cycles for focused learning.
+
+1200
+00:51:50,090 --> 00:51:51,620
+It could be motor, it could be cognitive,
+
+1201
+00:51:51,620 --> 00:51:55,390
+it could be musical, whatever,
+and then transitioned
+
+1202
+00:51:55,390 --> 00:51:58,360
+to a 20 minute non sleep
+deep rest protocol.
+
+1203
+00:51:58,360 --> 00:52:00,520
+I just want to cue you the
+fact that in last` episode
+
+1204
+00:52:00,520 --> 00:52:03,210
+in the caption on
+YouTube, we provided links
+
+1205
+00:52:03,210 --> 00:52:06,026
+to two different yoga nidra,
+non sleep deep rest protocols
+
+1206
+00:52:06,026 --> 00:52:08,880
+as well as hypnosis protocols
+that are clinically backed
+
+1207
+00:52:08,880 --> 00:52:10,660
+from my colleague David Spiegel
+
+1208
+00:52:10,660 --> 00:52:14,520
+at Stanford Psychiatry Department.
+
+1209
+00:52:14,520 --> 00:52:16,540
+All those resources are free.
+
+1210
+00:52:16,540 --> 00:52:20,540
+There are also a lot of other
+hypnosis scripts out there.
+
+1211
+00:52:20,540 --> 00:52:22,150
+I like the ones from Michael Sealey
+
+1212
+00:52:22,150 --> 00:52:26,300
+S-E-A-L, I think it's
+E-Y, maybe it's just L-Y,
+
+1213
+00:52:26,300 --> 00:52:28,090
+you can find them easily on YouTube,
+
+1214
+00:52:28,090 --> 00:52:31,310
+clinical hypnosis scripts
+meaning not stage hypnosis.
+
+1215
+00:52:31,310 --> 00:52:33,600
+They're not designed to
+get you to do anything.
+
+1216
+00:52:33,600 --> 00:52:35,600
+In fact they're just designed to
+
+1217
+00:52:35,600 --> 00:52:37,320
+help rewire your brain circuitry.
+
+1218
+00:52:37,320 --> 00:52:39,620
+Now, how does hypnosis work that way?
+
+1219
+00:52:39,620 --> 00:52:41,770
+This has a lot to do with sleep because
+
+1220
+00:52:41,770 --> 00:52:43,980
+it engages neuro-plasticity
+by bringing together
+
+1221
+00:52:43,980 --> 00:52:46,390
+two things that normally are
+separate from one another,
+
+1222
+00:52:46,390 --> 00:52:49,240
+one is the alert focused wakeful state
+
+1223
+00:52:49,240 --> 00:52:50,750
+where you activate the learning.
+
+1224
+00:52:50,750 --> 00:52:53,330
+And then there's the deep
+rest where the actual
+
+1225
+00:52:53,330 --> 00:52:57,160
+reconfiguration of the neurons
+and synopsis takes place.
+
+1226
+00:52:57,160 --> 00:53:01,340
+Hypnosis brings both the focus
+and the deep rest component
+
+1227
+00:53:01,340 --> 00:53:04,020
+into the same compartment of time.
+
+1228
+00:53:04,020 --> 00:53:05,970
+It's a very unique state in that way.
+
+1229
+00:53:05,970 --> 00:53:10,050
+So hypnosis kind of
+maximizes the learning about
+
+1230
+00:53:10,050 --> 00:53:13,070
+and the non sleep deep
+breasts bow and combines them.
+
+1231
+00:53:13,070 --> 00:53:16,740
+But of course that requires
+some guidance from a script
+
+1232
+00:53:16,740 --> 00:53:20,050
+or from a hypnotist
+clinically, a trained hypnotist
+
+1233
+00:53:20,050 --> 00:53:23,040
+and it becomes hard to
+acquire detailed information.
+
+1234
+00:53:23,040 --> 00:53:28,010
+It's more about shifts in state,
+like fear to states of calm
+
+1235
+00:53:28,010 --> 00:53:33,010
+or smoking to quitting smoking,
+anxiety around a trauma
+
+1236
+00:53:34,580 --> 00:53:36,660
+to release of anxiety around a trauma
+
+1237
+00:53:36,660 --> 00:53:40,470
+rather than specific information
+learned in hypnosis, okay?
+
+1238
+00:53:40,470 --> 00:53:43,050
+So hypnosis seems more about
+modulating the circuits
+
+1239
+00:53:43,050 --> 00:53:46,480
+that underlie state as opposed
+to specific information.
+
+1240
+00:53:46,480 --> 00:53:48,720
+Although I would not be surprised
+
+1241
+00:53:48,720 --> 00:53:50,340
+if there weren't certain forms of hypnosis
+
+1242
+00:53:50,340 --> 00:53:52,550
+that could increase retention and learning
+
+1243
+00:53:52,550 --> 00:53:54,210
+of specific information, but I'm not aware
+
+1244
+00:53:54,210 --> 00:53:57,570
+of any of those protocols out there yet.
+
+1245
+00:53:57,570 --> 00:53:59,920
+Which brings us to the
+next thing about learning
+
+1246
+00:53:59,920 --> 00:54:04,399
+and plasticity which is
+nootropics, AKA smart drugs.
+
+1247
+00:54:04,399 --> 00:54:05,770
+[sighs]
+
+1248
+00:54:05,770 --> 00:54:08,170
+This is a big topic that sigh was
+
+1249
+00:54:08,170 --> 00:54:12,070
+a sigh of concern about
+how to address nootropics
+
+1250
+00:54:12,070 --> 00:54:16,000
+in a thorough enough, but
+thoughtful enough way.
+
+1251
+00:54:16,000 --> 00:54:19,150
+Look, I have a lot of
+thoughts about nootropics.
+
+1252
+00:54:19,150 --> 00:54:22,137
+First of all, it means
+smart drugs, I believe.
+
+1253
+00:54:22,137 --> 00:54:24,700
+And I don't like that phrase because
+
+1254
+00:54:24,700 --> 00:54:28,430
+let's just take a step back
+and think about exercise.
+
+1255
+00:54:28,430 --> 00:54:31,180
+You just say, I want to
+be more physically fit.
+
+1256
+00:54:31,180 --> 00:54:32,240
+What does that mean?
+
+1257
+00:54:32,240 --> 00:54:34,750
+Does it mean I would ask for
+more specificity, I'd say,
+
+1258
+00:54:34,750 --> 00:54:36,470
+Do you want to be stronger?
+
+1259
+00:54:36,470 --> 00:54:39,340
+Okay, maybe you need to lift
+heavier objects progressively.
+
+1260
+00:54:39,340 --> 00:54:41,300
+Do you want more endurance
+
+1261
+00:54:41,300 --> 00:54:43,230
+very different protocol
+to access endurance.
+
+1262
+00:54:43,230 --> 00:54:44,380
+Do you want flexibility?
+
+1263
+00:54:44,380 --> 00:54:46,980
+Do you want explosiveness or suppleness?
+
+1264
+00:54:46,980 --> 00:54:49,670
+Huge range of things that
+we call physical fitness.
+
+1265
+00:54:49,670 --> 00:54:51,700
+Maybe you want all of those.
+
+1266
+00:54:51,700 --> 00:54:54,780
+If we were talking about emotional fitness
+
+1267
+00:54:54,780 --> 00:54:58,350
+we would say, well,
+inability to feel empathy
+
+1268
+00:54:58,350 --> 00:55:00,500
+but probably also to
+disengage from empathy
+
+1269
+00:55:00,500 --> 00:55:01,540
+because you don't want to be tethered
+
+1270
+00:55:01,540 --> 00:55:03,010
+to other people's emotions all the time.
+
+1271
+00:55:03,010 --> 00:55:04,990
+That's not healthy either.
+
+1272
+00:55:04,990 --> 00:55:07,100
+You would think about being able
+
+1273
+00:55:07,100 --> 00:55:10,780
+to access a range of
+emotions, but for some people
+
+1274
+00:55:10,780 --> 00:55:14,610
+their range into the sadness
+regime is really quite vast
+
+1275
+00:55:14,610 --> 00:55:16,360
+but their range into the happiness regime
+
+1276
+00:55:16,360 --> 00:55:17,330
+might be kind of limited.
+
+1277
+00:55:17,330 --> 00:55:19,300
+For other people who are in a manic state,
+
+1278
+00:55:19,300 --> 00:55:21,230
+it might be, they can
+access all that happy stuff
+
+1279
+00:55:21,230 --> 00:55:22,980
+but not the sadder stuff.
+
+1280
+00:55:22,980 --> 00:55:26,938
+So I'm speaking by way of analogy here.
+
+1281
+00:55:26,938 --> 00:55:30,990
+But if we say we're
+talking about cognitive
+
+1282
+00:55:30,990 --> 00:55:34,950
+and cognitive abilities we have to ask,
+
+1283
+00:55:34,950 --> 00:55:38,010
+okay, creativity, memory.
+
+1284
+00:55:38,010 --> 00:55:41,200
+We tend to associate
+intelligence with memory.
+
+1285
+00:55:41,200 --> 00:55:42,900
+And I think this goes
+back to like spelling bees
+
+1286
+00:55:42,900 --> 00:55:46,531
+or something, the ability to
+retain a lot of information
+
+1287
+00:55:46,531 --> 00:55:48,500
+and just regurgitate information
+
+1288
+00:55:48,500 --> 00:55:49,830
+which will get you some distance
+
+1289
+00:55:49,830 --> 00:55:51,660
+in some disciplines of life.
+
+1290
+00:55:51,660 --> 00:55:53,500
+But it won't allow you creative thinking,
+
+1291
+00:55:53,500 --> 00:55:55,670
+it's necessary for creative thinking.
+
+1292
+00:55:55,670 --> 00:55:57,830
+You need a knowledge base, right?
+
+1293
+00:55:57,830 --> 00:56:00,490
+You can't just look up everything
+on Google, despite what
+
+1294
+00:56:00,490 --> 00:56:03,830
+you know, certain educators
+or so-called educators say,
+
+1295
+00:56:03,830 --> 00:56:07,260
+you need a database so that
+you can have the raw materials
+
+1296
+00:56:07,260 --> 00:56:08,440
+with which to be creative.
+
+1297
+00:56:08,440 --> 00:56:10,660
+So necessary to have memory
+
+1298
+00:56:10,660 --> 00:56:13,040
+but not sufficient to be creative, right?
+
+1299
+00:56:13,040 --> 00:56:16,310
+The creative could have a
+poor memory for certain things
+
+1300
+00:56:16,310 --> 00:56:17,770
+but certainly not for everything.
+
+1301
+00:56:17,770 --> 00:56:20,330
+They can't have anterograde
+and retrograde amnesia.
+
+1302
+00:56:20,330 --> 00:56:22,130
+They'd be like the
+goldfish that every time
+
+1303
+00:56:22,130 --> 00:56:24,430
+around the tank, it, you know
+
+1304
+00:56:24,430 --> 00:56:26,456
+I can't remember where it's at.
+
+1305
+00:56:26,456 --> 00:56:27,790
+I actually don't know that
+they've ever done that experiment
+
+1306
+00:56:27,790 --> 00:56:30,530
+by the way, but you know,
+so no disrespect to goldfish
+
+1307
+00:56:30,530 --> 00:56:33,410
+but you know, so you get the idea.
+
+1308
+00:56:33,410 --> 00:56:35,140
+You've got creativity, you have memory,
+
+1309
+00:56:35,140 --> 00:56:37,810
+you have the ability
+to task switch, right?
+
+1310
+00:56:37,810 --> 00:56:39,420
+You have the ability to
+
+1311
+00:56:40,810 --> 00:56:43,090
+strategy development, strategy implement.
+
+1312
+00:56:43,090 --> 00:56:45,880
+So the problem I have with
+the concept of a nootropic
+
+1313
+00:56:45,880 --> 00:56:49,200
+or a smart drug is it's not
+specific as to what cognitive
+
+1314
+00:56:50,600 --> 00:56:52,700
+algorithm you're trying to engage.
+
+1315
+00:56:52,700 --> 00:56:54,590
+We need more specificity.
+
+1316
+00:56:54,590 --> 00:56:57,150
+That said, there are elements to learning
+
+1317
+00:56:57,150 --> 00:56:58,930
+that we've discussed here before
+
+1318
+00:56:58,930 --> 00:57:01,070
+that are very concrete things like
+
+1319
+00:57:01,070 --> 00:57:04,050
+the ability to focus and put the blinders
+
+1320
+00:57:04,050 --> 00:57:06,010
+on to everything else that's happening in
+
+1321
+00:57:06,010 --> 00:57:08,700
+around you and in your head mainly, right?
+
+1322
+00:57:08,700 --> 00:57:10,440
+Distractions about things
+you should be doing,
+
+1323
+00:57:10,440 --> 00:57:12,310
+could be doing or might be doing
+
+1324
+00:57:12,310 --> 00:57:14,200
+and focus on what you need to do.
+
+1325
+00:57:14,200 --> 00:57:17,540
+And then that's required for
+triggering the acetylcholine
+
+1326
+00:57:17,540 --> 00:57:21,440
+neuromodulator that will then allow you to
+
+1327
+00:57:21,440 --> 00:57:23,210
+highlight the particular
+synopsis that will then
+
+1328
+00:57:23,210 --> 00:57:24,890
+later change in sleep.
+
+1329
+00:57:24,890 --> 00:57:27,590
+So no nootropic allows
+you to bypass the need
+
+1330
+00:57:27,590 --> 00:57:29,900
+for sleep in deep rest.
+
+1331
+00:57:29,900 --> 00:57:31,320
+That's important to understand.
+
+1332
+00:57:31,320 --> 00:57:36,320
+So I daydream about a day
+when people will be able
+
+1333
+00:57:38,780 --> 00:57:42,250
+to access compounds that are safe,
+
+1334
+00:57:42,250 --> 00:57:44,500
+that will allow them to
+learn better meaning,
+
+1335
+00:57:44,500 --> 00:57:47,270
+to access information, focus better,
+
+1336
+00:57:47,270 --> 00:57:50,400
+as well as to sleep better
+and activate the plasticity
+
+1337
+00:57:50,400 --> 00:57:51,970
+from the learning about.
+
+1338
+00:57:51,970 --> 00:57:53,580
+Right now most nootropics
+
+1339
+00:57:53,580 --> 00:57:55,440
+tend to bundle a bunch of things together.
+
+1340
+00:57:55,440 --> 00:57:59,620
+Most of them include some
+form of stimulant, caffeine.
+
+1341
+00:57:59,620 --> 00:58:01,780
+Episode two, I'll tell you more probably
+
+1342
+00:58:01,780 --> 00:58:03,370
+than you ever wanted
+to know about caffeine,
+
+1343
+00:58:03,370 --> 00:58:04,600
+adenosine and how that works.
+
+1344
+00:58:04,600 --> 00:58:06,500
+So refer there for how caffeine works.
+
+1345
+00:58:07,630 --> 00:58:10,790
+But stimulants will allow
+you to increase focus
+
+1346
+00:58:10,790 --> 00:58:12,550
+up to a particular point.
+
+1347
+00:58:12,550 --> 00:58:15,360
+If you have too little
+alertness in your system,
+
+1348
+00:58:15,360 --> 00:58:17,310
+you can't focus, too much however,
+
+1349
+00:58:17,310 --> 00:58:19,460
+you start to cliff and focus drifts, okay?
+
+1350
+00:58:19,460 --> 00:58:23,130
+So you can't just ingest more
+stimulant to be more focused.
+
+1351
+00:58:23,130 --> 00:58:24,570
+It doesn't work that way.
+
+1352
+00:58:24,570 --> 00:58:28,030
+Most nootropics also
+include things that increase
+
+1353
+00:58:28,030 --> 00:58:30,420
+or a desire to increase acetylcholine.
+
+1354
+00:58:30,420 --> 00:58:34,100
+Things like alpha GPC and
+other things of that sort.
+
+1355
+00:58:34,100 --> 00:58:35,850
+And indeed, there's some evidence
+
+1356
+00:58:35,850 --> 00:58:37,300
+that they can increase acetylcholine.
+
+1357
+00:58:37,300 --> 00:58:40,300
+I refer you again to
+examine.com the website to
+
+1358
+00:58:40,300 --> 00:58:43,350
+evaluate any supplements or
+compounds for their safety
+
+1359
+00:58:43,350 --> 00:58:47,030
+and their effects in humans
+and animals, free website
+
+1360
+00:58:48,010 --> 00:58:49,950
+as well as with links to studies.
+
+1361
+00:58:49,950 --> 00:58:51,770
+So we need the focus component.
+
+1362
+00:58:51,770 --> 00:58:52,990
+We need the alertness component.
+
+1363
+00:58:52,990 --> 00:58:54,840
+The alertness component
+comes from epinephrin,
+
+1364
+00:58:54,840 --> 00:58:57,280
+traditionally from caffeine stimulation.
+
+1365
+00:58:57,280 --> 00:59:00,140
+The acetylcholine stimulation
+traditionally comes
+
+1366
+00:59:00,140 --> 00:59:03,860
+from Coleen donors or alpha
+GPC, things of that sort.
+
+1367
+00:59:03,860 --> 00:59:07,030
+And then you would want to
+have some sort of off switch,
+
+1368
+00:59:07,030 --> 00:59:09,360
+because anything that's going to really
+
+1369
+00:59:09,360 --> 00:59:12,390
+stimulate your alertness,
+that then provides a crash.
+
+1370
+00:59:12,390 --> 00:59:14,030
+That crash is not a crash
+
+1371
+00:59:14,030 --> 00:59:16,500
+into the deep kind of restful slumber
+
+1372
+00:59:16,500 --> 00:59:18,540
+that you would want for learning,
+
+1373
+00:59:18,540 --> 00:59:20,573
+it's a crash into the kind of,
+
+1374
+00:59:22,680 --> 00:59:26,870
+let's just call it lopsided
+sleep, meaning it's deep sleep
+
+1375
+00:59:26,870 --> 00:59:29,360
+but it lacks certain
+spindles and other elements
+
+1376
+00:59:29,360 --> 00:59:31,230
+of the physiology sleep spindles,
+
+1377
+00:59:31,230 --> 00:59:33,730
+that really engage the learning process
+
+1378
+00:59:33,730 --> 00:59:35,930
+and the reconfiguration of synopsis.
+
+1379
+00:59:35,930 --> 00:59:40,130
+So right now, my stance
+on nootropics is that
+
+1380
+00:59:40,130 --> 00:59:45,130
+maybe, maybe for occasional
+use, provided it's safe for you,
+
+1381
+00:59:45,630 --> 00:59:48,500
+I'm not recommending it, but in general
+
+1382
+00:59:48,500 --> 00:59:51,610
+it tends to use more of a shotgun approach
+
+1383
+00:59:51,610 --> 00:59:53,708
+than is probably going to be useful
+
+1384
+00:59:53,708 --> 00:59:56,940
+for learning and memory in the long run.
+
+1385
+00:59:56,940 --> 00:59:59,670
+A lot of people ask about
+Modafinil or armodafinil
+
+1386
+00:59:59,670 --> 01:00:01,570
+which was designed for
+treatment of narcolepsy.
+
+1387
+01:00:01,570 --> 01:00:03,490
+So right there, it tells
+you it's a stimulant.
+
+1388
+01:00:03,490 --> 01:00:05,900
+And yes, there is evidence, it
+will improve learning memory.
+
+1389
+01:00:05,900 --> 01:00:07,390
+Modafinil is very expensive.
+
+1390
+01:00:07,390 --> 01:00:08,880
+Last time I checked our Modafinil
+
+1391
+01:00:08,880 --> 01:00:12,620
+I think is the recent
+released a generic version
+
+1392
+01:00:12,620 --> 01:00:14,990
+of this that's far less expensive.
+
+1393
+01:00:14,990 --> 01:00:17,090
+Most of these things look
+a lot like amphetamine
+
+1394
+01:00:17,090 --> 01:00:21,410
+and many of them have the
+potential for addiction
+
+1395
+01:00:21,410 --> 01:00:23,133
+or can be habit forming.
+
+1396
+01:00:24,130 --> 01:00:26,410
+But more importantly,
+a lot of those things
+
+1397
+01:00:26,410 --> 01:00:28,830
+also can create metabolic
+effects by disruption
+
+1398
+01:00:28,830 --> 01:00:30,510
+to insulin receptors and so forth.
+
+1399
+01:00:30,510 --> 01:00:32,450
+So you want to approach those with a
+
+1400
+01:00:32,450 --> 01:00:34,750
+strong sense of caution.
+
+1401
+01:00:34,750 --> 01:00:37,980
+Now, there are the milder
+things that act as nootropics
+
+1402
+01:00:37,980 --> 01:00:40,453
+that I mentioned, some
+of them like alpha GPC.
+
+1403
+01:00:41,490 --> 01:00:42,323
+Some people like Gingko.
+
+1404
+01:00:42,323 --> 01:00:45,760
+Gingko gives me vicious
+headaches, so I don't take it.
+
+1405
+01:00:45,760 --> 01:00:47,720
+So people really differ.
+
+1406
+01:00:47,720 --> 01:00:52,100
+Last podcast, I recommend
+magnesium threonate
+
+1407
+01:00:52,100 --> 01:00:54,010
+if you were exploring supplements
+
+1408
+01:00:54,010 --> 01:00:55,640
+I'm not recommending anything directly.
+
+1409
+01:00:55,640 --> 01:00:57,620
+I'm just saying if you're
+exploring supplements,
+
+1410
+01:00:57,620 --> 01:01:00,636
+magnesium threonate seems
+among the magnesiums
+
+1411
+01:01:00,636 --> 01:01:05,250
+to be one of the more
+bioavailable and useful for sleep.
+
+1412
+01:01:05,250 --> 01:01:07,550
+I recommended it actually
+to a good friend of mine,
+
+1413
+01:01:07,550 --> 01:01:11,350
+it gave him at very low dose,
+he had stomach issues with it.
+
+1414
+01:01:11,350 --> 01:01:12,870
+He just had to simply stop taking it.
+
+1415
+01:01:12,870 --> 01:01:14,027
+So there's variability there.
+
+1416
+01:01:14,027 --> 01:01:16,380
+You just, it gave him
+some stomach cramping
+
+1417
+01:01:16,380 --> 01:01:17,840
+and just didn't feel good on it.
+
+1418
+01:01:17,840 --> 01:01:19,580
+Stopped it, he felt better.
+
+1419
+01:01:19,580 --> 01:01:22,620
+Other people take magnesium
+threonate and feel great.
+
+1420
+01:01:22,620 --> 01:01:25,040
+I was asked, do magnesium need to be taken
+
+1421
+01:01:25,040 --> 01:01:27,210
+with or without food or before sleep?
+
+1422
+01:01:27,210 --> 01:01:29,110
+If you're going to go that route
+
+1423
+01:01:29,110 --> 01:01:31,380
+it should be taken 30 to
+60 minutes before sleep,
+
+1424
+01:01:31,380 --> 01:01:33,070
+'cause it's designed to make you sleepy.
+
+1425
+01:01:33,070 --> 01:01:36,460
+And I'm not aware that it
+has to be taken with food,
+
+1426
+01:01:36,460 --> 01:01:38,520
+but again all of this has
+to be run by your doctor
+
+1427
+01:01:38,520 --> 01:01:42,240
+and this is your healthcare to govern not,
+
+1428
+01:01:42,240 --> 01:01:44,820
+these are not strict
+recommendations so look into it.
+
+1429
+01:01:44,820 --> 01:01:49,820
+But magnesium threonate,
+most people I recommend it to
+
+1430
+01:01:50,210 --> 01:01:52,190
+have benefit from it tremendously.
+
+1431
+01:01:52,190 --> 01:01:55,300
+Some people can't tolerate
+it, so you have to find out.
+
+1432
+01:01:55,300 --> 01:01:57,320
+There were a number of questions
+about other supplements
+
+1433
+01:01:57,320 --> 01:01:59,700
+designed to access deep sleep,
+
+1434
+01:01:59,700 --> 01:02:01,830
+in part to access neuroplasticity,
+
+1435
+01:02:01,830 --> 01:02:04,780
+but now I'm just sort of
+transitioning from neuroplasticity
+
+1436
+01:02:04,780 --> 01:02:07,160
+to these compounds that
+can regulate sleep.
+
+1437
+01:02:07,160 --> 01:02:09,280
+One of them that I discussed
+at the end of the last podcast,
+
+1438
+01:02:09,280 --> 01:02:11,270
+I got a lot of questions about is apigenin
+
+1439
+01:02:11,270 --> 01:02:15,600
+A-P-I-G-E-N-I-N, apigenin.
+
+1440
+01:02:15,600 --> 01:02:16,800
+If you will look in the literature
+
+1441
+01:02:16,800 --> 01:02:19,310
+the way it works is it
+increases some of the enzymes
+
+1442
+01:02:19,310 --> 01:02:21,130
+associated with GABA metabolism.
+
+1443
+01:02:21,130 --> 01:02:24,680
+It actually, GABA's an
+inhibitory neurotransmitter.
+
+1444
+01:02:24,680 --> 01:02:27,330
+It's the neurotransmitter
+that is increased
+
+1445
+01:02:27,330 --> 01:02:31,010
+after a couple alcohol
+drinks containing alcohol.
+
+1446
+01:02:31,010 --> 01:02:32,733
+And that shut down the forebrain.
+
+1447
+01:02:34,080 --> 01:02:37,540
+Apigenin is a derivative of the camomile.
+
+1448
+01:02:37,540 --> 01:02:39,350
+I think that the proper pronunciation
+
+1449
+01:02:39,350 --> 01:02:41,690
+of this is metric caria kemo mila.
+
+1450
+01:02:41,690 --> 01:02:42,523
+Although I always feel like
+
+1451
+01:02:42,523 --> 01:02:44,963
+I should be using a Spanish accent.
+
+1452
+01:02:44,963 --> 01:02:47,110
+Whenever I say something like that
+
+1453
+01:02:47,110 --> 01:02:49,360
+other related things that
+impact the GABA system
+
+1454
+01:02:49,360 --> 01:02:51,900
+and increase GABA or
+things like passion flower
+
+1455
+01:02:51,900 --> 01:02:53,147
+which is [speaks in foreign language].
+
+1456
+01:02:54,728 --> 01:02:57,340
+[chuckles] I don't know why
+the Italian, is that Italian.
+
+1457
+01:02:57,340 --> 01:02:59,770
+Anyway, my Italian
+colleagues, please forgive me.
+
+1458
+01:02:59,770 --> 01:03:02,540
+I have some very close Italian friends
+
+1459
+01:03:02,540 --> 01:03:03,740
+and colleagues in Genoa.
+
+1460
+01:03:04,760 --> 01:03:06,640
+I butchered the Italian, sorry.
+
+1461
+01:03:06,640 --> 01:03:11,640
+In any event apigenin and
+passion flower found in a lot of,
+
+1462
+01:03:12,430 --> 01:03:15,760
+a lot of supplements designed
+to increase sleepiness
+
+1463
+01:03:15,760 --> 01:03:17,640
+and sleep because, and
+they work presumably
+
+1464
+01:03:17,640 --> 01:03:18,870
+because they increase GABA.
+
+1465
+01:03:18,870 --> 01:03:21,110
+Actually they work on chloride channels
+
+1466
+01:03:21,110 --> 01:03:22,400
+rather than give you a whole lecture
+
+1467
+01:03:22,400 --> 01:03:24,850
+on membrane biophysics in neurons.
+
+1468
+01:03:24,850 --> 01:03:27,230
+I'll just say that when
+neurons are really active
+
+1469
+01:03:27,230 --> 01:03:31,780
+it's because sodium ions,
+salt rushes into the cells
+
+1470
+01:03:31,780 --> 01:03:33,720
+and causes them to fire electrically.
+
+1471
+01:03:33,720 --> 01:03:36,720
+The cells tend to become
+less active as more chloride
+
+1472
+01:03:36,720 --> 01:03:38,903
+which is a negatively charged ion.
+
+1473
+01:03:40,000 --> 01:03:41,880
+This is probably taking
+some of you back to the
+
+1474
+01:03:41,880 --> 01:03:44,260
+either the wonderful times
+
+1475
+01:03:44,260 --> 01:03:46,330
+or traumas of high school physics.
+
+1476
+01:03:46,330 --> 01:03:48,140
+The chloride is negatively charged so,
+
+1477
+01:03:48,140 --> 01:03:51,420
+it tends to make cells
+less electrically positive,
+
+1478
+01:03:51,420 --> 01:03:53,120
+'cause carries a negative charge
+
+1479
+01:03:53,120 --> 01:03:55,510
+and hyperpolarizes the neuron.
+
+1480
+01:03:55,510 --> 01:03:58,610
+So apigenin works through
+these increasing the activity
+
+1481
+01:03:58,610 --> 01:03:59,720
+of these chloride channels.
+
+1482
+01:03:59,720 --> 01:04:02,110
+Passionflower works by
+increasing the activity
+
+1483
+01:04:02,110 --> 01:04:04,550
+of these chloride channels
+and GABA transmission.
+
+1484
+01:04:04,550 --> 01:04:07,380
+It tends to increase this
+inhibitory neurotransmitter
+
+1485
+01:04:07,380 --> 01:04:09,530
+that shuts off our thinking
+
+1486
+01:04:09,530 --> 01:04:11,633
+our analysis of duration path and outcome.
+
+1487
+01:04:12,890 --> 01:04:14,270
+So if you're going to explore these things
+
+1488
+01:04:14,270 --> 01:04:16,390
+I suggest you at least know how they work.
+
+1489
+01:04:16,390 --> 01:04:19,330
+You at least go to examined.com
+
+1490
+01:04:19,330 --> 01:04:21,250
+that you talked to your doctor about them.
+
+1491
+01:04:21,250 --> 01:04:23,780
+Some people asked about serotonin
+
+1492
+01:04:23,780 --> 01:04:26,860
+for getting to sleep and staying asleep.
+
+1493
+01:04:26,860 --> 01:04:29,610
+Now I understand the rationale here.
+
+1494
+01:04:29,610 --> 01:04:31,730
+Just like I understand the
+rationale of taking something
+
+1495
+01:04:31,730 --> 01:04:34,910
+like Macuna Purina or
+L-DOPA to increase dopamine
+
+1496
+01:04:34,910 --> 01:04:36,810
+but sometimes what works on paper
+
+1497
+01:04:36,810 --> 01:04:38,940
+doesn't really work in the real world.
+
+1498
+01:04:38,940 --> 01:04:41,130
+I personally have tried
+taking a supplement
+
+1499
+01:04:41,130 --> 01:04:45,260
+which was Al tryptophan, which
+is the precursor to serotonin
+
+1500
+01:04:45,260 --> 01:04:48,090
+or five HTP, which is
+designed to increase,
+
+1501
+01:04:48,090 --> 01:04:49,650
+it is serotonin basically.
+
+1502
+01:04:49,650 --> 01:04:52,400
+You're just a one biochemical step away
+
+1503
+01:04:52,400 --> 01:04:55,140
+from actually taking actual serotonin.
+
+1504
+01:04:55,140 --> 01:04:57,860
+And I'll be honest the sleep that I had
+
+1505
+01:04:57,860 --> 01:04:59,000
+with increased serotonin
+
+1506
+01:04:59,000 --> 01:05:01,780
+by way of tryptophan or
+five HTP was dreadful.
+
+1507
+01:05:01,780 --> 01:05:03,660
+I fell asleep almost immediately.
+
+1508
+01:05:03,660 --> 01:05:04,660
+You say, well, that's great.
+
+1509
+01:05:04,660 --> 01:05:06,260
+And 90 minutes later, I woke up
+
+1510
+01:05:06,260 --> 01:05:08,470
+and I couldn't sleep almost for 48 hours.
+
+1511
+01:05:08,470 --> 01:05:10,540
+Now that was me, I have
+a pretty sensitive system
+
+1512
+01:05:10,540 --> 01:05:12,240
+to certain things and not to other things.
+
+1513
+01:05:12,240 --> 01:05:13,530
+Some people love these things.
+
+1514
+01:05:13,530 --> 01:05:15,390
+So you really have to be thoughtful
+
+1515
+01:05:15,390 --> 01:05:18,510
+and explore them with
+that kind of awareness
+
+1516
+01:05:18,510 --> 01:05:22,080
+of being thoughtful and
+realizing that what works for you
+
+1517
+01:05:22,080 --> 01:05:23,110
+might not work for everybody
+
+1518
+01:05:23,110 --> 01:05:25,810
+and what works for everybody
+might not work for you.
+
+1519
+01:05:25,810 --> 01:05:26,643
+Okay?
+
+1520
+01:05:26,643 --> 01:05:27,760
+I'd like to continue by talking about
+
+1521
+01:05:27,760 --> 01:05:32,410
+the role of temperature
+in sleep, accessing sleep,
+
+1522
+01:05:32,410 --> 01:05:34,983
+staying asleep and wakefulness.
+
+1523
+01:05:36,110 --> 01:05:38,380
+But first I want to tell a joke.
+
+1524
+01:05:38,380 --> 01:05:39,460
+Because I think this joke
+
+1525
+01:05:39,460 --> 01:05:42,650
+really captures some of the
+critical things to understand
+
+1526
+01:05:42,650 --> 01:05:45,363
+about any self-experimentation
+that you might do.
+
+1527
+01:05:46,200 --> 01:05:48,270
+So this is a story that was told to me
+
+1528
+01:05:48,270 --> 01:05:51,180
+by a colleague of mine who's
+now a professor of Caltech
+
+1529
+01:05:51,180 --> 01:05:52,273
+not to be named.
+
+1530
+01:05:53,600 --> 01:05:57,130
+So there's a scientist
+and they're in their lab.
+
+1531
+01:05:57,130 --> 01:05:59,070
+And they're trying to understand
+
+1532
+01:05:59,070 --> 01:06:01,130
+how the nervous system works.
+
+1533
+01:06:01,130 --> 01:06:04,804
+So they go over to a tank
+and they pick up a frog,
+
+1534
+01:06:04,804 --> 01:06:08,200
+and they take the frog and
+they put it down on the table
+
+1535
+01:06:08,200 --> 01:06:10,440
+And they clap.
+[claps]
+
+1536
+01:06:10,440 --> 01:06:11,483
+And the frog jumps.
+
+1537
+01:06:12,630 --> 01:06:16,350
+So they think for awhile,
+they pick up the frog, okay.
+
+1538
+01:06:16,350 --> 01:06:20,180
+They go over to the
+cabinet and they take out
+
+1539
+01:06:20,180 --> 01:06:24,310
+a little bit of a paralytic
+drug and they inject it locally
+
+1540
+01:06:24,310 --> 01:06:29,310
+into the back leg, set
+it down and clap. [claps]
+
+1541
+01:06:29,470 --> 01:06:30,910
+And the frog jumps,
+
+1542
+01:06:30,910 --> 01:06:33,460
+but it kind of like jumps
+to the side a little bit.
+
+1543
+01:06:34,360 --> 01:06:36,430
+They pick it up, they inject the paralytic
+
+1544
+01:06:36,430 --> 01:06:38,560
+into the other back leg.
+
+1545
+01:06:38,560 --> 01:06:41,110
+They clap again, the frog jumps,
+
+1546
+01:06:41,110 --> 01:06:42,780
+but it really doesn't jump well that time,
+
+1547
+01:06:42,780 --> 01:06:44,483
+it kind of drags itself forward.
+
+1548
+01:06:45,370 --> 01:06:47,140
+So they pick it up and
+they inject the paralytic
+
+1549
+01:06:47,140 --> 01:06:49,350
+into the remaining two legs.
+
+1550
+01:06:49,350 --> 01:06:54,350
+They set it down and they clap
+and the frog doesn't jump.
+
+1551
+01:06:54,640 --> 01:06:55,473
+And they go,
+
+1552
+01:06:55,473 --> 01:06:58,847
+"Oh my goodness! The legs
+are used for hearing."
+
+1553
+01:06:59,840 --> 01:07:02,330
+Now they publish the paper.
+
+1554
+01:07:02,330 --> 01:07:05,610
+Paper comes out in a great
+journal, news releases.
+
+1555
+01:07:05,610 --> 01:07:08,470
+It's a really big deal,
+their career takes off.
+
+1556
+01:07:08,470 --> 01:07:11,750
+20 years later, a really
+smart graduate student
+
+1557
+01:07:11,750 --> 01:07:15,230
+comes along and says, "Yeah
+but that's loss of function.
+
+1558
+01:07:15,230 --> 01:07:17,410
+It doesn't really show gain of function."
+
+1559
+01:07:17,410 --> 01:07:18,853
+So let's take a closer look.
+
+1560
+01:07:19,950 --> 01:07:22,810
+So they repeat the first
+experiment and checks out,
+
+1561
+01:07:22,810 --> 01:07:26,540
+everything happens the same
+way, but then they take the frog
+
+1562
+01:07:27,510 --> 01:07:32,210
+and they inject a drug into
+all four legs that turns off
+
+1563
+01:07:32,210 --> 01:07:34,180
+the paralytic, right?
+
+1564
+01:07:34,180 --> 01:07:35,600
+It's an antagonist.
+
+1565
+01:07:35,600 --> 01:07:40,270
+They set the frog down, they
+clap, and the frog jumps
+
+1566
+01:07:40,270 --> 01:07:42,220
+and they go, "Oh my goodness! It's true.
+
+1567
+01:07:42,220 --> 01:07:45,220
+The legs really are for hearing."
+
+1568
+01:07:45,220 --> 01:07:48,970
+Now, first of all, I want
+to make the point that
+
+1569
+01:07:48,970 --> 01:07:50,950
+this is not to illustrate that science
+
+1570
+01:07:50,950 --> 01:07:52,900
+is not a good practice, it is.
+
+1571
+01:07:52,900 --> 01:07:54,510
+We need to do loss of function
+
+1572
+01:07:54,510 --> 01:07:56,750
+and gain and function experiments.
+
+1573
+01:07:56,750 --> 01:07:59,400
+But just to show that
+correlation and causation
+
+1574
+01:07:59,400 --> 01:08:00,260
+is complicated.
+
+1575
+01:08:00,260 --> 01:08:02,470
+You need to do a variety
+of control experiments,
+
+1576
+01:08:02,470 --> 01:08:04,840
+and you really need to figure
+out what works for you.
+
+1577
+01:08:04,840 --> 01:08:08,440
+And so while science can
+provide answers about what works
+
+1578
+01:08:08,440 --> 01:08:11,420
+under very controlled
+conditions, it doesn't
+
+1579
+01:08:11,420 --> 01:08:14,140
+and can never address all the situations
+
+1580
+01:08:14,140 --> 01:08:15,670
+in which a given compound,
+
+1581
+01:08:15,670 --> 01:08:17,819
+a given practice will or won't work.
+
+1582
+01:08:17,819 --> 01:08:19,409
+And it's not just individual variability
+
+1583
+01:08:19,410 --> 01:08:21,160
+is that there are a number
+of different factors.
+
+1584
+01:08:21,160 --> 01:08:23,979
+You all of course know
+that light can activate
+
+1585
+01:08:23,979 --> 01:08:26,049
+and shift your circadian
+rhythm, but so can exercise,
+
+1586
+01:08:26,050 --> 01:08:27,290
+so can food.
+
+1587
+01:08:27,290 --> 01:08:28,979
+The last point I want to
+make is an important one,
+
+1588
+01:08:28,979 --> 01:08:32,049
+which is that no frogs were hurt
+
+1589
+01:08:32,050 --> 01:08:34,020
+in the telling of this joke.
+
+1590
+01:08:34,020 --> 01:08:35,680
+Okay. So let's continue.
+
+1591
+01:08:35,680 --> 01:08:37,420
+I want to talk about temperature.
+
+1592
+01:08:37,420 --> 01:08:40,020
+Temperature is super
+interesting as it relates to
+
+1593
+01:08:40,020 --> 01:08:43,313
+circadian rhythms and
+wakefulness and sleep.
+
+1594
+01:08:44,689 --> 01:08:48,169
+First let's take a look
+at what's happening to our
+
+1595
+01:08:48,170 --> 01:08:51,939
+body temperature across
+each 24-hour cycle.
+
+1596
+01:08:51,939 --> 01:08:54,819
+In general, our temperature
+tends to be lowest
+
+1597
+01:08:54,819 --> 01:08:59,659
+right around 4:00 AM and starts
+creeping up around 6:00 AM,
+
+1598
+01:08:59,660 --> 01:09:04,660
+8:00 AM and peaks sometime
+between 4:00 PM and 6:00 PM.
+
+1599
+01:09:05,229 --> 01:09:07,959
+Now that varies from person
+to person, but in general
+
+1600
+01:09:07,960 --> 01:09:10,850
+if we were to continuously
+monitor or occasionally monitor
+
+1601
+01:09:10,850 --> 01:09:12,970
+temperature that's what we would see.
+
+1602
+01:09:12,970 --> 01:09:14,979
+Now what's interesting is
+that even in the absence
+
+1603
+01:09:14,979 --> 01:09:19,609
+of any light cues or meal
+cues, we would have a shift.
+
+1604
+01:09:19,609 --> 01:09:22,129
+We would have an oscillation
+or a rhythm in our temperature.
+
+1605
+01:09:22,130 --> 01:09:24,490
+They would go from high to low.
+
+1606
+01:09:24,490 --> 01:09:26,710
+This is why the idea that we're all 96.8
+
+1607
+01:09:26,710 --> 01:09:27,899
+and that's our correct temperature.
+
+1608
+01:09:27,899 --> 01:09:30,529
+Forget that. That is no longer true.
+
+1609
+01:09:30,529 --> 01:09:31,619
+It never was true.
+
+1610
+01:09:31,620 --> 01:09:34,260
+It depends on what time of
+day you measure temperature.
+
+1611
+01:09:34,260 --> 01:09:37,359
+However, there is a range
+which is within normal range,
+
+1612
+01:09:37,359 --> 01:09:40,103
+I think most of us associate
+fever with somewhere around
+
+1613
+01:09:40,104 --> 01:09:42,880
+100, 101 103, that's concerning.
+
+1614
+01:09:42,880 --> 01:09:44,000
+And we will be very concerned
+
+1615
+01:09:44,000 --> 01:09:46,630
+if temperature drop too low as well.
+
+1616
+01:09:46,630 --> 01:09:50,170
+The way that the temperature
+rhythm that's indogenous,
+
+1617
+01:09:50,170 --> 01:09:52,740
+that's within us and
+rhythmic no matter what,
+
+1618
+01:09:52,740 --> 01:09:57,100
+the way it gets anchored to
+the pattern I described before,
+
+1619
+01:09:57,100 --> 01:10:00,560
+or being lowest at 4:00 AM
+and increasing again around,
+
+1620
+01:10:00,560 --> 01:10:04,550
+through the day until about
+four to 6:00 PM is by way
+
+1621
+01:10:04,550 --> 01:10:09,460
+of entrainment or matching
+to some external cue,
+
+1622
+01:10:09,460 --> 01:10:13,360
+which is almost always going
+to be light, but also exercise.
+
+1623
+01:10:13,360 --> 01:10:17,150
+Now you may have experienced
+this temperature rhythm
+
+1624
+01:10:17,150 --> 01:10:20,860
+and how quickly it can become uninterested
+
+1625
+01:10:20,860 --> 01:10:23,520
+or it can fall out of entrainment.
+
+1626
+01:10:23,520 --> 01:10:25,940
+Here's an experiment I
+wouldn't want you to do
+
+1627
+01:10:25,940 --> 01:10:28,150
+but you've probably
+experienced this before,
+
+1628
+01:10:28,150 --> 01:10:31,470
+where you wake up, it's sunny outside,
+
+1629
+01:10:31,470 --> 01:10:33,810
+and maybe you have some email
+or some things to take care of
+
+1630
+01:10:33,810 --> 01:10:35,440
+or maybe you didn't sleep
+that well the night before
+
+1631
+01:10:35,440 --> 01:10:37,710
+and so you stay in doors.
+
+1632
+01:10:37,710 --> 01:10:39,380
+You don't change anything
+about your breakfast,
+
+1633
+01:10:39,380 --> 01:10:42,670
+you don't change anything about
+your within home temperature
+
+1634
+01:10:42,670 --> 01:10:43,970
+or anything like that.
+
+1635
+01:10:43,970 --> 01:10:45,930
+And somewhere right
+around 10 or 11 o'clock
+
+1636
+01:10:45,930 --> 01:10:48,920
+you start feeling kind of
+chilled, like you're cold.
+
+1637
+01:10:48,920 --> 01:10:52,290
+Well, what happened was
+the oscillators, the clocks
+
+1638
+01:10:52,290 --> 01:10:55,017
+in your various tissues that
+are governed by temperature
+
+1639
+01:10:55,017 --> 01:10:58,720
+and circadian rhythm are
+starting to split away
+
+1640
+01:10:58,720 --> 01:11:00,920
+from your central clock mechanisms.
+
+1641
+01:11:00,920 --> 01:11:02,340
+So it's actually important
+
+1642
+01:11:02,340 --> 01:11:04,800
+that your temperature match day length.
+
+1643
+01:11:04,800 --> 01:11:05,633
+Now there's another way
+
+1644
+01:11:05,633 --> 01:11:08,490
+in which temperature matches,
+oh daytime, excuse me.
+
+1645
+01:11:08,490 --> 01:11:09,910
+There's also an important way
+
+1646
+01:11:09,910 --> 01:11:12,730
+in which temperature matches
+day length in general
+
+1647
+01:11:12,730 --> 01:11:15,620
+as days get longer, it
+tends to be hotter out.
+
+1648
+01:11:15,620 --> 01:11:18,340
+Not always, but in general,
+that's the way it is.
+
+1649
+01:11:18,340 --> 01:11:21,770
+And as days get shorter, it
+tends to be colder outside.
+
+1650
+01:11:21,770 --> 01:11:26,330
+So temperature and day length
+are also linked metabolically.
+
+1651
+01:11:26,330 --> 01:11:29,840
+They're linked biologically
+they're linked, excuse me,
+
+1652
+01:11:29,840 --> 01:11:31,370
+and atmospherically they're linked
+
+1653
+01:11:31,370 --> 01:11:32,700
+for the reason that we talked about before
+
+1654
+01:11:32,700 --> 01:11:34,767
+about duration of day length
+
+1655
+01:11:34,767 --> 01:11:37,470
+and other climate features and so forth.
+
+1656
+01:11:37,470 --> 01:11:39,520
+So one of the most powerful things
+
+1657
+01:11:39,520 --> 01:11:41,810
+about setting your
+circadian rhythm properly
+
+1658
+01:11:41,810 --> 01:11:44,240
+is that your temperature
+will start to fall
+
+1659
+01:11:44,240 --> 01:11:45,440
+into a regular rhythm.
+
+1660
+01:11:45,440 --> 01:11:48,460
+And that temperature
+has a very strong effect
+
+1661
+01:11:48,460 --> 01:11:50,480
+on things like metabolism
+
+1662
+01:11:50,480 --> 01:11:53,890
+and when you will feel
+most willing and interested
+
+1663
+01:11:53,890 --> 01:11:57,080
+in exercising, typically
+the willingness to exercise
+
+1664
+01:11:57,080 --> 01:12:00,290
+and engage in any kind of
+activity mental or physical
+
+1665
+01:12:00,290 --> 01:12:03,640
+is going to be when that rise
+in temperature is steepest.
+
+1666
+01:12:03,640 --> 01:12:05,260
+When the slope of that line is greatest.
+
+1667
+01:12:05,260 --> 01:12:07,080
+That's why 30 minutes after waking
+
+1668
+01:12:07,080 --> 01:12:08,340
+is one of those key windows,
+
+1669
+01:12:08,340 --> 01:12:10,127
+as well as three hours after waking.
+
+1670
+01:12:10,127 --> 01:12:12,380
+And then when temperature actually peaks
+
+1671
+01:12:12,380 --> 01:12:17,380
+which is generally, generally
+about 11 hours after waking.
+
+1672
+01:12:17,810 --> 01:12:21,760
+So this is why we say that
+temperature and circadian rhythm
+
+1673
+01:12:21,760 --> 01:12:25,350
+are linked but they're actually
+even more linked than that.
+
+1674
+01:12:25,350 --> 01:12:27,920
+We've talked before about
+how light enters the eye,
+
+1675
+01:12:27,920 --> 01:12:30,160
+triggers activation of
+these melanopsin cells,
+
+1676
+01:12:30,160 --> 01:12:31,430
+which then triggers activation
+
+1677
+01:12:31,430 --> 01:12:32,960
+of the super charismatic nucleus,
+
+1678
+01:12:32,960 --> 01:12:34,690
+the master circadian clock.
+
+1679
+01:12:34,690 --> 01:12:36,660
+And then I always say the
+master circadian clock
+
+1680
+01:12:36,660 --> 01:12:38,660
+informs all the cells
+and tissues of your body
+
+1681
+01:12:38,660 --> 01:12:41,800
+and puts them into a nice cohesive rhythm.
+
+1682
+01:12:41,800 --> 01:12:45,160
+But what I've never answered
+was how it actually puts them
+
+1683
+01:12:45,160 --> 01:12:46,690
+into that rhythm.
+
+1684
+01:12:46,690 --> 01:12:48,400
+And it does it two ways.
+
+1685
+01:12:48,400 --> 01:12:50,220
+One is it secretes a peptide.
+
+1686
+01:12:50,220 --> 01:12:51,990
+And peptide is just a
+little protein that floats
+
+1687
+01:12:51,990 --> 01:12:54,700
+through the bloodstream
+and signals to the cells.
+
+1688
+01:12:54,700 --> 01:12:55,860
+Okay, we're tuning your clock.
+
+1689
+01:12:55,860 --> 01:12:57,810
+Kind of like a little,
+we know watch store,
+
+1690
+01:12:57,810 --> 01:13:00,340
+the watch store owner
+would tune the clocks.
+
+1691
+01:13:00,340 --> 01:13:03,730
+But the other way is it
+synchronizes the temperature
+
+1692
+01:13:03,730 --> 01:13:05,860
+under which those cells exist.
+
+1693
+01:13:05,860 --> 01:13:08,750
+So temperature is actually the effector
+
+1694
+01:13:08,750 --> 01:13:10,690
+of the circadian rhythm.
+
+1695
+01:13:10,690 --> 01:13:12,900
+Now this is really important because
+
+1696
+01:13:12,900 --> 01:13:16,410
+changes in temperature by way
+of exercise, by way of eating,
+
+1697
+01:13:16,410 --> 01:13:18,800
+but especially by way of exercise
+
+1698
+01:13:18,800 --> 01:13:22,250
+can start to shift our circadian
+rhythm pretty dramatically.
+
+1699
+01:13:22,250 --> 01:13:24,960
+But let's even go to in
+a more extreme example.
+
+1700
+01:13:24,960 --> 01:13:28,200
+Nowadays, there's some
+interest in cold showers
+
+1701
+01:13:28,200 --> 01:13:30,900
+and ice baths, not everybody
+is doing this I realize.
+
+1702
+01:13:30,900 --> 01:13:33,240
+People seem to either
+love this or hate this.
+
+1703
+01:13:33,240 --> 01:13:35,940
+I don't mind the cold dunk thing.
+
+1704
+01:13:35,940 --> 01:13:38,330
+I get regular about this from
+time to time and I'll do it.
+
+1705
+01:13:38,330 --> 01:13:39,930
+I haven't been doing it recently.
+
+1706
+01:13:39,930 --> 01:13:41,810
+It's always painful to do
+the first couple of times
+
+1707
+01:13:41,810 --> 01:13:43,310
+then you get kind of used to it.
+
+1708
+01:13:43,310 --> 01:13:46,000
+However, I've taken people to
+a cold, dunk or an ice bath.
+
+1709
+01:13:46,000 --> 01:13:48,320
+I have a family member who wouldn't get in
+
+1710
+01:13:48,320 --> 01:13:50,010
+literally passed her toes.
+
+1711
+01:13:50,010 --> 01:13:52,000
+She was like, this is
+just too aversive for me.
+
+1712
+01:13:52,000 --> 01:13:55,570
+Some people really like the
+cold, people very tremendously.
+
+1713
+01:13:55,570 --> 01:13:57,890
+Getting into an ice
+bath is very interesting
+
+1714
+01:13:57,890 --> 01:14:01,570
+because you have a rebound
+increase in thermogenesis.
+
+1715
+01:14:01,570 --> 01:14:03,760
+Now you should know from
+the previous episode
+
+1716
+01:14:03,760 --> 01:14:06,060
+that as that temperature increases,
+
+1717
+01:14:06,060 --> 01:14:08,020
+it will shift your circadian rhythm
+
+1718
+01:14:08,020 --> 01:14:10,170
+and which direction it
+shifts your circadian rhythm
+
+1719
+01:14:10,170 --> 01:14:11,410
+will depend on whether
+or not you're doing it
+
+1720
+01:14:11,410 --> 01:14:12,810
+during the daytime or late in the day.
+
+1721
+01:14:12,810 --> 01:14:14,950
+If you do it after 8:00 PM,
+
+1722
+01:14:14,950 --> 01:14:17,760
+it's going to make your day longer, right?
+
+1723
+01:14:17,760 --> 01:14:21,360
+Because your body and your central clocks
+
+1724
+01:14:21,360 --> 01:14:24,750
+are used to temperature
+going up early in the day
+
+1725
+01:14:24,750 --> 01:14:26,830
+and throughout the day and
+peaking in the afternoon.
+
+1726
+01:14:26,830 --> 01:14:29,150
+If you then increase that further
+
+1727
+01:14:29,150 --> 01:14:32,120
+or you simply increase it
+over its baseline at 8:00 PM
+
+1728
+01:14:32,120 --> 01:14:34,270
+after temperature was already falling,
+
+1729
+01:14:34,270 --> 01:14:36,590
+even if it's just by a half a
+degree or a couple of degrees
+
+1730
+01:14:36,590 --> 01:14:37,830
+or you do that with exercise
+
+1731
+01:14:37,830 --> 01:14:39,410
+doesn't have to be with the ice bath,
+
+1732
+01:14:39,410 --> 01:14:42,960
+you are extending, you are
+shifting forward your phase,
+
+1733
+01:14:42,960 --> 01:14:44,320
+delaying your clock.
+
+1734
+01:14:44,320 --> 01:14:45,960
+You're convincing your clock
+
+1735
+01:14:45,960 --> 01:14:47,360
+and therefore the rest of your body
+
+1736
+01:14:47,360 --> 01:14:49,550
+that the day is still going, right?
+
+1737
+01:14:49,550 --> 01:14:51,720
+You you're giving it the
+perception, the cellar
+
+1738
+01:14:51,720 --> 01:14:54,707
+and physiological perception
+that the day is getting longer.
+
+1739
+01:14:54,707 --> 01:14:57,610
+And you will want to
+naturally stay up later
+
+1740
+01:14:57,610 --> 01:14:59,270
+and wake up later.
+
+1741
+01:14:59,270 --> 01:15:00,260
+Now you might say, "Wait
+
+1742
+01:15:00,260 --> 01:15:02,720
+I do an ice bath late at
+night, and I feel great.
+
+1743
+01:15:02,720 --> 01:15:04,340
+And I fall deeply asleep."
+
+1744
+01:15:04,340 --> 01:15:07,680
+Well, cold can trigger
+the release of melatonin.
+
+1745
+01:15:07,680 --> 01:15:09,510
+There's a rebound increase in melatonin.
+
+1746
+01:15:09,510 --> 01:15:11,790
+So that could be the cause of that effect.
+
+1747
+01:15:11,790 --> 01:15:13,350
+You have to see what works for you,
+
+1748
+01:15:13,350 --> 01:15:17,520
+but if you do the ice bath early
+in the day and then get out
+
+1749
+01:15:17,520 --> 01:15:20,070
+you will experience a more rapid rise
+
+1750
+01:15:20,070 --> 01:15:22,890
+or cold shower early in
+the day, a more rapid rise
+
+1751
+01:15:22,890 --> 01:15:27,170
+in your body temperature that
+will phase advance your clock
+
+1752
+01:15:27,170 --> 01:15:30,340
+and make it easier to get
+up early the following day.
+
+1753
+01:15:30,340 --> 01:15:32,750
+So for those of you that are
+having trouble getting up
+
+1754
+01:15:32,750 --> 01:15:34,610
+and this is going to
+almost sound laughable
+
+1755
+01:15:34,610 --> 01:15:36,450
+but a cold shower first
+thing in the morning
+
+1756
+01:15:36,450 --> 01:15:40,300
+will wake you up, but that's
+waking you up in the short term
+
+1757
+01:15:40,300 --> 01:15:41,630
+because of a different mechanism
+
+1758
+01:15:41,630 --> 01:15:43,010
+which I'll talk about in a moment,
+
+1759
+01:15:43,010 --> 01:15:44,680
+but it also is shifting your clock,
+
+1760
+01:15:44,680 --> 01:15:47,250
+it's phase advancing your clock
+
+1761
+01:15:47,250 --> 01:15:49,970
+in a way that makes you
+more likely to get up
+
+1762
+01:15:49,970 --> 01:15:52,420
+earlier the next day, okay?
+
+1763
+01:15:52,420 --> 01:15:54,670
+So in other words,
+increasing your temperature
+
+1764
+01:15:54,670 --> 01:15:59,100
+by getting in an ice bath
+or cold shower or exercising
+
+1765
+01:15:59,100 --> 01:16:03,040
+which causes a compensatory
+increase in body temperature.
+
+1766
+01:16:03,040 --> 01:16:05,230
+Think about the normal
+pattern of body temperature.
+
+1767
+01:16:05,230 --> 01:16:09,240
+Low around 4:35 AM starts to
+peak right around waking start,
+
+1768
+01:16:09,240 --> 01:16:11,660
+excuse me, starts to
+increase right around waking
+
+1769
+01:16:11,660 --> 01:16:13,880
+then steep slope, steep slope to a peak
+
+1770
+01:16:13,880 --> 01:16:16,370
+around four to 6:00 PM and then drops off.
+
+1771
+01:16:16,370 --> 01:16:18,500
+If you introduce an
+increase in body temperature
+
+1772
+01:16:18,500 --> 01:16:21,023
+by way of cold exposure early in the day,
+
+1773
+01:16:21,860 --> 01:16:24,190
+let's say 6:00 AM or 5:00 AM
+
+1774
+01:16:24,190 --> 01:16:27,030
+if you're masochistic enough
+to get into a cold shower
+
+1775
+01:16:27,030 --> 01:16:28,760
+at that time more power to you,
+
+1776
+01:16:28,760 --> 01:16:31,780
+it's going to make, you want
+to wake up about half hour
+
+1777
+01:16:31,780 --> 01:16:34,200
+to an hour earlier the next
+day than you normally would.
+
+1778
+01:16:34,200 --> 01:16:37,060
+Whereas if you do it while
+your temperature is falling,
+
+1779
+01:16:37,060 --> 01:16:39,450
+it will tend to delay and
+make your body perceive
+
+1780
+01:16:39,450 --> 01:16:41,330
+as if the day is getting longer.
+
+1781
+01:16:41,330 --> 01:16:43,520
+These are phase advances and phase delays.
+
+1782
+01:16:43,520 --> 01:16:45,610
+We're going to get into
+this in far more detail
+
+1783
+01:16:45,610 --> 01:16:48,750
+when we talk about jet lag
+and shift work in episode four
+
+1784
+01:16:48,750 --> 01:16:50,300
+as well as other other things.
+
+1785
+01:16:50,300 --> 01:16:52,240
+But temperature is,
+
+1786
+01:16:52,240 --> 01:16:55,910
+again is not just one tool to manipulate
+
+1787
+01:16:55,910 --> 01:16:58,840
+wake up time and circadian
+rhythm and metabolism.
+
+1788
+01:16:58,840 --> 01:17:00,160
+It is the effector.
+
+1789
+01:17:00,160 --> 01:17:02,280
+It is the way that the
+central circadian clock
+
+1790
+01:17:02,280 --> 01:17:04,430
+impacts all the cells
+and tissues of your body.
+
+1791
+01:17:04,430 --> 01:17:06,130
+If you want to read further about this
+
+1792
+01:17:06,130 --> 01:17:08,170
+and you're really curious
+about the role of temperature
+
+1793
+01:17:08,170 --> 01:17:09,780
+work by Joe Takahashi
+
+1794
+01:17:09,780 --> 01:17:12,510
+who used to be at Northwestern University
+
+1795
+01:17:12,510 --> 01:17:15,409
+and is now at UT Southwestern in Dallas,
+
+1796
+01:17:15,409 --> 01:17:19,220
+incredible scientist and
+has really worked out
+
+1797
+01:17:19,220 --> 01:17:20,780
+a lot of the mechanisms around temperature
+
+1798
+01:17:20,780 --> 01:17:22,670
+in circadian rhythms.
+
+1799
+01:17:22,670 --> 01:17:23,950
+You can just Google his name
+
+1800
+01:17:23,950 --> 01:17:26,413
+and you'll see a whole
+bunch of studies there.
+
+1801
+01:17:27,380 --> 01:17:30,180
+I want to talk about
+cold and cold exposure
+
+1802
+01:17:30,180 --> 01:17:32,870
+because there's a great
+misconception about this
+
+1803
+01:17:32,870 --> 01:17:35,820
+that actually you can
+leverage once you understand
+
+1804
+01:17:35,820 --> 01:17:39,890
+how to use cold to either
+increase thermogenesis
+
+1805
+01:17:39,890 --> 01:17:42,070
+and fat loss, metabolism,
+
+1806
+01:17:42,070 --> 01:17:45,100
+or you can use it for
+stress, mitigation and mood.
+
+1807
+01:17:45,100 --> 01:17:47,420
+And it really depends
+on one simple feature
+
+1808
+01:17:47,420 --> 01:17:49,820
+of how you approach the
+ice bath or cold shower.
+
+1809
+01:17:51,230 --> 01:17:54,040
+If you get into an ice bath or cold shower
+
+1810
+01:17:54,040 --> 01:17:57,350
+and you are calming yourself
+you're actively calming
+
+1811
+01:17:57,350 --> 01:17:58,480
+the autonomic nervous system.
+
+1812
+01:17:58,480 --> 01:17:59,970
+Maybe through some deep breathing,
+
+1813
+01:17:59,970 --> 01:18:02,620
+maybe through visualization,
+maybe you sing a song.
+
+1814
+01:18:02,620 --> 01:18:04,230
+You know, people do this stuff.
+
+1815
+01:18:04,230 --> 01:18:05,330
+They use various tools.
+
+1816
+01:18:05,330 --> 01:18:07,090
+Some people find paying attention
+
+1817
+01:18:07,090 --> 01:18:09,620
+to an external stimulus is more helpful.
+
+1818
+01:18:09,620 --> 01:18:11,080
+You know, thinking about something
+
+1819
+01:18:11,080 --> 01:18:12,410
+not the experience of the cold,
+
+1820
+01:18:12,410 --> 01:18:14,810
+other people find that
+directly experiencing the cold
+
+1821
+01:18:14,810 --> 01:18:18,293
+in its most intense form and
+kind of "going into the cold"
+
+1822
+01:18:18,293 --> 01:18:19,690
+is the best way to approach it.
+
+1823
+01:18:19,690 --> 01:18:21,780
+It really varies for people.
+
+1824
+01:18:21,780 --> 01:18:24,230
+There's no right or wrong
+way to go about this.
+
+1825
+01:18:24,230 --> 01:18:28,140
+But the goal of using cold
+exposure for stress inoculation
+
+1826
+01:18:28,140 --> 01:18:30,850
+and to raise your stress threshold
+
+1827
+01:18:30,850 --> 01:18:32,910
+to be able to tolerate heightened levels
+
+1828
+01:18:32,910 --> 01:18:36,650
+of real life stress, not the
+ice bath, but real life stress
+
+1829
+01:18:36,650 --> 01:18:39,100
+like work stress and
+relational stress, et cetera
+
+1830
+01:18:40,630 --> 01:18:43,900
+is by suppressing the activation
+
+1831
+01:18:43,900 --> 01:18:46,410
+of the so-called
+sympathetic nervous system,
+
+1832
+01:18:46,410 --> 01:18:48,383
+meaning the alertness or stress system.
+
+1833
+01:18:49,820 --> 01:18:51,670
+That involves buffering
+
+1834
+01:18:51,670 --> 01:18:53,750
+or trying to resist the shiver response.
+
+1835
+01:18:53,750 --> 01:18:56,040
+The shiver response is
+an autonomic response
+
+1836
+01:18:56,040 --> 01:18:59,110
+designed to generate heat, presumably,
+
+1837
+01:18:59,110 --> 01:19:01,000
+and actually that is what it does
+
+1838
+01:19:01,000 --> 01:19:03,160
+in order to counter the cold.
+
+1839
+01:19:03,160 --> 01:19:05,800
+So when you use cold exposure
+
+1840
+01:19:05,800 --> 01:19:07,390
+and you're kind of muscling through it,
+
+1841
+01:19:07,390 --> 01:19:09,130
+or you're learning to relax within it
+
+1842
+01:19:09,130 --> 01:19:11,470
+as a form of stress inoculation,
+
+1843
+01:19:11,470 --> 01:19:14,600
+that's great and works
+quite well for that purpose.
+
+1844
+01:19:14,600 --> 01:19:16,950
+And there's a reason why
+cold exposure is used
+
+1845
+01:19:16,950 --> 01:19:20,630
+in a variety of forms of
+military stress inoculation,
+
+1846
+01:19:20,630 --> 01:19:23,670
+most famous of which of
+course is the Navy seal buds,
+
+1847
+01:19:23,670 --> 01:19:26,010
+a strep test really,
+
+1848
+01:19:26,010 --> 01:19:27,810
+which is screening procedure
+for becoming a seal
+
+1849
+01:19:27,810 --> 01:19:29,860
+involves a lot of exposure to cold water.
+
+1850
+01:19:31,330 --> 01:19:35,350
+However, if you're interested
+in using cold exposure
+
+1851
+01:19:35,350 --> 01:19:37,730
+for fat loss and thermogenesis,
+
+1852
+01:19:37,730 --> 01:19:40,620
+you want to do the exact opposite thing.
+
+1853
+01:19:40,620 --> 01:19:43,950
+There was a paper published
+in nature two years ago
+
+1854
+01:19:43,950 --> 01:19:47,430
+which showed that cold induced shiver,
+
+1855
+01:19:47,430 --> 01:19:52,370
+the actual physical shiver
+activates the release of
+
+1856
+01:19:52,370 --> 01:19:55,500
+a chemical in the body from
+muscle called succinate
+
+1857
+01:19:56,630 --> 01:19:59,184
+S-U-C-C-I-N-A-T-E.
+
+1858
+01:19:59,184 --> 01:20:02,950
+Succinate travel in the
+bloodstream and then goes
+
+1859
+01:20:02,950 --> 01:20:05,920
+and activates a particular category of fat
+
+1860
+01:20:05,920 --> 01:20:08,060
+not the typical kind pink or white fat
+
+1861
+01:20:08,060 --> 01:20:10,010
+that we think of is
+like blubber in humans.
+
+1862
+01:20:10,010 --> 01:20:11,410
+That the stuff that people will seem to
+
+1863
+01:20:11,410 --> 01:20:12,733
+generally want less of,
+
+1864
+01:20:13,860 --> 01:20:16,790
+except for those genetic freaks
+that seem to have none of it
+
+1865
+01:20:16,790 --> 01:20:18,120
+depending what they consume.
+
+1866
+01:20:18,120 --> 01:20:19,203
+Congratulations.
+
+1867
+01:20:21,430 --> 01:20:23,210
+Brown fat is called Brown fat
+
+1868
+01:20:23,210 --> 01:20:25,548
+because it's actually
+dark under the microscope.
+
+1869
+01:20:25,548 --> 01:20:29,080
+It's rich with mitochondria
+and it exists mostly
+
+1870
+01:20:29,080 --> 01:20:31,120
+between the scapulae
+and in the upper neck.
+
+1871
+01:20:31,120 --> 01:20:35,840
+And it generates thermogenesis
+and heat in the body.
+
+1872
+01:20:35,840 --> 01:20:40,003
+It's rich with a certain category
+of agile anergic receptor,
+
+1873
+01:20:40,890 --> 01:20:44,853
+in insanely epinephrin binds
+to adrenergic receptors.
+
+1874
+01:20:46,930 --> 01:20:50,310
+These Brown fat cells increase metabolism,
+
+1875
+01:20:50,310 --> 01:20:52,860
+it's called Brown fat thermogenesis
+
+1876
+01:20:52,860 --> 01:20:56,210
+and cause fat burning,
+burning of other kinds of fat,
+
+1877
+01:20:56,210 --> 01:20:57,910
+the pink and white fat.
+
+1878
+01:20:57,910 --> 01:20:58,830
+So what does this all mean?
+
+1879
+01:20:58,830 --> 01:21:01,390
+This means if you want to use the ice bath
+
+1880
+01:21:01,390 --> 01:21:04,620
+in order to increase
+metabolism, shiver away.
+
+1881
+01:21:04,620 --> 01:21:06,660
+If you want to use the
+ice bath or cold shower
+
+1882
+01:21:06,660 --> 01:21:10,410
+in order to stress
+inoculate, resist the shiver
+
+1883
+01:21:10,410 --> 01:21:14,193
+and learn to stay calm
+or "muscle through it".
+
+1884
+01:21:14,193 --> 01:21:15,920
+I mean, I don't know that
+anyone's ever really talked
+
+1885
+01:21:15,920 --> 01:21:19,740
+about this publicly because
+I think the data are so new.
+
+1886
+01:21:19,740 --> 01:21:22,350
+And I think that people
+assume that the ice bath
+
+1887
+01:21:22,350 --> 01:21:24,200
+or cold exposure is just one thing.
+
+1888
+01:21:24,200 --> 01:21:26,230
+Here I've talked about it three ways
+
+1889
+01:21:26,230 --> 01:21:28,750
+to shift your circadian rhythm
+depending on whether or not
+
+1890
+01:21:28,750 --> 01:21:30,000
+you're doing it early in the day
+
+1891
+01:21:30,000 --> 01:21:33,580
+while your temperature is
+still rising or at its peak
+
+1892
+01:21:34,480 --> 01:21:38,840
+or after that peak, in order
+to extend the perception
+
+1893
+01:21:38,840 --> 01:21:41,950
+of your day as continuing
+and make you want to go
+
+1894
+01:21:41,950 --> 01:21:44,093
+to sleep later and wake up later.
+
+1895
+01:21:45,400 --> 01:21:48,250
+Now, and then the third
+way of course is to either
+
+1896
+01:21:48,250 --> 01:21:51,080
+activate brown fat thermogenesis
+and increase metabolism.
+
+1897
+01:21:51,080 --> 01:21:53,050
+I suppose the fourth way would be to
+
+1898
+01:21:55,020 --> 01:21:58,760
+increase stress tolerance
+or stress threshold, okay?
+
+1899
+01:21:58,760 --> 01:22:01,140
+But remember, temperature is the effector
+
+1900
+01:22:01,140 --> 01:22:02,520
+of circadian rhythms.
+
+1901
+01:22:02,520 --> 01:22:03,913
+Light is the trigger.
+
+1902
+01:22:05,040 --> 01:22:08,010
+The super charismatic nucleus
+is the master circadian clock
+
+1903
+01:22:08,010 --> 01:22:10,320
+that mediates all these changes,
+
+1904
+01:22:10,320 --> 01:22:12,250
+also influenced by non-photic influence
+
+1905
+01:22:12,250 --> 01:22:15,670
+like exercise and feeding
+and things of that sort.
+
+1906
+01:22:15,670 --> 01:22:17,323
+But temperature is the effector.
+
+1907
+01:22:18,270 --> 01:22:21,750
+Now you can also shift your
+circadian rhythm with eating.
+
+1908
+01:22:21,750 --> 01:22:24,790
+When you travel and you
+land in a new location
+
+1909
+01:22:24,790 --> 01:22:27,750
+and your schedule is inverted 12 hours.
+
+1910
+01:22:27,750 --> 01:22:29,720
+One way that we know you
+can shift your rhythm
+
+1911
+01:22:29,720 --> 01:22:32,890
+more quickly is to get onto
+the local meal schedule.
+
+1912
+01:22:32,890 --> 01:22:34,450
+Now that probably has
+to do with two effects.
+
+1913
+01:22:34,450 --> 01:22:36,200
+One or changes in temperature inducer,
+
+1914
+01:22:36,200 --> 01:22:39,630
+eating induced increases
+in body temperature.
+
+1915
+01:22:39,630 --> 01:22:41,490
+Now you should understand
+why that would work
+
+1916
+01:22:41,490 --> 01:22:45,290
+as well as eating has this
+anticipatory secretion
+
+1917
+01:22:45,290 --> 01:22:47,860
+of beta, of hyper cretin orexin
+
+1918
+01:22:47,860 --> 01:22:49,540
+that I talked about it earlier.
+
+1919
+01:22:49,540 --> 01:22:51,820
+So, if this is getting a
+little too down in the weeds,
+
+1920
+01:22:51,820 --> 01:22:53,450
+don't worry about it.
+
+1921
+01:22:53,450 --> 01:22:55,570
+I will get more into this in episode four
+
+1922
+01:22:55,570 --> 01:22:56,820
+of how to shift one's rhythm.
+
+1923
+01:22:56,820 --> 01:22:59,300
+But I would love for people
+to understand that light
+
+1924
+01:22:59,300 --> 01:23:02,420
+and temperature are the
+real heavy duty leavers
+
+1925
+01:23:02,420 --> 01:23:03,957
+when it comes to moving
+your circadian rhythm
+
+1926
+01:23:03,957 --> 01:23:06,330
+and sleep times and activity schedules
+
+1927
+01:23:06,330 --> 01:23:08,690
+and exercise and feeding can help,
+
+1928
+01:23:08,690 --> 01:23:10,460
+but really temperature and light,
+
+1929
+01:23:10,460 --> 01:23:13,540
+with light being the primary
+one are the most important
+
+1930
+01:23:13,540 --> 01:23:16,440
+when it comes to sleep and wakefulness.
+
+1931
+01:23:16,440 --> 01:23:20,258
+Many people asked questions
+about food and neurotransmitters
+
+1932
+01:23:20,258 --> 01:23:23,700
+and how those relate to
+sleep, wakefulness and mood,
+
+1933
+01:23:23,700 --> 01:23:28,700
+which is essentially 25 hours
+of content for me to cover.
+
+1934
+01:23:28,740 --> 01:23:32,530
+But I'm going to try and distill
+out the most common questions.
+
+1935
+01:23:32,530 --> 01:23:34,780
+We've talked a lot about
+neuromodulators like dopamine,
+
+1936
+01:23:34,780 --> 01:23:37,080
+acetylcholine and norepinephrine.
+
+1937
+01:23:37,080 --> 01:23:40,640
+You may notice in those
+discussions that the precursors
+
+1938
+01:23:40,640 --> 01:23:42,570
+to say serotonin is tryptophan.
+
+1939
+01:23:42,570 --> 01:23:44,970
+Tryptophan actually comes from the diet.
+
+1940
+01:23:44,970 --> 01:23:46,770
+It comes from the foods that we eat.
+
+1941
+01:23:47,680 --> 01:23:51,060
+tyrosine is the precursor to dopamine.
+
+1942
+01:23:51,060 --> 01:23:53,190
+It comes from the foods that we eat.
+
+1943
+01:23:53,190 --> 01:23:55,430
+And then once we ingest them
+
+1944
+01:23:56,600 --> 01:23:59,130
+those compounds are
+circulated to a variety
+
+1945
+01:23:59,130 --> 01:24:03,437
+of different cells and tissues,
+but it is true that our food
+
+1946
+01:24:03,437 --> 01:24:06,400
+and the particular foods we can influence,
+
+1947
+01:24:06,400 --> 01:24:09,440
+things like neuromodulator
+levels to some extent,
+
+1948
+01:24:09,440 --> 01:24:12,470
+it's not the only way,
+because there are also enzymes
+
+1949
+01:24:12,470 --> 01:24:14,490
+and biochemical pathways
+that are going to regulate
+
+1950
+01:24:14,490 --> 01:24:17,340
+how much tyrosine gets
+converted into dopamine
+
+1951
+01:24:17,340 --> 01:24:19,980
+and there are elements of
+the dopaminergic neurons,
+
+1952
+01:24:19,980 --> 01:24:22,150
+the dopamine neurons
+themselves that are electrical
+
+1953
+01:24:22,150 --> 01:24:24,100
+that have influence on this as well.
+
+1954
+01:24:24,100 --> 01:24:28,520
+But there are a couple fair
+assumptions that we can make.
+
+1955
+01:24:28,520 --> 01:24:32,950
+First of all, nuts and meats
+in particular red meats,
+
+1956
+01:24:32,950 --> 01:24:36,660
+tend to be rich in things
+like tyrosine, right?
+
+1957
+01:24:36,660 --> 01:24:37,940
+That tells you right there,
+
+1958
+01:24:37,940 --> 01:24:40,280
+that because tyrosine is
+the precursor of dopamine,
+
+1959
+01:24:40,280 --> 01:24:42,860
+and dopamine is the
+precursor of norepinephrine,
+
+1960
+01:24:42,860 --> 01:24:47,670
+and epinephrine that those
+foods tend to lend themselves
+
+1961
+01:24:47,670 --> 01:24:50,880
+toward the production of dopamine
+
+1962
+01:24:50,880 --> 01:24:53,110
+and epinephrin and the sorts of things
+
+1963
+01:24:53,110 --> 01:24:55,730
+that are associated with wakefulness.
+
+1964
+01:24:55,730 --> 01:24:58,260
+Now, of course, the
+volume of food that we eat
+
+1965
+01:24:58,260 --> 01:24:59,630
+also impacts our wakefulness.
+
+1966
+01:24:59,630 --> 01:25:01,470
+If we eat a lot of anything,
+
+1967
+01:25:01,470 --> 01:25:05,540
+whether or not it's ribeye
+steaks, rice, or cardboard,
+
+1968
+01:25:05,540 --> 01:25:06,810
+please don't eat cardboard,
+
+1969
+01:25:06,810 --> 01:25:09,470
+your stomach if it's
+very distended it will
+
+1970
+01:25:09,470 --> 01:25:12,660
+draw a lot of blood into your
+gut and you will divert blood
+
+1971
+01:25:12,660 --> 01:25:14,770
+from other tissues and
+you'll become sleepy.
+
+1972
+01:25:14,770 --> 01:25:16,310
+So it's not just about food content,
+
+1973
+01:25:16,310 --> 01:25:18,700
+it's also about food volume, all right?
+
+1974
+01:25:18,700 --> 01:25:22,870
+Fasting states generally are
+associated with more alertness,
+
+1975
+01:25:22,870 --> 01:25:27,870
+epinephrin so forth and fed
+states are generally associated
+
+1976
+01:25:28,320 --> 01:25:31,670
+with more quiescence and
+relaxation, serotonin,
+
+1977
+01:25:31,670 --> 01:25:34,840
+and the kind of things that
+lend themselves more towards
+
+1978
+01:25:34,840 --> 01:25:37,220
+sleep and less toward alertness.
+
+1979
+01:25:37,220 --> 01:25:39,850
+Foods that are rich in
+tryptophan tend to be things
+
+1980
+01:25:39,850 --> 01:25:43,090
+like white meat, turkey,
+also complex carbohydrates.
+
+1981
+01:25:43,090 --> 01:25:46,750
+So if you like you can start experimenting
+
+1982
+01:25:46,750 --> 01:25:48,670
+depending on what foods you eat.
+
+1983
+01:25:48,670 --> 01:25:53,110
+You can start experimenting
+with carbohydrate rich meals
+
+1984
+01:25:53,110 --> 01:25:57,900
+for accessing sleep and
+more depth of sleep.
+
+1985
+01:25:57,900 --> 01:25:59,700
+This is actually
+something I personally do.
+
+1986
+01:25:59,700 --> 01:26:02,010
+I tend to eat pretty low
+carbs during the day.
+
+1987
+01:26:02,010 --> 01:26:03,950
+I actually fast for until about noon.
+
+1988
+01:26:03,950 --> 01:26:05,560
+Not because I have to work to do that,
+
+1989
+01:26:05,560 --> 01:26:07,220
+but because I'd rather just drink caffeine
+
+1990
+01:26:07,220 --> 01:26:08,860
+and water during that time.
+
+1991
+01:26:08,860 --> 01:26:10,300
+And then sometime around noon
+
+1992
+01:26:10,300 --> 01:26:12,360
+I can't take it anymore and I'm hungry.
+
+1993
+01:26:12,360 --> 01:26:14,750
+And I eat and I try and eat low carb-ish
+
+1994
+01:26:14,750 --> 01:26:16,540
+unless I've worked out extremely hard
+
+1995
+01:26:16,540 --> 01:26:19,720
+in the previous two
+hours, which I rarely do,
+
+1996
+01:26:19,720 --> 01:26:21,480
+although I do it sometimes.
+
+1997
+01:26:21,480 --> 01:26:25,440
+And that meal is then
+designed to prolong my period
+
+1998
+01:26:25,440 --> 01:26:27,160
+of wakefulness into the late afternoon.
+
+1999
+01:26:27,160 --> 01:26:29,210
+And then sometime around dinner time
+
+2000
+01:26:29,210 --> 01:26:31,860
+which for me is around 6:37 PM, 8:00 PM.
+
+2001
+01:26:31,860 --> 01:26:34,100
+Sometimes as late as 9:00
+PM, I tend to eat things
+
+2002
+01:26:34,100 --> 01:26:38,233
+like white meat, fish, pastas,
+rice, that kind of thing.
+
+2003
+01:26:39,500 --> 01:26:41,040
+My favorite food of all
+
+2004
+01:26:41,040 --> 01:26:43,320
+for accessing tryptophan
+is actually a starch.
+
+2005
+01:26:43,320 --> 01:26:44,611
+It's actually a vegetable.
+
+2006
+01:26:44,611 --> 01:26:47,690
+And it's the croissant, which
+is my favorite vegetable.
+
+2007
+01:26:47,690 --> 01:26:50,480
+I don't eat those all
+the time, but I love them
+
+2008
+01:26:50,480 --> 01:26:53,160
+and they seem to increase
+dopamine as well.
+
+2009
+01:26:53,160 --> 01:26:55,410
+I've never actually done
+the mass spectrometry
+
+2010
+01:26:55,410 --> 01:26:57,820
+on a croissant, but they
+definitely increase tryptophan
+
+2011
+01:26:57,820 --> 01:26:59,723
+and relaxation for me.
+
+2012
+01:27:00,570 --> 01:27:05,570
+In all seriousness, low
+carbohydrate/fasted/ketogenic diets
+
+2013
+01:27:05,860 --> 01:27:07,550
+tend to lend themselves toward wakefulness
+
+2014
+01:27:07,550 --> 01:27:11,930
+by way of increasing epinephrin,
+norepinephrine, adrenaline
+
+2015
+01:27:11,930 --> 01:27:13,630
+dopamine, and things of that sort.
+
+2016
+01:27:14,610 --> 01:27:16,610
+Carbohydrate rich meals.
+
+2017
+01:27:16,610 --> 01:27:19,050
+And I suppose we talked about
+meals as opposed to diet
+
+2018
+01:27:19,050 --> 01:27:23,300
+tend to lend themselves more
+toward tryptophan, serotonin
+
+2019
+01:27:23,300 --> 01:27:25,313
+and more lethargic states.
+
+2020
+01:27:26,380 --> 01:27:29,700
+There is very limited
+evidence that I am aware of
+
+2021
+01:27:29,700 --> 01:27:32,360
+that carbohydrates should
+be eaten at one time a day
+
+2022
+01:27:32,360 --> 01:27:35,890
+as it relates to metabolism, et cetera.
+
+2023
+01:27:35,890 --> 01:27:39,170
+I'm sure that will open up
+a certain amount of debate.
+
+2024
+01:27:39,170 --> 01:27:40,240
+If you work out very hard
+
+2025
+01:27:40,240 --> 01:27:43,000
+and you deplete glycogen,
+then this all changes.
+
+2026
+01:27:43,000 --> 01:27:44,330
+So some people are working out very hard
+
+2027
+01:27:44,330 --> 01:27:46,720
+in depleting glycogen
+and other people are not.
+
+2028
+01:27:46,720 --> 01:27:48,850
+That gets way outside the context
+
+2029
+01:27:48,850 --> 01:27:51,960
+of this particular podcast,
+but yes indeed different foods
+
+2030
+01:27:51,960 --> 01:27:54,017
+can bias different neuromodulators
+
+2031
+01:27:54,017 --> 01:27:57,090
+and thereby can modulate awaking
+
+2032
+01:27:57,090 --> 01:27:59,823
+or our feelings of
+lethargy and sleepiness.
+
+2033
+01:28:02,150 --> 01:28:06,240
+There are a couple effects
+of food that are independent
+
+2034
+01:28:06,240 --> 01:28:07,860
+or I should say a couple
+of facts of eating,
+
+2035
+01:28:07,860 --> 01:28:09,240
+'cause the food won't
+do it when it's sitting
+
+2036
+01:28:09,240 --> 01:28:13,580
+across the table, but of
+eating that are powerful
+
+2037
+01:28:13,580 --> 01:28:16,730
+for modulating circadian,
+rhythm, wakefulness, et cetera.
+
+2038
+01:28:16,730 --> 01:28:18,040
+And that's because every time we eat
+
+2039
+01:28:18,040 --> 01:28:20,630
+we get eating induced thermogenesis
+
+2040
+01:28:20,630 --> 01:28:21,980
+regardless of what we eat.
+
+2041
+01:28:21,980 --> 01:28:24,260
+Now that eating induced thermogenesis
+
+2042
+01:28:24,260 --> 01:28:25,580
+and increase in metabolism,
+
+2043
+01:28:25,580 --> 01:28:28,430
+which is an increase
+in temperature really,
+
+2044
+01:28:28,430 --> 01:28:33,430
+is probably greatest for amino
+acid rich foods like meats,
+
+2045
+01:28:34,760 --> 01:28:37,280
+but also other types of foods.
+
+2046
+01:28:37,280 --> 01:28:39,560
+It's a minimal increase
+in body temperature
+
+2047
+01:28:39,560 --> 01:28:42,840
+compared to say cold exposure or exercise.
+
+2048
+01:28:42,840 --> 01:28:44,990
+Now, whether or not it's
+a quarter of a degree
+
+2049
+01:28:44,990 --> 01:28:46,100
+or half a degree or a degree,
+
+2050
+01:28:46,100 --> 01:28:48,030
+it really depends on the individual.
+
+2051
+01:28:48,030 --> 01:28:50,410
+And of course there are
+blood sugar effects.
+
+2052
+01:28:50,410 --> 01:28:53,260
+There are things like whether or not
+
+2053
+01:28:53,260 --> 01:28:55,490
+you are type one or type two diabetic,
+
+2054
+01:28:55,490 --> 01:28:56,970
+whether or not you're insulin resistant,
+
+2055
+01:28:56,970 --> 01:28:59,860
+whether or not like there's a kid who
+
+2056
+01:28:59,860 --> 01:29:03,170
+interns on the podcast
+here, who's 17 years old
+
+2057
+01:29:03,170 --> 01:29:05,770
+and I'm convinced that he can eat anything
+
+2058
+01:29:05,770 --> 01:29:08,330
+and he just seems to like burn it up
+
+2059
+01:29:08,330 --> 01:29:09,550
+and he's growing it every time.
+
+2060
+01:29:09,550 --> 01:29:11,380
+Actually the other day, he
+walked into the other room
+
+2061
+01:29:11,380 --> 01:29:14,120
+and two days later, he
+walked out of the same room.
+
+2062
+01:29:14,120 --> 01:29:15,360
+He came out in between of course,
+
+2063
+01:29:15,360 --> 01:29:17,390
+but and I was like, you're grow?
+
+2064
+01:29:18,248 --> 01:29:20,050
+And he was like, you know,
+but he's at that stage where
+
+2065
+01:29:20,050 --> 01:29:21,890
+he's just growing.
+
+2066
+01:29:21,890 --> 01:29:23,750
+Food is going to affect a
+teenager very differently
+
+2067
+01:29:23,750 --> 01:29:26,060
+than it's going to affect
+a full-grown person.
+
+2068
+01:29:26,060 --> 01:29:31,060
+So, in general, starchy
+carbohydrates, white meat,
+
+2069
+01:29:31,150 --> 01:29:33,940
+such as turkey, some fish
+increased tryptophan,
+
+2070
+01:29:33,940 --> 01:29:36,000
+therefore serotonin, therefore
+
+2071
+01:29:36,000 --> 01:29:38,373
+more lethargic states more calm.
+
+2072
+01:29:39,410 --> 01:29:42,690
+Meat, nuts and there are
+probably some plant-based foods
+
+2073
+01:29:42,690 --> 01:29:44,610
+that I'm not aware of and I apologize,
+
+2074
+01:29:44,610 --> 01:29:48,100
+I should read up on this that
+also are high in tyrosine
+
+2075
+01:29:48,100 --> 01:29:50,560
+that can increase things like dopamine,
+
+2076
+01:29:50,560 --> 01:29:53,870
+norepinephrine, epinephrin alertness.
+
+2077
+01:29:53,870 --> 01:29:56,440
+So you can vary these however you like.
+
+2078
+01:29:56,440 --> 01:29:58,930
+Most people I think are eating
+a variety of these things
+
+2079
+01:29:58,930 --> 01:30:00,380
+in a given meals.
+
+2080
+01:30:00,380 --> 01:30:02,620
+And there are other
+parameters of nutrition
+
+2081
+01:30:02,620 --> 01:30:03,820
+that are important too.
+
+2082
+01:30:03,820 --> 01:30:05,970
+Volume of food for the reasons
+that I mentioned before,
+
+2083
+01:30:05,970 --> 01:30:09,280
+the volume of food in the
+gut, less food in the gut
+
+2084
+01:30:09,280 --> 01:30:10,910
+whether or not it's empty
+or a small amount of food
+
+2085
+01:30:10,910 --> 01:30:14,200
+which tend to correlate with wakefulness.
+
+2086
+01:30:14,200 --> 01:30:18,160
+Large volumes of food of any
+kind will tend to correlate
+
+2087
+01:30:18,160 --> 01:30:21,050
+and drive the calming response
+
+2088
+01:30:21,050 --> 01:30:23,130
+and that's by way of this
+nerve pathway called the vegas.
+
+2089
+01:30:23,130 --> 01:30:25,860
+We actually have sensory fibers
+in the gut that communicate
+
+2090
+01:30:25,860 --> 01:30:27,810
+to a little protrusion of neurons
+
+2091
+01:30:27,810 --> 01:30:30,570
+that sit right next to the
+juggler called the nodose ganglia
+
+2092
+01:30:30,570 --> 01:30:34,210
+N-O-D-O-S-E unlike Costello,
+
+2093
+01:30:34,210 --> 01:30:36,691
+it's no dose right now he's all dose.
+
+2094
+01:30:36,691 --> 01:30:39,890
+Nodose actually means
+having many protrusions
+
+2095
+01:30:39,890 --> 01:30:42,410
+and it's like kind of a
+lumpy collection of neurons.
+
+2096
+01:30:42,410 --> 01:30:43,730
+A ganglia is just a collection of neurons.
+
+2097
+01:30:43,730 --> 01:30:47,210
+And then it goes into the
+brain stem and then forward
+
+2098
+01:30:47,210 --> 01:30:49,310
+in the brain to the areas of
+the brain they're involved
+
+2099
+01:30:49,310 --> 01:30:52,633
+in production of various neuromodulators.
+
+2100
+01:30:53,950 --> 01:30:57,210
+So what we eat and the volume of food
+
+2101
+01:30:57,210 --> 01:30:59,260
+are both signaling to the brain.
+
+2102
+01:30:59,260 --> 01:31:01,200
+It's not just one or the other.
+
+2103
+01:31:01,200 --> 01:31:04,270
+And then there's also this
+eating induced thermogenesis.
+
+2104
+01:31:04,270 --> 01:31:06,200
+And now, you know, from the
+discussion about temperature
+
+2105
+01:31:06,200 --> 01:31:08,070
+that if you're eating early in the day
+
+2106
+01:31:08,070 --> 01:31:10,070
+you're tending to shift
+your rhythm earlier.
+
+2107
+01:31:10,070 --> 01:31:13,460
+So that you'll want to wake
+up earlier the next day
+
+2108
+01:31:13,460 --> 01:31:15,340
+if you're eating very late in the day,
+
+2109
+01:31:15,340 --> 01:31:17,620
+even if you can fall asleep after that,
+
+2110
+01:31:17,620 --> 01:31:19,530
+there's a tendency for
+you to want to sleep later
+
+2111
+01:31:19,530 --> 01:31:20,730
+the next day.
+
+2112
+01:31:20,730 --> 01:31:23,700
+Now this of course is all
+going to be constrained by
+
+2113
+01:31:23,700 --> 01:31:24,740
+when your kids need to eat,
+
+2114
+01:31:24,740 --> 01:31:25,880
+and when your spouse needs to eat,
+
+2115
+01:31:25,880 --> 01:31:26,790
+and when your friends need to eat,
+
+2116
+01:31:26,790 --> 01:31:28,890
+or if you live alone or what
+other things you're doing,
+
+2117
+01:31:28,890 --> 01:31:31,380
+if you're like me and you
+kind of don't eat until noon
+
+2118
+01:31:31,380 --> 01:31:32,650
+then eat sometime around noon.
+
+2119
+01:31:32,650 --> 01:31:33,930
+And then I'm terrible about meals.
+
+2120
+01:31:33,930 --> 01:31:35,240
+I just start eating the ingredients
+
+2121
+01:31:35,240 --> 01:31:36,200
+while I'm supposed to be cooking
+
+2122
+01:31:36,200 --> 01:31:37,640
+and then eventually they're all gone
+
+2123
+01:31:37,640 --> 01:31:39,163
+and I guess that's a meal.
+
+2124
+01:31:40,250 --> 01:31:41,410
+It varies.
+
+2125
+01:31:41,410 --> 01:31:43,190
+Some people are neurotically attached
+
+2126
+01:31:43,190 --> 01:31:45,310
+to a particular meal schedule.
+
+2127
+01:31:45,310 --> 01:31:46,143
+Some people are not.
+
+2128
+01:31:46,143 --> 01:31:49,260
+I take my light exposure
+schedule far more seriously
+
+2129
+01:31:49,260 --> 01:31:50,900
+than I take my meal schedule.
+
+2130
+01:31:50,900 --> 01:31:53,120
+Although in general, try
+and eat healthy foods
+
+2131
+01:31:53,120 --> 01:31:55,020
+for the most part croissants included.
+
+2132
+01:31:56,310 --> 01:31:58,937
+I was asked several times whether or not
+
+2133
+01:31:58,937 --> 01:32:00,740
+men and women or males and females
+
+2134
+01:32:00,740 --> 01:32:03,140
+differ in terms of these
+neurotransmitter phenotypes
+
+2135
+01:32:03,140 --> 01:32:05,873
+and the rhythms of sleep and temperature,
+
+2136
+01:32:08,100 --> 01:32:09,400
+or we could probably devote a whole month
+
+2137
+01:32:09,400 --> 01:32:11,110
+and we probably will
+devote an entire month
+
+2138
+01:32:11,110 --> 01:32:13,160
+to what are called sex differences
+
+2139
+01:32:13,160 --> 01:32:14,990
+because those tend to be related to things
+
+2140
+01:32:14,990 --> 01:32:18,060
+we absolutely know like
+XX, or XY chromosomes
+
+2141
+01:32:18,060 --> 01:32:21,080
+or XYY in some cases
+are double X chromosomes
+
+2142
+01:32:21,080 --> 01:32:24,980
+as opposed to gender, sex
+and karyotype as we call it
+
+2143
+01:32:24,980 --> 01:32:27,083
+genetic makeup is crystal clear.
+
+2144
+01:32:28,770 --> 01:32:32,110
+There are things that
+correlate with one or the other
+
+2145
+01:32:32,110 --> 01:32:33,420
+but it's complicated
+
+2146
+01:32:33,420 --> 01:32:36,090
+and it's not something
+that's been explored in
+
+2147
+01:32:36,090 --> 01:32:38,220
+what I think is enough detail.
+
+2148
+01:32:38,220 --> 01:32:42,240
+Actually recently, I guess
+it was about five years ago,
+
+2149
+01:32:42,240 --> 01:32:44,925
+the national institutes of
+health made it a mandate
+
+2150
+01:32:44,925 --> 01:32:48,820
+that all studies use sex
+as a biological variable,
+
+2151
+01:32:48,820 --> 01:32:51,410
+and actually explore both sexes of mice,
+
+2152
+01:32:51,410 --> 01:32:53,530
+both sexes of humans when
+doing any kind of study
+
+2153
+01:32:53,530 --> 01:32:56,370
+because there was a bias
+towards only using male animals
+
+2154
+01:32:56,370 --> 01:32:58,720
+or male subjects prior to that time.
+
+2155
+01:32:58,720 --> 01:33:00,260
+So a lot of data now coming out
+
+2156
+01:33:00,260 --> 01:33:02,650
+revealing important sex differences
+
+2157
+01:33:02,650 --> 01:33:05,190
+that I think are going
+to have powerful impact
+
+2158
+01:33:05,190 --> 01:33:06,810
+on health practices, et cetera.
+
+2159
+01:33:06,810 --> 01:33:07,740
+Response to drugs,
+
+2160
+01:33:07,740 --> 01:33:10,800
+response to just different
+sleep schedules, et cetera.
+
+2161
+01:33:10,800 --> 01:33:13,250
+Perhaps the most salient and obvious one
+
+2162
+01:33:13,250 --> 01:33:18,250
+is that during pregnancy
+females experience a whole range
+
+2163
+01:33:18,470 --> 01:33:21,060
+of endocrine and neuro effects
+
+2164
+01:33:21,060 --> 01:33:23,920
+and we definitely will
+devote a month to pregnancy
+
+2165
+01:33:23,920 --> 01:33:25,653
+and childbirth and child rearing.
+
+2166
+01:33:26,630 --> 01:33:29,090
+And for that, I'd really like
+to bring in some experts.
+
+2167
+01:33:29,090 --> 01:33:31,180
+I've got terrific colleagues
+at Stanford and elsewhere
+
+2168
+01:33:31,180 --> 01:33:32,140
+that work on these things,
+
+2169
+01:33:32,140 --> 01:33:33,580
+so that we can go into
+those in more depth.
+
+2170
+01:33:33,580 --> 01:33:35,700
+So I'm not blowing off those questions.
+
+2171
+01:33:35,700 --> 01:33:37,780
+I'm just, I'm kind of
+pushing them down the road
+
+2172
+01:33:37,780 --> 01:33:42,370
+a little bit where I can give
+you a more thorough answer.
+
+2173
+01:33:42,370 --> 01:33:45,260
+So as we finish up, I
+just want to offer you
+
+2174
+01:33:45,260 --> 01:33:48,080
+the opportunity to do an experiment.
+
+2175
+01:33:48,080 --> 01:33:49,830
+We've talked about a lot of variables
+
+2176
+01:33:49,830 --> 01:33:51,970
+that can impact sleep and wakefulness.
+
+2177
+01:33:51,970 --> 01:33:53,830
+And in keeping with the
+theme of the podcast
+
+2178
+01:33:53,830 --> 01:33:57,330
+we are going to continue to
+talk about sleep and wakefulness
+
+2179
+01:33:57,330 --> 01:34:00,130
+and tools for those, and the
+science behind those tools
+
+2180
+01:34:00,130 --> 01:34:01,610
+as we go forward.
+
+2181
+01:34:01,610 --> 01:34:05,170
+But there are really just
+four simple parameters
+
+2182
+01:34:05,170 --> 01:34:07,460
+that you have control over,
+
+2183
+01:34:07,460 --> 01:34:11,730
+that you can immediately start to record
+
+2184
+01:34:11,730 --> 01:34:14,080
+and take note of just
+to see how you're doing
+
+2185
+01:34:14,080 --> 01:34:15,350
+with these things.
+
+2186
+01:34:15,350 --> 01:34:18,570
+With no judgment or perhaps no change
+
+2187
+01:34:18,570 --> 01:34:20,150
+to what you're actually doing.
+
+2188
+01:34:20,150 --> 01:34:24,440
+It might be interesting, just
+a suggestion to write down
+
+2189
+01:34:24,440 --> 01:34:29,010
+for each day when you went
+outside to get sunlight
+
+2190
+01:34:29,010 --> 01:34:31,030
+and when you did that, relative to waking.
+
+2191
+01:34:31,030 --> 01:34:31,863
+So you would write down,
+
+2192
+01:34:31,863 --> 01:34:33,840
+like the way I do this
+in my calendar is I'll
+
+2193
+01:34:33,840 --> 01:34:36,190
+write down that I don't
+get exact about it.
+
+2194
+01:34:36,190 --> 01:34:40,570
+I might say, I woke up at 6:15 and then I,
+
+2195
+01:34:40,570 --> 01:34:45,296
+as I'll put a W 6:15,
+and then SL for sunlight
+
+2196
+01:34:45,296 --> 01:34:46,770
+and you'll sometimes
+get outside right away.
+
+2197
+01:34:46,770 --> 01:34:47,957
+Other times I'm less good at that.
+
+2198
+01:34:47,957 --> 01:34:51,050
+And I'll go out around, let's say seven
+
+2199
+01:34:51,050 --> 01:34:55,030
+and for how long, I don't maybe
+like 10, 15 minutes or so.
+
+2200
+01:34:55,030 --> 01:34:56,720
+And then I'll put a little check
+
+2201
+01:34:56,720 --> 01:34:59,910
+at the times that I
+eat my so-called meals.
+
+2202
+01:34:59,910 --> 01:35:01,700
+Although, as I mentioned,
+sometimes my meals are
+
+2203
+01:35:01,700 --> 01:35:03,690
+a bunch of small checks
+that just kind of extend
+
+2204
+01:35:03,690 --> 01:35:05,230
+through the late hours of the day.
+
+2205
+01:35:05,230 --> 01:35:09,870
+Yours might be more
+confined to certain times.
+
+2206
+01:35:09,870 --> 01:35:14,190
+And then you might just take
+note of when you exercised,
+
+2207
+01:35:14,190 --> 01:35:16,340
+just put down an E for when you exercise.
+
+2208
+01:35:16,340 --> 01:35:19,105
+Weight training or aerobic exercise.
+
+2209
+01:35:19,105 --> 01:35:23,110
+And you might note when you
+might've felt chilled or cold
+
+2210
+01:35:23,110 --> 01:35:25,810
+if you do, or you might've
+felt particularly hot,
+
+2211
+01:35:25,810 --> 01:35:26,960
+or if you woke up in the middle of night,
+
+2212
+01:35:26,960 --> 01:35:28,010
+when you felt particularly hot.
+
+2213
+01:35:28,010 --> 01:35:29,720
+And then the last thing
+you might want to do
+
+2214
+01:35:29,720 --> 01:35:31,030
+is just write down
+
+2215
+01:35:31,030 --> 01:35:33,720
+if and when you did a non
+sleep deep rest protocol,
+
+2216
+01:35:33,720 --> 01:35:35,740
+an STR protocol, that could be meditation,
+
+2217
+01:35:35,740 --> 01:35:38,570
+that could be yoga nidra,
+that could be hypnosis.
+
+2218
+01:35:38,570 --> 01:35:42,758
+Anything that you're using to deliberately
+
+2219
+01:35:42,758 --> 01:35:45,980
+teach your nervous system,
+how to go from more alertness
+
+2220
+01:35:45,980 --> 01:35:48,080
+to more calmness in the waking state,
+
+2221
+01:35:48,080 --> 01:35:49,410
+even if it's waking up in
+the middle of the night
+
+2222
+01:35:49,410 --> 01:35:52,140
+and doing an SDR protocol
+or in the afternoon,
+
+2223
+01:35:52,140 --> 01:35:54,650
+or first thing in the
+morning to recover some sleep
+
+2224
+01:35:54,650 --> 01:35:57,450
+and ability to perform
+DPOs that you might've lost
+
+2225
+01:35:57,450 --> 01:35:59,550
+from a minimal or poor night's sleep.
+
+2226
+01:35:59,550 --> 01:36:01,660
+So you're going to rite
+down when you woke up,
+
+2227
+01:36:01,660 --> 01:36:04,270
+when you viewed sunlight,
+that might be in the morning
+
+2228
+01:36:04,270 --> 01:36:06,100
+and the evening, or just
+the morning, hopefully
+
+2229
+01:36:06,100 --> 01:36:08,960
+it's the morning and the
+evening, when you exercised,
+
+2230
+01:36:08,960 --> 01:36:11,630
+when you eat your meals and using a simple
+
+2231
+01:36:11,630 --> 01:36:16,300
+record keeping scheme like W
+for waking, SL for sunlight
+
+2232
+01:36:16,300 --> 01:36:18,140
+maybe you come up with a
+system where it's a check
+
+2233
+01:36:18,140 --> 01:36:19,955
+or an X or something for exercise.
+
+2234
+01:36:19,955 --> 01:36:22,930
+This is not designed to make
+you neurotically attached
+
+2235
+01:36:22,930 --> 01:36:27,930
+to tracking all your behaviors
+and everything you do.
+
+2236
+01:36:28,280 --> 01:36:30,070
+I for instance, don't track what I eat.
+
+2237
+01:36:30,070 --> 01:36:32,470
+In particular, I kind of
+know what works for me
+
+2238
+01:36:32,470 --> 01:36:35,690
+and I'd just try and
+stay within that range.
+
+2239
+01:36:35,690 --> 01:36:38,120
+But by doing this you can start to reveal
+
+2240
+01:36:38,120 --> 01:36:39,870
+some really interesting patterns.
+
+2241
+01:36:39,870 --> 01:36:43,270
+Patterns that no answer that
+I could provide you about
+
+2242
+01:36:43,270 --> 01:36:48,170
+any existing tool or
+protocol could counter.
+
+2243
+01:36:48,170 --> 01:36:51,510
+It's really about taking
+the patterns of behaviors,
+
+2244
+01:36:51,510 --> 01:36:53,670
+of waking, and light viewing, and eating,
+
+2245
+01:36:53,670 --> 01:36:58,160
+and exercise and superimposing that on
+
+2246
+01:36:58,160 --> 01:36:58,993
+what you're learning
+
+2247
+01:36:58,993 --> 01:37:01,080
+in this podcast and elsewhere of course
+
+2248
+01:37:01,080 --> 01:37:03,910
+and what you already know
+and trying to see where
+
+2249
+01:37:03,910 --> 01:37:07,050
+certain problem or problems or
+pain points might be arising.
+
+2250
+01:37:07,050 --> 01:37:08,487
+Maybe you're eating really late in the day
+
+2251
+01:37:08,487 --> 01:37:09,784
+and you're waking up
+
+2252
+01:37:09,784 --> 01:37:10,617
+in the middle of the night, really warm.
+
+2253
+01:37:10,617 --> 01:37:13,240
+Well, now you would say,
+"Well, that could be due to
+
+2254
+01:37:13,240 --> 01:37:17,440
+kind of an increase in temperature
+that is extending my day
+
+2255
+01:37:17,440 --> 01:37:21,250
+or maybe you start to find
+that using cold exposure
+
+2256
+01:37:21,250 --> 01:37:22,980
+early in the day is great for you,
+
+2257
+01:37:22,980 --> 01:37:25,020
+but using it late, if
+it's too late in the day,
+
+2258
+01:37:25,020 --> 01:37:25,960
+that's not great.
+
+2259
+01:37:25,960 --> 01:37:29,120
+Or if you're into the sauna or it's even
+
+2260
+01:37:29,120 --> 01:37:31,900
+like some people, including
+myself, if I take a hot shower
+
+2261
+01:37:31,900 --> 01:37:34,450
+or sit in a hot tub or
+a sauna late at night,
+
+2262
+01:37:34,450 --> 01:37:37,720
+well then I get a compensatory
+decrease in body temperature
+
+2263
+01:37:37,720 --> 01:37:40,320
+and I sleep great provided
+I hydrate well enough,
+
+2264
+01:37:40,320 --> 01:37:42,370
+'cause that can be kind of
+a dehydrating thing to sit
+
+2265
+01:37:42,370 --> 01:37:44,320
+in hot, hot conditions.
+
+2266
+01:37:44,320 --> 01:37:46,690
+But if I do the sauna early in the day,
+
+2267
+01:37:46,690 --> 01:37:49,780
+unless I exercise immediately afterward
+
+2268
+01:37:49,780 --> 01:37:52,410
+then I tend to get the temperature
+drop, which makes sense
+
+2269
+01:37:52,410 --> 01:37:55,340
+because when you get in the
+sauna, you're get vasodilation.
+
+2270
+01:37:55,340 --> 01:37:56,800
+You throw off a lot of heat and then you
+
+2271
+01:37:56,800 --> 01:37:58,720
+generally get a compensatory
+drop in temperature.
+
+2272
+01:37:58,720 --> 01:38:00,550
+If you do that early in
+the day, that's right
+
+2273
+01:38:00,550 --> 01:38:02,320
+about the time that temperature
+
+2274
+01:38:02,320 --> 01:38:04,990
+is trying to entrain the
+circadian clocks of your body.
+
+2275
+01:38:04,990 --> 01:38:06,380
+That's what happens to me.
+
+2276
+01:38:06,380 --> 01:38:08,090
+Other people, it might
+be slightly different
+
+2277
+01:38:08,090 --> 01:38:12,470
+and some people have more
+resilient systems than others.
+
+2278
+01:38:12,470 --> 01:38:15,810
+So I just encourage you to
+start becoming scientists
+
+2279
+01:38:15,810 --> 01:38:19,350
+of your own physiology of
+your own brain and body
+
+2280
+01:38:19,350 --> 01:38:21,040
+and seeing how the
+various tools that you may
+
+2281
+01:38:21,040 --> 01:38:25,420
+or may not be using are
+effecting your patterns of sleep,
+
+2282
+01:38:25,420 --> 01:38:27,760
+your patterns of
+attention and wakefulness.
+
+2283
+01:38:27,760 --> 01:38:30,410
+It's vitally important
+that if you do this,
+
+2284
+01:38:30,410 --> 01:38:32,880
+that you know that it's
+not about trying to get
+
+2285
+01:38:32,880 --> 01:38:35,810
+onto an extremely rigid schedule,
+
+2286
+01:38:35,810 --> 01:38:38,360
+it's really about trying
+to identify variables
+
+2287
+01:38:38,360 --> 01:38:41,200
+that are most powerful
+for you, and that push you
+
+2288
+01:38:41,200 --> 01:38:42,620
+in the direction that you want to go.
+
+2289
+01:38:42,620 --> 01:38:45,750
+And changing the variables
+that are pushing your body
+
+2290
+01:38:45,750 --> 01:38:47,930
+and your mind in the directions
+that you don't want to go.
+
+2291
+01:38:47,930 --> 01:38:50,620
+Self experimentation is
+something that should be done
+
+2292
+01:38:50,620 --> 01:38:54,050
+slowly, carefully, you don't
+want to be reckless about this.
+
+2293
+01:38:54,050 --> 01:38:57,490
+And this is where I would
+say manipulating one
+
+2294
+01:38:57,490 --> 01:38:59,900
+or two variables at a time
+is really going to be best
+
+2295
+01:38:59,900 --> 01:39:02,670
+as opposed to changing of
+a dozen things all at once
+
+2296
+01:39:02,670 --> 01:39:05,803
+to really identify what it is
+that's most powerful for you.
+
+2297
+01:39:06,694 --> 01:39:09,548
+As always, thank you so
+much for your questions.
+
+2298
+01:39:09,548 --> 01:39:12,020
+We are going to continue
+to answer questions.
+
+2299
+01:39:12,020 --> 01:39:13,077
+I certainly didn't get to all of them
+
+2300
+01:39:13,077 --> 01:39:15,470
+but we tried to get to
+most all of the ones
+
+2301
+01:39:15,470 --> 01:39:16,903
+that were frequently asked.
+
+2302
+01:39:17,740 --> 01:39:20,650
+Episode four of the podcast,
+I'm going to get into,
+
+2303
+01:39:20,650 --> 01:39:24,840
+shift work, jet lag and
+age dependent changes
+
+2304
+01:39:24,840 --> 01:39:28,460
+in sleeping and wakefulness and cognition.
+
+2305
+01:39:28,460 --> 01:39:30,530
+So for those of you with kids,
+
+2306
+01:39:30,530 --> 01:39:32,090
+for those of you that are kids
+
+2307
+01:39:32,090 --> 01:39:36,470
+for those of you with older
+relatives or who might be older
+
+2308
+01:39:36,470 --> 01:39:39,410
+meaning probably when
+you start to get into
+
+2309
+01:39:39,410 --> 01:39:42,250
+late '60, '70 and '80 is
+when there's some marked
+
+2310
+01:39:42,250 --> 01:39:44,740
+biological shifts in
+temperature regulation
+
+2311
+01:39:44,740 --> 01:39:46,340
+and things that relate to sleep.
+
+2312
+01:39:47,280 --> 01:39:49,270
+And for those of you that travel,
+
+2313
+01:39:49,270 --> 01:39:50,760
+we're going to talk about jet lag.
+
+2314
+01:39:50,760 --> 01:39:53,400
+The shift work discussion
+might seem only relevant
+
+2315
+01:39:53,400 --> 01:39:56,510
+to those that work nights, but
+actually that's not the case.
+
+2316
+01:39:56,510 --> 01:39:58,640
+Most people because of the
+way they're interacting
+
+2317
+01:39:58,640 --> 01:40:03,080
+with devices are actually
+in a form of shift work now,
+
+2318
+01:40:03,080 --> 01:40:05,327
+where the days are
+certainly not nine to five,
+
+2319
+01:40:05,327 --> 01:40:06,930
+the so-called banker's hours,
+
+2320
+01:40:06,930 --> 01:40:08,740
+and then the lights are out at nine
+
+2321
+01:40:08,740 --> 01:40:10,590
+and they're asleep until 5:00 AM.
+
+2322
+01:40:10,590 --> 01:40:12,860
+Some people have that
+schedule, most people do not.
+
+2323
+01:40:12,860 --> 01:40:17,680
+So episode four, we will go
+deeply into shift work, jet lag
+
+2324
+01:40:17,680 --> 01:40:20,760
+age dependent changes in
+sleep alertness and cognition
+
+2325
+01:40:20,760 --> 01:40:22,890
+and I will touch back on
+a few of your questions
+
+2326
+01:40:22,890 --> 01:40:23,723
+but don't think that
+
+2327
+01:40:23,723 --> 01:40:25,770
+if your question wasn't answered
+during these office hours
+
+2328
+01:40:25,770 --> 01:40:28,883
+that we won't get to it, I
+absolutely will at some point.
+
+2329
+01:40:30,199 --> 01:40:32,590
+In addition to that, several of you
+
+2330
+01:40:32,590 --> 01:40:35,560
+have graciously asked how you
+can help support the podcast.
+
+2331
+01:40:35,560 --> 01:40:37,307
+And we very much appreciate that.
+
+2332
+01:40:37,307 --> 01:40:41,860
+You can support the podcast
+by liking it on YouTube,
+
+2333
+01:40:41,860 --> 01:40:43,810
+by subscribing on YouTube,
+
+2334
+01:40:43,810 --> 01:40:46,510
+by recommending the
+YouTube videos to others,
+
+2335
+01:40:46,510 --> 01:40:50,140
+as well as subscribing and
+downloading the podcast on Apple
+
+2336
+01:40:50,140 --> 01:40:53,610
+where you can also leave
+a review and on Spotify,
+
+2337
+01:40:53,610 --> 01:40:55,860
+we're all three, if you like.
+
+2338
+01:40:55,860 --> 01:40:58,090
+you can also help us by
+supporting our sponsors.
+
+2339
+01:40:58,090 --> 01:41:00,280
+So check out some of the sponsor
+links that were described
+
+2340
+01:41:00,280 --> 01:41:02,110
+at the beginning of the episode.
+
+2341
+01:41:02,110 --> 01:41:04,370
+And in general, recommending the podcast
+
+2342
+01:41:04,370 --> 01:41:06,120
+to people that you know and
+that you think would benefit
+
+2343
+01:41:06,120 --> 01:41:08,330
+from the information would be terrific.
+
+2344
+01:41:08,330 --> 01:41:12,050
+As always I will be continuing
+to post on Instagram.
+
+2345
+01:41:12,050 --> 01:41:15,350
+You can expect another podcast
+episode out next Monday
+
+2346
+01:41:15,350 --> 01:41:17,860
+about the topics that we've
+been discussing this month
+
+2347
+01:41:17,860 --> 01:41:19,070
+and above all,
+[upbeat music]
+
+2348
+01:41:19,070 --> 01:41:21,020
+thank you for your interest in science.
+

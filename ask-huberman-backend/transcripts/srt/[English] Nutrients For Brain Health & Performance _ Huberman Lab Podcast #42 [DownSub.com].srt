@@ -1,0 +1,10972 @@
+1
+00:00:00,360 --> 00:00:02,280
+- Welcome to the Huberman Lab Podcast,
+
+2
+00:00:02,280 --> 00:00:03,710
+where we discuss science
+
+3
+00:00:03,710 --> 00:00:06,044
+and science-based tools for everyday life.
+
+4
+00:00:06,044 --> 00:00:09,430
+[upbeat rock music]
+
+5
+00:00:09,430 --> 00:00:10,370
+I'm Andrew Huberman,
+
+6
+00:00:10,370 --> 00:00:12,870
+and I'm a professor of
+neurobiology and ophthalmology
+
+7
+00:00:12,870 --> 00:00:15,000
+at Stanford School of Medicine.
+
+8
+00:00:15,000 --> 00:00:18,170
+Today, we are talking all
+about food and the brain.
+
+9
+00:00:18,170 --> 00:00:19,120
+We are going to talk about
+
+10
+00:00:19,120 --> 00:00:22,760
+foods that are good for your
+brain in terms of focus,
+
+11
+00:00:22,760 --> 00:00:24,600
+in terms of brain health generally,
+
+12
+00:00:24,600 --> 00:00:26,540
+and the longevity of your brain,
+
+13
+00:00:26,540 --> 00:00:28,810
+your ability to maintain cognition
+
+14
+00:00:28,810 --> 00:00:31,050
+and clear thinking over time.
+
+15
+00:00:31,050 --> 00:00:33,330
+We are also going to talk about why
+
+16
+00:00:33,330 --> 00:00:36,350
+and how you prefer
+certain foods to others.
+
+17
+00:00:36,350 --> 00:00:38,860
+And I'm going to talk about
+the three major signals
+
+18
+00:00:38,860 --> 00:00:42,840
+that combine to drive your food choices.
+
+19
+00:00:42,840 --> 00:00:45,190
+I'll give you a little
+hint of what those are.
+
+20
+00:00:45,190 --> 00:00:47,610
+One of those signals comes from your gut
+
+21
+00:00:47,610 --> 00:00:49,910
+and is completely subconscious.
+
+22
+00:00:49,910 --> 00:00:52,540
+This is not the gut microbiome, per se.
+
+23
+00:00:52,540 --> 00:00:53,960
+These are neurons in your gut
+
+24
+00:00:53,960 --> 00:00:55,490
+that are sending signals to your brain
+
+25
+00:00:55,490 --> 00:00:57,200
+that you are unaware of
+
+26
+00:00:57,200 --> 00:01:00,520
+about the nutrient contents of
+the foods that you're eating.
+
+27
+00:01:00,520 --> 00:01:02,550
+The second signal is
+
+28
+00:01:02,550 --> 00:01:05,830
+how metabolically
+accessible a given food is,
+
+29
+00:01:05,830 --> 00:01:07,990
+meaning how readily that food
+
+30
+00:01:07,990 --> 00:01:10,630
+can be converted into
+energy that your brain,
+
+31
+00:01:10,630 --> 00:01:11,463
+not your body,
+
+32
+00:01:11,463 --> 00:01:13,890
+but that your brain can use.
+
+33
+00:01:13,890 --> 00:01:17,230
+And the third signal is perhaps
+the most interesting one.
+
+34
+00:01:17,230 --> 00:01:18,940
+It's the signal of belief.
+
+35
+00:01:18,940 --> 00:01:21,150
+It's the signal of what you perceive
+
+36
+00:01:21,150 --> 00:01:24,850
+and believe the food that
+you're eating to contain,
+
+37
+00:01:24,850 --> 00:01:27,550
+and what you think it can
+do for you health-wise
+
+38
+00:01:27,550 --> 00:01:28,980
+and energy-wise.
+
+39
+00:01:28,980 --> 00:01:31,220
+And that might sound a
+little wishy-washy or vague,
+
+40
+00:01:31,220 --> 00:01:34,110
+but we're going to
+provide mechanistic data
+
+41
+00:01:34,110 --> 00:01:37,870
+to support the fact that
+you can change what you eat
+
+42
+00:01:37,870 --> 00:01:41,790
+so much so that you can drive your brain
+
+43
+00:01:41,790 --> 00:01:44,910
+and your body to crave
+foods that are good for you,
+
+44
+00:01:44,910 --> 00:01:46,760
+or at least better for you
+
+45
+00:01:46,760 --> 00:01:48,920
+than the foods you might
+currently be eating.
+
+46
+00:01:48,920 --> 00:01:52,610
+This is an incredibly powerful
+mechanism that we all have.
+
+47
+00:01:52,610 --> 00:01:55,200
+It's one that I think is
+very underappreciated.
+
+48
+00:01:55,200 --> 00:01:56,910
+And today, I'm going to review the data
+
+49
+00:01:56,910 --> 00:01:58,050
+from both animal models,
+
+50
+00:01:58,050 --> 00:02:00,980
+and fortunately, more
+recently, human studies,
+
+51
+00:02:00,980 --> 00:02:03,000
+that really do underscore the fact
+
+52
+00:02:03,000 --> 00:02:07,400
+that you can control your
+desire for particular foods.
+
+53
+00:02:07,400 --> 00:02:09,600
+Before we dive into today's topic,
+
+54
+00:02:09,600 --> 00:02:11,620
+I just want to briefly touch on
+
+55
+00:02:11,620 --> 00:02:14,620
+some key takeaways from
+a previous episode,
+
+56
+00:02:14,620 --> 00:02:17,560
+which is the episode on
+time restricted feeding,
+
+57
+00:02:17,560 --> 00:02:20,210
+also called intermittent fasting.
+
+58
+00:02:20,210 --> 00:02:23,480
+The key elements of
+time restricted feeding
+
+59
+00:02:23,480 --> 00:02:25,970
+that will benefit your health the most,
+
+60
+00:02:25,970 --> 00:02:28,350
+in terms of weight loss or maintenance,
+
+61
+00:02:28,350 --> 00:02:33,220
+fat loss, organ health,
+quality sleep, and cognition,
+
+62
+00:02:33,220 --> 00:02:35,280
+are that the feeding window begin
+
+63
+00:02:35,280 --> 00:02:38,220
+at least one hour after waking.
+
+64
+00:02:38,220 --> 00:02:40,800
+You could push that feeding
+window out to begin later,
+
+65
+00:02:40,800 --> 00:02:43,437
+but at least one hour after waking.
+
+66
+00:02:43,437 --> 00:02:46,350
+And that it end at least two,
+
+67
+00:02:46,350 --> 00:02:50,570
+and ideally, three hours
+before going to sleep.
+
+68
+00:02:50,570 --> 00:02:52,980
+Some people can end that feeding window
+
+69
+00:02:52,980 --> 00:02:56,320
+much further away from
+the beginning of sleep,
+
+70
+00:02:56,320 --> 00:02:58,890
+meaning they're finishing
+their last bite of food,
+
+71
+00:02:58,890 --> 00:03:00,120
+for instance, at 6:00 PM,
+
+72
+00:03:00,120 --> 00:03:01,860
+and they're not going
+to sleep until midnight.
+
+73
+00:03:01,860 --> 00:03:04,680
+But many people struggle
+to get quality sleep
+
+74
+00:03:04,680 --> 00:03:07,700
+if that feeding window is set too early
+
+75
+00:03:07,700 --> 00:03:09,200
+relative to when they go to sleep.
+
+76
+00:03:09,200 --> 00:03:13,447
+So begin the feeding window at
+least one hour after waking.
+
+77
+00:03:13,447 --> 00:03:14,670
+End the feeding window
+
+78
+00:03:14,670 --> 00:03:17,200
+at least two hours before going to sleep.
+
+79
+00:03:17,200 --> 00:03:21,230
+And a key feature based on
+the scientific research,
+
+80
+00:03:21,230 --> 00:03:23,500
+is that the feeding window itself
+
+81
+00:03:23,500 --> 00:03:27,810
+fall more or less at the same
+period of each 24 hour day
+
+82
+00:03:27,810 --> 00:03:29,140
+from day to day.
+
+83
+00:03:29,140 --> 00:03:32,600
+Meaning, if you are going to
+eat over an eight hour period,
+
+84
+00:03:32,600 --> 00:03:34,270
+that's your feeding window,
+
+85
+00:03:34,270 --> 00:03:36,880
+you wouldn't want to
+start that feeding window
+
+86
+00:03:36,880 --> 00:03:39,200
+at 10:00 AM one day and end it at 6:00 PM,
+
+87
+00:03:39,200 --> 00:03:42,048
+and then the next day, start
+at noon and end it at 8:00 PM,
+
+88
+00:03:42,048 --> 00:03:44,426
+and the next day, start it at 2:00 PM
+
+89
+00:03:44,426 --> 00:03:46,940
+and end it at 10:00 PM, and so forth.
+
+90
+00:03:46,940 --> 00:03:49,780
+As much as is reasonably possible,
+
+91
+00:03:49,780 --> 00:03:51,420
+if you want to extract the maximum
+
+92
+00:03:51,420 --> 00:03:53,400
+benefit from time restricted feeding,
+
+93
+00:03:53,400 --> 00:03:56,690
+the idea is to keep
+that feeding window at,
+
+94
+00:03:56,690 --> 00:03:59,380
+more or less, the same
+phase, as it's called,
+
+95
+00:03:59,380 --> 00:04:01,270
+of each 24 hour day.
+
+96
+00:04:01,270 --> 00:04:03,620
+If it slides around a little
+bit for social reasons
+
+97
+00:04:03,620 --> 00:04:04,920
+or whatever reasons,
+
+98
+00:04:04,920 --> 00:04:06,570
+it doesn't seem to be a big deal,
+
+99
+00:04:06,570 --> 00:04:08,640
+but you don't want it sliding around
+
+100
+00:04:08,640 --> 00:04:10,830
+by many hours from day to day,
+
+101
+00:04:10,830 --> 00:04:12,830
+because of the way that
+that feeding window
+
+102
+00:04:12,830 --> 00:04:15,080
+impacts other genes called clock genes
+
+103
+00:04:15,080 --> 00:04:18,390
+that regulate a bunch of
+other processes in the body.
+
+104
+00:04:18,390 --> 00:04:19,399
+Before we begin,
+
+105
+00:04:19,399 --> 00:04:21,199
+I'd like to emphasize that this podcast
+
+106
+00:04:21,200 --> 00:04:24,280
+is separate from my teaching
+and research roles at Stanford.
+
+107
+00:04:24,280 --> 00:04:25,970
+It is, however, part of my desire
+
+108
+00:04:25,970 --> 00:04:28,650
+and effort to bring zero
+cost to consumer information
+
+109
+00:04:28,650 --> 00:04:30,870
+about science and science related tools
+
+110
+00:04:30,870 --> 00:04:32,360
+to the general public.
+
+111
+00:04:32,360 --> 00:04:33,790
+In keeping with that theme,
+
+112
+00:04:33,790 --> 00:04:36,820
+I'd like to thank the
+sponsors of today's podcast.
+
+113
+00:04:36,820 --> 00:04:39,030
+Our first sponsor is ROKA.
+
+114
+00:04:39,030 --> 00:04:41,280
+ROKA makes eyeglasses
+and sunglasses that are
+
+115
+00:04:41,280 --> 00:04:43,950
+of the absolute highest quality.
+
+116
+00:04:43,950 --> 00:04:46,500
+I've spent a career working
+on the visual system,
+
+117
+00:04:46,500 --> 00:04:48,100
+and one of the key problems
+
+118
+00:04:48,100 --> 00:04:51,200
+that ROKA sunglasses has solved is,
+
+119
+00:04:51,200 --> 00:04:52,470
+if you've ever worn sunglasses,
+
+120
+00:04:52,470 --> 00:04:54,790
+and you've gone from a
+very bright region to, say,
+
+121
+00:04:54,790 --> 00:04:56,030
+a region with shadows,
+
+122
+00:04:56,030 --> 00:04:58,380
+oftentimes, you have to
+take the sunglasses off.
+
+123
+00:04:58,380 --> 00:05:00,140
+They've designed their
+sunglasses in a way,
+
+124
+00:05:00,140 --> 00:05:02,890
+that no matter whether
+you're standing in the shade
+
+125
+00:05:02,890 --> 00:05:04,030
+or in bright sunlight,
+
+126
+00:05:04,030 --> 00:05:07,100
+you always see things with
+absolute crystal clarity,
+
+127
+00:05:07,100 --> 00:05:08,220
+which is wonderful.
+
+128
+00:05:08,220 --> 00:05:10,340
+Their eyeglasses as well are designed
+
+129
+00:05:10,340 --> 00:05:11,173
+so that you can move from
+
+130
+00:05:11,173 --> 00:05:12,840
+one region of brightness to another
+
+131
+00:05:12,840 --> 00:05:14,550
+without noticing it at all.
+
+132
+00:05:14,550 --> 00:05:15,940
+The other thing that's really terrific
+
+133
+00:05:15,940 --> 00:05:17,820
+about ROKA eyeglasses and sunglasses,
+
+134
+00:05:17,820 --> 00:05:19,270
+is that they are very lightweight.
+
+135
+00:05:19,270 --> 00:05:20,103
+Most of the time,
+
+136
+00:05:20,103 --> 00:05:21,740
+you don't even remember
+that they're on your face.
+
+137
+00:05:21,740 --> 00:05:22,910
+And you can wear them
+
+138
+00:05:22,910 --> 00:05:25,540
+whether or not you're
+exercising or working,
+
+139
+00:05:25,540 --> 00:05:28,253
+because they won't slip
+off, even if you get sweaty.
+
+140
+00:05:29,520 --> 00:05:30,880
+The other thing that's really wonderful,
+
+141
+00:05:30,880 --> 00:05:32,670
+is that the aesthetic is terrific.
+
+142
+00:05:32,670 --> 00:05:35,590
+Unlike a lot of so-called
+performance glasses out there
+
+143
+00:05:35,590 --> 00:05:37,340
+that make people look like cyborgs,
+
+144
+00:05:37,340 --> 00:05:39,530
+or frankly, just look rather strange,
+
+145
+00:05:39,530 --> 00:05:42,410
+ROKA eyeglasses and sunglasses
+have a terrific aesthetic.
+
+146
+00:05:42,410 --> 00:05:45,950
+You could wear them to dinner,
+to work, running, exercising,
+
+147
+00:05:45,950 --> 00:05:48,180
+and they'll work for all those situations.
+
+148
+00:05:48,180 --> 00:05:49,470
+If you'd like to try ROKA,
+
+149
+00:05:49,470 --> 00:05:51,260
+you can go to ROKA.com.
+
+150
+00:05:51,260 --> 00:05:54,820
+That's R-O-K-A.com and
+enter the code: Huberman
+
+151
+00:05:54,820 --> 00:05:57,590
+to save 20% on your first order.
+
+152
+00:05:57,590 --> 00:06:00,710
+Today's episode is also brought
+to us by Athletic Greens.
+
+153
+00:06:00,710 --> 00:06:03,750
+Athletic Greens is a vitamin
+mineral probiotic drink
+
+154
+00:06:03,750 --> 00:06:07,170
+that's designed to cover your
+foundational supplementation
+
+155
+00:06:07,170 --> 00:06:08,530
+and health needs.
+
+156
+00:06:08,530 --> 00:06:10,950
+I've been using Athletic
+Greens since 2012,
+
+157
+00:06:10,950 --> 00:06:13,580
+so I'm delighted that they're
+sponsoring the podcast.
+
+158
+00:06:13,580 --> 00:06:15,360
+The reason I started
+using Athletic Greens,
+
+159
+00:06:15,360 --> 00:06:16,420
+and the reason I still drink
+
+160
+00:06:16,420 --> 00:06:18,640
+Athletic Greens once or twice per day,
+
+161
+00:06:18,640 --> 00:06:22,240
+is because it covers all of my
+vitamin mineral basic needs,
+
+162
+00:06:22,240 --> 00:06:24,380
+and because of the probiotics.
+
+163
+00:06:24,380 --> 00:06:26,320
+There's now ample data supporting the fact
+
+164
+00:06:26,320 --> 00:06:30,110
+that probiotics support
+a healthy gut microbiome,
+
+165
+00:06:30,110 --> 00:06:32,310
+and that the gut microbiome is important
+
+166
+00:06:32,310 --> 00:06:35,660
+for keeping inflammation
+low, which is good,
+
+167
+00:06:35,660 --> 00:06:37,630
+as well as for supporting
+the immune system,
+
+168
+00:06:37,630 --> 00:06:39,360
+and for supporting brain health
+
+169
+00:06:39,360 --> 00:06:41,760
+through the so-called gut brain access.
+
+170
+00:06:41,760 --> 00:06:43,270
+If you'd like to try Athletic Greens,
+
+171
+00:06:43,270 --> 00:06:46,210
+you can go to Athleticgreens.com/Huberman.
+
+172
+00:06:46,210 --> 00:06:48,650
+And if you do that, you
+can claim a special offer.
+
+173
+00:06:48,650 --> 00:06:50,330
+They'll give you five free travel packs.
+
+174
+00:06:50,330 --> 00:06:52,770
+So these packs make it really
+easy to mix up Athletic Greens
+
+175
+00:06:52,770 --> 00:06:55,050
+when you're on the road,
+in the car, et cetera.
+
+176
+00:06:55,050 --> 00:06:58,800
+And they'll give you a year
+supply of vitamin D3/K2.
+
+177
+00:06:58,800 --> 00:07:01,039
+There's now a lot of
+data pointing to the fact
+
+178
+00:07:01,039 --> 00:07:05,230
+that vitamin D3 and K2 are
+important for hormonal health,
+
+179
+00:07:05,230 --> 00:07:06,910
+for cardiovascular function.
+
+180
+00:07:06,910 --> 00:07:09,880
+And so if you go to
+Athleticgreens.com/Huberman,
+
+181
+00:07:09,880 --> 00:07:12,070
+you'll get the Athletic Greens,
+the five free travel packs,
+
+182
+00:07:12,070 --> 00:07:15,230
+and a year supply of vitamin D3/K2.
+
+183
+00:07:15,230 --> 00:07:18,490
+Today's episode is also
+brought to us by Headspace.
+
+184
+00:07:18,490 --> 00:07:20,130
+Headspace is a meditation app
+
+185
+00:07:20,130 --> 00:07:23,790
+backed by 25 peer-reviewed
+published studies.
+
+186
+00:07:23,790 --> 00:07:26,080
+I think by now, most people have heard
+
+187
+00:07:26,080 --> 00:07:28,040
+of the benefits of meditation.
+
+188
+00:07:28,040 --> 00:07:32,050
+Reduce stress, improves sleep,
+better cognition, et cetera.
+
+189
+00:07:32,050 --> 00:07:34,040
+I've been meditating for a long time,
+
+190
+00:07:34,040 --> 00:07:35,970
+but I have to admit,
+
+191
+00:07:35,970 --> 00:07:37,450
+it's been sort of an on and off thing.
+
+192
+00:07:37,450 --> 00:07:39,910
+There are periods of
+time over the last 10,
+
+193
+00:07:39,910 --> 00:07:41,970
+or gosh, even 20 or 30 years,
+
+194
+00:07:41,970 --> 00:07:43,580
+that I've meditated consistently,
+
+195
+00:07:43,580 --> 00:07:45,260
+and then I'll stop meditating.
+
+196
+00:07:45,260 --> 00:07:46,980
+One of the terrific things about Headspace
+
+197
+00:07:46,980 --> 00:07:49,190
+is that it has meditations
+of different duration
+
+198
+00:07:49,190 --> 00:07:50,320
+and different type.
+
+199
+00:07:50,320 --> 00:07:53,060
+And so I found, that as soon
+as I started using Headspace,
+
+200
+00:07:53,060 --> 00:07:55,990
+that I was meditating
+far more consistently.
+
+201
+00:07:55,990 --> 00:07:57,780
+One of the great things about meditation
+
+202
+00:07:57,780 --> 00:07:59,880
+is that it works the first time,
+
+203
+00:07:59,880 --> 00:08:01,140
+and it works every time.
+
+204
+00:08:01,140 --> 00:08:03,570
+And the more consistently I do it,
+
+205
+00:08:03,570 --> 00:08:06,380
+the more positive
+benefits I seem to derive.
+
+206
+00:08:06,380 --> 00:08:07,610
+If you'd like to try Headspace,
+
+207
+00:08:07,610 --> 00:08:09,660
+you can go to headspace.com/specialoffer.
+
+208
+00:08:10,790 --> 00:08:11,880
+And if you do that,
+
+209
+00:08:11,880 --> 00:08:13,640
+you'll get a free one month trial
+
+210
+00:08:13,640 --> 00:08:16,910
+with all of Headspace's
+full library of meditations.
+
+211
+00:08:16,910 --> 00:08:19,330
+This is the best deal offered
+by Headspace right now.
+
+212
+00:08:19,330 --> 00:08:20,570
+So if you're interested,
+
+213
+00:08:20,570 --> 00:08:23,580
+go to headspace.com/specialoffer.
+
+214
+00:08:23,580 --> 00:08:24,550
+I'd like to point you toward
+
+215
+00:08:24,550 --> 00:08:28,570
+what I think is a very valuable
+zero cost resource online.
+
+216
+00:08:28,570 --> 00:08:32,610
+Recently, I took part in an
+event called Rethink Education
+
+217
+00:08:32,610 --> 00:08:34,370
+that was put on by Logitech.
+
+218
+00:08:34,370 --> 00:08:36,820
+And there, I gave a 20 minute lecture
+
+219
+00:08:36,820 --> 00:08:39,260
+where I describe the classic
+
+220
+00:08:39,260 --> 00:08:42,120
+and modern neuroplasticity literature
+
+221
+00:08:42,120 --> 00:08:44,150
+in both animal models and humans.
+
+222
+00:08:44,150 --> 00:08:46,010
+The neuro-plasticity
+literature is, of course,
+
+223
+00:08:46,010 --> 00:08:47,260
+the literature that describes
+
+224
+00:08:47,260 --> 00:08:50,640
+how to rewire the brain in order to learn.
+
+225
+00:08:50,640 --> 00:08:51,880
+During that 20 minute talk,
+
+226
+00:08:51,880 --> 00:08:52,930
+I describe that literature,
+
+227
+00:08:52,930 --> 00:08:55,040
+but I also spell out what I call
+
+228
+00:08:55,040 --> 00:08:57,190
+the neuroplasticity super protocol,
+
+229
+00:08:57,190 --> 00:08:59,960
+which is nine-plus steps of things
+
+230
+00:08:59,960 --> 00:09:02,260
+that teachers can apply in the classroom
+
+231
+00:09:02,260 --> 00:09:03,930
+to teach any sort of information,
+
+232
+00:09:03,930 --> 00:09:06,890
+music, math, sports, anything,
+
+233
+00:09:06,890 --> 00:09:09,270
+and that students of any kind in any age
+
+234
+00:09:09,270 --> 00:09:12,270
+can use to enhance the
+speed and depth of learning.
+
+235
+00:09:12,270 --> 00:09:14,670
+You can find that talk on YouTube
+
+236
+00:09:14,670 --> 00:09:17,650
+by following the link in
+the caption to this episode,
+
+237
+00:09:17,650 --> 00:09:19,170
+or by simply going to YouTube
+
+238
+00:09:19,170 --> 00:09:22,220
+and entering the search
+terms: Logitech Huberman.
+
+239
+00:09:22,220 --> 00:09:23,850
+Some of the most frequent questions I get
+
+240
+00:09:23,850 --> 00:09:26,360
+are about food and the brain.
+
+241
+00:09:26,360 --> 00:09:28,690
+Everybody seems to want to
+know what they should eat
+
+242
+00:09:28,690 --> 00:09:30,200
+and what they shouldn't eat
+
+243
+00:09:30,200 --> 00:09:32,130
+in order to have peak brain function,
+
+244
+00:09:32,130 --> 00:09:35,620
+to be able to focus, and
+memorize things, and so forth,
+
+245
+00:09:35,620 --> 00:09:38,420
+and in order to maintain
+brain health over time,
+
+246
+00:09:38,420 --> 00:09:40,650
+because nobody wants to lose their memory
+
+247
+00:09:40,650 --> 00:09:43,210
+or have troubles with cognition.
+
+248
+00:09:43,210 --> 00:09:45,370
+Fortunately, there are a lot of data now
+
+249
+00:09:45,370 --> 00:09:48,540
+from really good quality
+peer-reviewed studies
+
+250
+00:09:48,540 --> 00:09:50,860
+that indicate certain
+things that we can do,
+
+251
+00:09:50,860 --> 00:09:53,290
+including certain foods
+that we should eat,
+
+252
+00:09:53,290 --> 00:09:55,700
+and perhaps, even some
+foods that we should avoid,
+
+253
+00:09:55,700 --> 00:09:58,400
+in order to enhance our brain function.
+
+254
+00:09:58,400 --> 00:09:59,750
+And, of course, when I say, brain,
+
+255
+00:09:59,750 --> 00:10:01,730
+what I really mean is
+nervous system function,
+
+256
+00:10:01,730 --> 00:10:04,270
+because how we are able to move,
+
+257
+00:10:04,270 --> 00:10:05,940
+and remember things, et cetera,
+
+258
+00:10:05,940 --> 00:10:07,530
+doesn't just depend on the neurons,
+
+259
+00:10:07,530 --> 00:10:08,820
+the nerve cells that are in our head,
+
+260
+00:10:08,820 --> 00:10:11,040
+it also depends on our spinal cord,
+
+261
+00:10:11,040 --> 00:10:13,910
+and the neurons that connect
+to all the organs of our body.
+
+262
+00:10:13,910 --> 00:10:15,940
+So in general,
+
+263
+00:10:15,940 --> 00:10:17,400
+there are two categories of things
+
+264
+00:10:17,400 --> 00:10:19,720
+that are going to improve brain health
+
+265
+00:10:19,720 --> 00:10:22,030
+from the perspective of nutrition.
+
+266
+00:10:22,030 --> 00:10:25,300
+The first category is the general category
+
+267
+00:10:25,300 --> 00:10:27,120
+of things that we eat and avoid,
+
+268
+00:10:27,120 --> 00:10:29,400
+and things that we do and avoid doing,
+
+269
+00:10:29,400 --> 00:10:32,210
+that will modulate brain
+health and function.
+
+270
+00:10:32,210 --> 00:10:33,640
+What do I mean by modulate?
+
+271
+00:10:33,640 --> 00:10:37,333
+Well, getting quality
+sleep on a regular basis.
+
+272
+00:10:38,210 --> 00:10:40,580
+Making sure that you're
+socially connected.
+
+273
+00:10:40,580 --> 00:10:42,710
+Making sure that you're not depressed.
+
+274
+00:10:42,710 --> 00:10:44,400
+All these things are vitally important
+
+275
+00:10:44,400 --> 00:10:45,610
+to our overall health ,
+
+276
+00:10:45,610 --> 00:10:47,780
+and, of course, they will
+impact brain function,
+
+277
+00:10:47,780 --> 00:10:50,440
+but they do it, more or
+less, indirectly, okay?
+
+278
+00:10:50,440 --> 00:10:52,040
+There are a few things
+that happen in sleep
+
+279
+00:10:52,040 --> 00:10:54,580
+which directly benefit brain function,
+
+280
+00:10:54,580 --> 00:10:56,130
+and repair, et cetera.
+
+281
+00:10:56,130 --> 00:10:57,880
+But today, I really want to concentrate,
+
+282
+00:10:57,880 --> 00:11:00,880
+not on the things that
+modulate our overall health,
+
+283
+00:11:00,880 --> 00:11:04,570
+but rather, the things that
+mediate brain health directly,
+
+284
+00:11:04,570 --> 00:11:08,720
+and in particular, how certain
+foods enhance brain function.
+
+285
+00:11:08,720 --> 00:11:10,350
+And we are going to talk about
+
+286
+00:11:10,350 --> 00:11:12,750
+how we can change our
+relationship to food.
+
+287
+00:11:12,750 --> 00:11:15,810
+Literally, how we can start
+to prefer certain foods
+
+288
+00:11:15,810 --> 00:11:18,380
+that are better for us than others.
+
+289
+00:11:18,380 --> 00:11:22,110
+So just briefly, I want to touch
+on the modulatory components,
+
+290
+00:11:22,110 --> 00:11:24,090
+because they are vital.
+
+291
+00:11:24,090 --> 00:11:25,400
+First of all,
+
+292
+00:11:25,400 --> 00:11:28,040
+getting quality sleep on a regular basis
+
+293
+00:11:28,040 --> 00:11:30,480
+and ample sleep on a regular basis
+
+294
+00:11:30,480 --> 00:11:34,770
+is the foundation of all mental
+health and physical health.
+
+295
+00:11:34,770 --> 00:11:36,360
+There's no question about that.
+
+296
+00:11:36,360 --> 00:11:38,090
+We've have done several episodes,
+
+297
+00:11:38,090 --> 00:11:40,370
+including the Mastering
+Your Sleep episode,
+
+298
+00:11:40,370 --> 00:11:42,610
+which is episode two of
+the Huberman Lab Podcast.
+
+299
+00:11:42,610 --> 00:11:44,670
+And we've done a lot of other episodes
+
+300
+00:11:44,670 --> 00:11:45,960
+that are all about sleep,
+
+301
+00:11:45,960 --> 00:11:47,830
+and how to get better at sleeping.
+
+302
+00:11:47,830 --> 00:11:50,460
+So I just want to make crystal clear,
+
+303
+00:11:50,460 --> 00:11:53,510
+that unless you're sleeping
+well on a regular basis,
+
+304
+00:11:53,510 --> 00:11:54,610
+your brain will suffer.
+
+305
+00:11:54,610 --> 00:11:56,770
+You won't be able to focus
+very well, learn very well,
+
+306
+00:11:56,770 --> 00:11:59,360
+and indeed, there are data linking
+
+307
+00:11:59,360 --> 00:12:01,960
+poor quality sleep to dementia,
+
+308
+00:12:01,960 --> 00:12:04,850
+or at least exacerbating
+pre-existing dementias,
+
+309
+00:12:04,850 --> 00:12:05,700
+and things of that sort.
+
+310
+00:12:05,700 --> 00:12:07,300
+So get your sleep in order.
+
+311
+00:12:07,300 --> 00:12:10,910
+The other, of course, is
+cardiovascular health and exercise.
+
+312
+00:12:10,910 --> 00:12:13,860
+The general prescription that's
+out there in the literature,
+
+313
+00:12:13,860 --> 00:12:15,440
+and I think is well supported,
+
+314
+00:12:15,440 --> 00:12:19,130
+is to get somewhere
+between 150 and 180 minutes
+
+315
+00:12:19,130 --> 00:12:21,250
+of cardiovascular exercise per week.
+
+316
+00:12:21,250 --> 00:12:24,580
+If you choose to also use
+resistance exercise, that's great.
+
+317
+00:12:24,580 --> 00:12:28,750
+But the 150 to 180
+minutes minimum per week
+
+318
+00:12:28,750 --> 00:12:30,370
+of cardiovascular exercise
+
+319
+00:12:30,370 --> 00:12:32,840
+is crucial for heart health,
+
+320
+00:12:32,840 --> 00:12:35,470
+and heart health directly
+relates to brain health,
+
+321
+00:12:35,470 --> 00:12:38,680
+because the brain consumes
+a lot of oxygen, glucose,
+
+322
+00:12:38,680 --> 00:12:41,570
+and other factors that are
+delivered via the blood.
+
+323
+00:12:41,570 --> 00:12:43,610
+So if your arteries are clogged up,
+
+324
+00:12:43,610 --> 00:12:46,430
+and you've got poor
+vascular supply to the brain
+
+325
+00:12:46,430 --> 00:12:47,700
+in any region of the brain,
+
+326
+00:12:47,700 --> 00:12:49,300
+your brain will suffer.
+
+327
+00:12:49,300 --> 00:12:51,453
+So get cardiovascular health in order.
+
+328
+00:12:52,380 --> 00:12:56,680
+Now, with those two
+modulatory elements set forth,
+
+329
+00:12:56,680 --> 00:12:58,100
+so that we're all aware that they're there
+
+330
+00:12:58,100 --> 00:12:59,530
+and they are vitally important,
+
+331
+00:12:59,530 --> 00:13:02,210
+now, I'd like to turn to the
+elements that have been shown
+
+332
+00:13:02,210 --> 00:13:04,990
+to be vitally important
+for directly controlling,
+
+333
+00:13:04,990 --> 00:13:07,310
+for mediating neuron function.
+
+334
+00:13:07,310 --> 00:13:09,640
+Neurons, of course, are
+nerve cells in the brain,
+
+335
+00:13:09,640 --> 00:13:12,000
+and there are other cell
+types, too, of course,
+
+336
+00:13:12,000 --> 00:13:14,010
+that will impact brain function.
+
+337
+00:13:14,010 --> 00:13:17,420
+The most prominent of which
+are the so-called glia.
+
+338
+00:13:17,420 --> 00:13:18,680
+Glia means glue.
+
+339
+00:13:18,680 --> 00:13:20,790
+But even though, for a long time,
+
+340
+00:13:20,790 --> 00:13:21,690
+people thought that these cells
+
+341
+00:13:21,690 --> 00:13:23,590
+were just kind of holding
+things together passively,
+
+342
+00:13:23,590 --> 00:13:26,310
+the glia play a very active role
+
+343
+00:13:26,310 --> 00:13:29,060
+in the metabolism neurons
+in brain function,
+
+344
+00:13:29,060 --> 00:13:31,140
+and probably, also, in cognition,
+
+345
+00:13:31,140 --> 00:13:33,410
+in thinking, and so forth.
+
+346
+00:13:33,410 --> 00:13:37,050
+So what are the things that
+directly impact brain health,
+
+347
+00:13:37,050 --> 00:13:38,870
+and what are the foods that we can eat
+
+348
+00:13:38,870 --> 00:13:40,730
+that will support brain health?
+
+349
+00:13:40,730 --> 00:13:42,487
+Generally, when we think
+about neuron function
+
+350
+00:13:42,487 --> 00:13:44,230
+and brain function,
+
+351
+00:13:44,230 --> 00:13:46,970
+we default to a discussion about fuel.
+
+352
+00:13:46,970 --> 00:13:50,950
+The fact that neurons use
+glucose, which is blood sugar,
+
+353
+00:13:50,950 --> 00:13:52,770
+and that they require a lot of it.
+
+354
+00:13:52,770 --> 00:13:54,590
+In some cases, they'll use ketones,
+
+355
+00:13:54,590 --> 00:13:56,250
+which we will talk about
+a little bit later,
+
+356
+00:13:56,250 --> 00:13:58,480
+especially in people that are
+following a low carbohydrate
+
+357
+00:13:58,480 --> 00:14:00,470
+or ketogenic diet.
+
+358
+00:14:00,470 --> 00:14:02,980
+But before we can even consider the fuels
+
+359
+00:14:02,980 --> 00:14:05,320
+that neurons use in order to function,
+
+360
+00:14:05,320 --> 00:14:06,620
+we have to talk about
+
+361
+00:14:06,620 --> 00:14:09,680
+the elements that actually
+allow those neurons to be there
+
+362
+00:14:09,680 --> 00:14:11,020
+and to stay healthy,
+
+363
+00:14:11,020 --> 00:14:12,800
+what actually makes up those neurons.
+
+364
+00:14:12,800 --> 00:14:14,710
+And that brings us to, what I would argue,
+
+365
+00:14:14,710 --> 00:14:19,410
+is the most important food
+element for brain function,
+
+366
+00:14:19,410 --> 00:14:21,230
+and that is fat.
+
+367
+00:14:21,230 --> 00:14:22,900
+And that may come as a surprise,
+
+368
+00:14:22,900 --> 00:14:26,140
+but unless one considers the
+water content of the brain,
+
+369
+00:14:26,140 --> 00:14:27,193
+which is very high,
+
+370
+00:14:28,400 --> 00:14:29,580
+a lot of our brain,
+
+371
+00:14:29,580 --> 00:14:31,820
+and a lot of the integrity
+of the nerve cells,
+
+372
+00:14:31,820 --> 00:14:33,880
+the so-called neurons in our brain,
+
+373
+00:14:33,880 --> 00:14:36,950
+and the other types of
+cells comes from fat.
+
+374
+00:14:36,950 --> 00:14:39,870
+And that's because nerve cells
+and other cells in the brain
+
+375
+00:14:39,870 --> 00:14:42,990
+have a external layer.
+
+376
+00:14:42,990 --> 00:14:46,610
+It's what's sometimes called
+a double-layered membrane.
+
+377
+00:14:46,610 --> 00:14:48,320
+It's essentially two thin layers
+
+378
+00:14:48,320 --> 00:14:49,967
+that serve as a boundary
+between those cells,
+
+379
+00:14:49,967 --> 00:14:51,710
+and that boundary is important,
+
+380
+00:14:51,710 --> 00:14:54,250
+because how things pass
+across that boundary
+
+381
+00:14:54,250 --> 00:14:57,600
+actually regulates the
+electrical activity of neurons,
+
+382
+00:14:57,600 --> 00:14:59,900
+which is the way that neurons
+fire, and communicate,
+
+383
+00:14:59,900 --> 00:15:01,150
+and keep you thinking, and acting,
+
+384
+00:15:01,150 --> 00:15:02,090
+and doing all the good things
+
+385
+00:15:02,090 --> 00:15:04,270
+that those neurons allow us to do.
+
+386
+00:15:04,270 --> 00:15:06,830
+And those membranes are made up of fats,
+
+387
+00:15:06,830 --> 00:15:08,090
+but they're not made up of the fats
+
+388
+00:15:08,090 --> 00:15:10,290
+that are around our belly,
+
+389
+00:15:10,290 --> 00:15:12,000
+around the other organs of our body.
+
+390
+00:15:12,000 --> 00:15:13,640
+They're not made up of storage fat.
+
+391
+00:15:13,640 --> 00:15:16,400
+They are made up of structural fat.
+
+392
+00:15:16,400 --> 00:15:18,380
+And maintaining the so-called integrity
+
+393
+00:15:18,380 --> 00:15:19,870
+of that structural fat,
+
+394
+00:15:19,870 --> 00:15:22,020
+meaning the health of those neurons,
+
+395
+00:15:22,020 --> 00:15:23,900
+is going to come, in large part,
+
+396
+00:15:23,900 --> 00:15:25,850
+from the foods that we eat.
+
+397
+00:15:25,850 --> 00:15:27,990
+Now, this needs to be underscored.
+
+398
+00:15:27,990 --> 00:15:30,060
+What I'm saying is, that
+the foods that we eat
+
+399
+00:15:30,060 --> 00:15:33,100
+actually provide the structural
+basis, the building blocks,
+
+400
+00:15:33,100 --> 00:15:36,690
+of the very neurons that
+allow us to think over time.
+
+401
+00:15:36,690 --> 00:15:38,470
+And as I mentioned earlier,
+
+402
+00:15:38,470 --> 00:15:40,920
+the fat that makes up those
+neurons and other nerve cells
+
+403
+00:15:40,920 --> 00:15:44,210
+is different than the other
+types of fat in the body.
+
+404
+00:15:44,210 --> 00:15:45,440
+So what type of fat is it,
+
+405
+00:15:45,440 --> 00:15:46,770
+and what should we eat
+
+406
+00:15:46,770 --> 00:15:50,550
+in order to support that
+fat and those neurons?
+
+407
+00:15:50,550 --> 00:15:51,570
+And the answer is
+
+408
+00:15:51,570 --> 00:15:54,820
+the so-called essential fatty
+acids and phospholipids.
+
+409
+00:15:54,820 --> 00:15:56,440
+Now, those are, more or
+less, the same thing,
+
+410
+00:15:56,440 --> 00:15:58,880
+but I just want to make
+a very large literature
+
+411
+00:15:58,880 --> 00:16:01,050
+very crystal clear.
+
+412
+00:16:01,050 --> 00:16:02,980
+Essential fatty acids can include
+
+413
+00:16:02,980 --> 00:16:06,420
+the so-called EPA variety or DHA variety.
+
+414
+00:16:06,420 --> 00:16:09,080
+You hear about omega-3s and omega-6s.
+
+415
+00:16:09,080 --> 00:16:12,510
+Most people are getting enough
+omega-6s from their diet.
+
+416
+00:16:12,510 --> 00:16:15,280
+Not everybody, but most people
+are getting enough omega-6s.
+
+417
+00:16:15,280 --> 00:16:18,410
+However, most people
+are not getting enough
+
+418
+00:16:18,410 --> 00:16:21,380
+omega-3s in their diet to
+support healthy brain function
+
+419
+00:16:21,380 --> 00:16:23,050
+in the short and long-term.
+
+420
+00:16:23,050 --> 00:16:25,410
+I've talked before about the benefits of
+
+421
+00:16:25,410 --> 00:16:28,270
+elevating the levels of
+omega-3s in one's diet
+
+422
+00:16:28,270 --> 00:16:31,870
+for sake of offsetting depression
+and for enhancing mood.
+
+423
+00:16:31,870 --> 00:16:34,370
+And indeed, there's a
+wealth of literature now
+
+424
+00:16:34,370 --> 00:16:38,010
+pointing to the fact that
+ingesting at least one, or two,
+
+425
+00:16:38,010 --> 00:16:40,532
+or even three grams per day of
+
+426
+00:16:40,532 --> 00:16:43,700
+EPA form of essential fatty acid
+
+427
+00:16:43,700 --> 00:16:46,100
+can have effects, positive effects,
+
+428
+00:16:46,100 --> 00:16:48,320
+on mood and wellbeing
+that are at least on par
+
+429
+00:16:48,320 --> 00:16:50,590
+with some of the major
+antidepressant treatments out there,
+
+430
+00:16:50,590 --> 00:16:52,670
+but without similar side effects
+
+431
+00:16:52,670 --> 00:16:54,210
+to those antidepressant treatments.
+
+432
+00:16:54,210 --> 00:16:57,920
+And that for people that are
+already taking antidepressants,
+
+433
+00:16:57,920 --> 00:17:00,350
+that supplementing with one, to two,
+
+434
+00:17:00,350 --> 00:17:03,760
+to three grams of EPA
+essential fatty acids
+
+435
+00:17:03,760 --> 00:17:06,319
+can actually allow a lower dose of
+
+436
+00:17:06,319 --> 00:17:08,029
+antidepressant treatment to be used,
+
+437
+00:17:08,030 --> 00:17:09,380
+and still be effective.
+
+438
+00:17:09,380 --> 00:17:10,970
+So that's depression.
+
+439
+00:17:10,970 --> 00:17:13,859
+But just in terms of maintaining
+normal cognitive function
+
+440
+00:17:13,859 --> 00:17:15,079
+in people that aren't depressed,
+
+441
+00:17:15,079 --> 00:17:19,289
+the EPAs and omega-3s seem to
+play a very important role.
+
+442
+00:17:19,290 --> 00:17:21,750
+Of course, you can supplement EPAs
+
+443
+00:17:21,750 --> 00:17:23,240
+through various fish oils,
+
+444
+00:17:23,240 --> 00:17:26,300
+and it could be liquid fish
+oil, or a capsule fish oil.
+
+445
+00:17:26,300 --> 00:17:29,100
+Some people, if they're not
+interested in eating fish
+
+446
+00:17:29,100 --> 00:17:30,110
+for whatever reason,
+
+447
+00:17:30,110 --> 00:17:31,950
+they're allergic, or for ethical reasons,
+
+448
+00:17:31,950 --> 00:17:33,260
+they can take krill oil.
+
+449
+00:17:33,260 --> 00:17:34,800
+And if they don't want to use krill oil,
+
+450
+00:17:34,800 --> 00:17:37,730
+they can use algae and other forms of EPA.
+
+451
+00:17:37,730 --> 00:17:40,300
+However, I think it's clear,
+
+452
+00:17:40,300 --> 00:17:43,870
+that one can get a lot of
+EPA from the proper foods.
+
+453
+00:17:43,870 --> 00:17:46,820
+And it turns out, that those
+foods, not surprisingly,
+
+454
+00:17:46,820 --> 00:17:49,380
+don't just contain high levels of EPA,
+
+455
+00:17:49,380 --> 00:17:51,160
+but they also contain other things
+
+456
+00:17:51,160 --> 00:17:53,020
+that are beneficial for brain health.
+
+457
+00:17:53,020 --> 00:17:55,890
+So what are foods that
+are high in omega-3s
+
+458
+00:17:55,890 --> 00:17:58,030
+that we should all probably be consuming,
+
+459
+00:17:58,030 --> 00:17:59,763
+at least on a daily basis?
+
+460
+00:18:01,020 --> 00:18:03,380
+The number one is fish.
+
+461
+00:18:03,380 --> 00:18:06,350
+So things like mackerel,
+and salmon, and herring,
+
+462
+00:18:06,350 --> 00:18:09,330
+and oysters, and sardines, and anchovies.
+
+463
+00:18:09,330 --> 00:18:11,350
+And perhaps, the heavyweight champion
+
+464
+00:18:11,350 --> 00:18:14,280
+of EPAs per unit volume is caviar.
+
+465
+00:18:14,280 --> 00:18:15,670
+Now, I don't know about you,
+
+466
+00:18:15,670 --> 00:18:17,460
+but I'm not eating a lot of fish.
+
+467
+00:18:17,460 --> 00:18:19,580
+I'm not eating a lot of caviar.
+
+468
+00:18:19,580 --> 00:18:20,413
+I don't think...
+
+469
+00:18:20,413 --> 00:18:22,150
+I can't remember the
+last time I had a caviar,
+
+470
+00:18:22,150 --> 00:18:24,610
+unless it was sprinkled
+on a little bit of sushi.
+
+471
+00:18:24,610 --> 00:18:27,560
+I'm not a big fish eater personally.
+
+472
+00:18:27,560 --> 00:18:28,940
+I will from time to time.
+
+473
+00:18:28,940 --> 00:18:30,410
+But that's one reason why
+
+474
+00:18:30,410 --> 00:18:34,690
+one might want to supplement
+with EPAs from another source.
+
+475
+00:18:34,690 --> 00:18:39,630
+But also, EPAs are found
+in chia seeds, in walnuts,
+
+476
+00:18:39,630 --> 00:18:42,010
+in soybeans, and other plant-based foods.
+
+477
+00:18:42,010 --> 00:18:43,550
+You can look these up online,
+
+478
+00:18:43,550 --> 00:18:44,940
+and you'll immediately see
+
+479
+00:18:44,940 --> 00:18:47,570
+that there are a lot of sources of EPAs.
+
+480
+00:18:47,570 --> 00:18:49,790
+And many of the foods that I listed off
+
+481
+00:18:49,790 --> 00:18:51,070
+might be appetizing to you,
+
+482
+00:18:51,070 --> 00:18:52,780
+some of them might be unappetizing to you,
+
+483
+00:18:52,780 --> 00:18:55,230
+or some of them you might
+be sort of neutral about.
+
+484
+00:18:55,230 --> 00:18:56,170
+But it's very clear,
+
+485
+00:18:56,170 --> 00:18:58,680
+that eating foods that
+are rich in omega-3s,
+
+486
+00:18:58,680 --> 00:19:00,360
+and/or supplementing with omega-3s,
+
+487
+00:19:00,360 --> 00:19:02,920
+to get above that 1.5 grams,
+
+488
+00:19:02,920 --> 00:19:05,500
+and ideally, up to two,
+or even three grams,
+
+489
+00:19:05,500 --> 00:19:10,280
+per day of EPA can be very
+beneficial for cognitive function
+
+490
+00:19:10,280 --> 00:19:12,570
+in the short and long-term.
+
+491
+00:19:12,570 --> 00:19:13,650
+Later in the episode,
+
+492
+00:19:13,650 --> 00:19:14,570
+I'm going talk about
+
+493
+00:19:14,570 --> 00:19:17,040
+how to actually change your relationship
+
+494
+00:19:17,040 --> 00:19:17,930
+to particular foods,
+
+495
+00:19:17,930 --> 00:19:19,760
+so that foods that you
+don't particularly like,
+
+496
+00:19:19,760 --> 00:19:21,860
+you can actually start to like more,
+
+497
+00:19:21,860 --> 00:19:23,610
+and that might be
+important for those of you
+
+498
+00:19:23,610 --> 00:19:25,607
+that are thinking, mackerel, sardines.
+
+499
+00:19:25,607 --> 00:19:27,030
+I'm making this face,
+
+500
+00:19:27,030 --> 00:19:30,350
+'cause, frankly, those are not
+foods that I naturally like.
+
+501
+00:19:30,350 --> 00:19:31,780
+But again, I want to emphasize,
+
+502
+00:19:31,780 --> 00:19:33,760
+that you don't have to consume fish
+
+503
+00:19:33,760 --> 00:19:35,890
+and animal products in order
+to get sufficient EPAs.
+
+504
+00:19:35,890 --> 00:19:37,170
+You can get them from plants.
+
+505
+00:19:37,170 --> 00:19:38,650
+But I do believe,
+
+506
+00:19:38,650 --> 00:19:41,290
+based on the quality
+peer-reviewed research,
+
+507
+00:19:41,290 --> 00:19:44,640
+that everybody should be striving
+to get a minimum threshold
+
+508
+00:19:44,640 --> 00:19:46,800
+of at least a gram and
+a half of EPAs per day
+
+509
+00:19:46,800 --> 00:19:48,400
+one way or the other.
+
+510
+00:19:48,400 --> 00:19:49,930
+The great thing about omega-3s
+
+511
+00:19:49,930 --> 00:19:51,950
+is that they are also
+thought to be beneficial
+
+512
+00:19:51,950 --> 00:19:53,710
+for things like cardiovascular health.
+
+513
+00:19:53,710 --> 00:19:56,030
+And although there's
+some controversy there
+
+514
+00:19:56,030 --> 00:19:58,870
+as to whether or not two
+grams, or three grams,
+
+515
+00:19:58,870 --> 00:20:01,010
+or six grams is ideal for
+cardiovascular health,
+
+516
+00:20:01,010 --> 00:20:03,310
+I think the bulk of
+evidence points to the fact
+
+517
+00:20:03,310 --> 00:20:05,260
+that getting sufficient
+omega-3s in the diet
+
+518
+00:20:05,260 --> 00:20:07,830
+is going to support cardiovascular health.
+
+519
+00:20:07,830 --> 00:20:09,580
+Certainly not the only
+thing people should be doing
+
+520
+00:20:09,580 --> 00:20:11,540
+to support their cardiovascular health.
+
+521
+00:20:11,540 --> 00:20:14,680
+Aerobic exercise, and so
+forth, being important also.
+
+522
+00:20:14,680 --> 00:20:17,447
+But it does seem to support
+cardio vascular health,
+
+523
+00:20:17,447 --> 00:20:20,170
+and in doing so, supporting brain health.
+
+524
+00:20:20,170 --> 00:20:23,400
+However, what I'm emphasizing is,
+
+525
+00:20:23,400 --> 00:20:26,160
+ingestion of omega-3s to support
+
+526
+00:20:26,160 --> 00:20:27,800
+the very cells within the brain
+
+527
+00:20:27,800 --> 00:20:29,040
+that make up our cognition,
+
+528
+00:20:29,040 --> 00:20:31,710
+that allow for cognition,
+and for movement, and memory,
+
+529
+00:20:31,710 --> 00:20:35,040
+and all the other marvelous
+things that the brain does.
+
+530
+00:20:35,040 --> 00:20:36,720
+The other compound that has been shown
+
+531
+00:20:36,720 --> 00:20:39,540
+to be directly supportive
+of neuronal function
+
+532
+00:20:39,540 --> 00:20:40,640
+is phosphatidylserine,
+
+533
+00:20:41,510 --> 00:20:44,950
+which is abundant in meats and in fish.
+
+534
+00:20:44,950 --> 00:20:45,800
+So here we are again
+
+535
+00:20:45,800 --> 00:20:47,830
+back to fish being an important source
+
+536
+00:20:47,830 --> 00:20:50,240
+of brain supporting food.
+
+537
+00:20:50,240 --> 00:20:53,230
+Phosphatidylserine is
+something that, nowadays,
+
+538
+00:20:53,230 --> 00:20:54,450
+people are supplementing.
+
+539
+00:20:54,450 --> 00:20:56,980
+It's a lipid-like compound that,
+
+540
+00:20:56,980 --> 00:20:59,340
+at least in three studies,
+
+541
+00:20:59,340 --> 00:21:01,060
+have been shown to improve cognition.
+
+542
+00:21:01,060 --> 00:21:02,310
+These weren't huge effects,
+
+543
+00:21:02,310 --> 00:21:04,730
+but they were statistically
+significant effects.
+
+544
+00:21:04,730 --> 00:21:07,770
+And as well in more than three,
+
+545
+00:21:07,770 --> 00:21:09,430
+at least five studies,
+
+546
+00:21:09,430 --> 00:21:11,890
+to reduce cognitive decline.
+
+547
+00:21:11,890 --> 00:21:12,820
+And this is interesting.
+
+548
+00:21:12,820 --> 00:21:13,653
+In every case,
+
+549
+00:21:13,653 --> 00:21:17,530
+it was 300 milligrams
+supplemented phosphatidylserine,
+
+550
+00:21:17,530 --> 00:21:18,363
+but one, again,
+
+551
+00:21:18,363 --> 00:21:21,160
+doesn't need to supplement
+phosphatidylserine.
+
+552
+00:21:21,160 --> 00:21:23,750
+Phosphatidylserine can be
+derived, as I mentioned,
+
+553
+00:21:23,750 --> 00:21:24,960
+from meats and fish,
+
+554
+00:21:24,960 --> 00:21:27,070
+and to some extent, from
+cabbage of all things.
+
+555
+00:21:27,070 --> 00:21:29,470
+So I don't know how much
+cabbage people are ingesting.
+
+556
+00:21:29,470 --> 00:21:31,100
+But later, when we talk about gut health,
+
+557
+00:21:31,100 --> 00:21:34,430
+and the relationship between
+gut health and brain health,
+
+558
+00:21:34,430 --> 00:21:36,100
+I'll mention fermented foods.
+
+559
+00:21:36,100 --> 00:21:38,370
+And, of course, one of the most
+
+560
+00:21:38,370 --> 00:21:40,170
+readily available
+fermented foods out there
+
+561
+00:21:40,170 --> 00:21:43,790
+that at least many people
+find appetizing is sauerkraut,
+
+562
+00:21:43,790 --> 00:21:45,210
+which is, of course, made from cabbage.
+
+563
+00:21:45,210 --> 00:21:46,470
+It's fermented cabbage.
+
+564
+00:21:46,470 --> 00:21:49,730
+So for those of you that
+do consume meat and fish,
+
+565
+00:21:49,730 --> 00:21:50,930
+provided you're getting enough fish,
+
+566
+00:21:50,930 --> 00:21:52,900
+you're probably getting
+enough phosphatidylserine.
+
+567
+00:21:52,900 --> 00:21:54,160
+For those of you that are interested in
+
+568
+00:21:54,160 --> 00:21:57,180
+supplementing phosphatidylserine
+to get these effects
+
+569
+00:21:57,180 --> 00:22:00,620
+that were reported in
+these various manuscripts,
+
+570
+00:22:00,620 --> 00:22:03,090
+which, by the way, I've
+read, and looked solid.
+
+571
+00:22:03,090 --> 00:22:04,590
+I mean, I don't think we've seen
+
+572
+00:22:04,590 --> 00:22:06,220
+the landmark study showing
+
+573
+00:22:06,220 --> 00:22:08,040
+that supplementing with phosphatidylserine
+
+574
+00:22:08,040 --> 00:22:09,610
+at 300 milligrams per day
+
+575
+00:22:09,610 --> 00:22:12,690
+is going to create a huge offsetting
+
+576
+00:22:12,690 --> 00:22:14,260
+of a massive cognitive decline,
+
+577
+00:22:14,260 --> 00:22:16,520
+or a massive increase in brain function.
+
+578
+00:22:16,520 --> 00:22:18,640
+These seem to be modest effects,
+
+579
+00:22:18,640 --> 00:22:21,030
+but the effects do appear to be real.
+
+580
+00:22:21,030 --> 00:22:22,030
+For those of you that are interested
+
+581
+00:22:22,030 --> 00:22:23,940
+in supplementing with phosphatidylserine,
+
+582
+00:22:23,940 --> 00:22:26,510
+it's a relatively
+inexpensive supplement that,
+
+583
+00:22:26,510 --> 00:22:27,690
+again, is lipid-like.
+
+584
+00:22:27,690 --> 00:22:29,440
+So it's mimicking some of the same things
+
+585
+00:22:29,440 --> 00:22:30,380
+that you would get from food,
+
+586
+00:22:30,380 --> 00:22:32,600
+but in a higher concentration.
+
+587
+00:22:32,600 --> 00:22:37,133
+Now, after EPA, fatty acids,
+and phosphatidylserine,
+
+588
+00:22:38,090 --> 00:22:39,800
+I would say, third on the list
+
+589
+00:22:39,800 --> 00:22:41,740
+of things that come from food
+
+590
+00:22:41,740 --> 00:22:45,380
+that can readily support brain
+function would be choline,
+
+591
+00:22:45,380 --> 00:22:47,690
+and that's because of the
+relationship to choline
+
+592
+00:22:47,690 --> 00:22:51,180
+in the biosynthesis pathway
+for a acetylcholine.
+
+593
+00:22:51,180 --> 00:22:53,360
+Acetylcholine is a neuromodulator,
+
+594
+00:22:53,360 --> 00:22:54,440
+not a neurotransmitter,
+
+595
+00:22:54,440 --> 00:22:56,743
+but a neuromodulator in the brain.
+
+596
+00:22:56,743 --> 00:23:00,260
+A neuromodulator is a
+chemical that modulates
+
+597
+00:23:00,260 --> 00:23:02,520
+the function of many brain circuits,
+
+598
+00:23:02,520 --> 00:23:04,720
+and also, circuits within the body.
+
+599
+00:23:04,720 --> 00:23:06,430
+I'll mention what those are in a moment.
+
+600
+00:23:06,430 --> 00:23:09,670
+But acetylcholine, as a neuromodulator,
+
+601
+00:23:09,670 --> 00:23:11,930
+tends to enhance the activity,
+
+602
+00:23:11,930 --> 00:23:13,980
+the electrical activity
+and chemical activity,
+
+603
+00:23:13,980 --> 00:23:15,740
+of certain sets of neurons,
+
+604
+00:23:15,740 --> 00:23:18,750
+and downplay the activity
+of other neurons.
+
+605
+00:23:18,750 --> 00:23:20,720
+So it's sort of a conductor of sorts
+
+606
+00:23:20,720 --> 00:23:22,890
+leading to enhanced function
+
+607
+00:23:22,890 --> 00:23:25,190
+and activity in certain
+brain areas and circuits,
+
+608
+00:23:25,190 --> 00:23:26,363
+and not in others.
+
+609
+00:23:27,640 --> 00:23:29,970
+For instance, the brain
+areas that are involved
+
+610
+00:23:29,970 --> 00:23:31,570
+in focus and alertness.
+
+611
+00:23:31,570 --> 00:23:33,980
+We have multiple clusters
+of neurons in our brain
+
+612
+00:23:33,980 --> 00:23:35,890
+that make acetylcholine.
+
+613
+00:23:35,890 --> 00:23:37,650
+Two of the most prominent and well-known
+
+614
+00:23:37,650 --> 00:23:39,050
+are the so-called nucleus basalis,
+
+615
+00:23:39,050 --> 00:23:40,510
+which is a cluster of neurons
+
+616
+00:23:40,510 --> 00:23:42,130
+deep in the basal forebrain
+
+617
+00:23:42,130 --> 00:23:44,900
+that highlight particular
+areas of our brain.
+
+618
+00:23:44,900 --> 00:23:47,190
+Highlight meaning when acetylcholine
+
+619
+00:23:47,190 --> 00:23:48,890
+is released from those neurons
+
+620
+00:23:48,890 --> 00:23:51,010
+at their nerve endings in
+particular areas of the brain,
+
+621
+00:23:51,010 --> 00:23:52,720
+those particular areas of the brain
+
+622
+00:23:52,720 --> 00:23:54,760
+can undergo enhanced levels of activity
+
+623
+00:23:54,760 --> 00:23:56,300
+relative to surrounding area.
+
+624
+00:23:56,300 --> 00:23:58,620
+So it's kind of a
+electrical highlighter pen,
+
+625
+00:23:58,620 --> 00:24:00,093
+if you will, by analogy.
+
+626
+00:24:01,720 --> 00:24:05,390
+That is the basis of much
+of what we call focus,
+
+627
+00:24:05,390 --> 00:24:07,220
+or our ability to concentrate
+
+628
+00:24:07,220 --> 00:24:09,350
+on a particular batch of information
+
+629
+00:24:09,350 --> 00:24:11,320
+that's coming in through our
+eyes, our ears, our nose,
+
+630
+00:24:11,320 --> 00:24:13,550
+or even things that we're
+just thinking in our head.
+
+631
+00:24:13,550 --> 00:24:17,640
+So having ample choline for
+production of acetylcholine
+
+632
+00:24:17,640 --> 00:24:21,230
+allows for focus through, of
+course, many intervening steps.
+
+633
+00:24:21,230 --> 00:24:23,020
+There are also regions of the brain
+
+634
+00:24:23,020 --> 00:24:25,270
+in the so-called back of
+the brain, the hindbrain,
+
+635
+00:24:25,270 --> 00:24:27,080
+that release acetylcholine
+
+636
+00:24:27,080 --> 00:24:30,240
+that are involved in
+general states of alertness.
+
+637
+00:24:30,240 --> 00:24:32,510
+And not surprisingly then,
+
+638
+00:24:32,510 --> 00:24:34,970
+many of the treatments
+for Alzheimer's disease,
+
+639
+00:24:34,970 --> 00:24:36,710
+which is an inability
+
+640
+00:24:36,710 --> 00:24:40,210
+or challenges with remembering
+things and focusing,
+
+641
+00:24:40,210 --> 00:24:44,180
+are drugs that impact the
+acetylcholine pathway,
+
+642
+00:24:44,180 --> 00:24:47,570
+and are aimed at enhancing
+the amount of acetylcholine
+
+643
+00:24:47,570 --> 00:24:49,530
+that's available to neurons.
+
+644
+00:24:49,530 --> 00:24:51,780
+And it can do that through a
+number of different mechanisms.
+
+645
+00:24:51,780 --> 00:24:52,930
+You can do that by enhancing
+
+646
+00:24:52,930 --> 00:24:54,870
+the amount of acetylcholine
+that's created,
+
+647
+00:24:54,870 --> 00:24:57,620
+or you can do that by taking a drug
+
+648
+00:24:57,620 --> 00:24:59,880
+that can reduce the amount of enzyme
+
+649
+00:24:59,880 --> 00:25:01,250
+that gobbles up the acetylcholine,
+
+650
+00:25:01,250 --> 00:25:04,320
+and in doing so, leading
+to more net acetylcholine.
+
+651
+00:25:04,320 --> 00:25:06,400
+But outside of the scenario
+
+652
+00:25:06,400 --> 00:25:09,400
+where somebody has cognitive
+decline due to Alzheimer's,
+
+653
+00:25:09,400 --> 00:25:13,040
+all of us are able to focus
+to some degree, or not,
+
+654
+00:25:13,040 --> 00:25:15,820
+or are able to be alert
+to some degree, or not,
+
+655
+00:25:15,820 --> 00:25:19,010
+based on the amount of
+acetylcholine that we have.
+
+656
+00:25:19,010 --> 00:25:21,070
+Now, other processes,
+of course, are involved.
+
+657
+00:25:21,070 --> 00:25:22,080
+But what this means,
+
+658
+00:25:22,080 --> 00:25:24,470
+is that making sure that we have enough
+
+659
+00:25:24,470 --> 00:25:27,950
+of the substrates to create
+acetylcholine is vital
+
+660
+00:25:27,950 --> 00:25:29,500
+if we want to be able to focus,
+
+661
+00:25:29,500 --> 00:25:31,770
+and that's why dietary
+choline is so vital.
+
+662
+00:25:31,770 --> 00:25:35,280
+And the primary source for
+dietary choline would be eggs,
+
+663
+00:25:35,280 --> 00:25:37,030
+and in particular, egg yolks.
+
+664
+00:25:37,030 --> 00:25:39,730
+And this, again, has a very
+interesting relationship
+
+665
+00:25:39,730 --> 00:25:41,123
+to our evolution as well.
+
+666
+00:25:42,330 --> 00:25:44,590
+We're always referred
+to as hunter gatherers,
+
+667
+00:25:44,590 --> 00:25:45,970
+but when one hears hunters,
+
+668
+00:25:45,970 --> 00:25:48,560
+we often think about
+meat and animal sources.
+
+669
+00:25:48,560 --> 00:25:50,100
+And indeed, as a species,
+
+670
+00:25:50,100 --> 00:25:53,290
+we hunted many, many
+other species of animals
+
+671
+00:25:53,290 --> 00:25:55,260
+to consume them, and still do.
+
+672
+00:25:55,260 --> 00:25:56,690
+But we also fished.
+
+673
+00:25:56,690 --> 00:25:57,800
+We talked about that earlier.
+
+674
+00:25:57,800 --> 00:25:59,147
+And consumed a lot of fish,
+
+675
+00:25:59,147 --> 00:26:01,080
+and we consumed a lot of eggs.
+
+676
+00:26:01,080 --> 00:26:03,830
+Eggs are an incredibly rich source
+
+677
+00:26:03,830 --> 00:26:06,840
+of nutrients for the brain,
+
+678
+00:26:06,840 --> 00:26:09,800
+and that's because the egg, actually,
+
+679
+00:26:09,800 --> 00:26:10,633
+if you think about it,
+
+680
+00:26:10,633 --> 00:26:12,710
+contains all the nutrients
+that are required
+
+681
+00:26:12,710 --> 00:26:15,230
+in order for an organism to grow.
+
+682
+00:26:15,230 --> 00:26:18,100
+You know, a bird that's in a egg shell,
+
+683
+00:26:18,100 --> 00:26:18,980
+it's got the yolk there,
+
+684
+00:26:18,980 --> 00:26:20,980
+and it's using that yolk for a reason.
+
+685
+00:26:20,980 --> 00:26:23,780
+It's using that yolk as a source of fuel.
+
+686
+00:26:23,780 --> 00:26:24,620
+It's using that yolk
+
+687
+00:26:24,620 --> 00:26:26,830
+as a source of, literally, building blocks
+
+688
+00:26:26,830 --> 00:26:28,470
+in order to create its nervous system.
+
+689
+00:26:28,470 --> 00:26:31,550
+Many years ago, I worked on chick embryos,
+
+690
+00:26:31,550 --> 00:26:32,960
+and it was these amazing experiments.
+
+691
+00:26:32,960 --> 00:26:34,920
+You could actually take an egg,
+
+692
+00:26:34,920 --> 00:26:37,420
+and you could create a
+little window in the top,
+
+693
+00:26:37,420 --> 00:26:38,740
+and these were fertilized eggs,
+
+694
+00:26:38,740 --> 00:26:40,950
+and you'd see, over time,
+you could peer in there,
+
+695
+00:26:40,950 --> 00:26:42,420
+literally look in with a microscope,
+
+696
+00:26:42,420 --> 00:26:43,600
+or even with the naked eye,
+
+697
+00:26:43,600 --> 00:26:45,890
+and you would see this little chick embryo
+
+698
+00:26:45,890 --> 00:26:47,710
+sitting on top of that
+yolk growing, and growing,
+
+699
+00:26:47,710 --> 00:26:48,550
+and growing, and growing,
+
+700
+00:26:48,550 --> 00:26:50,300
+and the yolk getting smaller, and smaller.
+
+701
+00:26:50,300 --> 00:26:52,080
+It's really, yeah, incredible.
+
+702
+00:26:52,080 --> 00:26:53,470
+They're using that as a source
+
+703
+00:26:53,470 --> 00:26:55,300
+for all the building blocks of the body,
+
+704
+00:26:55,300 --> 00:26:57,520
+but in particular, the nervous system.
+
+705
+00:26:57,520 --> 00:26:59,470
+So eggs are a rich source of choline.
+
+706
+00:26:59,470 --> 00:27:02,810
+Some people will supplement with choline.
+
+707
+00:27:02,810 --> 00:27:06,840
+However, food sources seem to
+be the best source of choline.
+
+708
+00:27:06,840 --> 00:27:09,440
+And as with the EPAs and the omega-3s,
+
+709
+00:27:09,440 --> 00:27:12,430
+there are plenty of foods
+that are non-animal-based
+
+710
+00:27:12,430 --> 00:27:14,390
+that contain choline.
+
+711
+00:27:14,390 --> 00:27:16,560
+So if you're somebody
+who doesn't eat eggs,
+
+712
+00:27:16,560 --> 00:27:17,830
+or doesn't want to eat eggs,
+
+713
+00:27:17,830 --> 00:27:19,830
+things like potatoes, nuts, and seeds,
+
+714
+00:27:19,830 --> 00:27:20,970
+and grains, and fruit,
+
+715
+00:27:20,970 --> 00:27:22,940
+they don't have as much choline as eggs,
+
+716
+00:27:22,940 --> 00:27:24,490
+but they do contain choline.
+
+717
+00:27:24,490 --> 00:27:26,270
+So you can look up the values of choline
+
+718
+00:27:26,270 --> 00:27:29,310
+that are present in those various foods,
+
+719
+00:27:29,310 --> 00:27:31,881
+and make sure that you're
+reaching the threshold
+
+720
+00:27:31,881 --> 00:27:32,714
+amount of choline for you.
+
+721
+00:27:32,714 --> 00:27:34,620
+In general, most people
+should probably strive
+
+722
+00:27:34,620 --> 00:27:36,730
+to get somewhere between 500 milligrams
+
+723
+00:27:36,730 --> 00:27:38,650
+and a gram of choline per day.
+
+724
+00:27:38,650 --> 00:27:39,950
+So 1,000 milligrams.
+
+725
+00:27:39,950 --> 00:27:41,953
+And some people rely on supplementation
+
+726
+00:27:41,953 --> 00:27:43,880
+in order to hit those levels,
+
+727
+00:27:43,880 --> 00:27:45,570
+because they're not
+eating a lot of egg yolks,
+
+728
+00:27:45,570 --> 00:27:47,980
+or they're not eating
+a lot of other foods.
+
+729
+00:27:47,980 --> 00:27:50,520
+Certain fish contain
+choline, for instance,
+
+730
+00:27:50,520 --> 00:27:52,930
+and the other foods I
+listed off a few minutes ago
+
+731
+00:27:52,930 --> 00:27:55,000
+from plant-based sources.
+
+732
+00:27:55,000 --> 00:27:58,100
+So some people will supplement with
+
+733
+00:27:58,100 --> 00:27:59,750
+50 to 100 milligrams,
+
+734
+00:27:59,750 --> 00:28:01,240
+or whatever amount is necessary
+
+735
+00:28:01,240 --> 00:28:02,850
+to get them up to that one gram,
+
+736
+00:28:02,850 --> 00:28:04,720
+or even a two gram, dose per day.
+
+737
+00:28:04,720 --> 00:28:06,050
+So we have three things
+
+738
+00:28:06,050 --> 00:28:08,713
+that we know can support nerve cells.
+
+739
+00:28:09,607 --> 00:28:13,290
+EPA, in particular, omega-3 fatty acids,
+
+740
+00:28:13,290 --> 00:28:16,280
+phosphatidylserine, and choline,
+
+741
+00:28:16,280 --> 00:28:17,920
+those three things I would list off
+
+742
+00:28:17,920 --> 00:28:19,720
+as the top three things
+
+743
+00:28:19,720 --> 00:28:22,740
+for enhancing neuron function,
+
+744
+00:28:22,740 --> 00:28:25,340
+and the integrity of neurons
+in the short and long-term.
+
+745
+00:28:25,340 --> 00:28:27,620
+And this, again, is setting aside
+
+746
+00:28:27,620 --> 00:28:31,090
+the vitally important factors
+of hydration and electrolytes.
+
+747
+00:28:31,090 --> 00:28:32,520
+I've said it before on other podcasts,
+
+748
+00:28:32,520 --> 00:28:34,750
+but if you're not ingesting enough water,
+
+749
+00:28:34,750 --> 00:28:36,250
+and you're not getting enough sodium,
+
+750
+00:28:36,250 --> 00:28:38,200
+and magnesium, and potassium,
+
+751
+00:28:38,200 --> 00:28:40,110
+then, obviously, your neurons can't run,
+
+752
+00:28:40,110 --> 00:28:42,650
+because a lot of the brain is water.
+
+753
+00:28:42,650 --> 00:28:44,240
+You need to maintain proper hydration.
+
+754
+00:28:44,240 --> 00:28:47,050
+And sodium, potassium, and
+magnesium are important
+
+755
+00:28:47,050 --> 00:28:48,400
+in order for nerve cells to function.
+
+756
+00:28:48,400 --> 00:28:52,150
+In fact, they are actually
+the components, the ions,
+
+757
+00:28:52,150 --> 00:28:54,420
+that pass across those lipid membranes,
+
+758
+00:28:54,420 --> 00:28:55,950
+those little fatty membranes
+
+759
+00:28:55,950 --> 00:28:57,070
+that we were talking about earlier,
+
+760
+00:28:57,070 --> 00:29:00,000
+that allow the neurons to
+generate electrical activity
+
+761
+00:29:00,000 --> 00:29:01,560
+and communicate with one another.
+
+762
+00:29:01,560 --> 00:29:03,860
+So definitely, you want to hydrate enough.
+
+763
+00:29:03,860 --> 00:29:05,400
+We will do an entire other episode
+
+764
+00:29:05,400 --> 00:29:07,100
+all about hydration and electrolytes.
+
+765
+00:29:07,100 --> 00:29:12,100
+But omega-3s, the EPAs,
+phosphatidylserine, and choline,
+
+766
+00:29:13,320 --> 00:29:17,130
+it's obvious are going to
+improve brain function.
+
+767
+00:29:17,130 --> 00:29:18,640
+How much they will improve brain function
+
+768
+00:29:18,640 --> 00:29:19,473
+probably depends on
+
+769
+00:29:19,473 --> 00:29:20,900
+how well your brain
+was working previously.
+
+770
+00:29:20,900 --> 00:29:22,440
+In fact, many of the studies
+
+771
+00:29:22,440 --> 00:29:24,520
+that have looked at the
+effectiveness of these compounds
+
+772
+00:29:24,520 --> 00:29:26,470
+have looked in people that
+are suffering from mild
+
+773
+00:29:26,470 --> 00:29:28,720
+or even severe cognitive decline.
+
+774
+00:29:28,720 --> 00:29:31,960
+And while the outcomes
+of those studies vary,
+
+775
+00:29:31,960 --> 00:29:34,130
+given the interest in
+maintaining brain function,
+
+776
+00:29:34,130 --> 00:29:36,240
+given the fact that we
+don't make new neurons
+
+777
+00:29:36,240 --> 00:29:37,780
+throughout our entire life,
+
+778
+00:29:37,780 --> 00:29:40,310
+and given that everybody has to eat,
+
+779
+00:29:40,310 --> 00:29:42,130
+these are quality healthy foods
+
+780
+00:29:42,130 --> 00:29:44,840
+that we should all be ingesting anyways.
+
+781
+00:29:44,840 --> 00:29:47,500
+And it's clear that they
+can support brain function
+
+782
+00:29:47,500 --> 00:29:48,920
+to some degree or another.
+
+783
+00:29:48,920 --> 00:29:53,130
+Many people will ask what I do
+in light of this information.
+
+784
+00:29:53,130 --> 00:29:56,210
+And while I can only talk
+about what works for me,
+
+785
+00:29:56,210 --> 00:30:00,110
+I choose to ingest fish
+oil mainly in liquid form,
+
+786
+00:30:00,110 --> 00:30:02,397
+because that turns out
+to be the easiest way
+
+787
+00:30:02,397 --> 00:30:05,340
+and the most economically affordable way
+
+788
+00:30:05,340 --> 00:30:07,470
+to do it for most people.
+
+789
+00:30:07,470 --> 00:30:09,790
+So there are various forms
+of liquid fish oil out there.
+
+790
+00:30:09,790 --> 00:30:11,390
+Some of them include some lemon flavoring,
+
+791
+00:30:11,390 --> 00:30:12,720
+so it doesn't taste like fish oil,
+
+792
+00:30:12,720 --> 00:30:14,520
+because frankly, fish oil, to me,
+
+793
+00:30:14,520 --> 00:30:16,110
+is sort of noxious tasting.
+
+794
+00:30:16,110 --> 00:30:19,980
+And I'll take a tablespoon
+of that, or two, per day.
+
+795
+00:30:19,980 --> 00:30:22,810
+If I'm traveling, I'll
+use the capsule form
+
+796
+00:30:22,810 --> 00:30:24,410
+in order to hit that threshold.
+
+797
+00:30:24,410 --> 00:30:27,240
+For me, about two, sometimes even three,
+
+798
+00:30:27,240 --> 00:30:29,560
+grams per day of EPA.
+
+799
+00:30:29,560 --> 00:30:32,440
+So not just two or three
+grams per day of fish oil,
+
+800
+00:30:32,440 --> 00:30:34,690
+but two or three grams per day of EPA.
+
+801
+00:30:34,690 --> 00:30:37,110
+Now, if I'm eating fish,
+
+802
+00:30:37,110 --> 00:30:39,030
+which as I mentioned
+earlier, is not often,
+
+803
+00:30:39,030 --> 00:30:41,090
+then I might reduce the amount
+of fish oil that I take.
+
+804
+00:30:41,090 --> 00:30:43,313
+But that's my major source of fish oil.
+
+805
+00:30:44,630 --> 00:30:47,480
+Currently, I do not supplement
+with phosphatidylserine.
+
+806
+00:30:47,480 --> 00:30:49,290
+A number of people that I know and trust,
+
+807
+00:30:49,290 --> 00:30:51,129
+and indeed, several colleagues of mine,
+
+808
+00:30:51,129 --> 00:30:53,150
+do take phosphatidylserine.
+
+809
+00:30:53,150 --> 00:30:54,440
+I don't have any good explanation
+
+810
+00:30:54,440 --> 00:30:55,580
+for why I don't take it yet,
+
+811
+00:30:55,580 --> 00:30:58,520
+but I have not tried
+supplementing with it yet.
+
+812
+00:30:58,520 --> 00:30:59,630
+Maybe if some of you have,
+
+813
+00:30:59,630 --> 00:31:03,790
+you can place your experience
+in the comment section.
+
+814
+00:31:03,790 --> 00:31:04,640
+It would be of interest.
+
+815
+00:31:04,640 --> 00:31:06,720
+And then in terms of choline,
+
+816
+00:31:06,720 --> 00:31:08,660
+in order to get choline in my diet,
+
+817
+00:31:08,660 --> 00:31:10,040
+I do pay attention to
+
+818
+00:31:10,040 --> 00:31:12,140
+the various foods that contain choline,
+
+819
+00:31:12,140 --> 00:31:15,750
+and I try and get those foods
+on a semi-regular basis.
+
+820
+00:31:15,750 --> 00:31:18,530
+I do supplement with
+something called alpha-GPC,
+
+821
+00:31:18,530 --> 00:31:22,010
+which is, essentially, in
+the acetylcholine pathway,
+
+822
+00:31:22,010 --> 00:31:23,840
+or biosynthesis pathway.
+
+823
+00:31:23,840 --> 00:31:25,280
+I don't take it very often,
+
+824
+00:31:25,280 --> 00:31:27,350
+but I will take 300 milligrams
+
+825
+00:31:27,350 --> 00:31:29,410
+of alpha-GPC from time to time.
+
+826
+00:31:29,410 --> 00:31:30,243
+From time to time,
+
+827
+00:31:30,243 --> 00:31:33,300
+I mean anywhere from two
+to three times per week.
+
+828
+00:31:33,300 --> 00:31:34,740
+I'll generally do it early in the day,
+
+829
+00:31:34,740 --> 00:31:35,573
+'cause it, for me,
+
+830
+00:31:35,573 --> 00:31:37,590
+can have a little bit
+of a stimulant effect.
+
+831
+00:31:37,590 --> 00:31:40,080
+Although, it's not nearly
+as stimulating, say,
+
+832
+00:31:40,080 --> 00:31:42,620
+as a double espresso, or triple espresso.
+
+833
+00:31:42,620 --> 00:31:46,090
+But that's one way in which I
+enhance my choline function.
+
+834
+00:31:46,090 --> 00:31:48,470
+And some people choose to
+get it from supplementation,
+
+835
+00:31:48,470 --> 00:31:50,180
+because it's straightforward.
+
+836
+00:31:50,180 --> 00:31:51,013
+There are a lot of supplements out there
+
+837
+00:31:51,013 --> 00:31:52,840
+that contain alpha-GPC.
+
+838
+00:31:52,840 --> 00:31:54,280
+Some people are taking dosages
+
+839
+00:31:54,280 --> 00:31:55,950
+as high as 900 milligrams per day.
+
+840
+00:31:55,950 --> 00:31:57,270
+That sounds very high to me.
+
+841
+00:31:57,270 --> 00:32:01,250
+The studies of offsetting
+cognitive decline using alpha-GPC
+
+842
+00:32:01,250 --> 00:32:05,360
+did use quite high dosages of 600 to 900,
+
+843
+00:32:05,360 --> 00:32:07,860
+or even 1200, milligrams per day.
+
+844
+00:32:07,860 --> 00:32:10,910
+So it has been used at those
+much higher concentrations.
+
+845
+00:32:10,910 --> 00:32:13,170
+But because, fortunately,
+
+846
+00:32:13,170 --> 00:32:15,250
+at least, not yet, or not to my awareness,
+
+847
+00:32:15,250 --> 00:32:17,470
+I'm not suffering from
+any cognitive decline,
+
+848
+00:32:17,470 --> 00:32:20,810
+I will supplement with 300
+milligrams every now and again.
+
+849
+00:32:20,810 --> 00:32:22,510
+Next on my list of compounds
+
+850
+00:32:22,510 --> 00:32:24,550
+that have been shown in
+peer-reviewed research
+
+851
+00:32:24,550 --> 00:32:28,520
+to improve neuronal and
+brain function is creatine.
+
+852
+00:32:28,520 --> 00:32:30,880
+Creatine can be derived from meat sources.
+
+853
+00:32:30,880 --> 00:32:32,533
+It can also be supplemented.
+
+854
+00:32:34,000 --> 00:32:36,030
+Some of you are probably
+familiar with creatine
+
+855
+00:32:36,030 --> 00:32:37,230
+or have heard about creatine
+
+856
+00:32:37,230 --> 00:32:39,880
+from the context of the
+health and fitness world,
+
+857
+00:32:39,880 --> 00:32:44,240
+where creatine is used to
+bring more water into muscles,
+
+858
+00:32:44,240 --> 00:32:46,570
+which can enhance the
+strength of those muscles,
+
+859
+00:32:46,570 --> 00:32:49,720
+as well as bring water into other tissues.
+
+860
+00:32:49,720 --> 00:32:51,430
+It doesn't just draw
+more water into muscle,
+
+861
+00:32:51,430 --> 00:32:54,113
+it can draw more water
+into the body generally.
+
+862
+00:32:55,690 --> 00:32:57,370
+Creatine has also been shown to have
+
+863
+00:32:57,370 --> 00:32:59,340
+an important role in brain function.
+
+864
+00:32:59,340 --> 00:33:01,100
+And once again, this is
+something that came up
+
+865
+00:33:01,100 --> 00:33:04,263
+during the discussion about
+depression a few episodes back.
+
+866
+00:33:05,200 --> 00:33:08,760
+Creatine can actually be used
+as a fuel source in the brain.
+
+867
+00:33:08,760 --> 00:33:10,850
+And there's some evidence
+
+868
+00:33:10,850 --> 00:33:12,130
+that it can enhance the function
+
+869
+00:33:12,130 --> 00:33:16,780
+of certain frontal cortical
+circuits that feed down onto,
+
+870
+00:33:16,780 --> 00:33:18,633
+or rather, connect to, areas of the brain
+
+871
+00:33:18,633 --> 00:33:21,200
+that are involved in mood
+regulation and motivation.
+
+872
+00:33:21,200 --> 00:33:25,370
+And that's where creatine
+plays a role in depression,
+
+873
+00:33:25,370 --> 00:33:28,470
+or rather, where creatine supplementation
+
+874
+00:33:28,470 --> 00:33:32,180
+seems to be able to assist in
+some forms of mild depression.
+
+875
+00:33:32,180 --> 00:33:33,410
+That's an emerging literature.
+
+876
+00:33:33,410 --> 00:33:35,330
+It's still not well-established.
+
+877
+00:33:35,330 --> 00:33:38,350
+However, there is now ample evidence
+
+878
+00:33:38,350 --> 00:33:41,350
+that creatine supplementation
+can enhance brain function
+
+879
+00:33:41,350 --> 00:33:42,770
+in certain contexts.
+
+880
+00:33:42,770 --> 00:33:44,190
+And if you're interested in
+
+881
+00:33:44,190 --> 00:33:46,590
+learning more about
+what those contexts are,
+
+882
+00:33:46,590 --> 00:33:48,600
+there's an excellent
+review that just came out.
+
+883
+00:33:48,600 --> 00:33:52,480
+The first author is
+Roschel, R-O-S-C-H-E-L.
+
+884
+00:33:52,480 --> 00:33:54,660
+We will provide a link to this study,
+
+885
+00:33:54,660 --> 00:33:58,240
+rather, this review,
+excuse me, in the caption.
+
+886
+00:33:58,240 --> 00:34:01,890
+This was published just
+very recently in 2021.
+
+887
+00:34:01,890 --> 00:34:03,530
+And one thing to make clear,
+
+888
+00:34:03,530 --> 00:34:05,440
+is that creatine supplementation
+
+889
+00:34:05,440 --> 00:34:07,990
+has been shown to be especially useful
+
+890
+00:34:07,990 --> 00:34:10,480
+for people that are not consuming any meat
+
+891
+00:34:10,480 --> 00:34:13,440
+or other sources of foods
+that are rich in creatine.
+
+892
+00:34:13,440 --> 00:34:15,969
+What is the threshold level
+of creatine to supplement
+
+893
+00:34:15,969 --> 00:34:18,039
+in order to get the cognitive benefit?
+
+894
+00:34:18,040 --> 00:34:21,170
+It appears to be at
+least five grams per day.
+
+895
+00:34:21,170 --> 00:34:22,590
+Now, the most typical form of creatine
+
+896
+00:34:22,590 --> 00:34:24,290
+is so-called creatine monohydrate.
+
+897
+00:34:24,290 --> 00:34:26,370
+There are other forms of creatine as well,
+
+898
+00:34:26,370 --> 00:34:27,690
+some of which are thought to not draw
+
+899
+00:34:27,690 --> 00:34:30,530
+as much water into non-muscle tissues,
+
+900
+00:34:30,530 --> 00:34:32,929
+and for some people,
+that's attractive to them.
+
+901
+00:34:32,929 --> 00:34:35,619
+They don't want water sitting
+below their skin, et cetera.
+
+902
+00:34:35,620 --> 00:34:36,453
+I should emphasize,
+
+903
+00:34:36,453 --> 00:34:39,679
+that the responses to creatine
+in that sense can differ.
+
+904
+00:34:39,679 --> 00:34:41,699
+Some people get a little
+bit of water retention.
+
+905
+00:34:41,699 --> 00:34:43,399
+Some people experience more.
+
+906
+00:34:43,400 --> 00:34:45,909
+There's some evidence
+that creatine can impact
+
+907
+00:34:45,909 --> 00:34:47,089
+some of the hormonal pathways,
+
+908
+00:34:47,090 --> 00:34:48,340
+that it might enhance levels of
+
+909
+00:34:48,340 --> 00:34:50,920
+so-called dihydrotestosterone, DHT,
+
+910
+00:34:50,920 --> 00:34:53,550
+and therefore, because DHT
+is involved in hair loss,
+
+911
+00:34:53,550 --> 00:34:56,580
+there are these theories that
+creatine can cause hair loss.
+
+912
+00:34:56,580 --> 00:34:57,610
+And indeed, for people that are
+
+913
+00:34:57,610 --> 00:34:59,973
+very DHT sensitive, it might.
+
+914
+00:35:01,380 --> 00:35:04,580
+There's going to be a lot of
+variation person to person
+
+915
+00:35:04,580 --> 00:35:07,250
+in terms of how much creatine impacts DHT,
+
+916
+00:35:07,250 --> 00:35:09,640
+and how many DHT receptors
+they have on their scalp,
+
+917
+00:35:09,640 --> 00:35:11,610
+and therefore, whether or not
+they experience hair loss.
+
+918
+00:35:11,610 --> 00:35:13,100
+I'm just giving you all this information,
+
+919
+00:35:13,100 --> 00:35:15,070
+so that you're aware of the various things
+
+920
+00:35:15,070 --> 00:35:16,530
+that creatine can do.
+
+921
+00:35:16,530 --> 00:35:18,470
+But nonetheless, I think it's interesting
+
+922
+00:35:18,470 --> 00:35:21,150
+that creatine supplementation
+of five grams per day,
+
+923
+00:35:21,150 --> 00:35:22,680
+that's creatine monohydrate,
+
+924
+00:35:22,680 --> 00:35:24,070
+has been shown to improve cognition
+
+925
+00:35:24,070 --> 00:35:27,240
+in people that aren't getting
+creatine from animal sources.
+
+926
+00:35:27,240 --> 00:35:29,880
+And there's some evidence
+detailed within the review
+
+927
+00:35:31,100 --> 00:35:32,560
+that I just described,
+
+928
+00:35:32,560 --> 00:35:35,990
+that creatine supplementation
+can also enhance cognition
+
+929
+00:35:35,990 --> 00:35:40,060
+in people that are also
+eating animal products.
+
+930
+00:35:40,060 --> 00:35:42,930
+So I personally take
+creatine five grams per day,
+
+931
+00:35:42,930 --> 00:35:44,590
+and have for a very long time.
+
+932
+00:35:44,590 --> 00:35:47,530
+I can't say that I've
+noticed a tremendous benefit,
+
+933
+00:35:47,530 --> 00:35:49,667
+because I've actually
+never really come off it,
+
+934
+00:35:49,667 --> 00:35:51,660
+and so I've never done
+the control experiment.
+
+935
+00:35:51,660 --> 00:35:54,530
+I take it more as kind of a
+baseline insurance policy.
+
+936
+00:35:54,530 --> 00:35:57,120
+For me, I'm probably losing,
+
+937
+00:35:57,120 --> 00:35:58,560
+I'm certainly losing some of my hair.
+
+938
+00:35:58,560 --> 00:36:01,210
+Whether or not that's
+due to creatine or not,
+
+939
+00:36:01,210 --> 00:36:03,200
+I've never done the analysis.
+
+940
+00:36:03,200 --> 00:36:05,210
+But what I can say is that,
+
+941
+00:36:05,210 --> 00:36:06,850
+I generally consume these things
+
+942
+00:36:06,850 --> 00:36:11,290
+like EPAs, creatine, alpha-GPC
+
+943
+00:36:11,290 --> 00:36:16,290
+to set a general context
+of support for my neurons,
+
+944
+00:36:16,340 --> 00:36:17,330
+for my brain.
+
+945
+00:36:17,330 --> 00:36:19,040
+And, of course, I also pay attention
+
+946
+00:36:19,040 --> 00:36:21,280
+to the foods that contain
+these various compounds.
+
+947
+00:36:21,280 --> 00:36:23,700
+So I don't actively eat additional meat
+
+948
+00:36:23,700 --> 00:36:24,900
+just to obtain creatine.
+
+949
+00:36:26,010 --> 00:36:27,580
+I eat a fairly limited amount of meat.
+
+950
+00:36:27,580 --> 00:36:28,760
+I don't restrict it,
+
+951
+00:36:28,760 --> 00:36:30,000
+and I do eat meat,
+
+952
+00:36:30,000 --> 00:36:33,410
+but I don't actively seek
+out creatine in my diet.
+
+953
+00:36:33,410 --> 00:36:34,690
+Rather, I use supplementation
+
+954
+00:36:34,690 --> 00:36:37,400
+in order to hit that five
+grams per day threshold.
+
+955
+00:36:37,400 --> 00:36:39,380
+Next on the list of foods
+
+956
+00:36:39,380 --> 00:36:40,870
+that are beneficial for brain health
+
+957
+00:36:40,870 --> 00:36:43,450
+is one that you've probably
+seen pictures of online,
+
+958
+00:36:43,450 --> 00:36:45,110
+because there seems to be a practice
+
+959
+00:36:45,110 --> 00:36:47,490
+of putting pictures of blueberries
+
+960
+00:36:47,490 --> 00:36:50,627
+and other dark berries next
+to any title that says,
+
+961
+00:36:50,627 --> 00:36:52,377
+"Foods that benefit your brain".
+
+962
+00:36:53,680 --> 00:36:55,090
+There are a lot of foods out there
+
+963
+00:36:55,090 --> 00:36:58,980
+that have been purported
+to improve brain function.
+
+964
+00:36:58,980 --> 00:37:02,280
+The interesting thing about
+blueberries and other berries,
+
+965
+00:37:02,280 --> 00:37:04,650
+blackberries, dark currants,
+
+966
+00:37:04,650 --> 00:37:07,110
+any of these thin-skinned berries
+
+967
+00:37:07,110 --> 00:37:09,630
+that are purpleish in color,
+
+968
+00:37:09,630 --> 00:37:12,860
+is that they contain what
+are called anthocyanins.
+
+969
+00:37:12,860 --> 00:37:15,610
+Anthocyanins actually
+have some really nice data
+
+970
+00:37:15,610 --> 00:37:19,050
+to support the fact that
+they improve brain function.
+
+971
+00:37:19,050 --> 00:37:23,010
+Now, whether or not it is
+direct effects on neurons,
+
+972
+00:37:23,010 --> 00:37:25,853
+or whether or not it is
+by lowering inflammation,
+
+973
+00:37:26,850 --> 00:37:30,000
+or some other modulatory
+effect, isn't quite clear.
+
+974
+00:37:30,000 --> 00:37:33,910
+But I think by now, there's
+enough data to support the fact
+
+975
+00:37:33,910 --> 00:37:36,950
+that eating a cup or two of
+blueberries pretty often,
+
+976
+00:37:36,950 --> 00:37:39,510
+every day, or maybe you have blackberries,
+
+977
+00:37:39,510 --> 00:37:40,970
+or maybe it's black currants,
+
+978
+00:37:40,970 --> 00:37:43,770
+that these anthocyanins are good for us,
+
+979
+00:37:43,770 --> 00:37:46,890
+that they are enhancing
+our overall wellbeing
+
+980
+00:37:46,890 --> 00:37:47,990
+at a number of different levels.
+
+981
+00:37:47,990 --> 00:37:49,560
+And just to give you a couple examples
+
+982
+00:37:49,560 --> 00:37:51,880
+of where there are actually
+peer-reviewed studies
+
+983
+00:37:51,880 --> 00:37:53,940
+to support those statements,
+
+984
+00:37:53,940 --> 00:37:57,230
+the anthocyanins of which blueberries
+
+985
+00:37:57,230 --> 00:38:00,350
+and other dark berries are rich in
+
+986
+00:38:00,350 --> 00:38:04,450
+have been shown to reduce
+the amount of DNA damage,
+
+987
+00:38:04,450 --> 00:38:07,610
+has been shown to reduce significantly,
+
+988
+00:38:07,610 --> 00:38:11,700
+although, albeit, slightly,
+excuse me, cognitive decline.
+
+989
+00:38:11,700 --> 00:38:13,190
+And that particular study was
+
+990
+00:38:13,190 --> 00:38:16,430
+supplementation of a blueberry extract.
+
+991
+00:38:16,430 --> 00:38:17,757
+I'll talk about the
+difference between extract
+
+992
+00:38:17,757 --> 00:38:19,400
+and actual blueberries in a moment.
+
+993
+00:38:19,400 --> 00:38:22,350
+But supplementation of blueberry extract
+
+994
+00:38:22,350 --> 00:38:26,220
+in offsetting cognitive
+decline in elderly people.
+
+995
+00:38:26,220 --> 00:38:29,150
+So what constitutes elderly
+
+996
+00:38:29,150 --> 00:38:32,530
+is always a little bit of
+a debate and a discussion.
+
+997
+00:38:32,530 --> 00:38:34,210
+But in this case, what they did,
+
+998
+00:38:34,210 --> 00:38:37,767
+is they supplemented with
+somewhere between 428,
+
+999
+00:38:39,510 --> 00:38:41,110
+I don't know why they selected 428,
+
+1000
+00:38:41,110 --> 00:38:45,570
+and 598 milligrams of
+anthocyanins daily for 12 weeks
+
+1001
+00:38:45,570 --> 00:38:46,870
+was associated with improvements
+
+1002
+00:38:46,870 --> 00:38:48,370
+on verbal learning and memory.
+
+1003
+00:38:49,340 --> 00:38:51,830
+And they had some other beneficial changes
+
+1004
+00:38:51,830 --> 00:38:53,600
+that were within the bodily organs,
+
+1005
+00:38:53,600 --> 00:38:55,950
+and blood glucose
+regulation, and so forth.
+
+1006
+00:38:55,950 --> 00:38:57,210
+Positive changes.
+
+1007
+00:38:57,210 --> 00:38:58,950
+But that's one study.
+
+1008
+00:38:58,950 --> 00:39:02,120
+In this case, elderly meant 65 or older.
+
+1009
+00:39:02,120 --> 00:39:04,870
+That study, and a number
+of studies like it,
+
+1010
+00:39:04,870 --> 00:39:08,590
+looking at things like
+mildly enhanced memory,
+
+1011
+00:39:08,590 --> 00:39:13,400
+reduced insulin levels,
+reduced oxidation of LDL,
+
+1012
+00:39:13,400 --> 00:39:14,690
+these sorts of things,
+
+1013
+00:39:14,690 --> 00:39:17,870
+have basically created a situation where
+
+1014
+00:39:17,870 --> 00:39:19,460
+anytime you Google
+
+1015
+00:39:19,460 --> 00:39:23,310
+or look up foods that
+enhance brain function,
+
+1016
+00:39:23,310 --> 00:39:25,040
+you're going to see a
+picture of a blueberry
+
+1017
+00:39:25,040 --> 00:39:25,873
+or some other berry,
+
+1018
+00:39:25,873 --> 00:39:28,060
+because of these anthocyanins.
+
+1019
+00:39:28,060 --> 00:39:31,200
+I personally don't
+supplement anthocyanins.
+
+1020
+00:39:31,200 --> 00:39:32,240
+I do like blueberries.
+
+1021
+00:39:32,240 --> 00:39:34,750
+I eat blueberries when they're in season.
+
+1022
+00:39:34,750 --> 00:39:35,583
+I love them.
+
+1023
+00:39:35,583 --> 00:39:37,520
+I'm what you would call a
+drive-by blueberry eater.
+
+1024
+00:39:37,520 --> 00:39:40,490
+Like if there are blueberries
+in a bowl on a table,
+
+1025
+00:39:40,490 --> 00:39:41,330
+and I'm walking by,
+
+1026
+00:39:41,330 --> 00:39:42,740
+I just have to scoop them up,
+
+1027
+00:39:42,740 --> 00:39:44,800
+like some sort of bear, or other animal,
+
+1028
+00:39:44,800 --> 00:39:45,760
+and pop them in my mouth.
+
+1029
+00:39:45,760 --> 00:39:48,210
+So blueberries don't last long around me.
+
+1030
+00:39:48,210 --> 00:39:49,570
+One of the issues with berries,
+
+1031
+00:39:49,570 --> 00:39:51,270
+like blueberries, and
+blackberries, and so forth,
+
+1032
+00:39:51,270 --> 00:39:53,910
+is that quality sources of
+them can be pretty expensive.
+
+1033
+00:39:53,910 --> 00:39:55,810
+And then, of course, when
+they're not in season,
+
+1034
+00:39:55,810 --> 00:39:56,643
+they're hard to get,
+
+1035
+00:39:56,643 --> 00:39:59,100
+and so that's why some people
+will supplement with them.
+
+1036
+00:39:59,100 --> 00:40:04,100
+So that range of about 400 to
+about 600 milligrams per day
+
+1037
+00:40:04,840 --> 00:40:07,290
+seems to be the minimum threshold
+
+1038
+00:40:07,290 --> 00:40:12,290
+for getting a cognitive effect
+in these elderly patients.
+
+1039
+00:40:12,380 --> 00:40:14,040
+In that case, they were patients.
+
+1040
+00:40:14,040 --> 00:40:16,000
+A good review about the anthocyanins
+
+1041
+00:40:16,000 --> 00:40:19,940
+potentially contributing to
+offsetting cognitive decline
+
+1042
+00:40:19,940 --> 00:40:21,500
+in things like Alzheimer's,
+
+1043
+00:40:21,500 --> 00:40:23,980
+and also enhancing brain function
+
+1044
+00:40:23,980 --> 00:40:26,300
+in people that don't have Alzheimer's,
+
+1045
+00:40:26,300 --> 00:40:29,370
+is a review by Afzal, A-F-Z-A-L,
+
+1046
+00:40:29,370 --> 00:40:31,220
+that was published in 2019.
+
+1047
+00:40:31,220 --> 00:40:34,203
+We will also provide a link
+to that study in the caption.
+
+1048
+00:40:35,080 --> 00:40:38,290
+When one looks across the
+total batch of studies
+
+1049
+00:40:38,290 --> 00:40:40,030
+that are out there on this,
+
+1050
+00:40:40,030 --> 00:40:43,200
+it appears, that if one
+is going to supplement
+
+1051
+00:40:43,200 --> 00:40:45,340
+with blueberry extract to get the
+
+1052
+00:40:45,340 --> 00:40:47,513
+anthocyanin effect on cognition,
+
+1053
+00:40:49,030 --> 00:40:53,400
+dosages of somewhere between
+5 1/2 or about 11 grams
+
+1054
+00:40:53,400 --> 00:40:55,530
+seem optimal with the higher end,
+
+1055
+00:40:55,530 --> 00:40:59,430
+closer to 10 or 11 grams
+being more beneficial.
+
+1056
+00:40:59,430 --> 00:41:02,410
+The blueberry eaters out there like me,
+
+1057
+00:41:02,410 --> 00:41:03,970
+who prefer to get their anthocyanins
+
+1058
+00:41:03,970 --> 00:41:05,330
+from the actual berries,
+
+1059
+00:41:05,330 --> 00:41:08,450
+it appears that somewhere
+between 60 to 120 grams
+
+1060
+00:41:08,450 --> 00:41:10,530
+of fresh blueberries each day
+
+1061
+00:41:10,530 --> 00:41:13,210
+is the way that you can
+get sufficient anthocyanins
+
+1062
+00:41:13,210 --> 00:41:15,770
+to at least shift your system,
+
+1063
+00:41:15,770 --> 00:41:18,930
+or bias your brain towards these
+enhanced cognitive effects.
+
+1064
+00:41:18,930 --> 00:41:20,870
+So we've got EPA fatty acids,
+
+1065
+00:41:20,870 --> 00:41:22,430
+we've got phosphatidylserine,
+
+1066
+00:41:22,430 --> 00:41:23,820
+we've got choline,
+
+1067
+00:41:23,820 --> 00:41:28,130
+we've got creatine, and
+we have the anthocyanins.
+
+1068
+00:41:28,130 --> 00:41:31,610
+And the last item that I'd
+like to place in this list
+
+1069
+00:41:31,610 --> 00:41:33,620
+of food-derived things
+
+1070
+00:41:33,620 --> 00:41:37,560
+that can enhance brain
+function is glutamine.
+
+1071
+00:41:37,560 --> 00:41:39,710
+Glutamine is a very
+interesting amino acid.
+
+1072
+00:41:39,710 --> 00:41:41,980
+I've talked about
+glutamine on here before.
+
+1073
+00:41:41,980 --> 00:41:45,110
+There's some evidence,
+although, somewhat scant,
+
+1074
+00:41:45,110 --> 00:41:48,050
+there's some evidence that glutamine
+
+1075
+00:41:48,050 --> 00:41:49,870
+can enhance immune system function.
+
+1076
+00:41:49,870 --> 00:41:51,530
+So people will supplement with glutamine,
+
+1077
+00:41:51,530 --> 00:41:53,870
+or people can get glutamine from foods.
+
+1078
+00:41:53,870 --> 00:41:55,240
+Foods that contain a lot of glutamine
+
+1079
+00:41:55,240 --> 00:41:56,690
+are things like cottage cheese.
+
+1080
+00:41:56,690 --> 00:41:59,110
+There are also other sources of glutamine.
+
+1081
+00:41:59,110 --> 00:42:01,730
+Glutamine is rich in protein rich foods,
+
+1082
+00:42:01,730 --> 00:42:04,270
+things like beef, chicken,
+fish, dairy products, eggs.
+
+1083
+00:42:04,270 --> 00:42:08,450
+But also, for you non-animal food
+
+1084
+00:42:08,450 --> 00:42:09,800
+consuming people out there,
+
+1085
+00:42:10,710 --> 00:42:13,730
+vegetables, including
+beans, cabbage, once again,
+
+1086
+00:42:13,730 --> 00:42:17,090
+spinach, parsley, things of that sort.
+
+1087
+00:42:17,090 --> 00:42:19,520
+So those foods contain glutamine.
+
+1088
+00:42:19,520 --> 00:42:21,420
+For people that supplement with glutamine,
+
+1089
+00:42:21,420 --> 00:42:23,730
+generally, they will take
+anywhere from a gram,
+
+1090
+00:42:23,730 --> 00:42:26,150
+as much as 10 grams, per day.
+
+1091
+00:42:26,150 --> 00:42:27,140
+Why would they want to do that?
+
+1092
+00:42:27,140 --> 00:42:30,410
+Well, there's also some
+evidence starting to emerge
+
+1093
+00:42:30,410 --> 00:42:33,430
+that glutamine can help
+offset sugar cravings,
+
+1094
+00:42:33,430 --> 00:42:35,600
+and I've talked about this
+on the podcast before.
+
+1095
+00:42:35,600 --> 00:42:37,280
+We're going to talk more about
+
+1096
+00:42:37,280 --> 00:42:39,300
+the basis for this a little bit later.
+
+1097
+00:42:39,300 --> 00:42:43,650
+But in brief, we all
+have neurons in our gut
+
+1098
+00:42:43,650 --> 00:42:46,790
+that sense the amino acid
+content, the fat content,
+
+1099
+00:42:46,790 --> 00:42:48,660
+and the sugar content of
+the foods that we eat,
+
+1100
+00:42:48,660 --> 00:42:51,410
+and signal in a subconscious
+way to our brain
+
+1101
+00:42:51,410 --> 00:42:53,800
+whether or not the
+foods that we are eating
+
+1102
+00:42:53,800 --> 00:42:57,680
+contain certain levels
+of certain amino acids.
+
+1103
+00:42:57,680 --> 00:43:02,260
+And so we actually have
+glutamine-sensing neurons in our gut
+
+1104
+00:43:02,260 --> 00:43:03,950
+that actually have their little processes,
+
+1105
+00:43:03,950 --> 00:43:06,840
+their little axons and
+dendrites, as we call them,
+
+1106
+00:43:06,840 --> 00:43:08,260
+in the mucosal lining of the gut.
+
+1107
+00:43:08,260 --> 00:43:09,620
+They're not just sensing glutamine,
+
+1108
+00:43:09,620 --> 00:43:11,130
+but when they do sense glutamine,
+
+1109
+00:43:11,130 --> 00:43:13,813
+they respond, and they
+send signals to the brain
+
+1110
+00:43:13,813 --> 00:43:17,500
+that are signals of
+satiation, of satisfaction.
+
+1111
+00:43:17,500 --> 00:43:20,160
+And in doing so, can offset
+some of the sugar cravings
+
+1112
+00:43:20,160 --> 00:43:22,110
+that many people suffer from.
+
+1113
+00:43:22,110 --> 00:43:23,520
+Now, here, we're talking about glutamine
+
+1114
+00:43:23,520 --> 00:43:26,010
+for sake of enhancing cognitive function.
+
+1115
+00:43:26,010 --> 00:43:27,130
+And this is interesting,
+
+1116
+00:43:27,130 --> 00:43:30,430
+because it's been shown that
+glutamine supplementation
+
+1117
+00:43:30,430 --> 00:43:34,520
+can offset some of the
+negative effects on cognition
+
+1118
+00:43:34,520 --> 00:43:39,520
+caused by altitude and oxygen
+deprivation of other sorts.
+
+1119
+00:43:41,040 --> 00:43:42,710
+Yeah, okay, well, that's kind of a strange
+
+1120
+00:43:42,710 --> 00:43:43,890
+and unique situation.
+
+1121
+00:43:43,890 --> 00:43:45,750
+If you're going up to altitude,
+
+1122
+00:43:45,750 --> 00:43:47,330
+should you supplement with glutamine
+
+1123
+00:43:47,330 --> 00:43:48,990
+in order to be able to think more clearly?
+
+1124
+00:43:48,990 --> 00:43:52,270
+Well, it appears that there's
+good rationale for doing that.
+
+1125
+00:43:52,270 --> 00:43:54,400
+But the reason I bring this up,
+
+1126
+00:43:54,400 --> 00:43:56,060
+assuming that most people, including me,
+
+1127
+00:43:56,060 --> 00:43:59,790
+are not going up to high
+altitudes very often,
+
+1128
+00:43:59,790 --> 00:44:03,860
+is that it's been
+well-established that apnea,
+
+1129
+00:44:03,860 --> 00:44:06,230
+failure to breathe properly during sleep,
+
+1130
+00:44:06,230 --> 00:44:08,340
+can contribute to age-related,
+
+1131
+00:44:08,340 --> 00:44:10,900
+and even non-age-related,
+cognitive decline.
+
+1132
+00:44:10,900 --> 00:44:12,800
+There are a lot of reasons for apneas,
+
+1133
+00:44:13,920 --> 00:44:18,610
+ranging from obesity to
+obstruction of the airways,
+
+1134
+00:44:18,610 --> 00:44:19,623
+for other reasons.
+
+1135
+00:44:20,970 --> 00:44:23,727
+There are tremendous number
+of underlying causes of apnea,
+
+1136
+00:44:23,727 --> 00:44:25,480
+and it's something to be taken seriously.
+
+1137
+00:44:25,480 --> 00:44:28,410
+I mean, heart attacks, all
+sorts of metabolic issues,
+
+1138
+00:44:28,410 --> 00:44:30,370
+are caused by apnea.
+
+1139
+00:44:30,370 --> 00:44:33,700
+Apnea is a serious issue that
+disrupts the depth of sleep,
+
+1140
+00:44:33,700 --> 00:44:36,300
+and it's a serious
+health issue in general.
+
+1141
+00:44:36,300 --> 00:44:37,330
+In any event,
+
+1142
+00:44:37,330 --> 00:44:40,040
+apnea is associated with cognitive decline
+
+1143
+00:44:40,040 --> 00:44:42,920
+and cognitive dysfunction,
+even in young people,
+
+1144
+00:44:42,920 --> 00:44:46,120
+and it does appear that
+glutamine supplementation
+
+1145
+00:44:46,120 --> 00:44:49,230
+can offset some of the cognitive deficits
+
+1146
+00:44:49,230 --> 00:44:52,570
+that are associated with reduced
+oxygenation of the brain.
+
+1147
+00:44:52,570 --> 00:44:53,910
+If you'd like to learn more about
+
+1148
+00:44:53,910 --> 00:44:57,800
+how apnea can negatively impact cognition,
+
+1149
+00:44:57,800 --> 00:44:58,950
+there's an excellent paper
+
+1150
+00:44:58,950 --> 00:45:00,800
+that was published on this in 2018.
+
+1151
+00:45:00,800 --> 00:45:04,330
+The first author is Sharma, S-H-A-R-M-A.
+
+1152
+00:45:04,330 --> 00:45:05,400
+It should be easy to find.
+
+1153
+00:45:05,400 --> 00:45:06,233
+The title of the paper is
+
+1154
+00:45:06,233 --> 00:45:10,110
+"Obstructive Sleep Apnea
+Severity Affects Amyloid Burden
+
+1155
+00:45:10,110 --> 00:45:12,180
+In Cognitively Normal Elderly".
+
+1156
+00:45:12,180 --> 00:45:13,810
+This was a longitudinal study.
+
+1157
+00:45:13,810 --> 00:45:17,560
+Amyloid burden is a
+correlate of Alzheimer's
+
+1158
+00:45:17,560 --> 00:45:19,730
+and other forms of neurodegeneration
+
+1159
+00:45:19,730 --> 00:45:22,470
+and cognitive decline
+associated with memory deficits.
+
+1160
+00:45:22,470 --> 00:45:25,710
+So obstructive sleep apnea
+[clears throat], excuse me,
+
+1161
+00:45:25,710 --> 00:45:28,180
+is a very serious issue
+
+1162
+00:45:28,180 --> 00:45:30,880
+for which glutamine appears to be able to
+
+1163
+00:45:30,880 --> 00:45:33,920
+offset some of the
+negative symptomatology.
+
+1164
+00:45:33,920 --> 00:45:35,720
+So how is it that glutamine,
+
+1165
+00:45:35,720 --> 00:45:38,460
+either from food or
+through supplementation,
+
+1166
+00:45:38,460 --> 00:45:40,220
+can offset some of these
+
+1167
+00:45:40,220 --> 00:45:42,890
+so-called hypoxic effects
+caused by sleep apnea?
+
+1168
+00:45:42,890 --> 00:45:45,690
+Hypoxia being a lack
+of oxygen for the brain
+
+1169
+00:45:45,690 --> 00:45:47,540
+that relate to cognitive decline.
+
+1170
+00:45:47,540 --> 00:45:51,090
+It appears to have this positive impact
+
+1171
+00:45:51,090 --> 00:45:53,580
+by way of reducing inflammation.
+
+1172
+00:45:53,580 --> 00:45:57,350
+So if you want to look
+more deeply into the
+
+1173
+00:45:57,350 --> 00:45:58,950
+various biological pathways
+
+1174
+00:45:58,950 --> 00:46:01,440
+and the supplementation regimes for this,
+
+1175
+00:46:01,440 --> 00:46:04,700
+the paper that I think is
+really spectacular is a paper,
+
+1176
+00:46:04,700 --> 00:46:09,700
+last author is Quaresma, Q-U-A-R-E-S-M-A.
+
+1177
+00:46:10,060 --> 00:46:12,640
+That's Q-U-A-R-E-S-M-A.
+
+1178
+00:46:12,640 --> 00:46:13,517
+It's a review.
+
+1179
+00:46:13,517 --> 00:46:14,650
+"The Possible Importance of
+
+1180
+00:46:14,650 --> 00:46:16,440
+Glutamine Supplementation to Mood
+
+1181
+00:46:16,440 --> 00:46:19,550
+and Cognition in Hypoxia
+from High Altitude".
+
+1182
+00:46:19,550 --> 00:46:21,100
+And even though paper is about
+
+1183
+00:46:21,100 --> 00:46:23,240
+high altitude-induced hypoxia,
+
+1184
+00:46:23,240 --> 00:46:25,280
+it does seem to have direct relevance
+
+1185
+00:46:25,280 --> 00:46:29,170
+to the sorts of apnea that
+are related to Alzheimer's
+
+1186
+00:46:29,170 --> 00:46:30,950
+and other forms of cognitive decline.
+
+1187
+00:46:30,950 --> 00:46:33,350
+Now, I've been taking
+glutamine as a supplement,
+
+1188
+00:46:33,350 --> 00:46:34,670
+gosh, since I was in college,
+
+1189
+00:46:34,670 --> 00:46:38,660
+mostly because I felt, either
+by superstition or by reality,
+
+1190
+00:46:38,660 --> 00:46:43,380
+that it protected me from
+various flus and colds,
+
+1191
+00:46:43,380 --> 00:46:44,380
+and things of that sort,
+
+1192
+00:46:44,380 --> 00:46:47,723
+because of the purported
+immune-enhancing effects.
+
+1193
+00:46:48,570 --> 00:46:50,190
+Again, those immune-enhancing effects
+
+1194
+00:46:50,190 --> 00:46:53,220
+have some data to support them, not a ton.
+
+1195
+00:46:53,220 --> 00:46:55,340
+However, I got into the
+habit of taking glutamine,
+
+1196
+00:46:55,340 --> 00:46:57,620
+and now that I've learned that glutamine
+
+1197
+00:46:57,620 --> 00:46:58,990
+seems to also have some
+
+1198
+00:46:58,990 --> 00:47:01,310
+cognitive-enhancing effects, possibly,
+
+1199
+00:47:01,310 --> 00:47:03,440
+it's a supplement that I continue to take.
+
+1200
+00:47:03,440 --> 00:47:05,000
+I take very small amounts of it,
+
+1201
+00:47:05,000 --> 00:47:07,670
+but I do take it on a regular basis.
+
+1202
+00:47:07,670 --> 00:47:11,130
+So that, more or less, completes
+the list of things that,
+
+1203
+00:47:11,130 --> 00:47:13,970
+at least by my read of the literature,
+
+1204
+00:47:13,970 --> 00:47:16,740
+are things that are
+supported by at least three,
+
+1205
+00:47:16,740 --> 00:47:19,810
+and in some cases, as many
+as hundreds of studies,
+
+1206
+00:47:19,810 --> 00:47:21,330
+in various populations,
+
+1207
+00:47:21,330 --> 00:47:24,510
+that have been explored
+in mouse studies often,
+
+1208
+00:47:24,510 --> 00:47:27,250
+but also in a number of human studies.
+
+1209
+00:47:27,250 --> 00:47:28,350
+I want to emphasize again,
+
+1210
+00:47:28,350 --> 00:47:30,170
+that all of the things I listed out,
+
+1211
+00:47:30,170 --> 00:47:31,620
+whether or not it's EPAs,
+
+1212
+00:47:31,620 --> 00:47:33,300
+whether or not it's phosphatidylserine,
+
+1213
+00:47:33,300 --> 00:47:34,270
+whether or not it's choline,
+
+1214
+00:47:34,270 --> 00:47:37,600
+whether or not it's the various compounds
+
+1215
+00:47:37,600 --> 00:47:38,940
+that are in berries, et cetera,
+
+1216
+00:47:38,940 --> 00:47:41,130
+all of those can be extracted from food.
+
+1217
+00:47:41,130 --> 00:47:43,240
+There is not any law that says
+
+1218
+00:47:43,240 --> 00:47:45,040
+that you have to get them
+from supplementation.
+
+1219
+00:47:45,040 --> 00:47:46,530
+Supplementation can help you get
+
+1220
+00:47:46,530 --> 00:47:48,560
+to the very high levels of those things,
+
+1221
+00:47:48,560 --> 00:47:50,380
+if you want to work on the higher end,
+
+1222
+00:47:50,380 --> 00:47:51,350
+if that's right for you.
+
+1223
+00:47:51,350 --> 00:47:53,580
+Obviously, check with your
+doctor before taking anything
+
+1224
+00:47:53,580 --> 00:47:56,350
+or removing anything from your
+diet or supplement regime.
+
+1225
+00:47:56,350 --> 00:48:00,773
+But in general, you can get
+these things from foods.
+
+1226
+00:48:00,773 --> 00:48:04,700
+It's just so happens, that
+for some of these compounds,
+
+1227
+00:48:04,700 --> 00:48:06,310
+the foods that they're
+contained in, like fish,
+
+1228
+00:48:06,310 --> 00:48:09,040
+are not foods that I particularly enjoy,
+
+1229
+00:48:09,040 --> 00:48:11,220
+and so I rely on [clears
+throat], excuse me,
+
+1230
+00:48:11,220 --> 00:48:13,720
+I rely on supplements in order to get
+
+1231
+00:48:13,720 --> 00:48:15,190
+sufficient levels for me.
+
+1232
+00:48:15,190 --> 00:48:17,630
+But again, you can get
+these levels from food.
+
+1233
+00:48:17,630 --> 00:48:20,550
+And the reason I made this list,
+
+1234
+00:48:20,550 --> 00:48:23,270
+the reason that I emphasize these things
+
+1235
+00:48:23,270 --> 00:48:25,080
+in this particular order,
+
+1236
+00:48:25,080 --> 00:48:30,000
+is that they support the
+structure of neurons.
+
+1237
+00:48:30,000 --> 00:48:32,830
+They support the structure of
+the other cells of the brain
+
+1238
+00:48:32,830 --> 00:48:33,977
+that make up our cognition
+
+1239
+00:48:33,977 --> 00:48:36,150
+and that are important for our focus,
+
+1240
+00:48:36,150 --> 00:48:38,920
+and our ability to remember
+things, and so forth.
+
+1241
+00:48:38,920 --> 00:48:41,010
+And they are less so in the category
+
+1242
+00:48:41,010 --> 00:48:44,330
+of so-called modulatory effects.
+
+1243
+00:48:44,330 --> 00:48:47,330
+They will also have
+modulatory effects on sleep,
+
+1244
+00:48:47,330 --> 00:48:48,163
+on inflammation,
+
+1245
+00:48:48,163 --> 00:48:49,970
+or reducing inflammation
+throughout the body,
+
+1246
+00:48:49,970 --> 00:48:51,690
+on cardiovascular function,
+
+1247
+00:48:51,690 --> 00:48:55,420
+all of which I believe
+are positive affects.
+
+1248
+00:48:55,420 --> 00:48:57,130
+At least what the literature tells us,
+
+1249
+00:48:57,130 --> 00:48:58,580
+is that none of these compounds
+
+1250
+00:48:58,580 --> 00:49:00,510
+are harming other systems of the body,
+
+1251
+00:49:00,510 --> 00:49:04,120
+provided they are taken
+at reasonable levels.
+
+1252
+00:49:04,120 --> 00:49:08,250
+But everything in this
+list is directed towards
+
+1253
+00:49:08,250 --> 00:49:10,290
+answering the question, what can I eat,
+
+1254
+00:49:10,290 --> 00:49:14,040
+what can I ingest by way of
+food, and/or food supplement,
+
+1255
+00:49:14,040 --> 00:49:16,800
+that can support brain
+function in the short-term
+
+1256
+00:49:16,800 --> 00:49:17,750
+and in the long-term?
+
+1257
+00:49:17,750 --> 00:49:19,630
+So I hope you find that
+list beneficial for you.
+
+1258
+00:49:19,630 --> 00:49:22,960
+If not for use, at
+least for consideration.
+
+1259
+00:49:22,960 --> 00:49:25,460
+So now, having talked
+about some of the foods
+
+1260
+00:49:25,460 --> 00:49:28,130
+and micronutrients that are
+beneficial to our immediate
+
+1261
+00:49:28,130 --> 00:49:30,520
+and long-term brain health,
+
+1262
+00:49:30,520 --> 00:49:32,060
+I'd like to shift gears somewhat,
+
+1263
+00:49:32,060 --> 00:49:33,880
+and talk about why it is
+
+1264
+00:49:33,880 --> 00:49:36,420
+that we like the foods that we like.
+
+1265
+00:49:36,420 --> 00:49:37,480
+We've all heard before
+
+1266
+00:49:37,480 --> 00:49:41,560
+that we are hardwired to pursue sugar,
+
+1267
+00:49:41,560 --> 00:49:42,777
+and to like fatty foods,
+
+1268
+00:49:42,777 --> 00:49:45,130
+and that calorie-rich
+foods are attractive to us
+
+1269
+00:49:45,130 --> 00:49:46,140
+for all sorts of reasons,
+
+1270
+00:49:46,140 --> 00:49:48,680
+you know, surviving famines,
+and things of that sort.
+
+1271
+00:49:48,680 --> 00:49:51,110
+And while that is true,
+
+1272
+00:49:51,110 --> 00:49:53,030
+the actual mechanisms that underlie
+
+1273
+00:49:53,030 --> 00:49:55,350
+food seeking and food preference
+
+1274
+00:49:55,350 --> 00:49:57,290
+are far more interesting than that.
+
+1275
+00:49:57,290 --> 00:49:59,380
+There are basically three channels
+
+1276
+00:49:59,380 --> 00:50:01,840
+in our body and nervous system
+
+1277
+00:50:01,840 --> 00:50:04,520
+by which we decide what foods to pursue,
+
+1278
+00:50:04,520 --> 00:50:07,020
+how much to eat, and
+whether or not we will find
+
+1279
+00:50:07,020 --> 00:50:09,760
+a particular food attractive,
+
+1280
+00:50:09,760 --> 00:50:12,190
+whether or not we will
+want to consume more of it,
+
+1281
+00:50:12,190 --> 00:50:14,390
+whether or not we want to avoid it,
+
+1282
+00:50:14,390 --> 00:50:16,510
+or whether or not it's just sort of so-so,
+
+1283
+00:50:16,510 --> 00:50:21,510
+what I refer to as the
+yum, yuck, or meh analysis.
+
+1284
+00:50:21,610 --> 00:50:24,530
+And indeed, that's what
+our nervous system is doing
+
+1285
+00:50:24,530 --> 00:50:25,510
+with respect to food.
+
+1286
+00:50:25,510 --> 00:50:27,730
+It's trying to figure out whether or not,
+
+1287
+00:50:27,730 --> 00:50:29,890
+yum, I want more of this,
+
+1288
+00:50:29,890 --> 00:50:31,900
+yuck, I want to avoid this,
+
+1289
+00:50:31,900 --> 00:50:33,870
+or meh, it's so-so.
+
+1290
+00:50:33,870 --> 00:50:35,210
+Now, while that may seem like
+
+1291
+00:50:35,210 --> 00:50:38,260
+a overly simplified
+version of food seeking
+
+1292
+00:50:38,260 --> 00:50:39,670
+and food preference,
+
+1293
+00:50:39,670 --> 00:50:42,100
+it's actually not that far from the truth.
+
+1294
+00:50:42,100 --> 00:50:44,820
+It actually correctly captures
+
+1295
+00:50:44,820 --> 00:50:48,280
+much of the biology of food preference.
+
+1296
+00:50:48,280 --> 00:50:50,220
+So let's talk about what
+these three channels
+
+1297
+00:50:50,220 --> 00:50:52,080
+for food preference are.
+
+1298
+00:50:52,080 --> 00:50:54,130
+The first one is an obvious one.
+
+1299
+00:50:54,130 --> 00:50:56,190
+It's taste on the mouth.
+
+1300
+00:50:56,190 --> 00:50:59,430
+It is the sensation that we
+have of the foods that we eat
+
+1301
+00:50:59,430 --> 00:51:00,910
+while we're chewing them,
+
+1302
+00:51:00,910 --> 00:51:02,380
+and those sensations,
+
+1303
+00:51:02,380 --> 00:51:05,350
+which are literally just
+somatosensory, touch sensations,
+
+1304
+00:51:05,350 --> 00:51:08,750
+you know, the palatability of food
+
+1305
+00:51:08,750 --> 00:51:13,320
+as it relates to the consistency
+of food, that's important.
+
+1306
+00:51:13,320 --> 00:51:15,070
+And as you've all heard before,
+
+1307
+00:51:15,070 --> 00:51:16,600
+we have sensors on our tongue
+
+1308
+00:51:16,600 --> 00:51:18,340
+and elsewhere in our mouth
+
+1309
+00:51:18,340 --> 00:51:21,410
+that detect the various
+chemicals contained within food,
+
+1310
+00:51:21,410 --> 00:51:24,600
+and lead to the senses of taste,
+
+1311
+00:51:24,600 --> 00:51:28,240
+which we call bitter, sweet,
+umami, salty, and sour.
+
+1312
+00:51:28,240 --> 00:51:30,940
+Now, most of us are familiar
+with the sense of bitterness
+
+1313
+00:51:30,940 --> 00:51:33,810
+that comes from something
+like a raw radish,
+
+1314
+00:51:33,810 --> 00:51:35,380
+sweet, which comes, obviously,
+
+1315
+00:51:35,380 --> 00:51:36,730
+from sugars of different kinds,
+
+1316
+00:51:36,730 --> 00:51:38,940
+fructose, glucose, et cetera,
+
+1317
+00:51:38,940 --> 00:51:41,210
+salty, salty,
+
+1318
+00:51:41,210 --> 00:51:46,070
+and sour, think lemon or
+lemon juice, for instance.
+
+1319
+00:51:46,070 --> 00:51:48,040
+And then I mentioned umami.
+
+1320
+00:51:48,040 --> 00:51:51,550
+The umami receptor is a
+receptor that responds
+
+1321
+00:51:51,550 --> 00:51:53,740
+to the savory taste of things.
+
+1322
+00:51:53,740 --> 00:51:56,200
+So that's what you might find in a really
+
+1323
+00:51:56,200 --> 00:51:58,510
+wonderfully rich tomato sauce.
+
+1324
+00:51:58,510 --> 00:52:01,500
+For those of you that
+eat meat, and like meat,
+
+1325
+00:52:01,500 --> 00:52:04,950
+a really well cooked ,not
+necessarily well done,
+
+1326
+00:52:04,950 --> 00:52:08,580
+but properly cooked, I should say, steak,
+
+1327
+00:52:08,580 --> 00:52:09,840
+if that's your thing.
+
+1328
+00:52:09,840 --> 00:52:13,550
+And umami is present in
+both plant and animal foods,
+
+1329
+00:52:13,550 --> 00:52:16,360
+and gives us that sensation of savoriness.
+
+1330
+00:52:16,360 --> 00:52:19,820
+It almost has a kind of little
+bit of a briny taste to it,
+
+1331
+00:52:19,820 --> 00:52:21,450
+or braised taste to it.
+
+1332
+00:52:21,450 --> 00:52:24,310
+And indeed, brazing of meats
+and brazing of vegetables
+
+1333
+00:52:25,160 --> 00:52:29,620
+is done specifically to
+activate that umami receptor.
+
+1334
+00:52:29,620 --> 00:52:31,690
+So we have those five basic tastes.
+
+1335
+00:52:31,690 --> 00:52:34,970
+Those are chemical sensors
+on the tongue that,
+
+1336
+00:52:34,970 --> 00:52:37,480
+what we call, transduce those chemicals.
+
+1337
+00:52:37,480 --> 00:52:40,860
+Those chemicals, literally, in
+food bind to those receptors,
+
+1338
+00:52:40,860 --> 00:52:42,763
+and it is transduced,
+
+1339
+00:52:43,900 --> 00:52:46,890
+meaning the binding of those
+chemicals to the receptors
+
+1340
+00:52:46,890 --> 00:52:49,000
+is converted into an electrical signal
+
+1341
+00:52:49,000 --> 00:52:50,800
+that travels in from the tongue
+
+1342
+00:52:50,800 --> 00:52:52,980
+along what's called the gustatory nerve.
+
+1343
+00:52:52,980 --> 00:52:55,070
+The gustatory nerve then synapses,
+
+1344
+00:52:55,070 --> 00:52:58,360
+meaning it makes
+connections in our brainstem
+
+1345
+00:52:58,360 --> 00:53:00,970
+in the so-called nucleus
+of the solitary tract.
+
+1346
+00:53:00,970 --> 00:53:02,620
+There are other nuclei back there.
+
+1347
+00:53:02,620 --> 00:53:04,610
+Nuclei just aggregates of neurons.
+
+1348
+00:53:04,610 --> 00:53:06,280
+And then it sends information up to
+
+1349
+00:53:06,280 --> 00:53:08,610
+the so-called insular
+cortex, to the insula.
+
+1350
+00:53:08,610 --> 00:53:11,680
+I want to highlight the
+insula this episode,
+
+1351
+00:53:11,680 --> 00:53:14,720
+because we are going
+to return to the insula
+
+1352
+00:53:14,720 --> 00:53:17,500
+again and again in this
+episode, and later.
+
+1353
+00:53:17,500 --> 00:53:21,530
+The insular cortex is
+a incredible structure
+
+1354
+00:53:21,530 --> 00:53:22,720
+that we all have
+
+1355
+00:53:22,720 --> 00:53:26,520
+that mainly is concerned
+with so-called interoception,
+
+1356
+00:53:26,520 --> 00:53:29,840
+or our perception of what's
+going on inside our body.
+
+1357
+00:53:29,840 --> 00:53:31,500
+So it could be the amount
+of pressure in our gut
+
+1358
+00:53:31,500 --> 00:53:33,240
+because of how much food we've eaten.
+
+1359
+00:53:33,240 --> 00:53:36,460
+It could be the acidity of our gut,
+
+1360
+00:53:36,460 --> 00:53:38,860
+if we're having a little bit
+of indigestion, for instance.
+
+1361
+00:53:38,860 --> 00:53:41,520
+It can also be the case,
+
+1362
+00:53:41,520 --> 00:53:43,610
+that neurons within the
+insula are paying attention
+
+1363
+00:53:43,610 --> 00:53:45,700
+to how stressed you are,
+or how alert you are,
+
+1364
+00:53:45,700 --> 00:53:46,800
+or how tired you are.
+
+1365
+00:53:46,800 --> 00:53:49,960
+So it's really an inward
+focusing structure.
+
+1366
+00:53:49,960 --> 00:53:52,040
+It focuses on how we feel internally.
+
+1367
+00:53:52,040 --> 00:53:53,250
+And not surprisingly,
+
+1368
+00:53:53,250 --> 00:53:58,210
+the taste system sends information
+up to the insular cortex
+
+1369
+00:53:58,210 --> 00:54:02,710
+to give us a sense, literally,
+of what we've ingested,
+
+1370
+00:54:02,710 --> 00:54:06,080
+whether or not what we're
+tasting tastes good or not.
+
+1371
+00:54:06,080 --> 00:54:09,130
+We will return to insular
+cortex in a few moments.
+
+1372
+00:54:09,130 --> 00:54:11,290
+A very important thing to understand,
+
+1373
+00:54:11,290 --> 00:54:14,050
+is that the neurons in
+the areas of the cortex,
+
+1374
+00:54:14,050 --> 00:54:17,000
+your cortex and mine, that
+respond to particular tastes
+
+1375
+00:54:17,940 --> 00:54:21,980
+are providing an internal representation
+
+1376
+00:54:21,980 --> 00:54:24,880
+of an external sense.
+
+1377
+00:54:24,880 --> 00:54:25,850
+What do I mean by that?
+
+1378
+00:54:25,850 --> 00:54:27,810
+I don't want to be at all abstract.
+
+1379
+00:54:27,810 --> 00:54:28,810
+We take these foods,
+
+1380
+00:54:28,810 --> 00:54:32,730
+we break them down in our
+mouth by chewing them,
+
+1381
+00:54:32,730 --> 00:54:33,563
+or sucking on them,
+
+1382
+00:54:33,563 --> 00:54:35,950
+whatever it is the food happens to be,
+
+1383
+00:54:35,950 --> 00:54:37,650
+those chemicals bind to those receptors,
+
+1384
+00:54:37,650 --> 00:54:40,010
+and electrical signals
+are sent into the brain,
+
+1385
+00:54:40,010 --> 00:54:41,670
+but they are just electrical signals,
+
+1386
+00:54:41,670 --> 00:54:45,040
+just like notes being played
+on the keys of a piano.
+
+1387
+00:54:45,040 --> 00:54:48,090
+There's no unique signature
+for salty or sweet.
+
+1388
+00:54:48,090 --> 00:54:53,090
+It is the relative activation
+of one set of neurons
+
+1389
+00:54:53,160 --> 00:54:54,930
+that was activated by sweet,
+
+1390
+00:54:54,930 --> 00:54:57,570
+or another set of neurons
+that was activated by umami.
+
+1391
+00:54:57,570 --> 00:54:59,510
+It's that relative activation
+
+1392
+00:54:59,510 --> 00:55:04,090
+traveling into the brain in,
+essentially, the same form,
+
+1393
+00:55:04,090 --> 00:55:05,550
+the same electrical signals.
+
+1394
+00:55:05,550 --> 00:55:06,610
+This is really incredible, right?
+
+1395
+00:55:06,610 --> 00:55:07,990
+Electrical signals are
+sent into the brain,
+
+1396
+00:55:07,990 --> 00:55:11,000
+and you say, aha, that's
+sweet and I want more of it,
+
+1397
+00:55:11,000 --> 00:55:12,550
+or that's bitter, or I want less of it,
+
+1398
+00:55:12,550 --> 00:55:13,790
+or that's umami flavored,
+
+1399
+00:55:13,790 --> 00:55:15,410
+and I really, really like that,
+
+1400
+00:55:15,410 --> 00:55:17,883
+really like savory foods, as I happen to.
+
+1401
+00:55:19,210 --> 00:55:22,000
+That should immediately
+strike you as incredible,
+
+1402
+00:55:22,000 --> 00:55:24,040
+because it means that your representation
+
+1403
+00:55:24,040 --> 00:55:27,310
+of what you want more of or
+less of is electrical in nature.
+
+1404
+00:55:27,310 --> 00:55:31,090
+And to really tamp this issue down,
+
+1405
+00:55:31,090 --> 00:55:36,030
+studies that were done by
+Charles Zuker, Z-U-K-E-R...
+
+1406
+00:55:36,030 --> 00:55:39,160
+He's a absolutely
+phenomenal neuroscientist
+
+1407
+00:55:40,210 --> 00:55:43,130
+at Columbia University in New York.
+
+1408
+00:55:43,130 --> 00:55:47,040
+Studies done by the Zuker
+Lab have shown that,
+
+1409
+00:55:47,040 --> 00:55:51,440
+first of all, they could identify
+the neurons in the cortex
+
+1410
+00:55:51,440 --> 00:55:54,420
+deep in the brain that
+respond to a sweet taste
+
+1411
+00:55:54,420 --> 00:55:55,400
+or to a bitter taste.
+
+1412
+00:55:55,400 --> 00:55:56,900
+It turns out, they are non-overlapping
+
+1413
+00:55:56,900 --> 00:55:58,510
+populations of neurons.
+
+1414
+00:55:58,510 --> 00:56:01,070
+And then using some molecular tricks,
+
+1415
+00:56:01,070 --> 00:56:03,660
+they were able to either silence
+
+1416
+00:56:03,660 --> 00:56:06,300
+or activate the neurons
+that, for instance,
+
+1417
+00:56:06,300 --> 00:56:07,823
+respond to sweet.
+
+1418
+00:56:09,450 --> 00:56:10,283
+When they do this,
+
+1419
+00:56:10,283 --> 00:56:14,350
+they see incredible
+consequences on perception
+
+1420
+00:56:14,350 --> 00:56:16,950
+that, indeed, occur in your brain,
+
+1421
+00:56:16,950 --> 00:56:18,730
+and my brain as well, all the time
+
+1422
+00:56:18,730 --> 00:56:20,220
+without these kind of manipulations.
+
+1423
+00:56:20,220 --> 00:56:21,320
+Here's the experiment.
+
+1424
+00:56:22,270 --> 00:56:27,270
+They have a subject drink
+water that contains sugar,
+
+1425
+00:56:27,490 --> 00:56:29,670
+or drink water that
+contains a salty substance,
+
+1426
+00:56:29,670 --> 00:56:30,920
+or drink water that contains
+
+1427
+00:56:30,920 --> 00:56:32,670
+a bitter substance, for instance.
+
+1428
+00:56:32,670 --> 00:56:36,090
+Okay, I'm sort of paraphrasing
+a large amount of work.
+
+1429
+00:56:36,090 --> 00:56:39,953
+They identify the neurons
+that respond to sweet tastes.
+
+1430
+00:56:41,540 --> 00:56:44,780
+They see, as many researchers have seen,
+
+1431
+00:56:44,780 --> 00:56:47,950
+that subjects prefer sweet
+taste to other tastes,
+
+1432
+00:56:47,950 --> 00:56:49,520
+and certainly, sweet tastes to bitter,
+
+1433
+00:56:49,520 --> 00:56:52,093
+or sweet tastes to
+nothing, so to plain water.
+
+1434
+00:56:53,330 --> 00:56:54,860
+And then they go in,
+
+1435
+00:56:54,860 --> 00:56:57,690
+and they are able to
+selectively silence the neurons
+
+1436
+00:56:57,690 --> 00:57:00,173
+that represent sweet.
+
+1437
+00:57:01,360 --> 00:57:02,290
+And when they do that,
+
+1438
+00:57:02,290 --> 00:57:06,123
+they eliminate the preference
+for that sweet taste.
+
+1439
+00:57:07,260 --> 00:57:08,610
+Now, that might seem obvious,
+
+1440
+00:57:08,610 --> 00:57:09,680
+the neurons respond to sweet,
+
+1441
+00:57:09,680 --> 00:57:11,700
+and you silence those neurons,
+
+1442
+00:57:11,700 --> 00:57:14,640
+they no longer seek out sweet.
+
+1443
+00:57:14,640 --> 00:57:17,780
+But that should strike
+you, also, as incredible,
+
+1444
+00:57:17,780 --> 00:57:19,300
+because they're not actually changing
+
+1445
+00:57:19,300 --> 00:57:20,530
+what's happening on the tongue
+
+1446
+00:57:20,530 --> 00:57:22,380
+or in the deeper layers of the brain.
+
+1447
+00:57:23,300 --> 00:57:27,640
+Conversely, they can have
+subjects drink bitter water
+
+1448
+00:57:27,640 --> 00:57:30,780
+or plain water while activating,
+
+1449
+00:57:30,780 --> 00:57:34,190
+selectively activating, the
+neurons that respond to sweet.
+
+1450
+00:57:34,190 --> 00:57:35,400
+And what they find,
+
+1451
+00:57:35,400 --> 00:57:40,400
+is that then subjects will
+actively prefer bitter
+
+1452
+00:57:40,700 --> 00:57:45,700
+or plain water to actual
+preferences, such as sweet.
+
+1453
+00:57:46,410 --> 00:57:48,210
+So what this means is that,
+
+1454
+00:57:48,210 --> 00:57:51,450
+your perception of what
+you like is a central,
+
+1455
+00:57:51,450 --> 00:57:54,520
+meaning deep within the brain, phenomenon.
+
+1456
+00:57:54,520 --> 00:57:57,530
+It's not about how things
+taste on your mouth.
+
+1457
+00:57:57,530 --> 00:57:59,240
+Now, of course, under normal conditions,
+
+1458
+00:57:59,240 --> 00:58:00,073
+where there aren't these
+
+1459
+00:58:00,073 --> 00:58:02,360
+experimental manipulations being done,
+
+1460
+00:58:02,360 --> 00:58:04,490
+those things are positively correlated.
+
+1461
+00:58:04,490 --> 00:58:06,340
+Sweet tastes trigger the activation
+
+1462
+00:58:06,340 --> 00:58:08,180
+of sweet neurons, for instance.
+
+1463
+00:58:08,180 --> 00:58:10,800
+Neurons in the mouth
+that respond to umami,
+
+1464
+00:58:10,800 --> 00:58:12,920
+trigger the activation
+of neurons in the brain
+
+1465
+00:58:12,920 --> 00:58:14,720
+that respond to umami, and so forth.
+
+1466
+00:58:15,770 --> 00:58:17,510
+So they're correlated in a way
+
+1467
+00:58:17,510 --> 00:58:20,020
+that makes you seek out
+the things that you like,
+
+1468
+00:58:20,020 --> 00:58:22,260
+and avoid the things that you don't like.
+
+1469
+00:58:22,260 --> 00:58:24,760
+But as we'll see in a few minutes,
+
+1470
+00:58:24,760 --> 00:58:28,100
+turns out, that that is
+not a direct relationship
+
+1471
+00:58:28,100 --> 00:58:29,520
+that is hardwired.
+
+1472
+00:58:29,520 --> 00:58:31,540
+You can actually uncouple
+
+1473
+00:58:31,540 --> 00:58:33,870
+the preference for a particular taste
+
+1474
+00:58:33,870 --> 00:58:36,430
+with the reward systems in the brain
+
+1475
+00:58:36,430 --> 00:58:38,400
+in a way that, for instance,
+
+1476
+00:58:38,400 --> 00:58:40,940
+would allow you to eat,
+
+1477
+00:58:40,940 --> 00:58:42,390
+or I should use myself as an example,
+
+1478
+00:58:42,390 --> 00:58:43,830
+'cause I don't particularly like fish.
+
+1479
+00:58:43,830 --> 00:58:46,240
+I've had a few meals that include a fish
+
+1480
+00:58:46,240 --> 00:58:47,510
+that were pretty good,
+
+1481
+00:58:47,510 --> 00:58:49,230
+but none of them were memorable
+
+1482
+00:58:49,230 --> 00:58:50,300
+in the kind of positive way,
+
+1483
+00:58:50,300 --> 00:58:53,000
+that like some other events
+in my life were memorable.
+
+1484
+00:58:54,327 --> 00:58:55,850
+But by way of these circuitries,
+
+1485
+00:58:55,850 --> 00:58:57,300
+and the way they link up with one another,
+
+1486
+00:58:57,300 --> 00:59:01,380
+it's actually possible to
+rewire one's sense of taste
+
+1487
+00:59:01,380 --> 00:59:03,230
+and preference for particular foods.
+
+1488
+00:59:03,230 --> 00:59:04,830
+If this is seeming at all vague to you,
+
+1489
+00:59:04,830 --> 00:59:07,250
+just hang in with me a little bit longer,
+
+1490
+00:59:07,250 --> 00:59:09,240
+because I will provide you
+with the information, tools,
+
+1491
+00:59:09,240 --> 00:59:13,130
+and resources with which
+to navigate this process.
+
+1492
+00:59:13,130 --> 00:59:16,820
+But the most important
+thing to understand is that,
+
+1493
+00:59:16,820 --> 00:59:19,010
+like with our hearing,
+
+1494
+00:59:19,010 --> 00:59:20,333
+like with vision,
+
+1495
+00:59:21,470 --> 00:59:22,823
+like with smell,
+
+1496
+00:59:23,920 --> 00:59:27,690
+taste is an internal representation
+
+1497
+00:59:27,690 --> 00:59:31,830
+that has particular goals for you.
+
+1498
+00:59:31,830 --> 00:59:33,170
+Your sense of what tastes good
+
+1499
+00:59:33,170 --> 00:59:34,870
+is related to particular things
+
+1500
+00:59:34,870 --> 00:59:36,550
+that are occurring in your brain and body,
+
+1501
+00:59:36,550 --> 00:59:38,740
+and that are likely to give your brain
+
+1502
+00:59:38,740 --> 00:59:41,530
+and body the things that it needs.
+
+1503
+00:59:41,530 --> 00:59:43,230
+It is not simply a matter of
+
+1504
+00:59:43,230 --> 00:59:44,560
+what you, quote/unquote, "like",
+
+1505
+00:59:44,560 --> 00:59:47,190
+or what tastes good, or
+what doesn't taste good.
+
+1506
+00:59:47,190 --> 00:59:50,150
+Let me give you a
+relatively simple example
+
+1507
+00:59:50,150 --> 00:59:53,260
+of how your body and your brain are acting
+
+1508
+00:59:53,260 --> 00:59:54,850
+in a coordinated way
+
+1509
+00:59:54,850 --> 00:59:55,754
+to make you prefer certain foods,
+
+1510
+00:59:55,754 --> 00:59:59,393
+and indeed, to pursue certain foods more.
+
+1511
+01:00:00,380 --> 01:00:02,540
+As I just mentioned, you
+have neurons on your tongue
+
+1512
+01:00:02,540 --> 01:00:04,290
+that respond to different tastes.
+
+1513
+01:00:04,290 --> 01:00:06,930
+But, of course, your digestive
+tract isn't just your tongue,
+
+1514
+01:00:06,930 --> 01:00:07,930
+it's also your throat.
+
+1515
+01:00:07,930 --> 01:00:09,910
+It goes all the way down to your stomach,
+
+1516
+01:00:09,910 --> 01:00:12,140
+and, of course, your intestines.
+
+1517
+01:00:12,140 --> 01:00:13,743
+It's a long tube of digestion.
+
+1518
+01:00:14,740 --> 01:00:17,690
+All along that tube there are neurons.
+
+1519
+01:00:17,690 --> 01:00:20,200
+Some of the neurons are responding to
+
+1520
+01:00:20,200 --> 01:00:23,400
+the mechanical size of
+
+1521
+01:00:23,400 --> 01:00:25,690
+whatever portion of the
+digestive tract it happens to be.
+
+1522
+01:00:25,690 --> 01:00:28,750
+So for instance, how distended,
+or empty, or full, rather,
+
+1523
+01:00:28,750 --> 01:00:30,634
+it doesn't have to be distended,
+
+1524
+01:00:30,634 --> 01:00:31,610
+it depends on how much you ate,
+
+1525
+01:00:31,610 --> 01:00:34,860
+but how full or empty
+your gut happens to be,
+
+1526
+01:00:34,860 --> 01:00:38,420
+whether or not something you
+just ate is temperature hot,
+
+1527
+01:00:38,420 --> 01:00:41,120
+you know, is hot in the
+sense of hot to the touch,
+
+1528
+01:00:41,120 --> 01:00:42,980
+or whether or not it's spicy hot,
+
+1529
+01:00:42,980 --> 01:00:44,250
+whether or not it's soothing,
+
+1530
+01:00:44,250 --> 01:00:46,690
+whether or not it's
+kind of hard to swallow,
+
+1531
+01:00:46,690 --> 01:00:47,600
+this kind of thing.
+
+1532
+01:00:47,600 --> 01:00:49,570
+So you have neurons all along your gut
+
+1533
+01:00:49,570 --> 01:00:51,510
+that are responding to the mechanics
+
+1534
+01:00:51,510 --> 01:00:53,050
+related to food and digestion,
+
+1535
+01:00:53,050 --> 01:00:56,050
+and that are related to the
+chemistry of food and digestion.
+
+1536
+01:00:57,020 --> 01:00:59,610
+There's a population of neurons,
+
+1537
+01:00:59,610 --> 01:01:01,430
+nerve cells in your gut,
+
+1538
+01:01:01,430 --> 01:01:04,210
+that are exquisitely
+tuned to the chemistry
+
+1539
+01:01:04,210 --> 01:01:06,210
+of whatever it is in your gut.
+
+1540
+01:01:06,210 --> 01:01:09,600
+And these are neurons
+called neuropod cells.
+
+1541
+01:01:09,600 --> 01:01:12,510
+They were discovered many, many years ago,
+
+1542
+01:01:12,510 --> 01:01:14,600
+but really defined with
+
+1543
+01:01:14,600 --> 01:01:17,710
+and classified with modern tools
+
+1544
+01:01:17,710 --> 01:01:19,170
+by Diego Bohorquez.
+
+1545
+01:01:19,170 --> 01:01:20,870
+I hope I'm pronouncing
+your name correctly.
+
+1546
+01:01:20,870 --> 01:01:22,510
+Diego, we've spoken many times,
+
+1547
+01:01:22,510 --> 01:01:24,160
+but I can't ever seem to quite capture
+
+1548
+01:01:24,160 --> 01:01:26,280
+the proper pronunciation just right.
+
+1549
+01:01:26,280 --> 01:01:30,660
+But Diego Bohorquez at Duke University,
+
+1550
+01:01:30,660 --> 01:01:32,250
+who discovered that these cells
+
+1551
+01:01:33,780 --> 01:01:35,470
+reside within the gut,
+
+1552
+01:01:35,470 --> 01:01:37,050
+and place little processes,
+
+1553
+01:01:37,050 --> 01:01:39,630
+they're little axons and dendrites,
+
+1554
+01:01:39,630 --> 01:01:43,100
+within the mucosal lining of the gut.
+
+1555
+01:01:43,100 --> 01:01:45,840
+And there, they are paying attention to,
+
+1556
+01:01:45,840 --> 01:01:48,600
+meaning they respond to,
+
+1557
+01:01:48,600 --> 01:01:52,800
+amino acids, sugars, and fatty acids.
+
+1558
+01:01:52,800 --> 01:01:55,030
+So as your food is digested,
+
+1559
+01:01:55,030 --> 01:01:57,220
+as food lands within your gut,
+
+1560
+01:01:57,220 --> 01:02:00,980
+neurons there are sensing what
+types of foods are available,
+
+1561
+01:02:00,980 --> 01:02:03,480
+and what types of things
+are making their way
+
+1562
+01:02:04,501 --> 01:02:06,050
+through the gut environment.
+
+1563
+01:02:06,050 --> 01:02:08,277
+Now, those neurons aren't
+actually taking those foods
+
+1564
+01:02:08,277 --> 01:02:09,430
+and doing much with them.
+
+1565
+01:02:09,430 --> 01:02:11,680
+What they're doing, is they're essentially
+
+1566
+01:02:12,690 --> 01:02:16,670
+surveying what qualities
+of food are there.
+
+1567
+01:02:16,670 --> 01:02:18,260
+And these particular neurons
+
+1568
+01:02:18,260 --> 01:02:21,010
+that Diego and his group discovered,
+
+1569
+01:02:21,010 --> 01:02:24,680
+send electrical signals up into the brain
+
+1570
+01:02:24,680 --> 01:02:27,680
+through a little passage that
+we call the nodose ganglion.
+
+1571
+01:02:27,680 --> 01:02:30,280
+The nodose ganglion is
+a cluster of neurons
+
+1572
+01:02:30,280 --> 01:02:33,710
+that then send up their
+own process into the brain,
+
+1573
+01:02:33,710 --> 01:02:35,350
+and trigger the release of dopamine,
+
+1574
+01:02:35,350 --> 01:02:40,200
+which is a molecule that
+inspires motivation, reward,
+
+1575
+01:02:40,200 --> 01:02:43,323
+and more seeking for whatever
+it is led to their activation.
+
+1576
+01:02:45,100 --> 01:02:46,870
+These are super interesting neurons,
+
+1577
+01:02:46,870 --> 01:02:48,980
+because what they're essentially doing,
+
+1578
+01:02:48,980 --> 01:02:53,350
+is they are providing
+a subconscious signal
+
+1579
+01:02:53,350 --> 01:02:55,700
+about the quality of the
+food that you're eating,
+
+1580
+01:02:55,700 --> 01:02:56,950
+what it contains,
+
+1581
+01:02:56,950 --> 01:02:58,550
+and then triggering the release
+
+1582
+01:02:58,550 --> 01:03:01,420
+of a molecule within your brain, dopamine,
+
+1583
+01:03:01,420 --> 01:03:04,173
+that leads you to go
+seek more of those foods.
+
+1584
+01:03:05,150 --> 01:03:09,940
+Now, this has profound
+impact on a number of things.
+
+1585
+01:03:09,940 --> 01:03:11,520
+First of all,
+
+1586
+01:03:11,520 --> 01:03:14,370
+there's the consideration
+of so-called hidden sugars.
+
+1587
+01:03:14,370 --> 01:03:17,460
+Dr. Robert Lustig, who's a
+pediatric endocrinologist
+
+1588
+01:03:17,460 --> 01:03:19,780
+at University of
+California, San Francisco,
+
+1589
+01:03:19,780 --> 01:03:23,220
+has been among the most
+prominent researchers
+
+1590
+01:03:23,220 --> 01:03:24,230
+to talk about the fact
+
+1591
+01:03:24,230 --> 01:03:26,460
+that there are these so-called
+hidden sugars in foods.
+
+1592
+01:03:26,460 --> 01:03:27,820
+Now, these are not just sugars,
+
+1593
+01:03:27,820 --> 01:03:30,430
+that they sneak in just to be sneaky,
+
+1594
+01:03:30,430 --> 01:03:32,890
+these are sugars that
+are literally snuck in
+
+1595
+01:03:32,890 --> 01:03:35,520
+in a way that you can't taste them.
+
+1596
+01:03:35,520 --> 01:03:37,170
+That's why they're called hidden sugars.
+
+1597
+01:03:37,170 --> 01:03:39,200
+It's not that they just
+put them in there for fun.
+
+1598
+01:03:39,200 --> 01:03:42,780
+These are sugars that are
+placed into processed foods
+
+1599
+01:03:42,780 --> 01:03:45,010
+that are designed to trigger activation
+
+1600
+01:03:45,010 --> 01:03:46,890
+of these mechanisms
+
+1601
+01:03:46,890 --> 01:03:50,110
+to lead you to want to
+eat more of these foods,
+
+1602
+01:03:50,110 --> 01:03:54,300
+but not because they necessarily
+taste sweet or delicious,
+
+1603
+01:03:54,300 --> 01:03:56,290
+but because they are activating
+
+1604
+01:03:56,290 --> 01:03:57,580
+these subconscious mechanisms
+
+1605
+01:03:57,580 --> 01:04:00,100
+that are driving you to
+pursue more of these foods.
+
+1606
+01:04:00,100 --> 01:04:02,000
+It sounds like a very diabolical strategy,
+
+1607
+01:04:02,000 --> 01:04:04,623
+and indeed, it is somewhat
+of a diabolical strategy.
+
+1608
+01:04:05,820 --> 01:04:08,470
+However, these neurons are also involved
+
+1609
+01:04:08,470 --> 01:04:10,630
+in signaling to your
+brain when, for instance,
+
+1610
+01:04:10,630 --> 01:04:15,510
+you are eating a food that is
+rich in omega-3 fatty acids,
+
+1611
+01:04:15,510 --> 01:04:17,860
+the fatty acids that we
+were talking about earlier.
+
+1612
+01:04:17,860 --> 01:04:19,870
+So why is it that you don't crave salmon?
+
+1613
+01:04:19,870 --> 01:04:21,300
+Why is it that I don't sit around
+
+1614
+01:04:21,300 --> 01:04:23,030
+daydreaming about mackerel?
+
+1615
+01:04:23,030 --> 01:04:24,870
+Well, because there's also the influence
+
+1616
+01:04:24,870 --> 01:04:26,630
+of the actual taste on the mouth.
+
+1617
+01:04:26,630 --> 01:04:27,660
+Under normal conditions,
+
+1618
+01:04:27,660 --> 01:04:30,450
+it's a combination of the taste
+of the thing on the mouth,
+
+1619
+01:04:30,450 --> 01:04:33,090
+plus the subconscious
+signaling from the gut.
+
+1620
+01:04:33,090 --> 01:04:37,310
+And while this isn't a
+discussion about gut microbiome,
+
+1621
+01:04:37,310 --> 01:04:40,170
+I should just mention,
+that it's very clear
+
+1622
+01:04:40,170 --> 01:04:42,640
+that having a healthy gut microbiome
+
+1623
+01:04:43,570 --> 01:04:46,320
+allows these neurons to function in a way
+
+1624
+01:04:46,320 --> 01:04:50,890
+that serves our seeking of
+healthy foods in positive ways.
+
+1625
+01:04:50,890 --> 01:04:53,550
+And without getting into a
+lot of detail about this,
+
+1626
+01:04:53,550 --> 01:04:56,100
+the best way to ensure
+a healthy gut microbiome
+
+1627
+01:04:56,100 --> 01:04:57,880
+that I am aware of
+
+1628
+01:04:57,880 --> 01:04:59,590
+is not necessarily
+
+1629
+01:04:59,590 --> 01:05:03,280
+to take supplemental
+prebiotics or probiotics.
+
+1630
+01:05:03,280 --> 01:05:04,390
+There are actually some reasons why
+
+1631
+01:05:04,390 --> 01:05:06,240
+you might not want to do that.
+
+1632
+01:05:06,240 --> 01:05:08,510
+But rather, to ingest two to four servings
+
+1633
+01:05:08,510 --> 01:05:11,363
+of fermented foods that
+are low in sugar each day.
+
+1634
+01:05:12,290 --> 01:05:14,100
+There is a recent study published in Cell
+
+1635
+01:05:14,100 --> 01:05:16,720
+showing that the ingestion
+of fermented foods,
+
+1636
+01:05:16,720 --> 01:05:19,163
+two to four servings each day,
+
+1637
+01:05:20,450 --> 01:05:24,920
+can enhance the quality of
+the mucosal lining of the gut
+
+1638
+01:05:24,920 --> 01:05:28,420
+that allows certain gut
+microbiota to flourish,
+
+1639
+01:05:28,420 --> 01:05:31,140
+and the gut microbiota
+that are not good for us
+
+1640
+01:05:31,140 --> 01:05:31,973
+to not flourish,
+
+1641
+01:05:31,973 --> 01:05:33,900
+'cause that's the environment
+that they settle down into.
+
+1642
+01:05:33,900 --> 01:05:35,450
+This is work that was carried out
+
+1643
+01:05:35,450 --> 01:05:38,330
+by my colleagues, Justin Sonnenburg,
+
+1644
+01:05:38,330 --> 01:05:40,970
+which is in the laboratory
+upstairs from me,
+
+1645
+01:05:40,970 --> 01:05:43,673
+as well as Chris Gardner,
+and others at Stanford.
+
+1646
+01:05:44,770 --> 01:05:46,940
+They are certainly not the only
+researchers exploring this.
+
+1647
+01:05:46,940 --> 01:05:48,070
+But it does appear,
+
+1648
+01:05:48,070 --> 01:05:49,830
+that two to four servings of
+
+1649
+01:05:51,040 --> 01:05:52,280
+fermented foods each day,
+
+1650
+01:05:52,280 --> 01:05:55,250
+so these would be things
+like natto, sauerkraut,
+
+1651
+01:05:55,250 --> 01:05:59,410
+low sugar fermented foods, is
+great for the gut microbiome.
+
+1652
+01:05:59,410 --> 01:06:01,480
+And separate studies, not their study,
+
+1653
+01:06:01,480 --> 01:06:02,610
+but separate studies have shown
+
+1654
+01:06:02,610 --> 01:06:05,610
+that the correct gut microbiome conditions
+
+1655
+01:06:05,610 --> 01:06:07,850
+allow these neurons
+that signal to the brain
+
+1656
+01:06:07,850 --> 01:06:10,350
+to signal the right, at the right times,
+
+1657
+01:06:10,350 --> 01:06:13,710
+and in the right ways to
+promote healthy food seeking.
+
+1658
+01:06:13,710 --> 01:06:18,500
+Many people opt to supplement
+with capsule form probiotics.
+
+1659
+01:06:18,500 --> 01:06:21,010
+There are some data that suggests
+
+1660
+01:06:21,010 --> 01:06:24,380
+that maybe those don't
+contain the correct prebiotics
+
+1661
+01:06:24,380 --> 01:06:26,990
+and probiotics for setting the correct
+
+1662
+01:06:26,990 --> 01:06:28,930
+gut microbiota conditions.
+
+1663
+01:06:28,930 --> 01:06:31,700
+That's a little bit of
+a controversial issue.
+
+1664
+01:06:31,700 --> 01:06:36,320
+Nonetheless, getting
+probiotics from fermented foods
+
+1665
+01:06:36,320 --> 01:06:38,480
+is probably the simplest and
+most straightforward way.
+
+1666
+01:06:38,480 --> 01:06:41,690
+It's also the way that we
+evolved to do that over many,
+
+1667
+01:06:41,690 --> 01:06:43,290
+at least hundreds, and
+probably, thousands,
+
+1668
+01:06:43,290 --> 01:06:45,170
+or even tens or hundreds
+of thousands of years,
+
+1669
+01:06:45,170 --> 01:06:47,360
+people have been
+ingesting fermented foods,
+
+1670
+01:06:47,360 --> 01:06:48,230
+not just for their tastes,
+
+1671
+01:06:48,230 --> 01:06:50,550
+but for their health benefits as well.
+
+1672
+01:06:50,550 --> 01:06:53,470
+So now I've mentioned two
+of the three mechanisms
+
+1673
+01:06:53,470 --> 01:06:55,940
+by which we prefer certain foods.
+
+1674
+01:06:55,940 --> 01:06:58,757
+One is from the actual taste
+that we're familiar with,
+
+1675
+01:06:58,757 --> 01:07:00,820
+the taste on our tongue, and in our mouth,
+
+1676
+01:07:00,820 --> 01:07:05,300
+in the sensations that make
+us go mmm, or ugh, or eh,
+
+1677
+01:07:05,300 --> 01:07:08,380
+the yum, yuk, meh responses,
+as I referred to them earlier.
+
+1678
+01:07:08,380 --> 01:07:10,380
+And then there's this
+subconscious signaling
+
+1679
+01:07:10,380 --> 01:07:11,213
+coming from the gut
+
+1680
+01:07:11,213 --> 01:07:13,970
+that's really based on the
+nutrient content of the foods.
+
+1681
+01:07:15,780 --> 01:07:17,550
+There's a third pathway,
+
+1682
+01:07:17,550 --> 01:07:21,570
+which is the learned association
+of a particular taste
+
+1683
+01:07:21,570 --> 01:07:25,960
+with the particular quality
+or value that a food has.
+
+1684
+01:07:25,960 --> 01:07:29,040
+And this is where things
+get really interesting,
+
+1685
+01:07:29,040 --> 01:07:31,190
+and where there's
+actually a leverage point
+
+1686
+01:07:31,190 --> 01:07:33,200
+for you to rewire
+
+1687
+01:07:33,200 --> 01:07:35,546
+what it is that you find tasty,
+
+1688
+01:07:35,546 --> 01:07:37,680
+and that you want to seek more of.
+
+1689
+01:07:37,680 --> 01:07:39,060
+The work I'd like to talk about next
+
+1690
+01:07:39,060 --> 01:07:41,500
+has been carried out in mouse models,
+
+1691
+01:07:41,500 --> 01:07:46,320
+and has been carried out in
+parallel experiments in humans.
+
+1692
+01:07:46,320 --> 01:07:48,390
+This is largely, not exclusively,
+
+1693
+01:07:48,390 --> 01:07:53,390
+but largely the work of Ivan
+de Araujo and Dana Small.
+
+1694
+01:07:55,130 --> 01:07:58,740
+Ivan de Araujo is at Mount
+Sinai School of Medicine.
+
+1695
+01:07:58,740 --> 01:08:00,930
+And Dana Small is at Yale.
+
+1696
+01:08:00,930 --> 01:08:02,810
+And they, and others in their field,
+
+1697
+01:08:02,810 --> 01:08:04,890
+have done incredible experiments
+
+1698
+01:08:04,890 --> 01:08:08,320
+exploring how taste and food value,
+
+1699
+01:08:08,320 --> 01:08:10,360
+the nutritional value of food,
+
+1700
+01:08:10,360 --> 01:08:15,160
+and the impact of that food
+on metabolism in the brain
+
+1701
+01:08:15,160 --> 01:08:17,020
+drives our food choices,
+
+1702
+01:08:17,020 --> 01:08:20,270
+and allows us to change our
+food choices for the better.
+
+1703
+01:08:20,270 --> 01:08:23,189
+Their groups have done
+some really amazing studies
+
+1704
+01:08:23,189 --> 01:08:26,839
+involving ingestion of
+a particular substance
+
+1705
+01:08:26,840 --> 01:08:29,939
+that either contains sugar,
+
+1706
+01:08:29,939 --> 01:08:33,919
+and thereby, can elevate
+glucose, blood sugar, or not.
+
+1707
+01:08:33,920 --> 01:08:38,460
+And varying, meaning
+changing the taste associated
+
+1708
+01:08:38,460 --> 01:08:41,170
+with that ingestion of sugar.
+
+1709
+01:08:41,170 --> 01:08:43,300
+So let me just give you a simple example
+
+1710
+01:08:43,300 --> 01:08:45,819
+where they have subjects,
+
+1711
+01:08:45,819 --> 01:08:47,459
+these could be mice or
+these could be humans,
+
+1712
+01:08:47,460 --> 01:08:50,330
+'cause they've done both sets of studies,
+
+1713
+01:08:50,330 --> 01:08:54,790
+drink sweet water as an alternative
+
+1714
+01:08:54,790 --> 01:08:58,399
+or a choice to non-sweetened
+water, or bitter water,
+
+1715
+01:08:58,399 --> 01:08:59,639
+or some other flavor.
+
+1716
+01:08:59,640 --> 01:09:03,040
+And what they find, is that
+mice and humans will prefer
+
+1717
+01:09:03,040 --> 01:09:05,100
+to consume the sweet beverage.
+
+1718
+01:09:05,100 --> 01:09:06,529
+Now, it's not always sweet water.
+
+1719
+01:09:06,529 --> 01:09:07,539
+Mice like sweet water,
+
+1720
+01:09:07,540 --> 01:09:11,340
+but humans will prefer,
+for instance, a milkshake,
+
+1721
+01:09:11,340 --> 01:09:13,763
+a fatty sweet drink.
+
+1722
+01:09:15,399 --> 01:09:16,739
+They'll consume more of that,
+
+1723
+01:09:16,740 --> 01:09:18,140
+and not surprisingly,
+
+1724
+01:09:18,140 --> 01:09:21,783
+dopamine levels in the brain
+increase in response to that.
+
+1725
+01:09:23,470 --> 01:09:26,670
+So the taste and the nutrient content
+
+1726
+01:09:26,670 --> 01:09:29,670
+of what it is that they're
+ingesting are aligned.
+
+1727
+01:09:29,670 --> 01:09:30,633
+They are matched.
+
+1728
+01:09:32,100 --> 01:09:36,350
+They've also done experiments
+where they have no taste,
+
+1729
+01:09:36,350 --> 01:09:39,260
+but subjects are being infused with sugar
+
+1730
+01:09:39,260 --> 01:09:41,229
+directly into the gut.
+
+1731
+01:09:41,229 --> 01:09:43,079
+And not surprisingly,
+
+1732
+01:09:43,080 --> 01:09:46,140
+based on everything I've
+told you up until now,
+
+1733
+01:09:46,140 --> 01:09:48,979
+subjects will pursue more of that thing
+
+1734
+01:09:48,979 --> 01:09:51,649
+relative to some other taste,
+
+1735
+01:09:51,649 --> 01:09:54,330
+either neutral or negative taste,
+
+1736
+01:09:54,330 --> 01:09:56,490
+because that sugar in the gut
+
+1737
+01:09:56,490 --> 01:09:57,680
+is triggering the activation
+
+1738
+01:09:57,680 --> 01:09:58,930
+of the neurons I mentioned earlier,
+
+1739
+01:09:58,930 --> 01:10:00,100
+which is signaling to the brain
+
+1740
+01:10:00,100 --> 01:10:01,970
+to pursue more of that thing.
+
+1741
+01:10:01,970 --> 01:10:03,510
+So this tells us something important.
+
+1742
+01:10:03,510 --> 01:10:06,110
+It tells us that we are driven,
+
+1743
+01:10:06,110 --> 01:10:08,220
+meaning we have mechanisms in our brain
+
+1744
+01:10:08,220 --> 01:10:10,160
+that make us motivated to pursue
+
+1745
+01:10:10,160 --> 01:10:13,400
+more of what brings both
+a taste of sweetness,
+
+1746
+01:10:13,400 --> 01:10:15,710
+but also that brings actual changes
+
+1747
+01:10:15,710 --> 01:10:18,760
+in blood glucose levels up, okay?
+
+1748
+01:10:18,760 --> 01:10:20,610
+So we are motivated to eat sweet things
+
+1749
+01:10:20,610 --> 01:10:22,080
+not just because they taste good,
+
+1750
+01:10:22,080 --> 01:10:24,870
+but because they change
+our blood sugar level.
+
+1751
+01:10:24,870 --> 01:10:26,970
+They increase our blood sugar level.
+
+1752
+01:10:26,970 --> 01:10:27,910
+This is important,
+
+1753
+01:10:27,910 --> 01:10:29,490
+because it needn't be the case.
+
+1754
+01:10:29,490 --> 01:10:31,450
+It could have been that we were just wired
+
+1755
+01:10:31,450 --> 01:10:34,340
+to pursue things that taste good.
+
+1756
+01:10:34,340 --> 01:10:35,220
+But what this tells us,
+
+1757
+01:10:35,220 --> 01:10:38,300
+is that we are actually
+wired to pursue things
+
+1758
+01:10:38,300 --> 01:10:40,283
+that increase our blood glucose,
+
+1759
+01:10:41,470 --> 01:10:46,470
+so much so that when the small lab...
+
+1760
+01:10:46,720 --> 01:10:47,553
+It's not a small lab.
+
+1761
+01:10:47,553 --> 01:10:48,386
+It's actually a big lab.
+
+1762
+01:10:48,386 --> 01:10:52,510
+But when Dana Small's lab,
+and/or Ivan de Araujo's lab,
+
+1763
+01:10:52,510 --> 01:10:53,620
+have done experiments
+
+1764
+01:10:54,670 --> 01:10:58,320
+where they use a compound
+called 2-deoxyglucose,
+
+1765
+01:10:58,320 --> 01:11:00,320
+this is a compound that
+
+1766
+01:11:00,320 --> 01:11:03,990
+can prevent glucose from
+being metabolized by neurons.
+
+1767
+01:11:03,990 --> 01:11:05,270
+So blood glucose is going up,
+
+1768
+01:11:05,270 --> 01:11:07,000
+but neurons can't use it.
+
+1769
+01:11:07,000 --> 01:11:09,080
+What they find, is that the reinforcing
+
+1770
+01:11:09,080 --> 01:11:11,530
+or the rewarding properties of a food
+
+1771
+01:11:11,530 --> 01:11:14,350
+or taste are eliminated.
+
+1772
+01:11:14,350 --> 01:11:17,670
+Put simply, it is not
+sufficient for a food
+
+1773
+01:11:17,670 --> 01:11:20,370
+to taste good consciously.
+
+1774
+01:11:20,370 --> 01:11:24,730
+It is not sufficient for a
+food to increase blood sugar.
+
+1775
+01:11:24,730 --> 01:11:27,350
+You need blood sugar to go up,
+
+1776
+01:11:27,350 --> 01:11:29,720
+and that blood sugar glucose
+
+1777
+01:11:29,720 --> 01:11:32,053
+has to be utilized by the neurons,
+
+1778
+01:11:32,890 --> 01:11:36,400
+even if it's not associated
+with a good taste.
+
+1779
+01:11:36,400 --> 01:11:38,080
+And to make it even simpler,
+
+1780
+01:11:38,080 --> 01:11:39,900
+if this isn't sinking in,
+
+1781
+01:11:39,900 --> 01:11:41,610
+this should make it very clear.
+
+1782
+01:11:41,610 --> 01:11:43,160
+What your brain,
+
+1783
+01:11:43,160 --> 01:11:47,360
+meaning, what you are seeking
+when you eat, is not taste,
+
+1784
+01:11:47,360 --> 01:11:49,200
+is not dopamine,
+
+1785
+01:11:49,200 --> 01:11:51,650
+is not even a rise in blood glucose.
+
+1786
+01:11:51,650 --> 01:11:54,240
+What you're seeking, even
+though you don't realize it,
+
+1787
+01:11:54,240 --> 01:11:56,110
+because it's subconscious,
+
+1788
+01:11:56,110 --> 01:11:58,740
+is you are seeking things
+that allow your neurons
+
+1789
+01:11:58,740 --> 01:12:00,920
+to be metabolically active.
+
+1790
+01:12:00,920 --> 01:12:03,660
+And this is fundamentally important
+
+1791
+01:12:03,660 --> 01:12:06,070
+for understanding why you eat,
+
+1792
+01:12:06,070 --> 01:12:08,990
+why you eat particular foods,
+
+1793
+01:12:08,990 --> 01:12:11,890
+and how you can change your
+relationship to those foods.
+
+1794
+01:12:11,890 --> 01:12:14,070
+Now, earlier, I referred to circuits
+
+1795
+01:12:14,070 --> 01:12:16,870
+that are wired for a particular outcome.
+
+1796
+01:12:16,870 --> 01:12:19,140
+And in biology, and in
+particular, neuroscience,
+
+1797
+01:12:19,140 --> 01:12:22,040
+we refer to things that
+are either hard-wired,
+
+1798
+01:12:22,040 --> 01:12:25,173
+meaning immutable, and
+unchangeable, or soft-wired.
+
+1799
+01:12:26,490 --> 01:12:28,320
+A good example of soft-wiring would be
+
+1800
+01:12:28,320 --> 01:12:31,200
+the areas of your brain that
+are responsible for speech
+
+1801
+01:12:31,200 --> 01:12:35,950
+and language are always, more or less,
+
+1802
+01:12:35,950 --> 01:12:39,500
+in the same place in your brain
+and everyone else's brain.
+
+1803
+01:12:39,500 --> 01:12:43,450
+However, they are not
+hard-wired to speak French,
+
+1804
+01:12:43,450 --> 01:12:45,250
+or to speak English, or to speak Chinese,
+
+1805
+01:12:45,250 --> 01:12:46,800
+or to speak German,
+
+1806
+01:12:46,800 --> 01:12:48,630
+because depending on where you were born,
+
+1807
+01:12:48,630 --> 01:12:50,640
+and the parents that you're born to,
+
+1808
+01:12:50,640 --> 01:12:52,002
+you need to be able to speak one
+
+1809
+01:12:52,002 --> 01:12:54,830
+or maybe even more languages.
+
+1810
+01:12:54,830 --> 01:12:56,040
+The taste system,
+
+1811
+01:12:56,040 --> 01:12:59,320
+and this general system of
+seeking particular foods,
+
+1812
+01:12:59,320 --> 01:13:02,840
+similarly is hard-wired to obtain
+
+1813
+01:13:02,840 --> 01:13:04,210
+certain types of nutrients.
+
+1814
+01:13:04,210 --> 01:13:05,730
+It tends to like sweet things.
+
+1815
+01:13:05,730 --> 01:13:07,550
+Most children naturally like sweet things,
+
+1816
+01:13:07,550 --> 01:13:08,890
+some more than others.
+
+1817
+01:13:08,890 --> 01:13:12,500
+But naturally, most people
+from childhood onward
+
+1818
+01:13:12,500 --> 01:13:15,140
+don't particularly crave
+very bitter substances.
+
+1819
+01:13:15,140 --> 01:13:17,380
+Maybe mildly bitter, but not very bitter.
+
+1820
+01:13:17,380 --> 01:13:19,670
+So there's some hard-wiring of preference,
+
+1821
+01:13:19,670 --> 01:13:22,300
+but there's also some
+soft-wiring in the system
+
+1822
+01:13:22,300 --> 01:13:23,653
+that allows it to change.
+
+1823
+01:13:25,180 --> 01:13:26,220
+The groups I mentioned earlier
+
+1824
+01:13:26,220 --> 01:13:28,220
+have done some really
+beautiful experiments
+
+1825
+01:13:28,220 --> 01:13:31,120
+looking at how artificial sweeteners
+
+1826
+01:13:31,120 --> 01:13:34,480
+interact with the actual
+sweet sensing system.
+
+1827
+01:13:34,480 --> 01:13:37,110
+And this gets right down
+to a number of issues.
+
+1828
+01:13:37,110 --> 01:13:39,060
+First of all, it gets to the issue of
+
+1829
+01:13:39,060 --> 01:13:41,707
+how we can rewire our taste system
+
+1830
+01:13:41,707 --> 01:13:44,940
+in ways that serve us
+for better or for worse.
+
+1831
+01:13:44,940 --> 01:13:47,520
+Second of all, it gets
+right down to the issue
+
+1832
+01:13:47,520 --> 01:13:49,620
+of whether or not artificial sweeteners
+
+1833
+01:13:49,620 --> 01:13:51,510
+are good for us or bad for us.
+
+1834
+01:13:51,510 --> 01:13:54,720
+And indeed, as of just this last year,
+
+1835
+01:13:54,720 --> 01:13:58,000
+we know an answer to that question,
+
+1836
+01:13:58,000 --> 01:14:00,060
+and turns out, it depends.
+
+1837
+01:14:00,060 --> 01:14:02,500
+And I will tell you in a few minutes
+
+1838
+01:14:02,500 --> 01:14:06,160
+when it is okay to ingest
+artificial sweeteners,
+
+1839
+01:14:06,160 --> 01:14:08,000
+and when it is very detrimental
+
+1840
+01:14:08,000 --> 01:14:10,373
+to ingest artificial
+sweeteners of any kind.
+
+1841
+01:14:11,330 --> 01:14:13,130
+Regardless, I'm not going
+to name off brand names,
+
+1842
+01:14:13,130 --> 01:14:14,440
+but there are different forms of these
+
+1843
+01:14:14,440 --> 01:14:16,990
+artificial sweeteners nowadays.
+
+1844
+01:14:16,990 --> 01:14:18,600
+And there are various forms
+
+1845
+01:14:18,600 --> 01:14:21,240
+of non-caloric plant-based sweeteners
+
+1846
+01:14:21,240 --> 01:14:22,670
+for which the same information
+
+1847
+01:14:22,670 --> 01:14:24,960
+that I'm about to tell you applies.
+
+1848
+01:14:24,960 --> 01:14:26,030
+Okay.
+
+1849
+01:14:26,030 --> 01:14:27,900
+So the experiments that were done
+
+1850
+01:14:27,900 --> 01:14:31,370
+beautifully illustrate that
+you seek out particular foods
+
+1851
+01:14:31,370 --> 01:14:33,300
+because of the way they taste,
+
+1852
+01:14:33,300 --> 01:14:36,380
+because of their impact
+on blood glucose levels,
+
+1853
+01:14:36,380 --> 01:14:40,610
+but also on their impact
+on the dopamine system,
+
+1854
+01:14:40,610 --> 01:14:43,240
+even if your blood glucose
+levels don't change.
+
+1855
+01:14:43,240 --> 01:14:45,053
+So here's the experiment.
+
+1856
+01:14:45,053 --> 01:14:47,870
+One group of subjects
+is given a sweet taste
+
+1857
+01:14:47,870 --> 01:14:49,460
+of a substance that also raises
+
+1858
+01:14:49,460 --> 01:14:51,330
+blood glucose levels, blood sugar,
+
+1859
+01:14:51,330 --> 01:14:53,663
+and dopamine goes up, not surprisingly.
+
+1860
+01:14:54,780 --> 01:14:56,000
+The second condition,
+
+1861
+01:14:56,000 --> 01:14:59,290
+separate subjects consume
+an artificial sweetener
+
+1862
+01:14:59,290 --> 01:15:01,230
+or a non-caloric sweetener.
+
+1863
+01:15:01,230 --> 01:15:04,610
+It is not preferred much
+over other substances,
+
+1864
+01:15:04,610 --> 01:15:07,600
+but it is sweet, so
+it's preferred somewhat.
+
+1865
+01:15:07,600 --> 01:15:10,723
+And it does not cause an
+increase in blood glucose levels,
+
+1866
+01:15:11,700 --> 01:15:15,400
+and not surprisingly,
+dopamine levels don't go up.
+
+1867
+01:15:15,400 --> 01:15:17,390
+So initially, we don't tend to like
+
+1868
+01:15:17,390 --> 01:15:18,710
+artificial sweeteners that much.
+
+1869
+01:15:18,710 --> 01:15:20,090
+That's the simple way of putting it.
+
+1870
+01:15:20,090 --> 01:15:22,820
+However, if subjects continue
+
+1871
+01:15:22,820 --> 01:15:24,533
+to ingest artificial sweeteners,
+
+1872
+01:15:25,570 --> 01:15:27,690
+even though there's no increase
+in blood glucose level,
+
+1873
+01:15:27,690 --> 01:15:30,040
+and therefore, no increase
+in brain metabolism,
+
+1874
+01:15:31,400 --> 01:15:34,250
+dopamine levels eventually start to rise.
+
+1875
+01:15:34,250 --> 01:15:37,560
+And when those dopamine levels
+eventually start to rise,
+
+1876
+01:15:37,560 --> 01:15:38,780
+you've essentially conditioned
+
+1877
+01:15:38,780 --> 01:15:43,780
+or reinforced that artificial
+or non-caloric sweetener,
+
+1878
+01:15:43,870 --> 01:15:45,880
+and then subjects start
+to consume more of it,
+
+1879
+01:15:45,880 --> 01:15:48,693
+and they actually get a
+dopamine increase from it.
+
+1880
+01:15:49,580 --> 01:15:50,413
+So that's interesting.
+
+1881
+01:15:50,413 --> 01:15:52,820
+It says that, consuming more
+of these artificial sweeteners,
+
+1882
+01:15:52,820 --> 01:15:55,150
+or consuming them for a
+longer period of time,
+
+1883
+01:15:55,150 --> 01:15:57,020
+can start to tap into the dopamine system,
+
+1884
+01:15:57,020 --> 01:15:58,150
+and lead us to seek out
+
+1885
+01:15:58,150 --> 01:15:59,910
+or consume more of these
+artificial sweeteners.
+
+1886
+01:15:59,910 --> 01:16:02,050
+Many people are probably
+familiar with this,
+
+1887
+01:16:02,050 --> 01:16:04,680
+because we tend to,
+
+1888
+01:16:04,680 --> 01:16:06,100
+or I should say, people report,
+
+1889
+01:16:06,100 --> 01:16:08,120
+that when they ingest these
+artificial sweeteners,
+
+1890
+01:16:08,120 --> 01:16:09,310
+at first, they don't taste very good,
+
+1891
+01:16:09,310 --> 01:16:11,440
+but then, over time, they
+seem kind of tolerable,
+
+1892
+01:16:11,440 --> 01:16:12,397
+and then maybe even pleasureful,
+
+1893
+01:16:12,397 --> 01:16:14,037
+and then some people feel, quote/unquote,
+
+1894
+01:16:14,037 --> 01:16:18,010
+"addicted" to various diet
+sodas, and things of that sort.
+
+1895
+01:16:18,010 --> 01:16:21,930
+Now, there's another condition
+that's been explored,
+
+1896
+01:16:21,930 --> 01:16:23,860
+and that's the really
+interesting condition,
+
+1897
+01:16:23,860 --> 01:16:26,740
+and it's the condition where
+an artificial sweetener
+
+1898
+01:16:26,740 --> 01:16:31,270
+is paired with a substance
+that can increase blood sugar,
+
+1899
+01:16:31,270 --> 01:16:33,750
+but not because it tastes sugary,
+
+1900
+01:16:33,750 --> 01:16:35,000
+like a normal sweet substance.
+
+1901
+01:16:35,000 --> 01:16:37,810
+So now, there's an artificial sweetener
+
+1902
+01:16:37,810 --> 01:16:42,120
+that's coupled with an actual
+increase in blood glucose.
+
+1903
+01:16:42,120 --> 01:16:45,180
+The natural world scenario
+where this would happen
+
+1904
+01:16:45,180 --> 01:16:48,550
+would be drinking a diet soda
+which contains no calories,
+
+1905
+01:16:48,550 --> 01:16:50,260
+and therefore, would not
+increase blood glucose,
+
+1906
+01:16:50,260 --> 01:16:54,623
+but is sweet, with a food
+that increases blood glucose.
+
+1907
+01:16:55,480 --> 01:16:57,370
+And when that happens,
+
+1908
+01:16:57,370 --> 01:16:58,330
+what you're essentially doing,
+
+1909
+01:16:58,330 --> 01:17:00,060
+is tapping into the dopamine system.
+
+1910
+01:17:00,060 --> 01:17:04,030
+This non-caloric sweet
+taste is paired with it,
+
+1911
+01:17:04,030 --> 01:17:07,580
+and there's an increase
+in neuron metabolism.
+
+1912
+01:17:07,580 --> 01:17:10,490
+So you have all of the
+components for reinforcement.
+
+1913
+01:17:10,490 --> 01:17:12,430
+And as a consequence,
+
+1914
+01:17:12,430 --> 01:17:15,268
+you get in a sort of
+Pavlovian conditioning way,
+
+1915
+01:17:15,268 --> 01:17:17,810
+a situation where, later,
+
+1916
+01:17:17,810 --> 01:17:20,640
+when you ingest that artificial sweetener,
+
+1917
+01:17:20,640 --> 01:17:23,790
+you actually get not only
+the increase in dopamine,
+
+1918
+01:17:23,790 --> 01:17:27,290
+but you get alterations
+in blood sugar management.
+
+1919
+01:17:27,290 --> 01:17:29,480
+Now, blood sugar cannot go up
+
+1920
+01:17:29,480 --> 01:17:32,630
+if you don't ingest something
+that makes blood sugar go up.
+
+1921
+01:17:32,630 --> 01:17:35,190
+So it's not as if you
+ingest artificial sweetener
+
+1922
+01:17:35,190 --> 01:17:38,420
+with some food that
+contains calories or sugar,
+
+1923
+01:17:38,420 --> 01:17:40,430
+and then later, you remove the food,
+
+1924
+01:17:40,430 --> 01:17:41,820
+and you just drink the soda,
+
+1925
+01:17:41,820 --> 01:17:44,330
+and your blood glucose goes up.
+
+1926
+01:17:44,330 --> 01:17:47,653
+Rather, it's a much worse situation.
+
+1927
+01:17:50,070 --> 01:17:51,800
+I'll make this in the
+natural world context.
+
+1928
+01:17:51,800 --> 01:17:53,440
+If you ingest an artificial sweetener,
+
+1929
+01:17:53,440 --> 01:17:56,930
+say, drink diet soda while consuming foods
+
+1930
+01:17:56,930 --> 01:17:58,783
+that increase blood glucose,
+
+1931
+01:17:59,650 --> 01:18:04,150
+then later, even if you
+just drink the diet soda,
+
+1932
+01:18:04,150 --> 01:18:08,100
+it's been shown that you
+secrete much more insulin,
+
+1933
+01:18:08,100 --> 01:18:10,970
+the hormone that regulates blood glucose,
+
+1934
+01:18:10,970 --> 01:18:13,140
+in response to that diet soda.
+
+1935
+01:18:13,140 --> 01:18:16,110
+Studies have been done
+in both adult humans
+
+1936
+01:18:16,110 --> 01:18:17,660
+and in human children.
+
+1937
+01:18:17,660 --> 01:18:18,940
+In general, when we say children,
+
+1938
+01:18:18,940 --> 01:18:19,773
+we mean human children,
+
+1939
+01:18:19,773 --> 01:18:22,460
+but just to be very clear
+what we're talking about.
+
+1940
+01:18:22,460 --> 01:18:25,700
+Exploring consuming diet
+soda with or without food,
+
+1941
+01:18:25,700 --> 01:18:28,820
+then later, consuming just the diet soda.
+
+1942
+01:18:28,820 --> 01:18:29,960
+And what they found was,
+
+1943
+01:18:29,960 --> 01:18:33,020
+having previously consumed
+diet soda with food,
+
+1944
+01:18:33,020 --> 01:18:35,683
+and then later, only
+consuming the diet soda,
+
+1945
+01:18:36,530 --> 01:18:38,920
+of course, there isn't an
+increase in blood glucose,
+
+1946
+01:18:38,920 --> 01:18:40,620
+because they're not
+bringing in any calories
+
+1947
+01:18:40,620 --> 01:18:42,480
+when they just drink the diet soda,
+
+1948
+01:18:42,480 --> 01:18:46,980
+but there is a significant
+increase in insulin release,
+
+1949
+01:18:46,980 --> 01:18:50,380
+and that is serious in a terrible way,
+
+1950
+01:18:50,380 --> 01:18:52,330
+because increased release of insulin,
+
+1951
+01:18:52,330 --> 01:18:54,290
+and so-called insulin sensitivity,
+
+1952
+01:18:54,290 --> 01:18:56,810
+is the basis for type 2 diabetes.
+
+1953
+01:18:56,810 --> 01:19:00,320
+So much so, that in the
+study with the children,
+
+1954
+01:19:00,320 --> 01:19:04,053
+consuming non-caloric
+beverages in this way,
+
+1955
+01:19:05,170 --> 01:19:07,080
+first with food, and then on their own,
+
+1956
+01:19:07,080 --> 01:19:10,170
+led to increases in insulin
+that made them pre-diabetic,
+
+1957
+01:19:10,170 --> 01:19:12,320
+and they actually had to halt the study.
+
+1958
+01:19:12,320 --> 01:19:14,427
+So I want to zoom out from this,
+
+1959
+01:19:14,427 --> 01:19:16,820
+and just really illustrate
+the major findings,
+
+1960
+01:19:16,820 --> 01:19:18,930
+and then talk about
+how this can be applied
+
+1961
+01:19:18,930 --> 01:19:19,780
+in the positive sense.
+
+1962
+01:19:19,780 --> 01:19:21,380
+I also want to mention what this means
+
+1963
+01:19:21,380 --> 01:19:22,970
+in terms of your consumption
+
+1964
+01:19:22,970 --> 01:19:25,490
+of artificial sweeteners of any kind.
+
+1965
+01:19:25,490 --> 01:19:26,430
+So first of all,
+
+1966
+01:19:26,430 --> 01:19:29,920
+the direct takeaway about
+artificial sweeteners.
+
+1967
+01:19:29,920 --> 01:19:32,620
+Artificial sweeteners are not bad for you.
+
+1968
+01:19:32,620 --> 01:19:34,280
+I'm not going to say that.
+
+1969
+01:19:34,280 --> 01:19:35,360
+What I am going to say,
+
+1970
+01:19:35,360 --> 01:19:37,380
+is that whether or not
+you ingest them alone,
+
+1971
+01:19:37,380 --> 01:19:40,760
+or you ingest them in
+combination with food,
+
+1972
+01:19:40,760 --> 01:19:44,210
+or as part of foods that
+raise blood glucose,
+
+1973
+01:19:44,210 --> 01:19:47,020
+is vitally important for
+your insulin management.
+
+1974
+01:19:47,020 --> 01:19:50,800
+And the simple extractor
+tool from this is,
+
+1975
+01:19:50,800 --> 01:19:53,204
+if you are going to consume
+artificial sweeteners,
+
+1976
+01:19:53,204 --> 01:19:56,510
+it's very likely best to consume those
+
+1977
+01:19:56,510 --> 01:20:00,660
+away from any food that
+raises blood glucose levels.
+
+1978
+01:20:00,660 --> 01:20:04,220
+So if you're going to enjoy
+diet soda, be my guest,
+
+1979
+01:20:04,220 --> 01:20:07,180
+but do it not while consuming food,
+
+1980
+01:20:07,180 --> 01:20:09,460
+in particular, foods
+that raise blood glucose.
+
+1981
+01:20:09,460 --> 01:20:11,210
+Because what these studies show,
+
+1982
+01:20:11,210 --> 01:20:13,120
+and I will provide references for these,
+
+1983
+01:20:13,120 --> 01:20:16,800
+is that they can vastly disrupt
+
+1984
+01:20:16,800 --> 01:20:18,560
+blood sugar management by way of
+
+1985
+01:20:18,560 --> 01:20:20,690
+the insulin glucose system, okay?
+
+1986
+01:20:20,690 --> 01:20:22,830
+And actually, I'll just
+give you the reference now.
+
+1987
+01:20:22,830 --> 01:20:25,460
+This is a paper from Dana Small's lab.
+
+1988
+01:20:25,460 --> 01:20:30,130
+The first author is
+Dalenburg, D-A-L-E-N-B-U-R-G.
+
+1989
+01:20:30,130 --> 01:20:31,547
+And the title of the paper is
+
+1990
+01:20:31,547 --> 01:20:33,447
+"Short-term Consumption of Sucralose With,
+
+1991
+01:20:33,447 --> 01:20:34,940
+nut Not Without Carbohydrate,
+
+1992
+01:20:34,940 --> 01:20:37,380
+Impairs Neural and Metabolic Sensitivity
+
+1993
+01:20:37,380 --> 01:20:39,740
+to Sugar in Humans".
+
+1994
+01:20:39,740 --> 01:20:41,590
+This is a paper published
+in "Cell Metabolism"
+
+1995
+01:20:41,590 --> 01:20:42,810
+in March of 2020.
+
+1996
+01:20:42,810 --> 01:20:45,000
+I think it's a very important paper.
+
+1997
+01:20:45,000 --> 01:20:48,450
+And similar findings have
+been addressed in mice,
+
+1998
+01:20:48,450 --> 01:20:49,283
+and in other studies.
+
+1999
+01:20:49,283 --> 01:20:50,580
+And now, because of this paper,
+
+2000
+01:20:50,580 --> 01:20:54,970
+there's now a bunch of other
+groups working on this issue.
+
+2001
+01:20:54,970 --> 01:20:58,610
+There's some evidence previously
+published in "Nature",
+
+2002
+01:20:58,610 --> 01:21:00,860
+an excellent top-tier journal.
+
+2003
+01:21:00,860 --> 01:21:03,740
+Sort of among the Superbowl
+of top three journals,
+
+2004
+01:21:03,740 --> 01:21:05,060
+being "Nature", "Science", and "Cell".
+
+2005
+01:21:05,060 --> 01:21:07,870
+A paper published in
+"Nature" a few years back
+
+2006
+01:21:07,870 --> 01:21:11,000
+showing that particular
+artificial sweeteners
+
+2007
+01:21:11,000 --> 01:21:12,760
+can disrupt the gut microbiome,
+
+2008
+01:21:12,760 --> 01:21:14,573
+and have deleterious health effects.
+
+2009
+01:21:15,690 --> 01:21:17,190
+That result, I think, stands,
+
+2010
+01:21:17,190 --> 01:21:18,450
+although, there are some results
+
+2011
+01:21:18,450 --> 01:21:21,030
+that may not agree with that,
+
+2012
+01:21:21,030 --> 01:21:22,840
+depending on whether or not
+the artificial sweetener
+
+2013
+01:21:22,840 --> 01:21:26,060
+is saccharin, or sucralose,
+or aspartame, or stevia.
+
+2014
+01:21:26,060 --> 01:21:27,660
+That's the gut microbiome.
+
+2015
+01:21:27,660 --> 01:21:29,910
+But what we are talking about here
+
+2016
+01:21:29,910 --> 01:21:32,320
+is independent of the form of artificial
+
+2017
+01:21:32,320 --> 01:21:33,330
+or non-caloric sweetener,
+
+2018
+01:21:33,330 --> 01:21:34,560
+because it has everything to do with
+
+2019
+01:21:34,560 --> 01:21:35,830
+whether or not there is a match
+
+2020
+01:21:35,830 --> 01:21:39,330
+or a mismatch between the perceived taste,
+
+2021
+01:21:39,330 --> 01:21:42,710
+and the effect of the thing
+that you are consuming
+
+2022
+01:21:42,710 --> 01:21:45,290
+on blood sugar and metabolism.
+
+2023
+01:21:45,290 --> 01:21:48,960
+So the first takeaway from this is,
+
+2024
+01:21:48,960 --> 01:21:51,800
+if you're going to consume
+artificial sweeteners,
+
+2025
+01:21:51,800 --> 01:21:53,530
+it's really important that you do that
+
+2026
+01:21:53,530 --> 01:21:57,700
+not in conjunction with foods
+that increase blood glucose.
+
+2027
+01:21:57,700 --> 01:22:00,180
+Second of all, it points to the fact,
+
+2028
+01:22:00,180 --> 01:22:01,963
+that the foods that we prefer,
+
+2029
+01:22:02,980 --> 01:22:05,853
+and the activation of the dopamine system,
+
+2030
+01:22:06,890 --> 01:22:08,700
+both through the gut,
+
+2031
+01:22:08,700 --> 01:22:11,350
+and at the level of conscious taste,
+
+2032
+01:22:11,350 --> 01:22:15,030
+in other words, what we
+like, is very plastic.
+
+2033
+01:22:15,030 --> 01:22:17,490
+It's mutable, and we can change it.
+
+2034
+01:22:17,490 --> 01:22:18,660
+How can we change it?
+
+2035
+01:22:18,660 --> 01:22:22,340
+Well, earlier, I mentioned
+a structure in the brain
+
+2036
+01:22:22,340 --> 01:22:23,490
+called the insula,
+
+2037
+01:22:23,490 --> 01:22:26,290
+this incredible structure that's
+involved in interoception,
+
+2038
+01:22:26,290 --> 01:22:28,150
+and interoception of all kinds.
+
+2039
+01:22:28,150 --> 01:22:30,330
+In fact, just as an aside,
+
+2040
+01:22:30,330 --> 01:22:31,950
+a year or so ago,
+
+2041
+01:22:31,950 --> 01:22:34,350
+my lab published a paper showing that
+
+2042
+01:22:34,350 --> 01:22:38,690
+activity within certain
+compartments of the insula
+
+2043
+01:22:39,570 --> 01:22:42,420
+of humans is responding to
+
+2044
+01:22:42,420 --> 01:22:44,200
+a heightened state of anxiety in the body.
+
+2045
+01:22:44,200 --> 01:22:46,640
+It can respond to changes
+in our respiration,
+
+2046
+01:22:46,640 --> 01:22:47,750
+changes in our heart rate.
+
+2047
+01:22:47,750 --> 01:22:48,583
+So this is...
+
+2048
+01:22:48,583 --> 01:22:51,200
+Again, it's a readout
+of our internal state,
+
+2049
+01:22:51,200 --> 01:22:52,100
+not just of taste,
+
+2050
+01:22:52,100 --> 01:22:55,600
+but of many, many different
+aspects of the mechanics
+
+2051
+01:22:55,600 --> 01:23:00,330
+and chemistry of our internal
+milieu within our body.
+
+2052
+01:23:00,330 --> 01:23:02,730
+All of the work that I
+was describing previously
+
+2053
+01:23:03,840 --> 01:23:06,350
+has also been addressed
+at the neural level.
+
+2054
+01:23:06,350 --> 01:23:09,700
+And using a broad brush
+to explain these results,
+
+2055
+01:23:09,700 --> 01:23:10,873
+what we can say is,
+
+2056
+01:23:12,150 --> 01:23:14,423
+when there is dopamine increase,
+
+2057
+01:23:16,190 --> 01:23:19,060
+one sees activation of the
+so-called nucleus accumbens,
+
+2058
+01:23:19,060 --> 01:23:22,410
+which is part of the so-called
+mesolimbic reward pathway.
+
+2059
+01:23:22,410 --> 01:23:23,243
+If you'd like to learn more about
+
+2060
+01:23:23,243 --> 01:23:27,440
+the mesolimbic reward pathway,
+and dopamine in general
+
+2061
+01:23:27,440 --> 01:23:28,970
+in humans and in animal studies,
+
+2062
+01:23:28,970 --> 01:23:31,690
+and all the various incredible
+
+2063
+01:23:32,980 --> 01:23:35,980
+and challenging things that
+dopamine can do for us,
+
+2064
+01:23:35,980 --> 01:23:38,990
+there's a episode all about
+dopamine that you can look up.
+
+2065
+01:23:38,990 --> 01:23:40,893
+It's easy to find at Hubermanlab.com.
+
+2066
+01:23:41,750 --> 01:23:45,740
+The increases in dopamine
+associated with sweet taste
+
+2067
+01:23:45,740 --> 01:23:49,683
+and/or blood glucose
+elevating foods and drinks,
+
+2068
+01:23:50,900 --> 01:23:52,760
+cause activation of the nucleus accumbens.
+
+2069
+01:23:52,760 --> 01:23:54,570
+That's not surprising.
+
+2070
+01:23:54,570 --> 01:23:55,920
+Also in the circuit
+
+2071
+01:23:55,920 --> 01:23:58,930
+is activation of the
+so-called arcuate nuclei
+
+2072
+01:23:58,930 --> 01:23:59,900
+within the hypothalamus.
+
+2073
+01:23:59,900 --> 01:24:01,560
+These are areas of the hypothalamus
+
+2074
+01:24:01,560 --> 01:24:03,470
+that respond to hormones from the body,
+
+2075
+01:24:03,470 --> 01:24:06,960
+and respond to hormones and
+neuropeptides in the brain,
+
+2076
+01:24:06,960 --> 01:24:09,220
+as well as neural signals in the brain,
+
+2077
+01:24:09,220 --> 01:24:12,390
+to drive us to eat
+more, or to stop eating.
+
+2078
+01:24:12,390 --> 01:24:14,870
+So it's hypothalamus, nucleus accumbens.
+
+2079
+01:24:14,870 --> 01:24:16,080
+These are sort of the...
+
+2080
+01:24:16,080 --> 01:24:20,480
+Hypothalamus and the arcuate
+being the motivating to eat,
+
+2081
+01:24:20,480 --> 01:24:22,780
+or motivating to stop eating.
+
+2082
+01:24:22,780 --> 01:24:25,380
+Both sets of neurons are contained there.
+
+2083
+01:24:25,380 --> 01:24:27,510
+There are other areas like the
+lateral hypothalamus as well.
+
+2084
+01:24:27,510 --> 01:24:29,210
+But hypothalamus is
+sort of the accelerator
+
+2085
+01:24:29,210 --> 01:24:30,330
+and the break on eating.
+
+2086
+01:24:30,330 --> 01:24:32,320
+And then the nucleus accumbens
+
+2087
+01:24:32,320 --> 01:24:34,280
+and dopamine release can be thought of
+
+2088
+01:24:34,280 --> 01:24:38,590
+as kind of a nitro boost, if
+you will, like the kids say.
+
+2089
+01:24:38,590 --> 01:24:39,470
+Do the kids say that anymore?
+
+2090
+01:24:39,470 --> 01:24:43,930
+Anyway, a nitro boost to
+increase what we call the gain
+
+2091
+01:24:43,930 --> 01:24:47,840
+or the volume of how much you
+want more of something, okay?
+
+2092
+01:24:47,840 --> 01:24:49,010
+When dopamine is present,
+
+2093
+01:24:49,010 --> 01:24:50,880
+it's this kind of generic signal
+
+2094
+01:24:50,880 --> 01:24:54,430
+to go seek out more of
+whatever caused that release.
+
+2095
+01:24:54,430 --> 01:24:55,940
+And then there's the insula.
+
+2096
+01:24:55,940 --> 01:24:58,220
+This very thoughtful, rational...
+
+2097
+01:24:58,220 --> 01:24:59,053
+Not really.
+
+2098
+01:24:59,053 --> 01:24:59,886
+It's not thinking.
+
+2099
+01:24:59,886 --> 01:25:00,719
+It's a brain area.
+
+2100
+01:25:00,719 --> 01:25:03,303
+You're thinking, but it's part
+of the areas of your brain
+
+2101
+01:25:03,303 --> 01:25:05,400
+that are interpreting what's
+going on in your body.
+
+2102
+01:25:05,400 --> 01:25:06,930
+Whether or not you feel good or not good.
+
+2103
+01:25:06,930 --> 01:25:11,720
+Whether or not you feel
+anxious, excited, or fearful.
+
+2104
+01:25:11,720 --> 01:25:14,330
+It's integrating all that information.
+
+2105
+01:25:14,330 --> 01:25:18,370
+And fed into this entire circuit as well
+
+2106
+01:25:18,370 --> 01:25:20,560
+are the inputs from
+your prefrontal cortex,
+
+2107
+01:25:20,560 --> 01:25:23,080
+which is your thinking, rational,
+
+2108
+01:25:23,080 --> 01:25:25,810
+neuronal structure, if you will,
+
+2109
+01:25:25,810 --> 01:25:27,720
+informing you, for instance,
+
+2110
+01:25:27,720 --> 01:25:31,610
+ah, well, I don't really
+like salmon very much,
+
+2111
+01:25:31,610 --> 01:25:34,120
+or I'm not so crazy about kale,
+
+2112
+01:25:34,120 --> 01:25:36,980
+but it has omega-3s,
+
+2113
+01:25:36,980 --> 01:25:41,550
+or it's rich in these
+polyphenols that are good for me.
+
+2114
+01:25:41,550 --> 01:25:46,220
+And if one decides that they
+are going to eat these things,
+
+2115
+01:25:46,220 --> 01:25:48,350
+not just because they are good for them,
+
+2116
+01:25:48,350 --> 01:25:50,110
+but believe it or not,
+
+2117
+01:25:50,110 --> 01:25:52,880
+if one takes the perception
+
+2118
+01:25:52,880 --> 01:25:56,100
+or adopts the perception that
+they are both good for you,
+
+2119
+01:25:56,100 --> 01:25:59,590
+and that in being good for you,
+
+2120
+01:25:59,590 --> 01:26:01,450
+they are good for your brain metabolism,
+
+2121
+01:26:01,450 --> 01:26:05,200
+and that you desire to be healthy,
+
+2122
+01:26:05,200 --> 01:26:06,930
+as crazy as it sounds,
+
+2123
+01:26:06,930 --> 01:26:09,920
+those subjective signals
+of what you tell yourself
+
+2124
+01:26:09,920 --> 01:26:11,720
+about the foods that you're eating
+
+2125
+01:26:11,720 --> 01:26:16,150
+can actually impact how
+those foods will taste,
+
+2126
+01:26:16,150 --> 01:26:17,294
+maybe not immediately, but eventually,
+
+2127
+01:26:17,294 --> 01:26:20,500
+and can impact the way in which your body
+
+2128
+01:26:20,500 --> 01:26:22,350
+utilizes those foods.
+
+2129
+01:26:22,350 --> 01:26:25,560
+Now, that might seem like
+a absolute pipe dream.
+
+2130
+01:26:25,560 --> 01:26:27,670
+If I just imagine that I like mackerel,
+
+2131
+01:26:27,670 --> 01:26:29,130
+mackerel will start to taste good.
+
+2132
+01:26:29,130 --> 01:26:30,030
+I'm not saying that.
+
+2133
+01:26:30,030 --> 01:26:34,200
+I didn't say that you
+could override yuck signals
+
+2134
+01:26:34,200 --> 01:26:36,320
+with this mechanism.
+
+2135
+01:26:36,320 --> 01:26:38,610
+I didn't say that you could take a food
+
+2136
+01:26:38,610 --> 01:26:41,460
+that would be absolutely noxious to you,
+
+2137
+01:26:41,460 --> 01:26:43,360
+or make you want to
+vomit, and override that.
+
+2138
+01:26:43,360 --> 01:26:46,340
+However, foods that are
+somewhat neutral to you
+
+2139
+01:26:47,750 --> 01:26:51,450
+can take on a different value
+
+2140
+01:26:51,450 --> 01:26:54,400
+based on the activation
+of the dopamine system.
+
+2141
+01:26:54,400 --> 01:26:56,410
+And now, knowing what you know,
+
+2142
+01:26:56,410 --> 01:26:58,930
+there are a couple ways that
+you could imagine doing that.
+
+2143
+01:26:58,930 --> 01:27:02,940
+First of all, you could,
+in this so-called gedanken,
+
+2144
+01:27:02,940 --> 01:27:03,960
+or thought experiment,
+
+2145
+01:27:03,960 --> 01:27:07,550
+you could, for instance,
+swap out sucralose,
+
+2146
+01:27:07,550 --> 01:27:09,620
+because sucralose is just a taste, right?
+
+2147
+01:27:09,620 --> 01:27:11,500
+It's an artificial sweet taste.
+
+2148
+01:27:11,500 --> 01:27:13,170
+You could swap that out,
+
+2149
+01:27:13,170 --> 01:27:15,410
+and insert kale,
+
+2150
+01:27:15,410 --> 01:27:19,810
+but eat the kale with something
+that raises blood glucose
+
+2151
+01:27:19,810 --> 01:27:21,010
+to some degree or another.
+
+2152
+01:27:21,010 --> 01:27:23,170
+Now, I'm not encouraging
+anyone to run out there
+
+2153
+01:27:23,170 --> 01:27:25,710
+and spike their blood
+glucose glucose like crazy.
+
+2154
+01:27:25,710 --> 01:27:29,100
+And in fact, blood glucose
+isn't really the goal.
+
+2155
+01:27:29,100 --> 01:27:31,960
+If you recall, the goal is to get neurons
+
+2156
+01:27:31,960 --> 01:27:35,220
+to be metabolically active
+with that blood glucose, okay?
+
+2157
+01:27:35,220 --> 01:27:36,620
+That's what's actually rewarded
+
+2158
+01:27:36,620 --> 01:27:38,350
+at a sub-sub-conscious level,
+
+2159
+01:27:38,350 --> 01:27:41,020
+meaning at a deep subconscious level.
+
+2160
+01:27:41,020 --> 01:27:44,180
+But consuming these foods with other foods
+
+2161
+01:27:44,180 --> 01:27:45,280
+that increase blood glucose,
+
+2162
+01:27:45,280 --> 01:27:47,420
+and thereby, brain metabolism,
+
+2163
+01:27:47,420 --> 01:27:49,750
+or I suppose, if you're ketogenic,
+
+2164
+01:27:49,750 --> 01:27:51,833
+here in the ketosis,
+
+2165
+01:27:52,770 --> 01:27:53,930
+I don't know what the range of foods
+
+2166
+01:27:53,930 --> 01:27:55,220
+that are allowed on ketosis are,
+
+2167
+01:27:55,220 --> 01:27:56,420
+so I don't want to misspeak here,
+
+2168
+01:27:56,420 --> 01:27:59,600
+and say, cracker, which
+would probably be a sin
+
+2169
+01:27:59,600 --> 01:28:00,940
+in the context of ketosis,
+
+2170
+01:28:00,940 --> 01:28:02,470
+and no knock against ketosis.
+
+2171
+01:28:02,470 --> 01:28:04,470
+I'm offering this, in part,
+
+2172
+01:28:04,470 --> 01:28:07,050
+because I think that there are
+a number of people that have
+
+2173
+01:28:07,050 --> 01:28:10,310
+and can positively benefit
+from a ketogenic diet.
+
+2174
+01:28:10,310 --> 01:28:11,143
+But for instance,
+
+2175
+01:28:11,143 --> 01:28:14,250
+if there's a food that you
+want to consume more of,
+
+2176
+01:28:14,250 --> 01:28:18,310
+but that you find somewhat
+meh, or mildly yuh, yuck,
+
+2177
+01:28:18,310 --> 01:28:21,950
+even pairing it with ketones,
+
+2178
+01:28:21,950 --> 01:28:25,900
+if indeed, you are using ketones
+for your brain metabolism,
+
+2179
+01:28:25,900 --> 01:28:28,020
+'cause that's what happens
+on the ketogenic diet,
+
+2180
+01:28:28,020 --> 01:28:31,320
+over time, that food will be reinforced
+
+2181
+01:28:31,320 --> 01:28:32,300
+by the dopamine pathway.
+
+2182
+01:28:32,300 --> 01:28:33,830
+We know this from these studies
+
+2183
+01:28:33,830 --> 01:28:36,800
+where sucralose was the
+substance paired with
+
+2184
+01:28:36,800 --> 01:28:38,980
+the glucose elevating.
+
+2185
+01:28:38,980 --> 01:28:43,010
+In other words, metabolically
+elevating the food substance,
+
+2186
+01:28:43,010 --> 01:28:44,840
+or liquid substance.
+
+2187
+01:28:44,840 --> 01:28:47,010
+So how does one go about doing this?
+
+2188
+01:28:47,010 --> 01:28:50,250
+Well, first of all, I want to emphasize,
+
+2189
+01:28:50,250 --> 01:28:52,870
+that this experiment
+actually has been done
+
+2190
+01:28:52,870 --> 01:28:54,603
+in a slightly different context.
+
+2191
+01:28:56,150 --> 01:28:58,820
+Studies by my colleague, Alia Crum,
+
+2192
+01:28:58,820 --> 01:29:01,270
+in the Psychology Department at Stanford
+
+2193
+01:29:01,270 --> 01:29:04,660
+have explored the bodily response,
+
+2194
+01:29:04,660 --> 01:29:06,200
+in terms of insulin release,
+
+2195
+01:29:06,200 --> 01:29:09,913
+and the release of other food
+and eating-related hormones,
+
+2196
+01:29:10,780 --> 01:29:15,020
+as well as overall feelings
+of satisfaction, et cetera,
+
+2197
+01:29:15,020 --> 01:29:19,680
+in groups of people
+that drink a milkshake,
+
+2198
+01:29:19,680 --> 01:29:22,330
+and are either told that
+it's a low calorie shake
+
+2199
+01:29:22,330 --> 01:29:25,570
+that contains various nutrients
+that are good for them,
+
+2200
+01:29:25,570 --> 01:29:27,550
+or a higher calorie shake
+
+2201
+01:29:27,550 --> 01:29:30,143
+that has a lot of nutrients, et cetera.
+
+2202
+01:29:31,030 --> 01:29:32,660
+And what they found,
+
+2203
+01:29:32,660 --> 01:29:33,840
+was that the different groups,
+
+2204
+01:29:33,840 --> 01:29:35,650
+and here, again, I'm being very general
+
+2205
+01:29:35,650 --> 01:29:37,390
+with my description of these studies,
+
+2206
+01:29:37,390 --> 01:29:41,020
+but what they found, is that
+the physiological response,
+
+2207
+01:29:41,020 --> 01:29:43,400
+the insulin response, the
+blood glucose response,
+
+2208
+01:29:43,400 --> 01:29:45,610
+and the subjective measures
+
+2209
+01:29:45,610 --> 01:29:48,140
+of whether or not people
+enjoyed something or not,
+
+2210
+01:29:48,140 --> 01:29:50,610
+were heavily influenced
+by what they were told
+
+2211
+01:29:50,610 --> 01:29:52,060
+were in these milkshakes.
+
+2212
+01:29:52,060 --> 01:29:53,460
+So blood glucose would go up.
+
+2213
+01:29:53,460 --> 01:29:54,293
+Insulin would go up
+
+2214
+01:29:54,293 --> 01:29:56,240
+when people were told it
+was a high calorie shake
+
+2215
+01:29:56,240 --> 01:29:57,270
+with lots of nutrients.
+
+2216
+01:29:57,270 --> 01:30:00,750
+Less so when people
+ingested a shake that was,
+
+2217
+01:30:00,750 --> 01:30:04,090
+you know, that they were
+told had less nutrients,
+
+2218
+01:30:04,090 --> 01:30:05,350
+and so forth.
+
+2219
+01:30:05,350 --> 01:30:09,690
+When in reality, it was
+the identical shake.
+
+2220
+01:30:09,690 --> 01:30:10,523
+This is incredible.
+
+2221
+01:30:10,523 --> 01:30:11,850
+This is a belief effect.
+
+2222
+01:30:11,850 --> 01:30:13,560
+This is not placebo, right?
+
+2223
+01:30:13,560 --> 01:30:15,140
+A placebo effect is different.
+
+2224
+01:30:15,140 --> 01:30:16,900
+Placebo effect is in comparison.
+
+2225
+01:30:16,900 --> 01:30:19,460
+It's where the control condition actually
+
+2226
+01:30:19,460 --> 01:30:22,430
+influences outcomes to a same,
+
+2227
+01:30:22,430 --> 01:30:26,540
+or to some degree, just like
+the experimental condition.
+
+2228
+01:30:26,540 --> 01:30:27,730
+This is not a placebo effect.
+
+2229
+01:30:27,730 --> 01:30:29,480
+This is a belief effect,
+
+2230
+01:30:29,480 --> 01:30:33,210
+where the belief and the
+subjective thoughts about
+
+2231
+01:30:33,210 --> 01:30:35,270
+what a given food will do
+
+2232
+01:30:35,270 --> 01:30:38,350
+has a direct impact on
+a physiological measure,
+
+2233
+01:30:38,350 --> 01:30:40,200
+like blood sugar and blood glucose.
+
+2234
+01:30:40,200 --> 01:30:43,210
+Okay, so let's zoom out
+from this for a second,
+
+2235
+01:30:43,210 --> 01:30:45,780
+and think about how we
+can incorporate this
+
+2236
+01:30:45,780 --> 01:30:50,130
+into adopting consumption of healthy foods
+
+2237
+01:30:50,130 --> 01:30:53,680
+that serve our brain health in
+the immediate and long-term.
+
+2238
+01:30:53,680 --> 01:30:54,910
+And if you're wondering what those are,
+
+2239
+01:30:54,910 --> 01:30:56,820
+I listed them out at the
+beginning of the episode,
+
+2240
+01:30:56,820 --> 01:30:59,170
+and their justification
+for being on that list.
+
+2241
+01:31:00,300 --> 01:31:01,910
+What this means is,
+
+2242
+01:31:01,910 --> 01:31:04,810
+obviously, you want to
+consume foods that you like,
+
+2243
+01:31:04,810 --> 01:31:07,720
+but because brain health
+is very important,
+
+2244
+01:31:07,720 --> 01:31:10,683
+and many of the foods
+that promote brain health,
+
+2245
+01:31:11,820 --> 01:31:14,000
+perhaps, are not the most palatable to you
+
+2246
+01:31:14,000 --> 01:31:16,100
+or desirable to you,
+
+2247
+01:31:16,100 --> 01:31:19,380
+the key would be to ingest the foods
+
+2248
+01:31:19,380 --> 01:31:21,430
+that you want to ingest more of
+
+2249
+01:31:21,430 --> 01:31:23,370
+simply because they're good for you,
+
+2250
+01:31:23,370 --> 01:31:25,313
+and not because they taste good to you,
+
+2251
+01:31:26,440 --> 01:31:28,940
+alongside foods that increase
+
+2252
+01:31:28,940 --> 01:31:31,430
+whatever fuel system you
+happen to be relying on.
+
+2253
+01:31:31,430 --> 01:31:33,500
+I think that's the most nutritionally
+
+2254
+01:31:33,500 --> 01:31:34,910
+politically correct way to say it.
+
+2255
+01:31:34,910 --> 01:31:35,743
+So if you're keto,
+
+2256
+01:31:35,743 --> 01:31:37,690
+that would mean ketones, okay?
+
+2257
+01:31:37,690 --> 01:31:39,240
+If you're not ketogenic,
+
+2258
+01:31:39,240 --> 01:31:41,600
+and I think most people
+probably are not in ketosis,
+
+2259
+01:31:41,600 --> 01:31:43,370
+or trying to maintain ketosis,
+
+2260
+01:31:43,370 --> 01:31:44,203
+but for instance,
+
+2261
+01:31:44,203 --> 01:31:46,060
+people that are on a
+purely plant-based diet,
+
+2262
+01:31:46,060 --> 01:31:47,160
+that would be one set of foods.
+
+2263
+01:31:47,160 --> 01:31:48,720
+For people that are omnivores,
+
+2264
+01:31:48,720 --> 01:31:49,553
+a different set of foods.
+
+2265
+01:31:49,553 --> 01:31:50,840
+And for people that are carnivores,
+
+2266
+01:31:50,840 --> 01:31:52,123
+yet another set of foods.
+
+2267
+01:31:53,240 --> 01:31:55,090
+If you want to eat more
+of a particular food
+
+2268
+01:31:55,090 --> 01:31:56,020
+because it's good for you,
+
+2269
+01:31:56,020 --> 01:31:58,550
+pair it with something in the same meal.
+
+2270
+01:31:58,550 --> 01:32:00,470
+You don't have to hide it physically,
+
+2271
+01:32:00,470 --> 01:32:02,400
+or in the flavor sense.
+
+2272
+01:32:02,400 --> 01:32:04,250
+You don't have to hide it
+within that other food,
+
+2273
+01:32:04,250 --> 01:32:06,340
+but pair it with that other food
+
+2274
+01:32:06,340 --> 01:32:09,900
+that provides you a shift
+in brain metabolism,
+
+2275
+01:32:09,900 --> 01:32:13,070
+because that's really what
+your brain and you are seeking,
+
+2276
+01:32:13,070 --> 01:32:14,840
+even though you don't realize it.
+
+2277
+01:32:14,840 --> 01:32:16,210
+How long will this take?
+
+2278
+01:32:16,210 --> 01:32:19,990
+Well, according to the
+data in humans on sucralose
+
+2279
+01:32:19,990 --> 01:32:23,950
+and the conditioning for
+sucralose to have these effects,
+
+2280
+01:32:23,950 --> 01:32:26,800
+which, in many cases,
+were detrimental, right?
+
+2281
+01:32:26,800 --> 01:32:28,410
+Because they were increasing insulin.
+
+2282
+01:32:28,410 --> 01:32:30,740
+But in this case, you're trying to
+
+2283
+01:32:30,740 --> 01:32:33,660
+hijack this conditioning
+of food preference
+
+2284
+01:32:33,660 --> 01:32:35,940
+for healthy purposes,
+
+2285
+01:32:35,940 --> 01:32:36,860
+not with sucralose,
+
+2286
+01:32:36,860 --> 01:32:39,200
+but by ingesting things
+that are good for you,
+
+2287
+01:32:39,200 --> 01:32:41,980
+then the data really point to the fact
+
+2288
+01:32:41,980 --> 01:32:44,950
+that even within a short period
+of time of about seven days,
+
+2289
+01:32:44,950 --> 01:32:47,120
+but certainly within 14 days,
+
+2290
+01:32:47,120 --> 01:32:50,650
+that food will take on
+a subjective experience
+
+2291
+01:32:50,650 --> 01:32:54,920
+of tasting at least better
+to you, if not good to you.
+
+2292
+01:32:54,920 --> 01:32:57,490
+Now, I believe this has
+important implications
+
+2293
+01:32:57,490 --> 01:32:59,460
+for much of the controversy
+
+2294
+01:32:59,460 --> 01:33:02,090
+and food wars that we see out there.
+
+2295
+01:33:02,090 --> 01:33:04,230
+Food wars being, of course,
+
+2296
+01:33:04,230 --> 01:33:09,000
+these groups that ardently
+subscribe to the idea
+
+2297
+01:33:09,000 --> 01:33:12,330
+that their diet and the
+things that they are eating
+
+2298
+01:33:12,330 --> 01:33:13,727
+are the foods that are good for us,
+
+2299
+01:33:13,727 --> 01:33:15,670
+and that are the most pleasureful,
+
+2300
+01:33:15,670 --> 01:33:18,550
+and the things that
+everyone should be eating.
+
+2301
+01:33:18,550 --> 01:33:23,150
+We see this with every community
+within the nutrition realm.
+
+2302
+01:33:23,150 --> 01:33:26,000
+Now, of course, there are
+studies that point to the fact
+
+2303
+01:33:26,000 --> 01:33:28,970
+that certain foods and food
+components are healthier,
+
+2304
+01:33:28,970 --> 01:33:31,120
+probably for us and for the planet,
+
+2305
+01:33:31,120 --> 01:33:32,980
+but you really see it on
+both ends of the spectrum.
+
+2306
+01:33:32,980 --> 01:33:34,930
+You've got people who are
+on a pure carnivore diet
+
+2307
+01:33:34,930 --> 01:33:37,730
+who are arguing with a
+lot of biomedical evidence
+
+2308
+01:33:37,730 --> 01:33:40,430
+that that's what's best
+for us and beneficial.
+
+2309
+01:33:40,430 --> 01:33:42,130
+And then you've got
+people that are arguing
+
+2310
+01:33:42,130 --> 01:33:44,100
+the same general sets of arguments,
+
+2311
+01:33:44,100 --> 01:33:45,640
+but for a purely plant-based diet.
+
+2312
+01:33:45,640 --> 01:33:46,610
+And then I think most people
+
+2313
+01:33:46,610 --> 01:33:48,383
+fall into the omnivore category.
+
+2314
+01:33:50,390 --> 01:33:51,920
+What's very clear, however,
+
+2315
+01:33:51,920 --> 01:33:55,500
+is that what we consume on a regular basis
+
+2316
+01:33:55,500 --> 01:33:59,620
+and what leads to increases
+in brain metabolism
+
+2317
+01:33:59,620 --> 01:34:01,530
+leads to increases in dopamine,
+
+2318
+01:34:01,530 --> 01:34:04,440
+and thereby our motivation to eat them.
+
+2319
+01:34:04,440 --> 01:34:06,730
+So what this really says,
+
+2320
+01:34:06,730 --> 01:34:08,600
+is that what we tend to do regularly
+
+2321
+01:34:08,600 --> 01:34:11,260
+becomes reinforcing in and of itself.
+
+2322
+01:34:11,260 --> 01:34:12,700
+And I think, in large part,
+
+2323
+01:34:12,700 --> 01:34:14,170
+can explain the fact that,
+
+2324
+01:34:14,170 --> 01:34:16,010
+yes, indeed, for certain people,
+
+2325
+01:34:16,010 --> 01:34:18,700
+a given diet not only feels good,
+
+2326
+01:34:18,700 --> 01:34:21,420
+but they heavily subscribe to the nutrient
+
+2327
+01:34:21,420 --> 01:34:24,740
+and kind of health beneficial
+effects of that diet.
+
+2328
+01:34:24,740 --> 01:34:27,270
+And they often will
+provide evidence for that,
+
+2329
+01:34:27,270 --> 01:34:29,700
+whether or not you ask them for it or not.
+
+2330
+01:34:29,700 --> 01:34:32,050
+But that's true of every subcategory
+
+2331
+01:34:32,050 --> 01:34:34,453
+within the nutrition realm.
+
+2332
+01:34:35,320 --> 01:34:36,770
+Again, this is not to take away
+
+2333
+01:34:36,770 --> 01:34:38,480
+from some of the beautiful data
+
+2334
+01:34:38,480 --> 01:34:40,410
+emphasizing that certain foods,
+
+2335
+01:34:40,410 --> 01:34:42,510
+and micronutrients, et cetera,
+
+2336
+01:34:42,510 --> 01:34:45,580
+are better for us, or worse
+for us, and for the planet.
+
+2337
+01:34:45,580 --> 01:34:47,683
+That's not a debate I want
+to get into right now.
+
+2338
+01:34:47,683 --> 01:34:49,220
+What this emphasizes,
+
+2339
+01:34:49,220 --> 01:34:53,530
+is that foods impact our
+brain and its health,
+
+2340
+01:34:53,530 --> 01:34:57,900
+but they also impact
+how our brain functions
+
+2341
+01:34:57,900 --> 01:34:59,750
+and responds to food,
+
+2342
+01:34:59,750 --> 01:35:02,630
+and that is largely a learned response.
+
+2343
+01:35:02,630 --> 01:35:05,500
+We can't completely
+override, for instance,
+
+2344
+01:35:05,500 --> 01:35:09,500
+that certain foods evoke a
+strong, [grunts] yuck component.
+
+2345
+01:35:09,500 --> 01:35:11,680
+Certain foods are truly putrid to us.
+
+2346
+01:35:11,680 --> 01:35:13,570
+I should just say, certain
+things are putrid to us,
+
+2347
+01:35:13,570 --> 01:35:15,483
+and we should not consume them, right?
+
+2348
+01:35:16,720 --> 01:35:17,890
+At the far end of the spectrum,
+
+2349
+01:35:17,890 --> 01:35:19,900
+it's hard-wired for us to avoid those,
+
+2350
+01:35:19,900 --> 01:35:21,970
+because they can be dangerous for us.
+
+2351
+01:35:21,970 --> 01:35:24,150
+They can make us very, very sick.
+
+2352
+01:35:24,150 --> 01:35:25,640
+But it's also true,
+
+2353
+01:35:25,640 --> 01:35:27,790
+that if we continue to eat foods
+
+2354
+01:35:27,790 --> 01:35:29,550
+that are progressively sweeter and sweeter
+
+2355
+01:35:29,550 --> 01:35:31,000
+and highly palatable,
+
+2356
+01:35:31,000 --> 01:35:32,780
+it shifts our dopamine system,
+
+2357
+01:35:32,780 --> 01:35:34,970
+because it activates our dopamine system
+
+2358
+01:35:34,970 --> 01:35:36,850
+to make us believe that those foods
+
+2359
+01:35:36,850 --> 01:35:39,960
+are the only foods that can
+trigger this reward system,
+
+2360
+01:35:39,960 --> 01:35:42,190
+and make us feel good,
+and that they taste good.
+
+2361
+01:35:42,190 --> 01:35:46,070
+But after consuming foods
+that perhaps are less sweet
+
+2362
+01:35:46,070 --> 01:35:47,950
+or even less savory,
+
+2363
+01:35:47,950 --> 01:35:49,910
+that are not what we would call highly,
+
+2364
+01:35:49,910 --> 01:35:52,320
+or I would say, nowadays,
+it's super palatable foods,
+
+2365
+01:35:52,320 --> 01:35:56,220
+we can adjust our sense literally
+
+2366
+01:35:56,220 --> 01:35:59,820
+of what we perceive as an
+attractive and rewarding food,
+
+2367
+01:35:59,820 --> 01:36:01,620
+and indeed, the dopamine system
+
+2368
+01:36:01,620 --> 01:36:04,320
+will reward those foods accordingly.
+
+2369
+01:36:04,320 --> 01:36:05,550
+I can't emphasize enough
+
+2370
+01:36:05,550 --> 01:36:10,040
+how much this learning
+of associated food reward
+
+2371
+01:36:10,040 --> 01:36:12,790
+is important for not just understanding
+
+2372
+01:36:12,790 --> 01:36:14,570
+why we like the foods that we eat,
+
+2373
+01:36:14,570 --> 01:36:17,440
+and how to eat more of foods
+that are healthy for us,
+
+2374
+01:36:17,440 --> 01:36:19,070
+and enjoy them,
+
+2375
+01:36:19,070 --> 01:36:24,070
+but it also speaks to the fact
+that our brain, as a whole,
+
+2376
+01:36:24,070 --> 01:36:26,820
+is a perceptual device
+trying to make guesses
+
+2377
+01:36:26,820 --> 01:36:28,130
+or estimations about
+
+2378
+01:36:28,130 --> 01:36:30,450
+what certain foods are going to do for us.
+
+2379
+01:36:30,450 --> 01:36:31,990
+So put simply,
+
+2380
+01:36:31,990 --> 01:36:34,040
+we don't just like sweet
+foods because they taste good,
+
+2381
+01:36:34,040 --> 01:36:35,330
+we like them because they predict
+
+2382
+01:36:35,330 --> 01:36:37,223
+a certain kind of metabolic response.
+
+2383
+01:36:38,420 --> 01:36:39,530
+This is important also,
+
+2384
+01:36:39,530 --> 01:36:44,140
+because Dana Small, and Ivan de Araujo,
+
+2385
+01:36:44,140 --> 01:36:45,560
+and others have been exploring
+
+2386
+01:36:45,560 --> 01:36:47,480
+whether or not people, for instance,
+
+2387
+01:36:47,480 --> 01:36:49,830
+that have type 2 diabetes,
+
+2388
+01:36:49,830 --> 01:36:51,090
+or that suffer from any number
+
+2389
+01:36:51,090 --> 01:36:52,360
+of different metabolic disorders,
+
+2390
+01:36:52,360 --> 01:36:53,250
+whether or not somehow
+
+2391
+01:36:53,250 --> 01:36:56,630
+these food reward systems
+are permanently disrupted,
+
+2392
+01:36:56,630 --> 01:36:58,520
+and through a beautiful set of experiments
+
+2393
+01:36:58,520 --> 01:37:01,610
+that have been done by mainly
+by Dana Small's group at Yale,
+
+2394
+01:37:01,610 --> 01:37:05,810
+but also by the de
+Araujo group and others,
+
+2395
+01:37:05,810 --> 01:37:10,300
+exploring how the reward
+pathways are altered
+
+2396
+01:37:10,300 --> 01:37:12,790
+in various metabolic disorders, et cetera,
+
+2397
+01:37:12,790 --> 01:37:14,913
+people suffering from type 2 diabetes.
+
+2398
+01:37:16,110 --> 01:37:18,070
+We don't have time to go
+into all those data now,
+
+2399
+01:37:18,070 --> 01:37:19,400
+but the takeaway is,
+
+2400
+01:37:19,400 --> 01:37:21,300
+that food preference,
+
+2401
+01:37:21,300 --> 01:37:23,770
+and the ability to reshape these circuits
+
+2402
+01:37:23,770 --> 01:37:26,150
+is not disrupted in these people
+
+2403
+01:37:26,150 --> 01:37:28,240
+to the point where it can't be rewired,
+
+2404
+01:37:28,240 --> 01:37:29,370
+and that's very encouraging,
+
+2405
+01:37:29,370 --> 01:37:30,710
+because what it means is that,
+
+2406
+01:37:30,710 --> 01:37:33,350
+for people that are suffering
+from these syndromes,
+
+2407
+01:37:33,350 --> 01:37:36,803
+through some simple
+alterations in dietary choice,
+
+2408
+01:37:37,810 --> 01:37:39,890
+provided those are carried out over time
+
+2409
+01:37:39,890 --> 01:37:41,580
+and in the correct way,
+
+2410
+01:37:41,580 --> 01:37:44,780
+by pairing with the foods
+that will appropriately
+
+2411
+01:37:44,780 --> 01:37:46,490
+shift metabolism of the brain,
+
+2412
+01:37:46,490 --> 01:37:48,780
+one can actually rewire what they consider
+
+2413
+01:37:48,780 --> 01:37:49,820
+not just palatable,
+
+2414
+01:37:49,820 --> 01:37:51,500
+but attractive as foods.
+
+2415
+01:37:51,500 --> 01:37:55,600
+If you want to learn
+more about food reward
+
+2416
+01:37:55,600 --> 01:37:56,830
+and food reinforcement,
+
+2417
+01:37:56,830 --> 01:37:59,150
+'cause it turns out, those
+are slightly different things,
+
+2418
+01:37:59,150 --> 01:38:02,960
+there's a wonderful review
+written by Ivan de Araujo.
+
+2419
+01:38:02,960 --> 01:38:06,070
+They have a middle author,
+Mark Schachter, and Dana Small.
+
+2420
+01:38:06,070 --> 01:38:07,870
+It's called "Rethinking Food Reward",
+
+2421
+01:38:07,870 --> 01:38:10,830
+and it was published in the
+"Annual Reviews of Psychology".
+
+2422
+01:38:10,830 --> 01:38:12,250
+You can find it very easily online.
+
+2423
+01:38:12,250 --> 01:38:14,070
+It was published in 2019.
+
+2424
+01:38:14,070 --> 01:38:16,280
+And it's a beautiful, deep dive,
+
+2425
+01:38:16,280 --> 01:38:18,490
+although, quite accessible to most people,
+
+2426
+01:38:18,490 --> 01:38:20,720
+about how different foods,
+
+2427
+01:38:20,720 --> 01:38:22,570
+and the way that we perceive them
+
+2428
+01:38:22,570 --> 01:38:24,030
+impacts our brain and body,
+
+2429
+01:38:24,030 --> 01:38:25,790
+and why we like the things we like,
+
+2430
+01:38:25,790 --> 01:38:28,070
+and how to reshape what we like.
+
+2431
+01:38:28,070 --> 01:38:31,140
+So once again, we've done a
+fairly extensive deep dive
+
+2432
+01:38:31,140 --> 01:38:33,690
+into food and your brain,
+
+2433
+01:38:33,690 --> 01:38:36,830
+focusing first on how particular foods
+
+2434
+01:38:36,830 --> 01:38:38,800
+and compounds within foods
+
+2435
+01:38:38,800 --> 01:38:41,280
+that are available also
+through supplementation
+
+2436
+01:38:41,280 --> 01:38:43,272
+can impact immediate and
+long-term brain health.
+
+2437
+01:38:43,272 --> 01:38:46,800
+Came up with a relatively short list
+
+2438
+01:38:46,800 --> 01:38:48,820
+of what I would call super foods,
+
+2439
+01:38:48,820 --> 01:38:52,370
+only because there are
+ample data to support
+
+2440
+01:38:52,370 --> 01:38:55,290
+their role in enhancing short
+and long-term cognition,
+
+2441
+01:38:55,290 --> 01:38:57,330
+and neuronal health, and so on.
+
+2442
+01:38:57,330 --> 01:39:00,330
+And we also talked about food preference,
+
+2443
+01:39:00,330 --> 01:39:02,320
+and why particular tastes,
+
+2444
+01:39:02,320 --> 01:39:04,300
+and particular events within the gut,
+
+2445
+01:39:04,300 --> 01:39:07,700
+and particular events
+within the brain combine
+
+2446
+01:39:07,700 --> 01:39:10,950
+to lead us to pursue particular foods,
+
+2447
+01:39:10,950 --> 01:39:12,710
+and to avoid other foods,
+
+2448
+01:39:12,710 --> 01:39:15,370
+and how you can leverage those pathways
+
+2449
+01:39:15,370 --> 01:39:17,180
+in order to pursue more of the foods
+
+2450
+01:39:17,180 --> 01:39:19,410
+that are going to be
+good for you, and good,
+
+2451
+01:39:19,410 --> 01:39:20,420
+not just for your brain,
+
+2452
+01:39:20,420 --> 01:39:22,150
+but for your overall body health,
+
+2453
+01:39:22,150 --> 01:39:24,010
+and to enjoy them along the way.
+
+2454
+01:39:24,010 --> 01:39:26,730
+If you're learning from, and
+are enjoying this podcast,
+
+2455
+01:39:26,730 --> 01:39:28,450
+please subscribe to our YouTube channel.
+
+2456
+01:39:28,450 --> 01:39:30,750
+That's a terrific zero
+cost way to support us.
+
+2457
+01:39:30,750 --> 01:39:33,050
+In addition, please leave us suggestions
+
+2458
+01:39:33,050 --> 01:39:35,850
+for future topics and guests
+you would like us to host
+
+2459
+01:39:35,850 --> 01:39:38,060
+in the comment section on YouTube.
+
+2460
+01:39:38,060 --> 01:39:39,740
+As well, please subscribe to
+
+2461
+01:39:39,740 --> 01:39:42,480
+the Huberman Lab Podcast
+on Apple and/or Spotify.
+
+2462
+01:39:42,480 --> 01:39:46,030
+And on Apple, you can leave
+us up to a five star review.
+
+2463
+01:39:46,030 --> 01:39:48,410
+If you're not already
+following us on Instagram,
+
+2464
+01:39:48,410 --> 01:39:50,650
+we are Huberman Lab at Instagram,
+
+2465
+01:39:50,650 --> 01:39:53,170
+and there, I do neuroscience tutorials
+
+2466
+01:39:53,170 --> 01:39:55,240
+that sometimes have
+overlapped with the podcast,
+
+2467
+01:39:55,240 --> 01:39:58,090
+but often, are original
+content altogether.
+
+2468
+01:39:58,090 --> 01:40:00,970
+We are also Huberman Lab on Twitter.
+
+2469
+01:40:00,970 --> 01:40:02,520
+Another terrific way to support us
+
+2470
+01:40:02,520 --> 01:40:04,030
+is by checking out our sponsors
+
+2471
+01:40:04,030 --> 01:40:05,980
+that we mentioned at the
+beginning of the episode.
+
+2472
+01:40:05,980 --> 01:40:07,230
+we also have a Patreon.
+
+2473
+01:40:07,230 --> 01:40:09,940
+It's patreon.com/andrewhuberman.
+
+2474
+01:40:09,940 --> 01:40:11,720
+And there, you can support the podcast
+
+2475
+01:40:11,720 --> 01:40:13,123
+at any level that you like.
+
+2476
+01:40:13,970 --> 01:40:16,980
+During today's podcast, and on
+many other previous episodes,
+
+2477
+01:40:16,980 --> 01:40:18,840
+we talked about various supplements.
+
+2478
+01:40:18,840 --> 01:40:21,010
+One of the major issues with supplements
+
+2479
+01:40:21,010 --> 01:40:23,320
+is that supplement
+companies don't always have
+
+2480
+01:40:23,320 --> 01:40:24,800
+the highest quality standards,
+
+2481
+01:40:24,800 --> 01:40:27,310
+and/or the amounts of the supplements
+
+2482
+01:40:27,310 --> 01:40:28,420
+that they list on the bottle
+
+2483
+01:40:28,420 --> 01:40:30,780
+aren't what actually are
+contained in the capsules,
+
+2484
+01:40:30,780 --> 01:40:33,100
+and pills, and powders
+of those supplements.
+
+2485
+01:40:33,100 --> 01:40:35,880
+For that reason, we partner
+with Thorne, T-H-O-R-N-E,
+
+2486
+01:40:35,880 --> 01:40:38,920
+because Thorne has the
+highest levels of stringency
+
+2487
+01:40:38,920 --> 01:40:42,050
+with respect to the quality
+of the supplements they use,
+
+2488
+01:40:42,050 --> 01:40:44,400
+and the quantity of the
+supplements they use.
+
+2489
+01:40:44,400 --> 01:40:46,200
+They partnered with all
+the major sports teams,
+
+2490
+01:40:46,200 --> 01:40:47,240
+and with the Mayo Clinic,
+
+2491
+01:40:47,240 --> 01:40:48,670
+and we have tremendous confidence
+
+2492
+01:40:48,670 --> 01:40:49,990
+in the quality of their supplements.
+
+2493
+01:40:49,990 --> 01:40:52,170
+If you'd like to see the
+supplements that I take,
+
+2494
+01:40:52,170 --> 01:40:57,170
+you can go to Thorne,
+thorne.com/u/huberman.
+
+2495
+01:40:58,260 --> 01:41:00,870
+There, you can get 20% off
+any of those supplements.
+
+2496
+01:41:00,870 --> 01:41:03,340
+And if you navigate into the main site
+
+2497
+01:41:03,340 --> 01:41:06,460
+through that portal of
+thorne.com/u/huberman,
+
+2498
+01:41:06,460 --> 01:41:08,100
+you can also get 20% off any
+
+2499
+01:41:08,100 --> 01:41:10,250
+of the supplements that Thorne makes.
+
+2500
+01:41:10,250 --> 01:41:12,450
+And last, but not least,
+
+2501
+01:41:12,450 --> 01:41:14,149
+thank you for your interest in science.
+
+2502
+01:41:14,149 --> 01:41:17,816
+[upbeat instrumental music]
+

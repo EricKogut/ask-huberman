@@ -1,0 +1,8136 @@
+1
+00:00:00,360 --> 00:00:02,320
+- Welcome to the Huberman Lab Podcast,
+
+2
+00:00:02,320 --> 00:00:03,780
+where we discuss science
+
+3
+00:00:03,780 --> 00:00:05,973
+and science-based tools for everyday life.
+
+4
+00:00:06,905 --> 00:00:09,800
+[upbeat music]
+
+5
+00:00:09,800 --> 00:00:10,710
+I'm Andrew Huberman,
+
+6
+00:00:10,710 --> 00:00:12,400
+and I'm a professor of neurobiology
+
+7
+00:00:12,400 --> 00:00:15,950
+and ophthalmology at
+Stanford School of Medicine.
+
+8
+00:00:15,950 --> 00:00:17,150
+This podcast is separate
+
+9
+00:00:17,150 --> 00:00:19,700
+from my teaching and
+research roles at Stanford.
+
+10
+00:00:19,700 --> 00:00:22,370
+It is however, part of my
+desire to bring you zero cost
+
+11
+00:00:22,370 --> 00:00:24,330
+to consumer information about science
+
+12
+00:00:24,330 --> 00:00:25,853
+and science related tools.
+
+13
+00:00:26,830 --> 00:00:28,040
+In keeping with that theme,
+
+14
+00:00:28,040 --> 00:00:30,790
+I'd like to thank the
+sponsors of today's podcast.
+
+15
+00:00:30,790 --> 00:00:33,280
+Our first sponsor is Helix Sleep.
+
+16
+00:00:33,280 --> 00:00:35,130
+Helix Sleep makes mattresses
+
+17
+00:00:35,130 --> 00:00:37,890
+that are ideally suited
+to your sleep needs.
+
+18
+00:00:37,890 --> 00:00:40,040
+Helix mattresses are amazing.
+
+19
+00:00:40,040 --> 00:00:42,160
+I can say this because
+I've been sleeping on one
+
+20
+00:00:42,160 --> 00:00:45,780
+and I've been sleeping better
+than I've ever slept before.
+
+21
+00:00:45,780 --> 00:00:47,410
+The interesting thing
+about Helix mattresses
+
+22
+00:00:47,410 --> 00:00:50,520
+is that they're tailored
+to your unique body type
+
+23
+00:00:50,520 --> 00:00:52,280
+and sleeping style.
+
+24
+00:00:52,280 --> 00:00:53,290
+What's a sleeping style?
+
+25
+00:00:53,290 --> 00:00:55,520
+Well, if you go to the Helix site
+
+26
+00:00:55,520 --> 00:00:58,430
+you can take a quick quiz,
+it takes about two minutes,
+
+27
+00:00:58,430 --> 00:00:59,910
+as to whether or not you sleep on
+
+28
+00:00:59,910 --> 00:01:01,740
+your stomach, your side, your back,
+
+29
+00:01:01,740 --> 00:01:02,980
+whether or not you flip back and forth,
+
+30
+00:01:02,980 --> 00:01:05,470
+or whether or not you don't
+know in what position you sleep,
+
+31
+00:01:05,470 --> 00:01:08,600
+as well as whether or not you
+tend to run hot or run cold,
+
+32
+00:01:08,600 --> 00:01:11,480
+wake up cold, wake up hot, et cetera.
+
+33
+00:01:11,480 --> 00:01:14,560
+If you do that then it will
+match you to the mattress
+
+34
+00:01:14,560 --> 00:01:16,860
+that's perfect for your sleep needs.
+
+35
+00:01:16,860 --> 00:01:18,530
+If you wanna try a Helix mattress,
+
+36
+00:01:18,530 --> 00:01:21,570
+you can go to helixsleep.com/huberman.
+
+37
+00:01:21,570 --> 00:01:24,850
+And if you do that, you'll
+get $200 off your order
+
+38
+00:01:24,850 --> 00:01:26,290
+as well as two free pillows.
+
+39
+00:01:26,290 --> 00:01:29,900
+That's helixsleep.com/huberman.
+
+40
+00:01:29,900 --> 00:01:33,510
+The second sponsor of today's
+podcast is Athletic Greens.
+
+41
+00:01:33,510 --> 00:01:35,250
+Athletic Greens is an all-in-one
+
+42
+00:01:35,250 --> 00:01:38,150
+vitamin mineral probiotic drink.
+
+43
+00:01:38,150 --> 00:01:40,950
+I've been using Athletic
+Greens since 2012,
+
+44
+00:01:40,950 --> 00:01:43,440
+and I started using it because
+I had a lot of confusion
+
+45
+00:01:43,440 --> 00:01:45,780
+about what vitamins and
+minerals I should take.
+
+46
+00:01:45,780 --> 00:01:47,980
+And taking Athletic Greens
+
+47
+00:01:47,980 --> 00:01:49,710
+allowed me to get the foundation
+
+48
+00:01:49,710 --> 00:01:51,220
+or sort of the base of everything I need
+
+49
+00:01:51,220 --> 00:01:54,280
+in one easy to consume formula.
+
+50
+00:01:54,280 --> 00:01:55,320
+It tastes great.
+
+51
+00:01:55,320 --> 00:01:58,210
+I mix mine with water and a
+little bit of lemon juice,
+
+52
+00:01:58,210 --> 00:01:59,680
+and I like drinking it.
+
+53
+00:01:59,680 --> 00:02:02,430
+And the probiotics in there
+are important to me as well,
+
+54
+00:02:02,430 --> 00:02:04,720
+because there are a lot
+of data out there now
+
+55
+00:02:04,720 --> 00:02:06,840
+identifying the gut microbiome
+
+56
+00:02:06,840 --> 00:02:10,270
+and the importance of the gut-brain axis
+
+57
+00:02:10,270 --> 00:02:12,950
+for immune function, metabolic
+function and so forth.
+
+58
+00:02:12,950 --> 00:02:14,720
+If you want to try Athletic Greens
+
+59
+00:02:14,720 --> 00:02:18,320
+you can go to athleticgreens.com/huberman.
+
+60
+00:02:18,320 --> 00:02:21,440
+And if you do that they'll
+also send you a year supply
+
+61
+00:02:21,440 --> 00:02:24,540
+of liquid vitamin D3, K2.
+
+62
+00:02:24,540 --> 00:02:26,280
+There are a lot of data
+starting to surface
+
+63
+00:02:26,280 --> 00:02:28,550
+about the importance of vitamin D3
+
+64
+00:02:28,550 --> 00:02:31,260
+for immune function, metabolic
+function, endocrine function,
+
+65
+00:02:31,260 --> 00:02:32,410
+and so forth.
+
+66
+00:02:32,410 --> 00:02:35,950
+In addition, if you go to
+athleticgreens.com/huberman,
+
+67
+00:02:35,950 --> 00:02:38,860
+you'll get the year supply of D3 and K2
+
+68
+00:02:38,860 --> 00:02:41,520
+as well as five free travel packs,
+
+69
+00:02:41,520 --> 00:02:43,180
+which are a little
+packets of Athletic Greens
+
+70
+00:02:43,180 --> 00:02:44,850
+in addition to your normal order.
+
+71
+00:02:44,850 --> 00:02:46,790
+And those are great for
+when you're on the plane,
+
+72
+00:02:46,790 --> 00:02:48,270
+or you're otherwise traveling.
+
+73
+00:02:48,270 --> 00:02:50,144
+They mix up really easily without any
+
+74
+00:02:50,144 --> 00:02:52,070
+mess or the needs of spoon out powder
+
+75
+00:02:52,070 --> 00:02:53,320
+and things of that sort.
+
+76
+00:02:53,320 --> 00:02:55,160
+So the things that are easy to do at home
+
+77
+00:02:55,160 --> 00:02:56,300
+are kind of harder on the road,
+
+78
+00:02:56,300 --> 00:02:58,750
+those packets make it
+easy while on the road.
+
+79
+00:02:58,750 --> 00:03:01,320
+Today we're gonna talk about dreaming,
+
+80
+00:03:01,320 --> 00:03:03,250
+learning during dreaming
+
+81
+00:03:03,250 --> 00:03:05,550
+and unlearning during dreaming.
+
+82
+00:03:05,550 --> 00:03:10,000
+In particular unlearning of
+troubling emotional events.
+
+83
+00:03:10,000 --> 00:03:12,490
+Now my interest in dreaming goes way back.
+
+84
+00:03:12,490 --> 00:03:15,270
+When I was a child I had a friend
+
+85
+00:03:15,270 --> 00:03:18,920
+and he came over one day and
+he brought with him a mask
+
+86
+00:03:18,920 --> 00:03:21,210
+that had a little red light in the corner.
+
+87
+00:03:21,210 --> 00:03:23,160
+He had purchased this thing through some
+
+88
+00:03:23,160 --> 00:03:25,510
+magazine ad that he had seen,
+
+89
+00:03:25,510 --> 00:03:30,280
+and this mask was supposed
+to trigger lucid dreaming.
+
+90
+00:03:30,280 --> 00:03:34,080
+Lucid dreaming is the experience
+of dreaming during sleep,
+
+91
+00:03:34,080 --> 00:03:37,180
+but being aware that one is dreaming.
+
+92
+00:03:37,180 --> 00:03:40,570
+And in some cases being
+able to direct one's
+
+93
+00:03:40,570 --> 00:03:41,803
+dream activities.
+
+94
+00:03:42,766 --> 00:03:43,870
+So if you're in a lucid dream
+
+95
+00:03:43,870 --> 00:03:45,590
+and you wanna fly, for instance,
+
+96
+00:03:45,590 --> 00:03:47,340
+some people report being able to
+
+97
+00:03:47,340 --> 00:03:49,730
+initiate that experience of flying.
+
+98
+00:03:49,730 --> 00:03:52,200
+Or to contort themselves into an animal,
+
+99
+00:03:52,200 --> 00:03:55,340
+or to transport themselves
+to wherever they want
+
+100
+00:03:55,340 --> 00:03:56,630
+within the dream.
+
+101
+00:03:56,630 --> 00:03:58,730
+I tried this device.
+
+102
+00:03:58,730 --> 00:04:00,886
+The way it worked is you put on the mask
+
+103
+00:04:00,886 --> 00:04:03,680
+during a waking state, I'm wide awake,
+
+104
+00:04:03,680 --> 00:04:06,830
+and you look at the little
+light flashing in the corner,
+
+105
+00:04:06,830 --> 00:04:08,830
+and then you'd also wear it
+when you went to sleep at night.
+
+106
+00:04:08,830 --> 00:04:12,180
+And indeed, while I was asleep
+I could see the red light
+
+107
+00:04:12,180 --> 00:04:13,420
+presumably through my eyelids.
+
+108
+00:04:13,420 --> 00:04:16,040
+Although, for all I know
+I had opened my eyes.
+
+109
+00:04:16,040 --> 00:04:17,459
+I don't know I was asleep.
+
+110
+00:04:17,459 --> 00:04:19,279
+And then, because I was dreaming
+
+111
+00:04:19,279 --> 00:04:22,480
+and I was experiencing
+something very vivid,
+
+112
+00:04:22,480 --> 00:04:24,760
+I was able to recognize
+that I was dreaming
+
+113
+00:04:24,760 --> 00:04:25,630
+and then start to direct
+
+114
+00:04:25,630 --> 00:04:27,480
+some of the events within that dream.
+
+115
+00:04:27,480 --> 00:04:30,620
+Now lucid dreaming occurs
+in about 20% of people
+
+116
+00:04:30,620 --> 00:04:32,900
+and in a small percentage of those people
+
+117
+00:04:32,900 --> 00:04:34,850
+they lucid dream almost every night.
+
+118
+00:04:34,850 --> 00:04:36,940
+So much so that many of them report
+
+119
+00:04:36,940 --> 00:04:39,130
+their sleep not being as restorative
+
+120
+00:04:39,130 --> 00:04:41,410
+as it would be otherwise.
+
+121
+00:04:41,410 --> 00:04:44,720
+Now all of this is to say that,
+
+122
+00:04:44,720 --> 00:04:48,170
+lucid dreaming and dreaming
+are profound experiences.
+
+123
+00:04:48,170 --> 00:04:50,135
+We tend to feel extremely
+
+124
+00:04:50,135 --> 00:04:53,370
+attached to our dream experience.
+
+125
+00:04:53,370 --> 00:04:55,029
+This may explain the phenomenon of
+
+126
+00:04:55,029 --> 00:04:56,950
+people who have a very intense dream
+
+127
+00:04:56,950 --> 00:04:59,120
+they need to somehow tell
+everybody about that dream,
+
+128
+00:04:59,120 --> 00:05:00,330
+or tell someone about that dream.
+
+129
+00:05:00,330 --> 00:05:02,780
+I don't really know what
+that behavior is about,
+
+130
+00:05:02,780 --> 00:05:04,770
+but sometimes we wake up and we feel
+
+131
+00:05:04,770 --> 00:05:06,160
+so attached to what happened
+
+132
+00:05:06,160 --> 00:05:08,060
+in this state that we call dreaming
+
+133
+00:05:08,060 --> 00:05:09,500
+that there seems to be an intense need
+
+134
+00:05:09,500 --> 00:05:10,580
+to share it with other people,
+
+135
+00:05:10,580 --> 00:05:13,300
+presumably to process
+it and make sense of it.
+
+136
+00:05:13,300 --> 00:05:14,820
+Now numerous people throughout history
+
+137
+00:05:14,820 --> 00:05:16,420
+have tried to make sense of dreams
+
+138
+00:05:16,420 --> 00:05:18,590
+in some sort of organized way.
+
+139
+00:05:18,590 --> 00:05:20,960
+The most famous of which of
+course is a Sigmund Freud
+
+140
+00:05:20,960 --> 00:05:23,650
+who talked about symbolic
+representations in dreams.
+
+141
+00:05:23,650 --> 00:05:25,740
+A lot of that has been kind of debunked.
+
+142
+00:05:25,740 --> 00:05:27,195
+Although, I think that
+
+143
+00:05:27,195 --> 00:05:31,140
+there's some interest in what
+the symbols of dreaming are.
+
+144
+00:05:31,140 --> 00:05:32,540
+And this is something
+that we'll talk about
+
+145
+00:05:32,540 --> 00:05:35,264
+in more depth today, although not Freud
+
+146
+00:05:35,264 --> 00:05:38,340
+in theory, in particular.
+
+147
+00:05:38,340 --> 00:05:42,100
+So I think in order to
+really think about dreams
+
+148
+00:05:42,100 --> 00:05:43,260
+and what to do with them
+
+149
+00:05:43,260 --> 00:05:47,010
+and how to maximize the dream experience
+
+150
+00:05:47,010 --> 00:05:49,490
+for sake of learning and unlearning,
+
+151
+00:05:49,490 --> 00:05:50,980
+the best way to address this
+
+152
+00:05:50,980 --> 00:05:52,930
+is to look at the physiology of sleep,
+
+153
+00:05:52,930 --> 00:05:56,800
+to really address what do we
+know concretely about sleep.
+
+154
+00:05:56,800 --> 00:05:59,080
+So first of all, as we get sleepy
+
+155
+00:06:00,040 --> 00:06:03,280
+we tend to shut our eyes, and
+that's 'cause there's some
+
+156
+00:06:03,280 --> 00:06:05,680
+autonomic centers in
+the brain, some neurons
+
+157
+00:06:05,680 --> 00:06:08,310
+that control closing of the
+eyelids when we get sleepy.
+
+158
+00:06:08,310 --> 00:06:10,120
+And then we transitioned into sleep.
+
+159
+00:06:10,120 --> 00:06:12,930
+And sleep, regardless of how long we sleep
+
+160
+00:06:12,930 --> 00:06:16,360
+is generally broken up into
+a series of 90 minute cycles.
+
+161
+00:06:16,360 --> 00:06:18,840
+These ultradian cycles.
+
+162
+00:06:18,840 --> 00:06:22,610
+So early in the night
+these 90 minute cycles
+
+163
+00:06:22,610 --> 00:06:25,490
+tend to be comprised more of shallow sleep
+
+164
+00:06:25,490 --> 00:06:26,760
+and slow wave sleep.
+
+165
+00:06:26,760 --> 00:06:28,470
+So stage one, stage two, et cetera,
+
+166
+00:06:28,470 --> 00:06:29,920
+and what we call slow wave sleep.
+
+167
+00:06:29,920 --> 00:06:32,490
+I'll go into detail about what
+all this means in a moment.
+
+168
+00:06:32,490 --> 00:06:36,750
+And we tend to have less
+so-called REM sleep, R-E-M sleep,
+
+169
+00:06:36,750 --> 00:06:38,800
+which stands for rapid eye movement sleep.
+
+170
+00:06:38,800 --> 00:06:41,380
+And I'll talk about rapid
+eye movement sleep in detail.
+
+171
+00:06:41,380 --> 00:06:44,220
+So early in the night, a
+lot more slow wave sleep
+
+172
+00:06:44,220 --> 00:06:45,980
+and less REM.
+
+173
+00:06:45,980 --> 00:06:48,409
+For every 90 minute cycle that we have
+
+174
+00:06:48,409 --> 00:06:51,825
+during a night of sleep we tend to
+
+175
+00:06:51,825 --> 00:06:55,240
+start having more and more REM sleep.
+
+176
+00:06:55,240 --> 00:06:56,780
+So more of that 90 minute cycle
+
+177
+00:06:56,780 --> 00:07:00,490
+is comprised of REM sleep
+and less of slow wave sleep.
+
+178
+00:07:00,490 --> 00:07:02,350
+Now this is true regardless
+of whether or not
+
+179
+00:07:02,350 --> 00:07:04,750
+you wake up in the middle of
+the night to use the restroom
+
+180
+00:07:04,750 --> 00:07:06,253
+or your sleep is broken.
+
+181
+00:07:07,100 --> 00:07:09,810
+The more sleep you're
+getting across the night,
+
+182
+00:07:09,810 --> 00:07:11,940
+the more REM sleep you're going to have.
+
+183
+00:07:11,940 --> 00:07:15,730
+And REM sleep and non
+REM, as I'll refer to it,
+
+184
+00:07:15,730 --> 00:07:18,560
+have distinctly different roles
+in learning and unlearning,
+
+185
+00:07:18,560 --> 00:07:20,830
+and they are responsible
+for learning and unlearning
+
+186
+00:07:20,830 --> 00:07:23,300
+of distinctly different
+types of information.
+
+187
+00:07:23,300 --> 00:07:26,610
+And this has enormous implications
+
+188
+00:07:26,610 --> 00:07:28,723
+for learning of motor skills,
+
+189
+00:07:28,723 --> 00:07:31,530
+for unlearning of traumatic events,
+
+190
+00:07:31,530 --> 00:07:33,690
+or for processing emotionally challenging
+
+191
+00:07:33,690 --> 00:07:36,430
+as well as emotionally pleasing events.
+
+192
+00:07:36,430 --> 00:07:39,240
+And as we'll see, one
+can actually leverage
+
+193
+00:07:39,240 --> 00:07:42,330
+their daytime activities
+in order to access
+
+194
+00:07:42,330 --> 00:07:46,010
+more slow wave sleep or non
+REM sleep as we'll call it,
+
+195
+00:07:46,010 --> 00:07:48,750
+or more REM sleep depending
+on your particular
+
+196
+00:07:48,750 --> 00:07:50,680
+emotional and physical needs.
+
+197
+00:07:50,680 --> 00:07:52,590
+So it's really a remarkable stage of life
+
+198
+00:07:52,590 --> 00:07:55,290
+that we have a lot more
+control and power over
+
+199
+00:07:55,290 --> 00:07:56,950
+then you might believe.
+
+200
+00:07:56,950 --> 00:07:58,550
+We'll also talk about lucid dreaming.
+
+201
+00:07:58,550 --> 00:08:00,800
+We're also gonna talk about hallucinations
+
+202
+00:08:00,800 --> 00:08:03,120
+and how drug induced hallucinations
+
+203
+00:08:03,120 --> 00:08:06,140
+have a surprising similarity
+to a lot of dream states
+
+204
+00:08:06,140 --> 00:08:08,573
+and yet some really important differences.
+
+205
+00:08:10,251 --> 00:08:13,200
+Okay. So let's start by
+talking about slow wave sleep,
+
+206
+00:08:13,200 --> 00:08:14,467
+or non REM sleep.
+
+207
+00:08:14,467 --> 00:08:17,550
+And I realized that slow
+wave sleep and non REM sleep
+
+208
+00:08:17,550 --> 00:08:18,990
+aren't exactly the same thing.
+
+209
+00:08:18,990 --> 00:08:21,100
+So for you sleep aficionados out there,
+
+210
+00:08:21,100 --> 00:08:22,470
+I am lumping right now.
+
+211
+00:08:22,470 --> 00:08:23,303
+As we say in science,
+
+212
+00:08:23,303 --> 00:08:26,370
+there are lumpers and there
+are splitters and I am both.
+
+213
+00:08:26,370 --> 00:08:28,500
+Sometimes I lump, sometimes I split.
+
+214
+00:08:28,500 --> 00:08:31,840
+For sake of clarity and ease
+of conversation right now
+
+215
+00:08:31,840 --> 00:08:33,520
+I'm gonna be a lumper.
+
+216
+00:08:33,520 --> 00:08:37,010
+When I say slow wave sleep, I
+mean non REM sleep generally.
+
+217
+00:08:37,010 --> 00:08:39,740
+Although, I acknowledge
+there is a distinction.
+
+218
+00:08:39,740 --> 00:08:41,669
+Slow wave sleep.
+
+219
+00:08:41,669 --> 00:08:43,641
+So slow wave sleep is characterized
+
+220
+00:08:43,642 --> 00:08:47,208
+by a particular pattern of brain activity
+
+221
+00:08:47,208 --> 00:08:50,470
+in which the brain is
+metabolically active,
+
+222
+00:08:50,470 --> 00:08:53,430
+but that there's these big
+sweeping waves of activity
+
+223
+00:08:53,430 --> 00:08:55,850
+that include a lot of the brain.
+
+224
+00:08:55,850 --> 00:08:59,810
+If you wanna look this up
+you can find evidence for
+
+225
+00:08:59,810 --> 00:09:02,650
+sweeping of waves of neural activity
+
+226
+00:09:02,650 --> 00:09:04,870
+across association cortex,
+
+227
+00:09:04,870 --> 00:09:07,710
+across big swaths of the brainstem,
+
+228
+00:09:07,710 --> 00:09:11,930
+the so-called pons
+geniculate occipital pathway.
+
+229
+00:09:11,930 --> 00:09:16,381
+This is brainstem,
+thalamus, and then cortex
+
+230
+00:09:16,381 --> 00:09:18,730
+for those of you that are interested.
+
+231
+00:09:18,730 --> 00:09:21,820
+Although, more of that is
+going to occur in REM sleep.
+
+232
+00:09:21,820 --> 00:09:24,220
+Now the interesting thing
+about slow wave sleep
+
+233
+00:09:24,220 --> 00:09:28,150
+are the neuromodulators that
+tend to be associated with it,
+
+234
+00:09:28,150 --> 00:09:30,110
+that are most active and least active
+
+235
+00:09:30,110 --> 00:09:32,940
+during slow wave sleep and here's why.
+
+236
+00:09:32,940 --> 00:09:35,720
+To remind you neuromodulators
+are these chemicals
+
+237
+00:09:35,720 --> 00:09:39,700
+that act rather slowly but their main role
+
+238
+00:09:39,700 --> 00:09:42,940
+is to bias particular
+brain circuits to be active
+
+239
+00:09:42,940 --> 00:09:45,070
+and other brain circuits to not be active.
+
+240
+00:09:45,070 --> 00:09:46,890
+These are like the music playlist.
+
+241
+00:09:46,890 --> 00:09:49,150
+So think of neuromodulators
+
+242
+00:09:49,150 --> 00:09:50,460
+and these come in the names of,
+
+243
+00:09:50,460 --> 00:09:53,360
+acetylcholine, norepinephrine,
+serotonin, and dopamine,
+
+244
+00:09:53,360 --> 00:09:58,020
+think of them as suggesting
+playlists on your audio device.
+
+245
+00:09:58,020 --> 00:10:00,550
+So, you know, classical music is
+
+246
+00:10:00,550 --> 00:10:03,130
+distinctly different in feel and tone
+
+247
+00:10:03,130 --> 00:10:06,770
+and a number of other features
+from like third wave punk,
+
+248
+00:10:06,770 --> 00:10:10,300
+or from, you know, hip hop, right?
+
+249
+00:10:10,300 --> 00:10:11,620
+So think of them as biasing
+
+250
+00:10:11,620 --> 00:10:15,630
+toward particular genres of
+neural circuit activity, okay.
+
+251
+00:10:15,630 --> 00:10:19,070
+Mellow music versus really
+aggressive fast music,
+
+252
+00:10:19,070 --> 00:10:21,850
+or rhythmic music that includes lyrics
+
+253
+00:10:21,850 --> 00:10:24,690
+versus rhythmic music that
+doesn't include lyrics.
+
+254
+00:10:24,690 --> 00:10:25,680
+It's more or less the way
+
+255
+00:10:25,680 --> 00:10:28,000
+to think about these neuromodulators.
+
+256
+00:10:28,000 --> 00:10:29,920
+And they are associated as a consequence
+
+257
+00:10:29,920 --> 00:10:31,520
+with certain brain functions.
+
+258
+00:10:31,520 --> 00:10:33,660
+So we know for instance
+and just to review,
+
+259
+00:10:33,660 --> 00:10:36,160
+acetylcholine in waking states
+
+260
+00:10:36,160 --> 00:10:38,400
+is a neuromodulator that tends to amplify
+
+261
+00:10:38,400 --> 00:10:39,720
+the activity of brain circuits
+
+262
+00:10:39,720 --> 00:10:42,320
+associated with focus and attention.
+
+263
+00:10:42,320 --> 00:10:44,580
+Norepinephrine is a
+neuromodulator that tends to
+
+264
+00:10:44,580 --> 00:10:47,960
+amplify the brain circuits
+associated with alertness,
+
+265
+00:10:47,960 --> 00:10:49,630
+and the desire to move.
+
+266
+00:10:49,630 --> 00:10:51,591
+Serotonin is the neuromodulator
+
+267
+00:10:51,591 --> 00:10:54,060
+that's released intense to amplify the
+
+268
+00:10:54,060 --> 00:10:55,690
+circuits in the brain and body
+
+269
+00:10:55,690 --> 00:10:57,410
+that are associated with bliss
+
+270
+00:10:57,410 --> 00:10:59,630
+and the desire to remain still.
+
+271
+00:10:59,630 --> 00:11:01,902
+And dopamine is the neuromodulator
+
+272
+00:11:01,902 --> 00:11:04,313
+that's released and is associated with
+
+273
+00:11:04,313 --> 00:11:07,300
+amplification of the neural
+circuits in the brain and body
+
+274
+00:11:07,300 --> 00:11:11,080
+associated with pursuing
+goals and pleasure and reward.
+
+275
+00:11:11,080 --> 00:11:14,330
+Okay. So in slow wave sleep
+
+276
+00:11:14,330 --> 00:11:17,110
+something really interesting happens.
+
+277
+00:11:17,110 --> 00:11:19,770
+There is essentially no acetylcholine.
+
+278
+00:11:19,770 --> 00:11:22,810
+Acetylcholine production
+and release and action
+
+279
+00:11:22,810 --> 00:11:26,032
+from the two major sites,
+which are in the brainstem,
+
+280
+00:11:26,032 --> 00:11:29,540
+which from a nucleus if it's
+a parabigerminal nucleus,
+
+281
+00:11:29,540 --> 00:11:32,458
+if you really wanna know,
+or from the forebrain,
+
+282
+00:11:32,458 --> 00:11:34,550
+which is nucleus basalis.
+
+283
+00:11:34,550 --> 00:11:35,750
+And you don't need to know these names
+
+284
+00:11:35,750 --> 00:11:38,380
+but if you like, that's
+why I put them out there.
+
+285
+00:11:38,380 --> 00:11:40,890
+Acetylcholine production plummets.
+
+286
+00:11:40,890 --> 00:11:42,960
+It's just almost to zero.
+
+287
+00:11:42,960 --> 00:11:44,930
+And acetylcholine as I just mentioned,
+
+288
+00:11:44,930 --> 00:11:46,860
+is associated with focus.
+
+289
+00:11:46,860 --> 00:11:48,480
+So you can think of slow wave sleep
+
+290
+00:11:48,480 --> 00:11:51,210
+as these big sweeping waves
+of activity through the brain
+
+291
+00:11:51,210 --> 00:11:53,680
+and a kind of distortion
+of space and time,
+
+292
+00:11:53,680 --> 00:11:56,770
+so that we're not really
+focusing on any one thing.
+
+293
+00:11:56,770 --> 00:12:01,500
+Now the other molecules that
+are very active at that time
+
+294
+00:12:01,500 --> 00:12:02,980
+are norepinephrine.
+
+295
+00:12:02,980 --> 00:12:04,610
+Which is a little bit surprising 'cause
+
+296
+00:12:04,610 --> 00:12:06,251
+normally in waking states norepinephrine
+
+297
+00:12:06,251 --> 00:12:07,498
+is gonna be associated with
+
+298
+00:12:07,498 --> 00:12:10,940
+a lot of alertness and the desire to move.
+
+299
+00:12:10,940 --> 00:12:13,370
+But there's not a ton of norepinephrine
+
+300
+00:12:13,370 --> 00:12:15,450
+around in slow wave
+sleep, but it is around.
+
+301
+00:12:15,450 --> 00:12:18,380
+So there's something associated
+with the movement circuitry
+
+302
+00:12:18,380 --> 00:12:20,310
+going on in slow wave sleep.
+
+303
+00:12:20,310 --> 00:12:21,860
+And remember, this is happening mostly
+
+304
+00:12:21,860 --> 00:12:22,990
+at the beginning of the night,
+
+305
+00:12:22,990 --> 00:12:25,480
+your sleep is dominated
+by slow wave sleep.
+
+306
+00:12:25,480 --> 00:12:29,060
+So no acetylcholine, very
+little norepinephrine,
+
+307
+00:12:29,060 --> 00:12:31,820
+although there is some
+and a lot of serotonin.
+
+308
+00:12:31,820 --> 00:12:34,440
+And serotonin again is
+associated with this desire,
+
+309
+00:12:34,440 --> 00:12:37,380
+this sensation of kind
+of bliss or wellbeing,
+
+310
+00:12:37,380 --> 00:12:38,440
+but not a lot of movement.
+
+311
+00:12:38,440 --> 00:12:41,170
+And during sleep you tend not to move.
+
+312
+00:12:41,170 --> 00:12:44,160
+Now in slow wave sleep you can
+move, you're not paralyzed.
+
+313
+00:12:44,160 --> 00:12:45,640
+So you can roll over.
+
+314
+00:12:45,640 --> 00:12:47,560
+If people are going to sleep walk,
+
+315
+00:12:47,560 --> 00:12:50,350
+typically it's going to
+be during slow wave sleep.
+
+316
+00:12:50,350 --> 00:12:54,094
+And what studies have shown through some
+
+317
+00:12:54,094 --> 00:12:56,430
+kind of sadistic experiments
+
+318
+00:12:56,430 --> 00:12:59,627
+where people are deprived
+specifically of slow wave sleep,
+
+319
+00:12:59,627 --> 00:13:02,170
+and that can be done by waking them up
+
+320
+00:13:02,170 --> 00:13:04,200
+as soon as the electrode recording show
+
+321
+00:13:04,200 --> 00:13:05,770
+that they're in slow wave sleep
+
+322
+00:13:05,770 --> 00:13:08,390
+or by chemically altering their sleep
+
+323
+00:13:08,390 --> 00:13:11,120
+so that it biases them
+away from slow wave sleep.
+
+324
+00:13:11,120 --> 00:13:13,660
+What studies have shown
+is that motor learning
+
+325
+00:13:14,550 --> 00:13:18,120
+is generally occurring in slow wave sleep.
+
+326
+00:13:18,120 --> 00:13:20,720
+So let's say the day
+before you go to sleep
+
+327
+00:13:20,720 --> 00:13:23,650
+you were learning some new dance move,
+
+328
+00:13:23,650 --> 00:13:26,340
+or you were learning some
+specific motor skill,
+
+329
+00:13:26,340 --> 00:13:29,380
+either a fine motor skill
+or a course motor skill.
+
+330
+00:13:29,380 --> 00:13:32,390
+So let's say, it's a new form of exercise
+
+331
+00:13:32,390 --> 00:13:34,680
+or some new coordinated movements.
+
+332
+00:13:34,680 --> 00:13:36,280
+This could be coordinate movement
+
+333
+00:13:36,280 --> 00:13:37,570
+at the level of the fingers,
+
+334
+00:13:37,570 --> 00:13:39,620
+or it could be coordinated
+movement the level of whole body
+
+335
+00:13:39,620 --> 00:13:41,560
+and large limb movements.
+
+336
+00:13:41,560 --> 00:13:42,490
+It could involve other people,
+
+337
+00:13:42,490 --> 00:13:44,400
+or it could be a solo activity.
+
+338
+00:13:44,400 --> 00:13:46,230
+Learning of those skills
+
+339
+00:13:47,470 --> 00:13:50,770
+is happening primarily
+during slow wave sleep
+
+340
+00:13:50,770 --> 00:13:52,640
+in the early part of the night.
+
+341
+00:13:52,640 --> 00:13:54,640
+In addition, slow wave sleep
+
+342
+00:13:54,640 --> 00:13:56,100
+has been shown to be important
+
+343
+00:13:56,100 --> 00:13:59,240
+for the learning of detailed information.
+
+344
+00:13:59,240 --> 00:14:01,390
+Now this isn't always
+cognitive information.
+
+345
+00:14:01,390 --> 00:14:02,930
+We're gonna talk about
+cognitive information,
+
+346
+00:14:02,930 --> 00:14:04,830
+but the studies that have been done
+
+347
+00:14:04,830 --> 00:14:07,370
+along these lines involve having people
+
+348
+00:14:07,370 --> 00:14:09,890
+learn very detailed information
+
+349
+00:14:09,890 --> 00:14:11,410
+about very specific rules
+
+350
+00:14:11,410 --> 00:14:13,720
+and the way that certain
+words are spelled,
+
+351
+00:14:13,720 --> 00:14:15,410
+they tend to be challenging words.
+
+352
+00:14:15,410 --> 00:14:20,410
+So if people are tested and
+in terms of their performance
+
+353
+00:14:20,430 --> 00:14:21,931
+on these types of exams
+
+354
+00:14:21,931 --> 00:14:24,480
+and they're deprived of slow wave sleep,
+
+355
+00:14:24,480 --> 00:14:26,620
+they tend to perform very poorly.
+
+356
+00:14:26,620 --> 00:14:28,450
+So we can think of slow wave sleep
+
+357
+00:14:28,450 --> 00:14:30,790
+as important for motor learning,
+
+358
+00:14:30,790 --> 00:14:31,930
+motor skill learning
+
+359
+00:14:31,930 --> 00:14:34,410
+and for the learning of specific details
+
+360
+00:14:34,410 --> 00:14:36,430
+about specific events.
+
+361
+00:14:36,430 --> 00:14:39,240
+And this turns out to be
+fundamentally important
+
+362
+00:14:39,240 --> 00:14:41,699
+because now we know that
+
+363
+00:14:41,699 --> 00:14:45,080
+slow wave sleep is primarily
+in the early part of the night,
+
+364
+00:14:45,080 --> 00:14:47,320
+and motor learning is occurring primarily
+
+365
+00:14:47,320 --> 00:14:50,130
+early in the night, and
+detailed learning is
+
+366
+00:14:50,130 --> 00:14:51,780
+occurring early in the night.
+
+367
+00:14:51,780 --> 00:14:53,460
+Now for those of you that are waking up
+
+368
+00:14:53,460 --> 00:14:55,290
+after only three, four hours of sleep,
+
+369
+00:14:55,290 --> 00:14:56,730
+this might be informative.
+
+370
+00:14:56,730 --> 00:14:58,970
+This might tell you a
+little something about
+
+371
+00:14:58,970 --> 00:15:01,350
+what you are able to learn
+and not able to learn
+
+372
+00:15:01,350 --> 00:15:03,700
+if that were to be the
+only sleep that you get.
+
+373
+00:15:03,700 --> 00:15:06,490
+Although, hopefully that's not
+the only sleep that you get.
+
+374
+00:15:06,490 --> 00:15:08,635
+But we're going to dive deep into
+
+375
+00:15:08,635 --> 00:15:11,984
+how it is that one can
+maximize motor learning
+
+376
+00:15:11,984 --> 00:15:14,900
+in order to extract say,
+
+377
+00:15:14,900 --> 00:15:18,820
+more detail information
+about coordinated movements
+
+378
+00:15:18,820 --> 00:15:20,860
+and how to make them faster or slower.
+
+379
+00:15:20,860 --> 00:15:22,720
+So that might be important
+for certain sports.
+
+380
+00:15:22,720 --> 00:15:25,873
+It might be almost certainly
+important for certain sports.
+
+381
+00:15:26,747 --> 00:15:28,990
+It's gonna be important for
+
+382
+00:15:28,990 --> 00:15:30,330
+any kind of coordinated movement,
+
+383
+00:15:30,330 --> 00:15:32,180
+like say learning to play the piano,
+
+384
+00:15:32,180 --> 00:15:34,810
+or for instance, how to
+
+385
+00:15:34,810 --> 00:15:38,610
+learn synchronized movements
+with somebody else.
+
+386
+00:15:38,610 --> 00:15:41,473
+So maybe I mentioned the
+example of dance earlier.
+
+387
+00:15:42,540 --> 00:15:43,810
+Like me a few years ago,
+
+388
+00:15:43,810 --> 00:15:47,580
+I set out to learn tango
+because I have some Argentine
+
+389
+00:15:47,580 --> 00:15:49,330
+relatives and I was a Bismal.
+
+390
+00:15:49,330 --> 00:15:51,280
+I need to return to that at some point.
+
+391
+00:15:52,700 --> 00:15:54,295
+I was just a Bismal.
+
+392
+00:15:54,295 --> 00:15:55,128
+And one of the worst things
+
+393
+00:15:55,128 --> 00:15:56,193
+about being a bismal at
+learning dance is that,
+
+394
+00:15:56,193 --> 00:15:59,170
+that somebody else has to
+suffer the consequences also.
+
+395
+00:15:59,170 --> 00:16:02,950
+So I don't know maybe in the
+month on neuroplasticity,
+
+396
+00:16:02,950 --> 00:16:06,210
+I'll explore that again
+as a self experimentation.
+
+397
+00:16:06,210 --> 00:16:07,860
+But, the key things to know are
+
+398
+00:16:07,860 --> 00:16:10,320
+slow wave sleep is
+involved in motor learning
+
+399
+00:16:10,320 --> 00:16:11,850
+and detailed learning.
+
+400
+00:16:11,850 --> 00:16:14,360
+There's no acetylcholine
+around at that time,
+
+401
+00:16:14,360 --> 00:16:16,530
+has these big amplitude activity
+
+402
+00:16:16,530 --> 00:16:19,280
+sweeping throughout the
+brain and that there's
+
+403
+00:16:19,280 --> 00:16:20,670
+the release of these neuromodulators,
+
+404
+00:16:20,670 --> 00:16:23,090
+norepinephrine and serotonin.
+
+405
+00:16:23,090 --> 00:16:25,760
+And again, that's all
+happening early in the night.
+
+406
+00:16:25,760 --> 00:16:29,680
+So athletes, people that are
+concerned about performance,
+
+407
+00:16:29,680 --> 00:16:33,250
+if you happen to wake up
+after just a couple hours of,
+
+408
+00:16:33,250 --> 00:16:35,150
+you know, three, four hours of sleep
+
+409
+00:16:35,150 --> 00:16:38,160
+because you're excited about
+a competition the next day,
+
+410
+00:16:38,160 --> 00:16:41,360
+presumably if you've already trained
+
+411
+00:16:41,360 --> 00:16:43,510
+the skills that you need for the event
+
+412
+00:16:43,510 --> 00:16:47,430
+you should be fine to engage
+in that particular activity.
+
+413
+00:16:47,430 --> 00:16:49,310
+Now it's always going to be better
+
+414
+00:16:49,310 --> 00:16:51,230
+to get a full night's sleep.
+
+415
+00:16:51,230 --> 00:16:52,890
+And that, you know, a full night's sleep
+
+416
+00:16:52,890 --> 00:16:55,100
+for you is six hours then
+it's always gonna be better
+
+417
+00:16:55,100 --> 00:16:57,820
+to get more sleep than it is to get less.
+
+418
+00:16:57,820 --> 00:16:59,886
+However, I think some people
+
+419
+00:16:59,886 --> 00:17:02,910
+get a little bit overly concerned
+
+420
+00:17:02,910 --> 00:17:04,450
+that if they didn't get
+their full night's sleep
+
+421
+00:17:04,450 --> 00:17:06,270
+before some sort of physical event
+
+422
+00:17:06,270 --> 00:17:07,880
+that their performance
+is going to plummet.
+
+423
+00:17:07,880 --> 00:17:11,180
+Presumably, if you've already
+learned what you need to do,
+
+424
+00:17:11,180 --> 00:17:13,740
+and it's stored in your neural circuits
+
+425
+00:17:13,740 --> 00:17:15,542
+and you know how to make
+those coordinated movements,
+
+426
+00:17:15,542 --> 00:17:18,229
+what the literature on slow
+wave sleep suggest is that
+
+427
+00:17:18,230 --> 00:17:19,329
+you would be replenished.
+
+428
+00:17:19,329 --> 00:17:21,819
+That the motor learning and
+the recovery from exercise
+
+429
+00:17:21,819 --> 00:17:24,379
+is going to happen early
+in the night. Okay.
+
+430
+00:17:24,380 --> 00:17:26,089
+So we'll just pause there,
+
+431
+00:17:26,089 --> 00:17:27,846
+and kind of shelve that for a moment
+
+432
+00:17:27,847 --> 00:17:28,950
+and then we're gonna come back to it.
+
+433
+00:17:28,950 --> 00:17:30,660
+But I wanna talk about REM sleep,
+
+434
+00:17:30,660 --> 00:17:32,800
+or rapid eye movement sleep.
+
+435
+00:17:32,800 --> 00:17:35,570
+REM sleep and rapid eye movement sleep,
+
+436
+00:17:35,570 --> 00:17:38,000
+as I mentioned before,
+occurs throughout the night,
+
+437
+00:17:38,000 --> 00:17:39,500
+but you're gonna have more of it.
+
+438
+00:17:39,500 --> 00:17:42,040
+A larger percentage of
+these 90 minute sleep cycles
+
+439
+00:17:42,040 --> 00:17:44,070
+is going to be comprised of REM sleep
+
+440
+00:17:44,070 --> 00:17:46,630
+as you get toward morning.
+
+441
+00:17:46,630 --> 00:17:48,200
+REM sleep is fascinating.
+
+442
+00:17:48,200 --> 00:17:50,010
+It was discovered in '50s when
+
+443
+00:17:50,010 --> 00:17:52,252
+a sleep laboratory in Chicago,
+
+444
+00:17:52,252 --> 00:17:54,370
+the researchers observed
+
+445
+00:17:54,370 --> 00:17:56,870
+that people's eyes were
+moving under their eyelids.
+
+446
+00:17:56,870 --> 00:18:00,130
+Now, something very important
+that we're going to address
+
+447
+00:18:00,130 --> 00:18:03,020
+when we talk about trauma later is that,
+
+448
+00:18:03,020 --> 00:18:05,410
+the eye movements are
+not just side to side
+
+449
+00:18:05,410 --> 00:18:08,070
+they're very erratic in
+all different directions.
+
+450
+00:18:08,070 --> 00:18:09,366
+One thing that I don't think
+
+451
+00:18:09,366 --> 00:18:12,230
+I've never heard anyone
+really talk about publicly is,
+
+452
+00:18:12,230 --> 00:18:15,970
+why eye movements during
+sleep, right? Eyes are closed.
+
+453
+00:18:15,970 --> 00:18:17,960
+And sometimes people's eyelids
+will be a little bit open
+
+454
+00:18:17,960 --> 00:18:18,980
+and their eyes are darting around,
+
+455
+00:18:18,980 --> 00:18:20,250
+especially in little kids.
+
+456
+00:18:20,250 --> 00:18:22,600
+I don't suggest you do this.
+I'm not even sure it's ethical.
+
+457
+00:18:22,600 --> 00:18:24,390
+But, it has been done where you, you know,
+
+458
+00:18:24,390 --> 00:18:26,170
+pull back the eyelids of a
+kid while they're sleeping
+
+459
+00:18:26,170 --> 00:18:28,010
+and their eyes are kind of
+darting all over the place.
+
+460
+00:18:28,010 --> 00:18:30,010
+I think people do this to
+their passed out friends
+
+461
+00:18:30,010 --> 00:18:31,310
+at parties and things like that.
+
+462
+00:18:31,310 --> 00:18:33,440
+So again, I don't suggest you do it,
+
+463
+00:18:33,440 --> 00:18:36,000
+but I'm telling you it
+because it's been done before
+
+464
+00:18:36,000 --> 00:18:38,520
+and therefore you don't
+have to do it again.
+
+465
+00:18:38,520 --> 00:18:41,650
+But rapid eye movement
+sleep is fascinating
+
+466
+00:18:41,650 --> 00:18:44,240
+and occurs because there are connections
+
+467
+00:18:44,240 --> 00:18:47,947
+between the brainstem,
+an area called the pons,
+
+468
+00:18:47,947 --> 00:18:52,910
+and areas of the thalamus
+and the top of the brain stem
+
+469
+00:18:52,910 --> 00:18:55,460
+that are involved in generating movements
+
+470
+00:18:55,460 --> 00:18:57,540
+in different directions,
+sometimes called saccades.
+
+471
+00:18:57,540 --> 00:18:59,410
+Although, sometimes during
+rapid eye movement sleep
+
+472
+00:18:59,410 --> 00:19:01,260
+it's not just rapid,
+it's kind of a jittery
+
+473
+00:19:01,260 --> 00:19:03,550
+side to side thing and then
+the eyeballs kind of role.
+
+474
+00:19:03,550 --> 00:19:06,120
+It's really pretty creepy
+to look at if you see.
+
+475
+00:19:06,120 --> 00:19:08,970
+So what's happening there is
+
+476
+00:19:08,970 --> 00:19:11,420
+the circuitry that is involved
+in conscious eye movements
+
+477
+00:19:11,420 --> 00:19:13,590
+is kind of going haywire,
+but it's not haywire.
+
+478
+00:19:13,590 --> 00:19:17,210
+It's these waves of
+activity from the brainstem
+
+479
+00:19:17,210 --> 00:19:20,029
+up to the so-called thalamus,
+which is an area that
+
+480
+00:19:20,029 --> 00:19:23,570
+filter sensory information
+and then up to the cortex.
+
+481
+00:19:23,570 --> 00:19:24,880
+And the cortex of course,
+
+482
+00:19:24,880 --> 00:19:27,490
+is involved in conscious perceptions.
+
+483
+00:19:27,490 --> 00:19:29,540
+So in rapid eye movement sleep
+
+484
+00:19:29,540 --> 00:19:31,536
+there are a couple of things are happening
+
+485
+00:19:31,536 --> 00:19:33,360
+besides rapid eye movements.
+
+486
+00:19:33,360 --> 00:19:36,480
+The main ones are that
+they're, I should say,
+
+487
+00:19:36,480 --> 00:19:39,210
+in contrast to slow wave sleep.
+
+488
+00:19:39,210 --> 00:19:44,210
+In REM sleep serotonin is
+essentially absent. Okay?
+
+489
+00:19:44,330 --> 00:19:46,940
+So this molecule, this neuromodulator
+
+490
+00:19:46,940 --> 00:19:49,970
+that tends to create the
+feeling of bliss and wellbeing
+
+491
+00:19:49,970 --> 00:19:54,620
+and just calm placidity is absent.
+
+492
+00:19:54,620 --> 00:19:56,350
+All right. So that's interesting.
+
+493
+00:19:56,350 --> 00:20:00,640
+In addition to that,
+norepinephrine this molecule
+
+494
+00:20:00,640 --> 00:20:02,700
+that's involved in movement and alertness
+
+495
+00:20:02,700 --> 00:20:04,360
+is absolutely absent.
+
+496
+00:20:04,360 --> 00:20:06,444
+It's probably one of the few times
+
+497
+00:20:06,444 --> 00:20:10,713
+in our life that epinephrin is essentially
+
+498
+00:20:10,713 --> 00:20:14,020
+at zero activity within our system.
+
+499
+00:20:14,020 --> 00:20:17,070
+And that has a number of
+very important implications
+
+500
+00:20:17,070 --> 00:20:18,875
+for the sorts of dreaming that occur
+
+501
+00:20:18,875 --> 00:20:23,200
+during REM sleep and the sorts
+of learning that can occur
+
+502
+00:20:23,200 --> 00:20:24,560
+in REM sleep and unlearning.
+
+503
+00:20:24,560 --> 00:20:27,235
+First of all in REM
+sleep, we are paralyzed.
+
+504
+00:20:27,235 --> 00:20:30,087
+We are experiencing what's called atonia,
+
+505
+00:20:30,087 --> 00:20:31,160
+which just means that
+
+506
+00:20:31,160 --> 00:20:34,080
+we're completely laid out and paralyzed.
+
+507
+00:20:34,080 --> 00:20:36,360
+We also tend to experience
+
+508
+00:20:36,360 --> 00:20:38,003
+whatever it is that we're dreaming about
+
+509
+00:20:38,003 --> 00:20:40,570
+as a kind of hallucination,
+
+510
+00:20:40,570 --> 00:20:42,683
+or a hallucinatory activity.
+
+511
+00:20:43,610 --> 00:20:47,520
+Long ago I looked into
+hallucinations and dreaming
+
+512
+00:20:47,520 --> 00:20:49,810
+I was just fascinated
+by this in high school.
+
+513
+00:20:49,810 --> 00:20:51,110
+And there's some great books on this
+
+514
+00:20:51,110 --> 00:20:52,269
+if you're interested in
+
+515
+00:20:52,269 --> 00:20:54,080
+exploring the relationship between
+
+516
+00:20:54,080 --> 00:20:56,154
+hallucinations and dreaming.
+
+517
+00:20:56,154 --> 00:20:58,170
+The most famous of which are from a guy,
+
+518
+00:20:58,170 --> 00:21:02,591
+a researcher at Harvard, Alan Hobson,
+
+519
+00:21:02,591 --> 00:21:05,530
+you know, wrote a book
+called, Dream Drug Store.
+
+520
+00:21:05,530 --> 00:21:07,390
+And talked all about
+the similarities between
+
+521
+00:21:07,390 --> 00:21:10,550
+drugs that induce hallucinations
+and dreaming in REM.
+
+522
+00:21:10,550 --> 00:21:12,480
+So you can explore that if you like.
+
+523
+00:21:12,480 --> 00:21:14,510
+So in REM our eyes are moving,
+
+524
+00:21:14,510 --> 00:21:16,610
+but the rest of our body is paralyzed
+
+525
+00:21:16,610 --> 00:21:18,320
+and we are hallucinating.
+
+526
+00:21:18,320 --> 00:21:21,150
+There's no epinephrin around.
+
+527
+00:21:21,150 --> 00:21:23,520
+Epinephrin doesn't just create
+
+528
+00:21:23,520 --> 00:21:25,740
+a desire to move and alertness.
+
+529
+00:21:25,740 --> 00:21:30,740
+It is also the chemical
+signature of fear and anxiety.
+
+530
+00:21:31,510 --> 00:21:34,522
+It's what's released
+from our adrenal glands
+
+531
+00:21:34,522 --> 00:21:38,650
+when we experience something
+that's fearful or alerting.
+
+532
+00:21:38,650 --> 00:21:40,660
+So if a car suddenly
+screeches in front of us,
+
+533
+00:21:40,660 --> 00:21:42,402
+or we get a troubling text message,
+
+534
+00:21:42,402 --> 00:21:44,630
+adrenaline is deployed into our system.
+
+535
+00:21:44,630 --> 00:21:48,490
+Adrenaline is epinephrin,
+those are equivalent molecules.
+
+536
+00:21:48,490 --> 00:21:51,230
+And epinephrin isn't just
+released from our adrenals
+
+537
+00:21:51,230 --> 00:21:53,360
+it's also released within our brain.
+
+538
+00:21:53,360 --> 00:21:56,022
+So there's this weird stage of our life
+
+539
+00:21:56,022 --> 00:22:00,030
+that happens more toward
+morning, that we call REM sleep,
+
+540
+00:22:00,030 --> 00:22:02,074
+where we're hallucinating
+
+541
+00:22:02,074 --> 00:22:05,900
+and having these outrageous
+experiences in our mind,
+
+542
+00:22:05,900 --> 00:22:09,715
+but the chemical that's
+associated with fear and panic
+
+543
+00:22:09,715 --> 00:22:13,610
+and anxiety is not available to us.
+
+544
+00:22:13,610 --> 00:22:16,800
+And that turns out to be very important.
+
+545
+00:22:16,800 --> 00:22:18,756
+And you can imagine why that's important.
+
+546
+00:22:18,756 --> 00:22:22,898
+It's important because it
+allows us to experience things,
+
+547
+00:22:22,898 --> 00:22:27,177
+both replay of things
+that did occur as well as
+
+548
+00:22:27,177 --> 00:22:31,100
+elaborate contortions of
+things that didn't occur.
+
+549
+00:22:31,100 --> 00:22:33,210
+And it allows us to experience those
+
+550
+00:22:33,210 --> 00:22:36,580
+in the absence of fear and anxiety,
+
+551
+00:22:36,580 --> 00:22:39,419
+and that it turns out is very important
+
+552
+00:22:39,419 --> 00:22:42,510
+for adjusting our emotional relationship
+
+553
+00:22:42,510 --> 00:22:45,010
+to challenging things that happened to us
+
+554
+00:22:45,010 --> 00:22:46,840
+while we were awake.
+
+555
+00:22:46,840 --> 00:22:50,180
+Those challenging things can
+sometimes be in the form of
+
+556
+00:22:50,180 --> 00:22:54,510
+social anxiety, or just
+having been working very hard
+
+557
+00:22:54,510 --> 00:22:56,990
+or concern about an upcoming event,
+
+558
+00:22:56,990 --> 00:22:59,500
+or sometimes people report for instance,
+
+559
+00:22:59,500 --> 00:23:02,610
+dreams where they find
+themselves late to an exam,
+
+560
+00:23:02,610 --> 00:23:07,594
+or naked in public, or
+in some sort of situation
+
+561
+00:23:07,594 --> 00:23:10,300
+that would be very troubling to them.
+
+562
+00:23:10,300 --> 00:23:14,940
+And that almost certainly
+occurs during REM sleep.
+
+563
+00:23:14,940 --> 00:23:17,970
+So we have this incredible period of sleep
+
+564
+00:23:17,970 --> 00:23:22,460
+in which our experience of
+emotionally laid in events
+
+565
+00:23:22,460 --> 00:23:25,680
+is dissociated. It's chemically blocked
+
+566
+00:23:25,680 --> 00:23:28,970
+from us having the actual emotion.
+
+567
+00:23:28,970 --> 00:23:31,317
+Now probably immediately
+some of you are thinking,
+
+568
+00:23:31,317 --> 00:23:32,360
+"Well, what about nightmares?
+
+569
+00:23:32,360 --> 00:23:34,540
+I have nightmares and those
+carry a lot of emotion,
+
+570
+00:23:34,540 --> 00:23:36,490
+or sometimes I'll wake up in a panic."
+
+571
+00:23:36,490 --> 00:23:38,560
+Let's consider each of
+those two things separately
+
+572
+00:23:38,560 --> 00:23:41,333
+because they are important
+in understanding REM sleep.
+
+573
+00:23:42,700 --> 00:23:44,840
+There's a good chance that nightmares
+
+574
+00:23:44,840 --> 00:23:47,920
+are occurring slow wave sleep.
+
+575
+00:23:47,920 --> 00:23:49,750
+There are actually some drugs
+
+576
+00:23:49,750 --> 00:23:51,130
+that I don't suggest people take.
+
+577
+00:23:51,130 --> 00:23:53,280
+In fact so much so I'm
+not gonna mention them
+
+578
+00:23:53,280 --> 00:23:55,593
+that give people very
+
+579
+00:23:55,593 --> 00:23:59,280
+kind of scary or eerie
+dreams and this kind of
+
+580
+00:23:59,280 --> 00:24:02,892
+feeling that things are pursuing them,
+
+581
+00:24:02,892 --> 00:24:06,510
+or that they can't move
+when they are being chased.
+
+582
+00:24:06,510 --> 00:24:08,290
+That's actually a common
+dream that I've had.
+
+583
+00:24:08,290 --> 00:24:10,220
+I guess, it's more or less a nightmare.
+
+584
+00:24:10,220 --> 00:24:12,030
+The feeling that one is paralyzed
+
+585
+00:24:12,030 --> 00:24:13,590
+and can't move and is being chased.
+
+586
+00:24:13,590 --> 00:24:16,360
+A lot of people have said, "Oh,
+that must be in REM sleep."
+
+587
+00:24:16,360 --> 00:24:17,860
+Because you're paralyzed and so
+
+588
+00:24:17,860 --> 00:24:20,620
+you're dreaming about being
+paralyzed and you can't move.
+
+589
+00:24:20,620 --> 00:24:22,100
+I think that's probably false.
+
+590
+00:24:22,100 --> 00:24:24,830
+The research says that
+because no epinephrine
+
+591
+00:24:24,830 --> 00:24:26,370
+is absent during REM sleep,
+
+592
+00:24:26,370 --> 00:24:28,030
+it's very unlikely that you can have these
+
+593
+00:24:28,030 --> 00:24:29,770
+intense, fearful memories.
+
+594
+00:24:29,770 --> 00:24:32,290
+So those are probably
+occurring in slow wave sleep.
+
+595
+00:24:32,290 --> 00:24:33,560
+Although, there might be instances
+
+596
+00:24:33,560 --> 00:24:36,290
+where people have nightmares in REM sleep.
+
+597
+00:24:36,290 --> 00:24:39,490
+The other thing is some people experience,
+
+598
+00:24:39,490 --> 00:24:41,030
+certainly I've had this experience,
+
+599
+00:24:41,030 --> 00:24:44,170
+of waking up and feeling very stressed
+
+600
+00:24:44,170 --> 00:24:46,990
+about whatever it was that I
+happen to be thinking about,
+
+601
+00:24:46,990 --> 00:24:49,690
+or dreaming about in the moments before.
+
+602
+00:24:49,690 --> 00:24:53,100
+And that's an interesting
+case of an invasion
+
+603
+00:24:53,100 --> 00:24:55,760
+of the dream state into the waking state
+
+604
+00:24:55,760 --> 00:24:58,997
+and the moment you wake up
+epinephrine is available.
+
+605
+00:24:58,997 --> 00:25:02,680
+So the research on this
+isn't fully crystallized,
+
+606
+00:25:02,680 --> 00:25:05,850
+but most of it points in the direction of
+
+607
+00:25:05,850 --> 00:25:09,250
+the experience of waking up
+and feeling very panicked.
+
+608
+00:25:09,250 --> 00:25:11,600
+Maybe, I wanna highlight may,
+
+609
+00:25:11,600 --> 00:25:14,750
+but maybe that you were
+experiencing something
+
+610
+00:25:14,750 --> 00:25:17,630
+that was troubling in the daytime,
+
+611
+00:25:17,630 --> 00:25:20,200
+you're repeating that
+experience in your sleep,
+
+612
+00:25:20,200 --> 00:25:21,750
+epinephrine is not available,
+
+613
+00:25:21,750 --> 00:25:24,210
+and therefore the brain
+circuits associated
+
+614
+00:25:24,210 --> 00:25:27,210
+with fear and anxiety are shut off.
+
+615
+00:25:27,210 --> 00:25:29,900
+And so you're able to process those events
+
+616
+00:25:29,900 --> 00:25:31,400
+and then suddenly you wake up
+
+617
+00:25:31,400 --> 00:25:34,280
+and there's a surge of
+adrenaline of epinephrin
+
+618
+00:25:34,280 --> 00:25:36,410
+that's now coupled to that experience.
+
+619
+00:25:36,410 --> 00:25:39,080
+So nightmares very
+likely in slow wave sleep
+
+620
+00:25:39,080 --> 00:25:41,750
+and that kind of panic
+on waking from something
+
+621
+00:25:41,750 --> 00:25:45,410
+very likely to be an invasion
+of the thoughts and ideas,
+
+622
+00:25:45,410 --> 00:25:49,950
+however distorted in REM sleep
+invading the waking state.
+
+623
+00:25:49,950 --> 00:25:52,300
+In fact, that brings to mind something
+
+624
+00:25:52,300 --> 00:25:54,820
+that I've mentioned once before,
+but I wanna mention again,
+
+625
+00:25:54,820 --> 00:25:58,390
+this atonia, this paralysis
+that we experience during sleep
+
+626
+00:25:58,390 --> 00:26:00,373
+can invade the waking state.
+
+627
+00:26:01,230 --> 00:26:03,920
+Many people report the
+experience of waking up
+
+628
+00:26:03,920 --> 00:26:05,161
+and being paralyzed.
+
+629
+00:26:05,161 --> 00:26:07,930
+They're legitimately waking
+up, it's not a dream.
+
+630
+00:26:07,930 --> 00:26:11,750
+Waking up and being paralyzed,
+and it is terrifying.
+
+631
+00:26:11,750 --> 00:26:13,070
+I've had this happen before.
+
+632
+00:26:13,070 --> 00:26:16,550
+It is I can tell you
+terrifying to be wide awake,
+
+633
+00:26:16,550 --> 00:26:19,540
+and as far as I could
+tell fully conscious,
+
+634
+00:26:19,540 --> 00:26:21,080
+but unable to move.
+
+635
+00:26:21,080 --> 00:26:23,660
+And then generally you can
+jolt yourself out of it
+
+636
+00:26:23,660 --> 00:26:26,670
+in a few seconds, but
+it is quite frightening.
+
+637
+00:26:26,670 --> 00:26:30,870
+Now some people actually
+experience waking up,
+
+638
+00:26:30,870 --> 00:26:34,360
+being fully paralyzed and hallucinating.
+
+639
+00:26:34,360 --> 00:26:37,150
+And there is a theory in the
+
+640
+00:26:37,150 --> 00:26:39,470
+academic and scientific
+community at least,
+
+641
+00:26:39,470 --> 00:26:42,510
+that what people report
+as alien abductions
+
+642
+00:26:42,510 --> 00:26:45,974
+have a certain number of
+core characteristics that map
+
+643
+00:26:45,974 --> 00:26:50,420
+quite closely, yearly
+similarly to these experiences.
+
+644
+00:26:50,420 --> 00:26:53,190
+A lot of reports of
+alien abduction involve
+
+645
+00:26:53,190 --> 00:26:57,279
+people being unable to move,
+seeing particular faces,
+
+646
+00:26:57,279 --> 00:26:59,730
+hallucinating, extensively feeling
+
+647
+00:26:59,730 --> 00:27:03,040
+like their body is floating,
+or they were transported.
+
+648
+00:27:03,040 --> 00:27:06,950
+This is very similar to
+the experience of invasion
+
+649
+00:27:06,950 --> 00:27:08,560
+of atonia into the waking state,
+
+650
+00:27:08,560 --> 00:27:10,480
+waking up and still being paralyzed.
+
+651
+00:27:10,480 --> 00:27:12,590
+As well as the hallucinations that
+
+652
+00:27:12,590 --> 00:27:15,190
+are characteristic of
+dreaming and REM sleep.
+
+653
+00:27:15,190 --> 00:27:17,612
+Now I'm not saying that people's
+
+654
+00:27:17,612 --> 00:27:20,500
+alien abductions were not
+legitimate alien abductions,
+
+655
+00:27:20,500 --> 00:27:22,516
+how could I, I wasn't there.
+
+656
+00:27:22,516 --> 00:27:24,870
+And if I was there I wouldn't tell you
+
+657
+00:27:24,870 --> 00:27:26,520
+'cause that would make me an alien,
+
+658
+00:27:26,520 --> 00:27:28,220
+and I wouldn't want you to know.
+
+659
+00:27:28,220 --> 00:27:31,470
+But it is quite possible
+
+660
+00:27:31,470 --> 00:27:33,206
+that people are experiencing these things
+
+661
+00:27:33,206 --> 00:27:36,010
+and they are an invasion
+of the sleep state
+
+662
+00:27:36,010 --> 00:27:37,250
+into the waking state
+
+663
+00:27:37,250 --> 00:27:39,700
+and they can last several
+minutes or longer.
+
+664
+00:27:39,700 --> 00:27:42,690
+And because in dreams, space
+and time are distorted,
+
+665
+00:27:42,690 --> 00:27:44,130
+our perception of these events
+
+666
+00:27:44,130 --> 00:27:46,080
+could be that they lasted many hours
+
+667
+00:27:46,080 --> 00:27:48,940
+and we can really feel as
+if they lasted many hours,
+
+668
+00:27:48,940 --> 00:27:51,200
+when in fact they took only moments.
+
+669
+00:27:51,200 --> 00:27:53,300
+And we're gonna return to
+distortion of space and time
+
+670
+00:27:53,300 --> 00:27:54,520
+in a little bit.
+
+671
+00:27:54,520 --> 00:27:58,303
+So to just recap we've gone so far.
+
+672
+00:27:58,303 --> 00:28:00,960
+Slow wave sleep early in the night.
+
+673
+00:28:00,960 --> 00:28:03,750
+It's been shown to be
+important for motor learning
+
+674
+00:28:03,750 --> 00:28:05,670
+and for detailed learning.
+
+675
+00:28:05,670 --> 00:28:08,530
+REM sleep has a certain dream component
+
+676
+00:28:08,530 --> 00:28:10,570
+when which there's no epinephrin,
+
+677
+00:28:10,570 --> 00:28:12,380
+therefore we can't experience anxiety,
+
+678
+00:28:12,380 --> 00:28:13,830
+we are paralyzed.
+
+679
+00:28:13,830 --> 00:28:16,320
+Those dreams tend to be really vivid
+
+680
+00:28:16,320 --> 00:28:18,560
+and have a lot of detail to them.
+
+681
+00:28:18,560 --> 00:28:21,900
+And yet in REM sleep what's very clear
+
+682
+00:28:21,900 --> 00:28:24,400
+is that the sorts of learning
+that happened in REM sleep
+
+683
+00:28:24,400 --> 00:28:25,770
+are not motor events.
+
+684
+00:28:25,770 --> 00:28:29,150
+It's more about unlearning
+of emotional events.
+
+685
+00:28:29,150 --> 00:28:30,070
+And now we know why,
+
+686
+00:28:30,070 --> 00:28:32,113
+because the chemicals available for
+
+687
+00:28:32,113 --> 00:28:36,720
+really feeling those
+emotions are not present.
+
+688
+00:28:36,720 --> 00:28:40,920
+Now that has very important implications.
+
+689
+00:28:40,920 --> 00:28:43,600
+So let's address those
+implications from two sides.
+
+690
+00:28:43,600 --> 00:28:44,700
+First of all we should ask,
+
+691
+00:28:44,700 --> 00:28:47,420
+what happens if we don't
+get enough REM sleep?
+
+692
+00:28:47,420 --> 00:28:49,690
+And a scenario that happens a lot
+
+693
+00:28:49,690 --> 00:28:52,730
+where people don't get enough
+REM sleep is the following.
+
+694
+00:28:52,730 --> 00:28:55,060
+I'll just explain the one
+that I'm familiar with
+
+695
+00:28:55,060 --> 00:28:56,660
+'cause it happens to me a lot,
+
+696
+00:28:56,660 --> 00:29:00,000
+although I figured out ways to adjust.
+
+697
+00:29:00,000 --> 00:29:02,940
+I go to sleep around 10:30, 11:00,
+
+698
+00:29:02,940 --> 00:29:04,600
+I fall asleep very easily
+
+699
+00:29:04,600 --> 00:29:08,530
+and then I wake up around 3:00 or 4:00 AM.
+
+700
+00:29:08,530 --> 00:29:12,990
+I now know to use a NSDR, a
+non sleep deep rest protocol
+
+701
+00:29:12,990 --> 00:29:15,060
+and that allows me to fall back asleep.
+
+702
+00:29:15,060 --> 00:29:16,720
+Even though it's called
+non sleep depressed
+
+703
+00:29:16,720 --> 00:29:19,440
+it's really allows me to
+relax my body and brain,
+
+704
+00:29:19,440 --> 00:29:22,750
+and I tend to fall back asleep
+and sleep till about 7:00 AM.
+
+705
+00:29:22,750 --> 00:29:26,370
+During which time I
+get a lot of REM sleep.
+
+706
+00:29:26,370 --> 00:29:28,450
+And I know this because I've measured it,
+
+707
+00:29:28,450 --> 00:29:31,300
+and I know this because my
+dreams tend to be very intense
+
+708
+00:29:32,160 --> 00:29:34,610
+of the sort that we know
+is typical of REM sleep.
+
+709
+00:29:36,380 --> 00:29:37,733
+In this scenario,
+
+710
+00:29:38,670 --> 00:29:40,620
+I've gotten my slow wave
+sleep early in the night
+
+711
+00:29:40,620 --> 00:29:42,670
+and I've got my REM sleep toward morning.
+
+712
+00:29:44,434 --> 00:29:46,080
+However, there are times when
+I don't go back to sleep,
+
+713
+00:29:46,080 --> 00:29:48,020
+maybe I have a flight to
+catch, that's happened.
+
+714
+00:29:48,020 --> 00:29:49,380
+Sometimes I've got a lot on my mind
+
+715
+00:29:49,380 --> 00:29:50,830
+and I don't go back to sleep.
+
+716
+00:29:52,010 --> 00:29:54,400
+I can tell you, and you've
+probably experienced that
+
+717
+00:29:54,400 --> 00:29:56,880
+the lack of REM sleep tends to make people
+
+718
+00:29:56,880 --> 00:29:58,530
+emotionally irritable.
+
+719
+00:29:58,530 --> 00:30:01,500
+It tends to make us feel
+as if the little things
+
+720
+00:30:01,500 --> 00:30:02,870
+are the big things.
+
+721
+00:30:02,870 --> 00:30:05,960
+So it's very clear from laboratory studies
+
+722
+00:30:05,960 --> 00:30:09,590
+where people have been deprived
+selectively of REM sleep,
+
+723
+00:30:09,590 --> 00:30:12,990
+that our emotionality tends
+to get a little bit unhinged
+
+724
+00:30:12,990 --> 00:30:16,080
+and we tend to catastrophize small things.
+
+725
+00:30:16,080 --> 00:30:19,840
+We tend to feel like the
+world is really daunting,
+
+726
+00:30:19,840 --> 00:30:22,350
+we're never gonna move forward
+in the ways that we want.
+
+727
+00:30:22,350 --> 00:30:24,620
+We can't unlearn the emotional components
+
+728
+00:30:24,620 --> 00:30:26,560
+of whatever it is that has been happening,
+
+729
+00:30:26,560 --> 00:30:28,830
+even if it's not traumatic.
+
+730
+00:30:28,830 --> 00:30:30,570
+The other thing that happens in REM sleep
+
+731
+00:30:30,570 --> 00:30:34,290
+is a replay of certain
+types of spatial information
+
+732
+00:30:34,290 --> 00:30:37,400
+about where we were and why
+we were in those places.
+
+733
+00:30:37,400 --> 00:30:39,640
+And this maps to some beautiful data
+
+734
+00:30:39,640 --> 00:30:41,240
+and studies that were initiated
+
+735
+00:30:41,240 --> 00:30:44,500
+by a guy named Matt
+Wilson at MIT years ago.
+
+736
+00:30:44,500 --> 00:30:46,750
+Showing that in rodents and it turns out
+
+737
+00:30:47,668 --> 00:30:49,390
+in other non-human primates and in humans
+
+738
+00:30:49,390 --> 00:30:53,030
+there's a replay of spacial
+information during REM sleep,
+
+739
+00:30:53,030 --> 00:30:55,515
+that almost precisely maps to the
+
+740
+00:30:55,515 --> 00:30:57,600
+activity that we
+experienced during the day
+
+741
+00:30:57,600 --> 00:30:59,290
+as we move from one place to another.
+
+742
+00:30:59,290 --> 00:31:02,720
+So here's a common world
+scenario, you go to a new place,
+
+743
+00:31:02,720 --> 00:31:05,650
+you navigate through that
+city or that environment,
+
+744
+00:31:05,650 --> 00:31:06,930
+this place doesn't have to be,
+
+745
+00:31:06,930 --> 00:31:08,080
+you know, at the scale of a city.
+
+746
+00:31:08,080 --> 00:31:09,320
+It can be a new building.
+
+747
+00:31:09,320 --> 00:31:11,320
+It could be finding particular rooms,
+
+748
+00:31:11,320 --> 00:31:13,000
+new social interaction.
+
+749
+00:31:13,000 --> 00:31:16,131
+You experience that and
+if it's important enough,
+
+750
+00:31:16,131 --> 00:31:19,400
+that becomes solidified a few days later
+
+751
+00:31:19,400 --> 00:31:20,360
+and you won't forget it.
+
+752
+00:31:20,360 --> 00:31:23,510
+If it's unimportant,
+you'll probably forget it.
+
+753
+00:31:23,510 --> 00:31:26,720
+During REM sleep there's a literal replay
+
+754
+00:31:26,720 --> 00:31:28,950
+of the exact firing of the neurons
+
+755
+00:31:28,950 --> 00:31:30,760
+that occurred while you were navigating
+
+756
+00:31:30,760 --> 00:31:32,770
+that same city you're building earlier.
+
+757
+00:31:32,770 --> 00:31:34,490
+So REM sleep seems to be involved in
+
+758
+00:31:34,490 --> 00:31:38,710
+the generation of this
+detailed spatial information.
+
+759
+00:31:38,710 --> 00:31:42,385
+But, what is it that's actually
+happening in REM sleep?
+
+760
+00:31:42,385 --> 00:31:44,910
+So there's this uncoupling of emotion,
+
+761
+00:31:44,910 --> 00:31:48,020
+but most of all what's
+happening in REM sleep is that
+
+762
+00:31:48,020 --> 00:31:50,020
+we're forming a relationship with
+
+763
+00:31:50,020 --> 00:31:52,770
+particular rules or algorithms.
+
+764
+00:31:52,770 --> 00:31:54,480
+We're starting to figure out
+
+765
+00:31:54,480 --> 00:31:57,440
+based on all the experience
+that we had during the day,
+
+766
+00:31:57,440 --> 00:32:00,450
+whether or not it's important
+that we avoid certain people
+
+767
+00:32:00,450 --> 00:32:01,980
+or that we approach certain people,
+
+768
+00:32:01,980 --> 00:32:04,409
+whether or not it's important that,
+
+769
+00:32:04,409 --> 00:32:06,240
+you know, when we enter a building
+
+770
+00:32:06,240 --> 00:32:08,370
+that we go into the elevator
+
+771
+00:32:08,370 --> 00:32:11,190
+and turn left where the
+bathroom is, for instance.
+
+772
+00:32:11,190 --> 00:32:13,840
+These general themes
+of things and locations
+
+773
+00:32:13,840 --> 00:32:16,440
+and how they fit together
+and that has a word
+
+774
+00:32:16,440 --> 00:32:18,200
+it's called meaning.
+
+775
+00:32:18,200 --> 00:32:20,640
+During our day we're
+experiencing all sorts of things.
+
+776
+00:32:20,640 --> 00:32:25,096
+Meaning is how we each
+individually piece together
+
+777
+00:32:25,096 --> 00:32:28,590
+the relevance of one
+thing to the next, right?
+
+778
+00:32:28,590 --> 00:32:31,760
+So if I suddenly told you that, you know,
+
+779
+00:32:31,760 --> 00:32:34,760
+this pen was downloading all
+the information to my brain
+
+780
+00:32:34,760 --> 00:32:36,930
+that was important to
+deliver this information,
+
+781
+00:32:36,930 --> 00:32:39,020
+you'd probably think I was
+a pretty strange character.
+
+782
+00:32:39,020 --> 00:32:40,740
+Because typically we don't think of pens
+
+783
+00:32:40,740 --> 00:32:43,090
+as downloading information into brains.
+
+784
+00:32:43,090 --> 00:32:44,980
+But if I told you that I
+was getting information
+
+785
+00:32:44,980 --> 00:32:47,360
+from my computer that was allowing me to
+
+786
+00:32:47,360 --> 00:32:49,557
+say things to you, you'd say,
+
+787
+00:32:49,557 --> 00:32:51,925
+"Well, that's perfectly reasonable."
+
+788
+00:32:51,925 --> 00:32:52,758
+And that's because we have a clear
+
+789
+00:32:52,758 --> 00:32:54,810
+and agreed upon association with computers
+
+790
+00:32:54,810 --> 00:32:56,754
+and information and memory,
+
+791
+00:32:56,754 --> 00:33:00,230
+and we don't have that
+same association with pens.
+
+792
+00:33:00,230 --> 00:33:04,866
+You might say, "Well, duh."
+But something in our brain
+
+793
+00:33:04,866 --> 00:33:07,070
+needs to solidify those relationships
+
+794
+00:33:07,070 --> 00:33:10,410
+and make sure that the certain
+relationships don't exist.
+
+795
+00:33:10,410 --> 00:33:12,620
+And it appears that REM
+sleep is important for that,
+
+796
+00:33:12,620 --> 00:33:16,070
+because when you deprive
+yourself or people of REM
+
+797
+00:33:16,070 --> 00:33:18,330
+they start seeing odd associations,
+
+798
+00:33:18,330 --> 00:33:21,000
+they tend to lump or batch things.
+
+799
+00:33:21,000 --> 00:33:22,650
+I know this from my own experience
+
+800
+00:33:22,650 --> 00:33:24,070
+of I've ever been sleep deprived,
+
+801
+00:33:24,070 --> 00:33:26,930
+which unfortunately
+happens too often because
+
+802
+00:33:26,930 --> 00:33:29,690
+I'm terrible with deadlines,
+pull an all-nighter,
+
+803
+00:33:29,690 --> 00:33:33,470
+the word the starts to look
+like it's spelled incorrectly.
+
+804
+00:33:33,470 --> 00:33:36,300
+And the is a very simple word to spell,
+
+805
+00:33:36,300 --> 00:33:39,010
+but things start to
+look a little distorted.
+
+806
+00:33:39,010 --> 00:33:42,080
+And we know that if people
+are deprived of REM sleep
+
+807
+00:33:42,080 --> 00:33:44,870
+for very long periods of time,
+they start hallucinating.
+
+808
+00:33:44,870 --> 00:33:47,384
+They literally start seeing relationships
+
+809
+00:33:47,384 --> 00:33:50,400
+and movement of objects
+that isn't happening.
+
+810
+00:33:50,400 --> 00:33:53,670
+And so REM sleep is
+really where we establish
+
+811
+00:33:53,670 --> 00:33:55,950
+the emotional load, but where we also,
+
+812
+00:33:55,950 --> 00:33:59,310
+start discarding of all the
+meanings that are irrelevant.
+
+813
+00:33:59,310 --> 00:34:01,390
+And if you think about emotionality,
+
+814
+00:34:01,390 --> 00:34:05,078
+a lot of over emotionality
+or catastrophizing
+
+815
+00:34:05,078 --> 00:34:07,950
+is about seeing problems everywhere.
+
+816
+00:34:07,950 --> 00:34:10,920
+And you could imagine why
+that might occur if you start
+
+817
+00:34:10,920 --> 00:34:14,210
+linking the web of your
+experience too extensively.
+
+818
+00:34:14,210 --> 00:34:16,190
+It's very important in order to have
+
+819
+00:34:16,190 --> 00:34:18,500
+healthy, emotional, and
+cognitive functioning
+
+820
+00:34:18,500 --> 00:34:20,440
+that we have fairly narrow channels
+
+821
+00:34:20,440 --> 00:34:21,610
+between individual things.
+
+822
+00:34:21,610 --> 00:34:24,310
+If we see something on the
+news that's very troubling,
+
+823
+00:34:24,310 --> 00:34:26,610
+well, then it makes sense
+to be very troubled.
+
+824
+00:34:26,610 --> 00:34:28,159
+But if we're troubled by everything
+
+825
+00:34:28,159 --> 00:34:29,356
+and we start just saying, you know,
+
+826
+00:34:29,357 --> 00:34:30,620
+"Everything is bothering me
+
+827
+00:34:30,620 --> 00:34:32,040
+and I'm feeling highly irritable
+
+828
+00:34:32,040 --> 00:34:34,870
+and everything is just
+distorting and troubling me."
+
+829
+00:34:34,870 --> 00:34:36,964
+Chances are we are not
+
+830
+00:34:36,964 --> 00:34:41,540
+actively removing the
+meaning, the connectivity
+
+831
+00:34:41,540 --> 00:34:43,920
+between life experiences
+as well as we could
+
+832
+00:34:43,920 --> 00:34:48,139
+and that almost always maps
+back to a deficit in REM sleep.
+
+833
+00:34:48,139 --> 00:34:52,229
+So REM sleep is powerful and
+has this amazing capacity
+
+834
+00:34:52,230 --> 00:34:56,420
+to eliminate the meanings
+that don't matter.
+
+835
+00:34:56,420 --> 00:34:59,620
+It's not that it exacerbates
+the meanings that do matter,
+
+836
+00:34:59,620 --> 00:35:01,940
+but it eliminates the
+meanings that don't matter.
+
+837
+00:35:01,940 --> 00:35:04,470
+And that bears a striking resemblance
+
+838
+00:35:04,470 --> 00:35:06,870
+to what happens early in development.
+
+839
+00:35:06,870 --> 00:35:09,320
+This isn't a discussion
+about early in development,
+
+840
+00:35:09,320 --> 00:35:11,470
+but early in development the reason a baby
+
+841
+00:35:11,470 --> 00:35:13,660
+can't generate coordinated movements,
+
+842
+00:35:13,660 --> 00:35:15,232
+and the reason why children
+
+843
+00:35:15,232 --> 00:35:19,050
+can get very emotional about
+what seems like trivial events,
+
+844
+00:35:19,050 --> 00:35:20,820
+or what adults know to be trivial events.
+
+845
+00:35:20,820 --> 00:35:23,493
+Like, "Oh, the ice cream shop is closed."
+
+846
+00:35:23,493 --> 00:35:25,307
+And then the kid just dissolves into,
+
+847
+00:35:25,307 --> 00:35:28,857
+you know, a puddle of
+tears and the parents say,
+
+848
+00:35:28,857 --> 00:35:31,030
+"Okay, well, it'll be open
+again in another time."
+
+849
+00:35:31,030 --> 00:35:34,068
+The children one of the
+reasons that they can't
+
+850
+00:35:34,068 --> 00:35:36,150
+generate coordinated movement,
+
+851
+00:35:36,150 --> 00:35:38,950
+or place that of the ice
+cream shop being closed
+
+852
+00:35:38,950 --> 00:35:40,580
+into a larger context,
+
+853
+00:35:40,580 --> 00:35:43,000
+is because they have
+too much connectivity.
+
+854
+00:35:43,000 --> 00:35:45,750
+And much of the maturation of
+the brain and nervous system
+
+855
+00:35:45,750 --> 00:35:47,280
+that brings us to the point of being
+
+856
+00:35:47,280 --> 00:35:50,486
+emotionally stable, reasonable,
+rational human beings
+
+857
+00:35:50,486 --> 00:35:54,080
+is about elimination of
+connections between things.
+
+858
+00:35:54,080 --> 00:35:56,646
+So REM sleep seems to be where we uncouple
+
+859
+00:35:56,646 --> 00:36:01,646
+the potential for emotionality
+between various experiences.
+
+860
+00:36:02,890 --> 00:36:03,890
+And that brings us to
+
+861
+00:36:03,890 --> 00:36:06,869
+the absolutely fundamental relationship
+
+862
+00:36:06,869 --> 00:36:10,020
+and similarity of REM sleep
+
+863
+00:36:10,020 --> 00:36:12,590
+to some of the clinical practices
+
+864
+00:36:12,590 --> 00:36:15,160
+that have been designed
+to eliminate emotionality
+
+865
+00:36:15,160 --> 00:36:17,420
+and help people move through trauma
+
+866
+00:36:17,420 --> 00:36:19,280
+and other troubling experiences,
+
+867
+00:36:19,280 --> 00:36:21,750
+whether or not those
+troubling experiences are
+
+868
+00:36:21,750 --> 00:36:24,200
+a death in the family
+of a close loved one,
+
+869
+00:36:24,200 --> 00:36:26,780
+something terrible that happened
+to you or somebody else,
+
+870
+00:36:26,780 --> 00:36:30,660
+or, you know, an entire
+childhood or some event
+
+871
+00:36:30,660 --> 00:36:34,626
+that in your mind and body is
+felt as and experienced as,
+
+872
+00:36:34,626 --> 00:36:37,490
+bad, terrible, or concerning.
+
+873
+00:36:37,490 --> 00:36:39,740
+Many of you perhaps have heard of
+
+874
+00:36:39,740 --> 00:36:42,870
+trauma treatment such as EMDR,
+
+875
+00:36:42,870 --> 00:36:46,650
+eye movement desensitization reprocessing,
+
+876
+00:36:46,650 --> 00:36:49,740
+or ketamine treatment for trauma.
+
+877
+00:36:49,740 --> 00:36:51,720
+Something that recently became legal
+
+878
+00:36:51,720 --> 00:36:54,483
+and is in fairly widespread clinical use.
+
+879
+00:36:56,250 --> 00:36:59,263
+Interestingly enough, EMDR and ketamine
+
+880
+00:36:59,263 --> 00:37:01,700
+at kind of a core level,
+
+881
+00:37:01,700 --> 00:37:06,700
+bear very similar features to REM sleep.
+
+882
+00:37:07,110 --> 00:37:10,165
+So let's talk about EMDR first.
+
+883
+00:37:10,165 --> 00:37:12,841
+EMDR, eye movement
+desensitization reprocessing
+
+884
+00:37:12,841 --> 00:37:15,100
+is something that was
+developed by a psychologist,
+
+885
+00:37:15,100 --> 00:37:17,040
+Francine Shapiro.
+
+886
+00:37:17,040 --> 00:37:19,173
+She actually was in Palo Alto.
+
+887
+00:37:19,173 --> 00:37:23,807
+And the story goes that she was walking,
+
+888
+00:37:23,807 --> 00:37:26,280
+not so incidentally,
+
+889
+00:37:26,280 --> 00:37:29,025
+in the trees and forest behind Stanford,
+
+890
+00:37:29,025 --> 00:37:32,620
+and she was recalling a
+troubling event in her own mind.
+
+891
+00:37:32,620 --> 00:37:34,530
+So this would be from her own life.
+
+892
+00:37:34,530 --> 00:37:36,730
+And she realized that as she was walking,
+
+893
+00:37:36,730 --> 00:37:38,740
+the emotional load of that experience
+
+894
+00:37:38,740 --> 00:37:41,253
+was not as intense or severe.
+
+895
+00:37:43,290 --> 00:37:47,550
+She extrapolated from
+that experience of walking
+
+896
+00:37:47,550 --> 00:37:51,100
+and not feeling as stressed
+about the stressful event
+
+897
+00:37:51,100 --> 00:37:53,920
+to a practice that she put into work in
+
+898
+00:37:53,920 --> 00:37:56,200
+with her clients, with her patients,
+
+899
+00:37:56,200 --> 00:37:58,710
+and that now has become fairly widespread.
+
+900
+00:37:58,710 --> 00:38:02,300
+It's actually one of the
+few behavior treatments
+
+901
+00:38:02,300 --> 00:38:04,970
+that are approved by the American
+Psychological Association
+
+902
+00:38:04,970 --> 00:38:06,370
+for the treatment of trauma.
+
+903
+00:38:07,942 --> 00:38:10,620
+what she had her clients and patients do
+
+904
+00:38:10,620 --> 00:38:13,160
+was move their eyes from side to side
+
+905
+00:38:13,160 --> 00:38:17,050
+while recounting some
+traumatic or troubling event.
+
+906
+00:38:17,050 --> 00:38:18,750
+Now this was of course in the clinic.
+
+907
+00:38:18,750 --> 00:38:21,200
+And I'm guessing that she
+removed the walking component
+
+908
+00:38:21,200 --> 00:38:23,700
+and just took the eye movement component
+
+909
+00:38:23,700 --> 00:38:24,803
+to the clinic because
+
+910
+00:38:24,803 --> 00:38:28,000
+while it would be nice
+to go on therapy sessions
+
+911
+00:38:28,000 --> 00:38:31,020
+with your therapist and
+take walks there are certain
+
+912
+00:38:31,020 --> 00:38:34,010
+boundaries to that such
+as, confidentiality.
+
+913
+00:38:34,010 --> 00:38:35,670
+You know, if there are
+a lot of people around
+
+914
+00:38:35,670 --> 00:38:38,400
+a person might not feel as
+open to discussing things,
+
+915
+00:38:38,400 --> 00:38:41,105
+or weather barriers and things like that,
+
+916
+00:38:41,105 --> 00:38:42,380
+you know, if it's raining
+or hailing outside,
+
+917
+00:38:42,380 --> 00:38:43,483
+it gets tough to do.
+
+918
+00:38:44,790 --> 00:38:46,450
+Why eye movements?
+
+919
+00:38:46,450 --> 00:38:49,120
+Well, she never really
+said why eye movements.
+
+920
+00:38:49,120 --> 00:38:52,930
+But, soon I'll tell
+you why the decision to
+
+921
+00:38:52,930 --> 00:38:55,210
+select these lateralized eye movements
+
+922
+00:38:55,210 --> 00:38:58,330
+for the work in the
+clinic was the right one.
+
+923
+00:38:58,330 --> 00:39:01,010
+So these eye movements, they look silly.
+
+924
+00:39:01,010 --> 00:39:04,511
+I'll do them because that's why I'm here.
+
+925
+00:39:04,511 --> 00:39:07,410
+They look silly, but
+they basically involve
+
+926
+00:39:07,410 --> 00:39:10,920
+sitting in a chair and moving
+one's eyes from side to side,
+
+927
+00:39:10,920 --> 00:39:14,290
+not while talking. But,
+you know, for it's...
+
+928
+00:39:15,190 --> 00:39:17,160
+And then recounting the events.
+
+929
+00:39:17,160 --> 00:39:19,760
+So it's sometimes talking
+while moving the eyes,
+
+930
+00:39:19,760 --> 00:39:21,847
+but usually it was moving the
+eyes from side to side for
+
+931
+00:39:21,847 --> 00:39:26,500
+30, 60 seconds, then describing
+this challenging procedure.
+
+932
+00:39:26,500 --> 00:39:31,404
+Now as a vision scientist
+who also works on stress
+
+933
+00:39:31,404 --> 00:39:36,404
+when I first heard this, I
+thought it was crazy, frankly.
+
+934
+00:39:36,640 --> 00:39:38,330
+People would ask me about EMDR
+
+935
+00:39:38,330 --> 00:39:40,100
+and I just thought, "That's crazy."
+
+936
+00:39:40,100 --> 00:39:42,672
+I went and looked up some of the theories
+
+937
+00:39:42,672 --> 00:39:43,900
+about why EMDR might work
+
+938
+00:39:43,900 --> 00:39:46,337
+and there were a bunch of theories.
+
+939
+00:39:46,337 --> 00:39:49,290
+"Oh, it mimics the eye
+movements during REM sleep."
+
+940
+00:39:49,290 --> 00:39:50,210
+That was one.
+
+941
+00:39:50,210 --> 00:39:53,120
+It turns out that's not
+true and I'll explain why.
+
+942
+00:39:53,120 --> 00:39:55,770
+The other one was, "Oh, it
+synchronizes the activity
+
+943
+00:39:55,770 --> 00:39:57,510
+on the two sides of the brain."
+
+944
+00:39:57,510 --> 00:39:59,180
+Well, sort of, I mean, when you look
+
+945
+00:39:59,180 --> 00:40:01,640
+into both sides of the
+binocular visual field
+
+946
+00:40:01,640 --> 00:40:03,925
+you activate the visual cortex.
+
+947
+00:40:03,925 --> 00:40:05,540
+But, this whole idea of synchrony
+
+948
+00:40:05,540 --> 00:40:06,900
+between the two sides of the brain
+
+949
+00:40:06,900 --> 00:40:08,690
+is something that I
+think modern neuroscience
+
+950
+00:40:08,690 --> 00:40:11,940
+is starting to, let's just say,
+
+951
+00:40:11,940 --> 00:40:15,190
+gently or not so gently move away from.
+
+952
+00:40:15,190 --> 00:40:18,920
+This whole right brain,
+left brain business.
+
+953
+00:40:18,920 --> 00:40:21,127
+It turns out however, that eye movements
+
+954
+00:40:21,127 --> 00:40:22,550
+are the sort that I just did
+
+955
+00:40:22,550 --> 00:40:25,460
+and that Francine Shapiro
+took from this walk experience
+
+956
+00:40:25,460 --> 00:40:29,029
+and brought to her clients in the clinic,
+
+957
+00:40:29,029 --> 00:40:31,390
+are the sorts of eye
+movements that you generate
+
+958
+00:40:31,390 --> 00:40:33,210
+whenever you're moving through space,
+
+959
+00:40:33,210 --> 00:40:35,560
+when you are self-generating
+that movement.
+
+960
+00:40:35,560 --> 00:40:37,880
+So not so much when you're driving a car,
+
+961
+00:40:37,880 --> 00:40:39,680
+but certainly if you
+were riding a bicycle,
+
+962
+00:40:39,680 --> 00:40:41,710
+or you were walking or you were running,
+
+963
+00:40:41,710 --> 00:40:42,560
+you don't realize it
+
+964
+00:40:42,560 --> 00:40:44,830
+but you have these reflexive
+subconscious eye movements
+
+965
+00:40:44,830 --> 00:40:46,650
+that go from side to side,
+
+966
+00:40:46,650 --> 00:40:49,290
+and they are associated
+with the motor system.
+
+967
+00:40:49,290 --> 00:40:51,690
+So when you move forward
+your eyes go like this.
+
+968
+00:40:52,553 --> 00:40:53,386
+There've been a number of studies
+
+969
+00:40:53,386 --> 00:40:56,469
+showing that these lateralized
+eye movements helped people
+
+970
+00:40:56,469 --> 00:40:59,300
+move through or dissociate
+
+971
+00:40:59,300 --> 00:41:02,223
+the emotional experience
+of particular traumas
+
+972
+00:41:02,223 --> 00:41:04,880
+with those experiences,
+such that they could
+
+973
+00:41:04,880 --> 00:41:07,130
+recall those experiences
+after the treatment
+
+974
+00:41:07,130 --> 00:41:09,420
+and not feel stressed about them,
+
+975
+00:41:09,420 --> 00:41:12,190
+or they didn't report them
+as traumatic any longer.
+
+976
+00:41:12,190 --> 00:41:13,811
+Now the success rate wasn't 100%,
+
+977
+00:41:13,811 --> 00:41:15,700
+but they were statistically significant
+
+978
+00:41:15,700 --> 00:41:17,520
+in a number of studies.
+
+979
+00:41:17,520 --> 00:41:19,616
+And yet there are still
+some critics of EMDR.
+
+980
+00:41:19,616 --> 00:41:22,987
+And frankly, for a long
+time I still thought,
+
+981
+00:41:22,987 --> 00:41:25,470
+"Well, I don't know. This just
+seems like kind of a hack."
+
+982
+00:41:25,470 --> 00:41:27,160
+It just seems like kind of
+
+983
+00:41:27,160 --> 00:41:28,890
+something that for which we
+don't know the mechanism,
+
+984
+00:41:28,890 --> 00:41:30,123
+and we can't explain,
+
+985
+00:41:30,960 --> 00:41:33,455
+But in the last five years,
+
+986
+00:41:33,455 --> 00:41:35,255
+there have been no fewer than
+
+987
+00:41:35,255 --> 00:41:38,010
+five and there's a sixth on the way,
+
+988
+00:41:38,010 --> 00:41:40,350
+high quality peer reviewed manuscripts
+
+989
+00:41:40,350 --> 00:41:43,294
+published in Journal of
+Neuroscience, Neuron,
+
+990
+00:41:43,294 --> 00:41:45,940
+Cell Press Journal, Excellent Journal,
+
+991
+00:41:45,940 --> 00:41:48,074
+Nature Excellent Journal.
+
+992
+00:41:48,074 --> 00:41:51,560
+These are very stringent
+journals and papers
+
+993
+00:41:51,560 --> 00:41:53,720
+showing that lateralized eye movements
+
+994
+00:41:53,720 --> 00:41:55,160
+of the sort that I just did,
+
+995
+00:41:55,160 --> 00:41:56,717
+and if you're just listening to this
+
+996
+00:41:56,717 --> 00:41:59,660
+it's just moving the eyes from
+side to side with eyes open.
+
+997
+00:41:59,660 --> 00:42:03,000
+That those eye movements but
+not vertical eye movements
+
+998
+00:42:03,000 --> 00:42:06,610
+suppress the activity of the amygdala,
+
+999
+00:42:06,610 --> 00:42:08,431
+which is this brain region
+
+1000
+00:42:08,431 --> 00:42:11,810
+that is involved in threat detection,
+
+1001
+00:42:11,810 --> 00:42:14,340
+stress, anxiety, and fear.
+
+1002
+00:42:14,340 --> 00:42:15,240
+There are some forms of fear
+
+1003
+00:42:15,240 --> 00:42:16,570
+that are not amygdala dependent,
+
+1004
+00:42:16,570 --> 00:42:19,300
+but the amygdala it's not a fear center,
+
+1005
+00:42:19,300 --> 00:42:23,590
+but it is critical for the fear response
+
+1006
+00:42:23,590 --> 00:42:25,500
+and for the experience of anxiety.
+
+1007
+00:42:25,500 --> 00:42:26,410
+So that's interesting.
+
+1008
+00:42:26,410 --> 00:42:29,052
+We've got a clinical tool now
+
+1009
+00:42:29,052 --> 00:42:32,130
+that indeed shows a lot of success
+
+1010
+00:42:32,130 --> 00:42:33,860
+in a good number of people,
+
+1011
+00:42:33,860 --> 00:42:36,030
+where eye movements from side to side
+
+1012
+00:42:36,030 --> 00:42:37,400
+are suppressing the amygdala.
+
+1013
+00:42:37,400 --> 00:42:39,150
+And the general theme is to
+
+1014
+00:42:39,150 --> 00:42:42,220
+use those eye movements to
+suppress the fear response,
+
+1015
+00:42:42,220 --> 00:42:46,300
+and then to recount or
+repeat the experience
+
+1016
+00:42:46,300 --> 00:42:50,270
+and over time uncouple
+the heavy emotional load,
+
+1017
+00:42:50,270 --> 00:42:52,491
+the sadness, the depression,
+the anxiety, the fear
+
+1018
+00:42:52,491 --> 00:42:56,340
+from whatever it was that
+happened that was traumatic.
+
+1019
+00:42:56,340 --> 00:42:58,610
+This is important to understand because,
+
+1020
+00:42:58,610 --> 00:43:01,450
+you know, I'd love to
+be able to tell somebody
+
+1021
+00:43:01,450 --> 00:43:02,750
+who had a traumatic experience
+
+1022
+00:43:02,750 --> 00:43:04,670
+that they would forget that experience,
+
+1023
+00:43:04,670 --> 00:43:07,690
+but the truth is you never
+forget the traumatic experience.
+
+1024
+00:43:07,690 --> 00:43:10,090
+What you do is you remove
+the emotional load.
+
+1025
+00:43:10,090 --> 00:43:13,296
+Eventually it really
+does lose its potency.
+
+1026
+00:43:13,296 --> 00:43:16,640
+The emotional potency is alleviated.
+
+1027
+00:43:16,640 --> 00:43:18,709
+Now EMDR I should just mention,
+
+1028
+00:43:18,709 --> 00:43:21,820
+tends to be most
+successful for single event
+
+1029
+00:43:21,820 --> 00:43:23,380
+or very specific kinds of trauma
+
+1030
+00:43:23,380 --> 00:43:25,050
+that happened over and over,
+
+1031
+00:43:25,050 --> 00:43:29,434
+as opposed to say an entire
+childhood or an entire divorce.
+
+1032
+00:43:29,434 --> 00:43:32,430
+It tends to be most effective for
+
+1033
+00:43:32,430 --> 00:43:35,610
+single event kinds of things,
+car crashes, et cetera,
+
+1034
+00:43:35,610 --> 00:43:37,990
+where people can really recall the events
+
+1035
+00:43:37,990 --> 00:43:39,970
+in quite a lot of detail.
+
+1036
+00:43:39,970 --> 00:43:42,880
+So it's not for everybody
+and it should be done...
+
+1037
+00:43:42,880 --> 00:43:44,430
+If it's going to be done for trauma
+
+1038
+00:43:44,430 --> 00:43:46,160
+it should be done in a clinical setting
+
+1039
+00:43:46,160 --> 00:43:49,090
+with somebody who's certified to do this.
+
+1040
+00:43:49,090 --> 00:43:52,160
+But that bears a lot of
+resemblance to REM sleep, right?
+
+1041
+00:43:52,160 --> 00:43:53,664
+This experience in our sleep where
+
+1042
+00:43:53,664 --> 00:43:57,472
+our eyes are moving, excuse me,
+although in a different way,
+
+1043
+00:43:57,472 --> 00:44:00,620
+but we don't have the chemical epinephrine
+
+1044
+00:44:00,620 --> 00:44:02,273
+in order to generate the fear response,
+
+1045
+00:44:02,273 --> 00:44:04,310
+and yet we're remembering
+
+1046
+00:44:04,310 --> 00:44:06,370
+the event from the previous day or days.
+
+1047
+00:44:06,370 --> 00:44:08,720
+Sometimes in REM sleep we
+think about things happened
+
+1048
+00:44:08,720 --> 00:44:12,080
+a long time ago. So that's interesting.
+
+1049
+00:44:12,080 --> 00:44:14,140
+And then now there's this new treatment,
+
+1050
+00:44:14,140 --> 00:44:17,187
+this chemical treatment
+with the drug ketamine,
+
+1051
+00:44:17,187 --> 00:44:20,329
+which also bears a lot of resemblance to
+
+1052
+00:44:20,329 --> 00:44:23,432
+the sorts of things that
+happen in REM sleep.
+
+1053
+00:44:23,432 --> 00:44:25,793
+Ketamine is getting a
+lot of attention now.
+
+1054
+00:44:25,793 --> 00:44:28,000
+And I think a lot of people just
+
+1055
+00:44:28,000 --> 00:44:29,890
+don't realize what ketamine is.
+
+1056
+00:44:29,890 --> 00:44:33,490
+Ketamine is a dissociative anesthetic.
+
+1057
+00:44:33,490 --> 00:44:38,128
+It is remarkably similar
+to the drug called PCP,
+
+1058
+00:44:38,128 --> 00:44:42,260
+which is certainly a hazardous drug
+
+1059
+00:44:42,260 --> 00:44:43,484
+for people to use.
+
+1060
+00:44:43,484 --> 00:44:48,484
+Ketamine and PCP both function
+
+1061
+00:44:48,630 --> 00:44:51,210
+to disrupt the activity
+of a particular receptor
+
+1062
+00:44:51,210 --> 00:44:54,360
+in the brain called the NMDA receptor,
+
+1063
+00:44:54,360 --> 00:44:56,860
+N-methyl-D-aspartate receptor.
+
+1064
+00:44:56,860 --> 00:45:00,190
+This is a receptor that's
+in the surface of neurons
+
+1065
+00:45:00,190 --> 00:45:02,674
+or on the surface of neurons for which
+
+1066
+00:45:02,674 --> 00:45:05,112
+most of the time it's not active,
+
+1067
+00:45:05,112 --> 00:45:08,612
+but when something very extreme happens
+
+1068
+00:45:08,612 --> 00:45:11,810
+and there's a lot of activity
+in the neural pathway
+
+1069
+00:45:11,810 --> 00:45:13,890
+that impinges on that receptor,
+
+1070
+00:45:13,890 --> 00:45:17,534
+it opens and it allows
+the entry of molecules,
+
+1071
+00:45:17,534 --> 00:45:22,046
+ions that trigger a cellular process
+
+1072
+00:45:22,046 --> 00:45:24,210
+that we call long-term potentiation.
+
+1073
+00:45:24,210 --> 00:45:27,212
+And long-term potentiation translates to
+
+1074
+00:45:27,212 --> 00:45:30,032
+a change in connectivity so that later
+
+1075
+00:45:30,032 --> 00:45:32,117
+you don't need that intense event
+
+1076
+00:45:32,117 --> 00:45:34,830
+for the neuron to become active again.
+
+1077
+00:45:34,830 --> 00:45:36,450
+Let me clarify a little bit of this.
+
+1078
+00:45:36,450 --> 00:45:40,310
+The NMDA receptor is gated
+by intense experience.
+
+1079
+00:45:40,310 --> 00:45:42,360
+One way you could think about this is,
+
+1080
+00:45:42,360 --> 00:45:43,800
+typically I walk in my home,
+
+1081
+00:45:43,800 --> 00:45:46,250
+I might make some food and
+sit down at my kitchen table,
+
+1082
+00:45:46,250 --> 00:45:50,356
+and I don't think
+anything about explosions.
+
+1083
+00:45:50,356 --> 00:45:52,650
+But were I to come home one night,
+
+1084
+00:45:52,650 --> 00:45:54,356
+sit down to a bowl of chicken soup
+
+1085
+00:45:54,356 --> 00:45:56,736
+and there was a massive explosion
+
+1086
+00:45:56,736 --> 00:45:59,040
+the neurons are associated with
+
+1087
+00:45:59,040 --> 00:46:00,980
+chicken soup in my kitchen table
+
+1088
+00:46:00,980 --> 00:46:02,780
+would be active in a way
+
+1089
+00:46:02,780 --> 00:46:05,670
+that was different than
+they were previously,
+
+1090
+00:46:05,670 --> 00:46:08,750
+and will be coupled to this
+experience of explosions
+
+1091
+00:46:08,750 --> 00:46:10,720
+such that the next time,
+
+1092
+00:46:10,720 --> 00:46:12,310
+and perhaps every other time
+
+1093
+00:46:12,310 --> 00:46:13,860
+that I go to sit down
+at the kitchen table,
+
+1094
+00:46:13,860 --> 00:46:15,770
+no matter how rational I am
+
+1095
+00:46:15,770 --> 00:46:17,520
+about the origins of that explosion,
+
+1096
+00:46:17,520 --> 00:46:20,020
+maybe it was a gas truck
+that was down the road
+
+1097
+00:46:20,020 --> 00:46:21,460
+and there's no reason to
+think it's there today,
+
+1098
+00:46:21,460 --> 00:46:23,600
+but I would have the same experience.
+
+1099
+00:46:23,600 --> 00:46:24,820
+Those neurons will become active
+
+1100
+00:46:24,820 --> 00:46:26,530
+and I'd get an increase in heart rate.
+
+1101
+00:46:26,530 --> 00:46:29,340
+I'd get an increase in
+sweating, et cetera.
+
+1102
+00:46:29,340 --> 00:46:33,036
+Ketamine blocks this NMDA
+receptor and prevents
+
+1103
+00:46:33,036 --> 00:46:36,770
+that crossover and the addition of meaning
+
+1104
+00:46:36,770 --> 00:46:38,858
+to the kitchen table, kitchen soup,
+
+1105
+00:46:38,858 --> 00:46:41,760
+excuse me, chicken soup
+explosion experience.
+
+1106
+00:46:41,760 --> 00:46:43,860
+So how is ketamine being used?
+
+1107
+00:46:43,860 --> 00:46:46,890
+Ketamine is being used to prevent learning
+
+1108
+00:46:46,890 --> 00:46:49,870
+of emotions very soon after trauma.
+
+1109
+00:46:49,870 --> 00:46:51,730
+So ketamine is being stocked
+
+1110
+00:46:51,730 --> 00:46:53,260
+in a number of different emergency rooms,
+
+1111
+00:46:53,260 --> 00:46:55,650
+where if people are brought in quickly
+
+1112
+00:46:55,650 --> 00:46:57,840
+and, you know, these are
+hard to describe even
+
+1113
+00:46:57,840 --> 00:47:00,330
+but, you know, a horrible experience of
+
+1114
+00:47:00,330 --> 00:47:01,960
+somebody seeing a loved one next to them
+
+1115
+00:47:01,960 --> 00:47:05,280
+killed in a car accident and
+they were driving that car.
+
+1116
+00:47:05,280 --> 00:47:06,920
+This isn't for everybody,
+
+1117
+00:47:06,920 --> 00:47:08,930
+certainly and you need to
+talk to your physician,
+
+1118
+00:47:08,930 --> 00:47:10,670
+but ketamine is being used
+
+1119
+00:47:10,670 --> 00:47:12,900
+so they might infuse
+somebody with ketamine
+
+1120
+00:47:12,900 --> 00:47:16,530
+so that their emotion it can still occur,
+
+1121
+00:47:16,530 --> 00:47:18,630
+but that the plasticity,
+
+1122
+00:47:18,630 --> 00:47:20,649
+the change in the wiring of their brain
+
+1123
+00:47:20,649 --> 00:47:23,740
+won't allow that intense emotion
+
+1124
+00:47:23,740 --> 00:47:25,440
+to be attached to the experience.
+
+1125
+00:47:25,440 --> 00:47:26,750
+Now immediately you can imagine
+
+1126
+00:47:26,750 --> 00:47:29,250
+the sort of ethical
+implications of this, right?
+
+1127
+00:47:29,250 --> 00:47:32,730
+Because certain emotions need
+to be coupled to experiences.
+
+1128
+00:47:32,730 --> 00:47:34,560
+I'm not saying that people
+should be using ketamine,
+
+1129
+00:47:34,560 --> 00:47:35,540
+or shouldn't be using ketamine,
+
+1130
+00:47:35,540 --> 00:47:38,550
+certainly not recreationally
+it's quite dangerous.
+
+1131
+00:47:38,550 --> 00:47:42,700
+It can be lethal and like PCP it can cause
+
+1132
+00:47:42,700 --> 00:47:45,450
+pretty dramatic changes in
+perception and behavior.
+
+1133
+00:47:45,450 --> 00:47:47,060
+But in the clinical setting
+
+1134
+00:47:47,060 --> 00:47:49,747
+the basis of ketamine assisted therapies
+
+1135
+00:47:49,747 --> 00:47:52,540
+is really to remove emotion.
+
+1136
+00:47:52,540 --> 00:47:54,210
+And I think the way I've been
+
+1137
+00:47:54,210 --> 00:47:56,650
+hearing about it talked
+about in the general public
+
+1138
+00:47:56,650 --> 00:47:58,890
+is a lot of people think
+it's a little bit more like
+
+1139
+00:47:58,890 --> 00:48:02,070
+the kind of psilocybin
+trials or the NMDA trials,
+
+1140
+00:48:02,070 --> 00:48:04,510
+where it's about becoming more emotional
+
+1141
+00:48:04,510 --> 00:48:06,670
+or getting in touch with
+a certain experience.
+
+1142
+00:48:06,670 --> 00:48:09,460
+Ketamine is about becoming dissociative
+
+1143
+00:48:09,460 --> 00:48:12,470
+or removed from the emotional
+component of experience.
+
+1144
+00:48:12,470 --> 00:48:16,430
+So now we have ketamine, which
+chemically blocks plasticity
+
+1145
+00:48:16,430 --> 00:48:18,860
+and prevents the connection between
+
+1146
+00:48:18,860 --> 00:48:20,820
+an emotion and an experience.
+
+1147
+00:48:20,820 --> 00:48:22,180
+That's a pharmacologic intervention.
+
+1148
+00:48:22,180 --> 00:48:25,360
+We have EMDR, which is
+this eye movement thing
+
+1149
+00:48:25,360 --> 00:48:27,610
+that is designed to suppress the amygdala,
+
+1150
+00:48:27,610 --> 00:48:29,850
+and it's designed to remove emotionality
+
+1151
+00:48:29,850 --> 00:48:31,890
+while somebody recounts an experience.
+
+1152
+00:48:31,890 --> 00:48:35,912
+And we have REM sleep, where
+the chemical epinephrin that
+
+1153
+00:48:35,912 --> 00:48:39,740
+allows for signaling of intense emotion
+
+1154
+00:48:39,740 --> 00:48:43,180
+and the experience of a tense
+emotion in the brain and body
+
+1155
+00:48:43,180 --> 00:48:44,120
+is not allowed.
+
+1156
+00:48:44,120 --> 00:48:47,790
+So we're starting to see
+a organizational logic,
+
+1157
+00:48:47,790 --> 00:48:50,930
+which is that a certain
+component of our sleeping life
+
+1158
+00:48:50,930 --> 00:48:52,800
+is acting like therapy.
+
+1159
+00:48:52,800 --> 00:48:55,930
+And that's really what REM sleep is about.
+
+1160
+00:48:55,930 --> 00:48:58,907
+So we should really think about REM sleep
+
+1161
+00:48:58,907 --> 00:49:01,390
+and slow wave sleep as both critical.
+
+1162
+00:49:01,390 --> 00:49:03,780
+Slow wave sleep for motor
+learning and detailed learning.
+
+1163
+00:49:03,780 --> 00:49:05,810
+REM sleep for attaching of emotions
+
+1164
+00:49:05,810 --> 00:49:07,169
+to particular experiences.
+
+1165
+00:49:07,169 --> 00:49:11,300
+And then for making sure that the emotions
+
+1166
+00:49:11,300 --> 00:49:13,770
+are not attached to the wrong experiences
+
+1167
+00:49:13,770 --> 00:49:16,360
+and for unlearning emotional responses
+
+1168
+00:49:16,360 --> 00:49:18,630
+if they're too intense or severe.
+
+1169
+00:49:18,630 --> 00:49:21,494
+And this all speaks to
+the great importance of
+
+1170
+00:49:21,494 --> 00:49:23,130
+mastering one sleep,
+
+1171
+00:49:23,130 --> 00:49:25,160
+something that we talked about in episode
+
+1172
+00:49:25,160 --> 00:49:26,680
+two of the podcast.
+
+1173
+00:49:26,680 --> 00:49:30,294
+And making sure that if
+life has disruptive events,
+
+1174
+00:49:30,294 --> 00:49:33,200
+either due to travel or stress,
+
+1175
+00:49:33,200 --> 00:49:37,170
+or changes in school
+hours or food schedule,
+
+1176
+00:49:37,170 --> 00:49:39,640
+something that we talked about
+in episodes three and four,
+
+1177
+00:49:39,640 --> 00:49:44,550
+that one can still grab a hold
+and manage one sleep life.
+
+1178
+00:49:44,550 --> 00:49:48,093
+Because fundamentally the
+unlearning of emotions
+
+1179
+00:49:48,093 --> 00:49:50,900
+that are troubling to us
+
+1180
+00:49:50,900 --> 00:49:52,680
+is what allows us to move forward in life.
+
+1181
+00:49:52,680 --> 00:49:54,540
+And indeed the REM deprivation studies
+
+1182
+00:49:54,540 --> 00:49:57,010
+show that people become hyperemotional.
+
+1183
+00:49:57,010 --> 00:49:58,810
+They start to catastrophize.
+
+1184
+00:49:58,810 --> 00:50:00,893
+And it's no surprise therefore,
+
+1185
+00:50:00,893 --> 00:50:03,574
+that sleep disturbances correlate
+
+1186
+00:50:03,574 --> 00:50:08,445
+with so many emotional and
+psychological disturbances.
+
+1187
+00:50:08,445 --> 00:50:12,580
+By now it should just be obvious
+why that will be the case.
+
+1188
+00:50:12,580 --> 00:50:14,340
+In fact, the other day
+I was in a discussion
+
+1189
+00:50:14,340 --> 00:50:15,760
+with a colleague of mine
+
+1190
+00:50:15,760 --> 00:50:18,380
+who's down in Australia, Dr. Sarah McKay.
+
+1191
+00:50:18,380 --> 00:50:20,940
+I've known her for two decades now
+
+1192
+00:50:20,940 --> 00:50:23,360
+from the time she was at Oxford.
+
+1193
+00:50:23,360 --> 00:50:27,060
+And Sarah studies among other
+things menopause in the brain.
+
+1194
+00:50:27,060 --> 00:50:30,295
+And she was saying that
+a lot of the emotional
+
+1195
+00:50:30,295 --> 00:50:32,174
+effects of menopause,
+
+1196
+00:50:32,174 --> 00:50:35,500
+actually are not directly
+related to the hormones.
+
+1197
+00:50:35,500 --> 00:50:37,410
+There've been some really
+nice studies showing that
+
+1198
+00:50:37,410 --> 00:50:41,030
+the disruptions in temperature
+regulation in menopause
+
+1199
+00:50:41,030 --> 00:50:43,699
+mapped to changes in sleep regulation
+
+1200
+00:50:43,699 --> 00:50:48,296
+that then impact emotionality
+and an inability to
+
+1201
+00:50:48,296 --> 00:50:52,250
+correctly adjust the circuits
+related to emotionality.
+
+1202
+00:50:52,250 --> 00:50:54,070
+And I encourage you to look at her work.
+
+1203
+00:50:54,070 --> 00:50:55,730
+We'll probably have her
+as a guest on the podcast
+
+1204
+00:50:55,730 --> 00:50:56,730
+at some point in the future,
+
+1205
+00:50:56,730 --> 00:50:59,640
+'cause she's so knowledgeable
+about those sorts of issues,
+
+1206
+00:50:59,640 --> 00:51:02,040
+as well as issues related
+to testosterone and
+
+1207
+00:51:02,040 --> 00:51:03,970
+in people with all sorts of different
+
+1208
+00:51:03,970 --> 00:51:05,720
+chromosomal backgrounds.
+
+1209
+00:51:05,720 --> 00:51:10,720
+So sleep deprivation isn't
+just deprivation of energy.
+
+1210
+00:51:11,570 --> 00:51:13,880
+It's not just deprivation
+of immune function.
+
+1211
+00:51:13,880 --> 00:51:17,620
+It is deprivation of self-induced therapy
+
+1212
+00:51:17,620 --> 00:51:19,530
+every time we go to sleep.
+
+1213
+00:51:19,530 --> 00:51:23,230
+Okay. So things like EMDR
+and ketamine therapies
+
+1214
+00:51:23,230 --> 00:51:25,330
+are in-clinic therapies,
+
+1215
+00:51:25,330 --> 00:51:27,660
+but REM sleep is the one
+that you're giving yourself
+
+1216
+00:51:27,660 --> 00:51:29,630
+every night when you go to sleep.
+
+1217
+00:51:29,630 --> 00:51:31,590
+Which raises, I think,
+
+1218
+00:51:31,590 --> 00:51:33,380
+the other important question which is,
+
+1219
+00:51:33,380 --> 00:51:35,590
+how to get and how to
+know if you're getting
+
+1220
+00:51:35,590 --> 00:51:38,160
+the appropriate amount of REM
+sleep and slow wave sleep.
+
+1221
+00:51:38,160 --> 00:51:39,950
+So that's what we'll talk about next.
+
+1222
+00:51:39,950 --> 00:51:43,898
+So how should one go about
+getting the appropriate amount
+
+1223
+00:51:43,898 --> 00:51:46,500
+of slow-wave sleep and REM sleep
+
+1224
+00:51:46,500 --> 00:51:49,766
+and knowing that you're
+getting the right amount.
+
+1225
+00:51:49,766 --> 00:51:52,023
+Well, short of hooking
+yourself up to an EEG,
+
+1226
+00:51:52,907 --> 00:51:55,670
+it's gonna be tough to
+get exact measurements
+
+1227
+00:51:55,670 --> 00:51:58,720
+of brain states from night to night.
+
+1228
+00:51:58,720 --> 00:52:00,700
+Some people nowadays
+are using things like,
+
+1229
+00:52:00,700 --> 00:52:03,610
+the Oura Ring or a WHOOP
+band, or some other device
+
+1230
+00:52:03,610 --> 00:52:05,810
+to measure the quality
+and depth and duration
+
+1231
+00:52:05,810 --> 00:52:06,643
+of their sleep.
+
+1232
+00:52:06,643 --> 00:52:09,953
+And for many people those
+devices can be quite useful.
+
+1233
+00:52:10,900 --> 00:52:14,070
+Some people are only gauging
+their sleep by way of
+
+1234
+00:52:14,070 --> 00:52:15,910
+whether or not they feel rested,
+
+1235
+00:52:15,910 --> 00:52:17,630
+whether or not they feel
+like they're learning
+
+1236
+00:52:17,630 --> 00:52:19,330
+and they're getting better or not.
+
+1237
+00:52:20,250 --> 00:52:22,870
+There are some things
+that one can really do.
+
+1238
+00:52:22,870 --> 00:52:25,330
+And the first one might surprise you
+
+1239
+00:52:25,330 --> 00:52:26,470
+in light of everything I've said,
+
+1240
+00:52:26,470 --> 00:52:29,470
+and probably everything
+you've heard about sleep.
+
+1241
+00:52:29,470 --> 00:52:34,150
+There was a study done by
+a Harvard undergraduate,
+
+1242
+00:52:34,150 --> 00:52:38,630
+Emily Hoagland, who was
+in Robert Stickgold's lab
+
+1243
+00:52:38,630 --> 00:52:39,970
+at the time.
+
+1244
+00:52:39,970 --> 00:52:43,980
+And that's the study explored how
+
+1245
+00:52:43,980 --> 00:52:47,783
+variations in total sleep
+time related to learning,
+
+1246
+00:52:48,800 --> 00:52:53,510
+as compared to total sleep time itself.
+
+1247
+00:52:53,510 --> 00:52:58,190
+And to summarize the study,
+what they found was that
+
+1248
+00:52:58,190 --> 00:53:01,200
+it was more important to have
+
+1249
+00:53:01,200 --> 00:53:04,740
+a regular amount of sleep each night
+
+1250
+00:53:04,740 --> 00:53:08,340
+as opposed to the total duration.
+
+1251
+00:53:08,340 --> 00:53:11,950
+In other words, and what
+they showed was that
+
+1252
+00:53:11,950 --> 00:53:13,510
+improvements in learning
+
+1253
+00:53:14,450 --> 00:53:17,100
+or deficits in learning were
+more related to whether or not
+
+1254
+00:53:17,100 --> 00:53:20,922
+you got six hours, six
+hours, five hours, six hours,
+
+1255
+00:53:20,922 --> 00:53:25,040
+that was better than if
+somebody got for instance,
+
+1256
+00:53:25,040 --> 00:53:30,040
+six hours, 10 hours, seven
+hours, four or five hours.
+
+1257
+00:53:30,643 --> 00:53:32,930
+See you might say, "Well,
+that's crazy because I thought
+
+1258
+00:53:32,930 --> 00:53:34,127
+we were just all supposed
+to get more sleep
+
+1259
+00:53:34,127 --> 00:53:35,960
+and there's more REM towards morning."
+
+1260
+00:53:35,960 --> 00:53:39,730
+It turns out that forsake
+of learning new information
+
+1261
+00:53:39,730 --> 00:53:42,480
+and performance on exams in particular,
+
+1262
+00:53:42,480 --> 00:53:43,730
+that's what was measured,
+
+1263
+00:53:45,226 --> 00:53:48,810
+limiting the variation in
+the amount of your sleep
+
+1264
+00:53:48,810 --> 00:53:53,150
+is at least as important
+and perhaps more important
+
+1265
+00:53:53,150 --> 00:53:55,750
+than just getting more sleep overall.
+
+1266
+00:53:55,750 --> 00:53:58,510
+And I think this will
+bring people great relief,
+
+1267
+00:53:58,510 --> 00:53:59,990
+many people great relief
+
+1268
+00:53:59,990 --> 00:54:02,861
+who are struggling to "get enough sleep."
+
+1269
+00:54:02,861 --> 00:54:05,130
+Remember, a few episodes ago
+
+1270
+00:54:05,130 --> 00:54:07,222
+I talked about the difference between
+
+1271
+00:54:07,222 --> 00:54:10,120
+fatigue and insomnia.
+
+1272
+00:54:10,120 --> 00:54:13,120
+You know, fatigue tends
+to be when we are tired.
+
+1273
+00:54:13,120 --> 00:54:14,921
+Insomnia tends to lead to a
+
+1274
+00:54:14,921 --> 00:54:17,880
+sleepiness during the day
+when we're falling asleep.
+
+1275
+00:54:17,880 --> 00:54:18,930
+And you don't want that,
+
+1276
+00:54:18,930 --> 00:54:21,180
+you don't want either
+of those things really.
+
+1277
+00:54:21,180 --> 00:54:24,410
+But, I found it striking that
+
+1278
+00:54:24,410 --> 00:54:27,130
+the data from this study
+really point to the fact that
+
+1279
+00:54:27,130 --> 00:54:30,779
+consistently getting about
+the same amount of sleep
+
+1280
+00:54:30,779 --> 00:54:33,980
+is better than just getting more sleep.
+
+1281
+00:54:33,980 --> 00:54:34,813
+And I think nowadays
+
+1282
+00:54:34,813 --> 00:54:36,780
+so many people are just
+aiming for more sleep,
+
+1283
+00:54:36,780 --> 00:54:38,830
+and they're rather troubled
+about the fact that
+
+1284
+00:54:38,830 --> 00:54:40,100
+they're only getting five hours,
+
+1285
+00:54:40,100 --> 00:54:43,283
+or they're only getting
+six hours in some cases.
+
+1286
+00:54:44,500 --> 00:54:46,570
+It may be the case that
+they are sleep deprived
+
+1287
+00:54:46,570 --> 00:54:48,000
+and they need more sleep,
+
+1288
+00:54:48,000 --> 00:54:50,220
+but some people just
+have a lower sleep need.
+
+1289
+00:54:50,220 --> 00:54:53,780
+And I find great relief,
+personally, in the fact that
+
+1290
+00:54:53,780 --> 00:54:56,615
+consistently getting,
+for me, about six hours
+
+1291
+00:54:56,615 --> 00:54:59,900
+or six and a half hours is
+going to be more beneficial
+
+1292
+00:54:59,900 --> 00:55:01,910
+than constantly striving for eight or nine
+
+1293
+00:55:01,910 --> 00:55:03,730
+and finding that some
+nights I'm getting five
+
+1294
+00:55:03,730 --> 00:55:05,310
+and sometimes I'm getting nine
+
+1295
+00:55:05,310 --> 00:55:06,650
+and varying around the mean.
+
+1296
+00:55:06,650 --> 00:55:09,770
+As I recall, and I think I'm
+gonna get this precisely right,
+
+1297
+00:55:09,770 --> 00:55:12,040
+but if not I know that I'm at least close.
+
+1298
+00:55:12,040 --> 00:55:15,430
+For every hour variation in sleep
+
+1299
+00:55:15,430 --> 00:55:18,204
+regardless of whether
+or not it was more sleep
+
+1300
+00:55:18,204 --> 00:55:19,280
+than one typically got,
+
+1301
+00:55:19,280 --> 00:55:22,844
+there was a 17% reduction in performance
+
+1302
+00:55:22,844 --> 00:55:25,646
+on this particular exam type.
+
+1303
+00:55:25,646 --> 00:55:27,700
+So this is powerful.
+
+1304
+00:55:27,700 --> 00:55:29,550
+This means that we should strive for
+
+1305
+00:55:29,550 --> 00:55:31,570
+a regular amount of sleep.
+
+1306
+00:55:31,570 --> 00:55:33,670
+And for some of us that
+means falling asleep
+
+1307
+00:55:33,670 --> 00:55:34,960
+and waking up and going back to sleep.
+
+1308
+00:55:34,960 --> 00:55:36,959
+For some people means falling asleep and
+
+1309
+00:55:36,959 --> 00:55:39,760
+waking up and not getting back to sleep.
+
+1310
+00:55:39,760 --> 00:55:41,010
+Now ideally, you're getting
+
+1311
+00:55:41,010 --> 00:55:44,620
+the full compliment of slow
+wave sleep early at night
+
+1312
+00:55:44,620 --> 00:55:46,870
+and sleep toward morning,
+which is REM sleep.
+
+1313
+00:55:46,870 --> 00:55:49,610
+Which brings us to, how
+to get more REM sleep.
+
+1314
+00:55:49,610 --> 00:55:52,397
+Well, there are a couple
+of different ways but
+
+1315
+00:55:52,397 --> 00:55:57,100
+here's how to not get
+more REM sleep. All right.
+
+1316
+00:55:57,100 --> 00:55:59,610
+First of all, drink a lot of fluid
+
+1317
+00:55:59,610 --> 00:56:00,920
+right before going to sleep.
+
+1318
+00:56:00,920 --> 00:56:02,340
+One of the reasons why we wake up
+
+1319
+00:56:02,340 --> 00:56:04,240
+in the middle of the
+night to use the bathroom
+
+1320
+00:56:04,240 --> 00:56:06,618
+is because when our bladder is full
+
+1321
+00:56:06,618 --> 00:56:08,510
+there is a neural connection,
+
+1322
+00:56:08,510 --> 00:56:10,870
+literally a set of neurons
+and a nerve circuit
+
+1323
+00:56:10,870 --> 00:56:13,193
+that goes to the brain
+stem that wakes us up.
+
+1324
+00:56:14,514 --> 00:56:16,307
+Actually some people
+
+1325
+00:56:16,307 --> 00:56:18,830
+that I know and won't be mentioned,
+
+1326
+00:56:18,830 --> 00:56:20,560
+actually use this to try and adjust
+
+1327
+00:56:20,560 --> 00:56:22,360
+for their jet lag when
+they're trying to stay awake.
+
+1328
+00:56:22,360 --> 00:56:25,610
+Having to urinate is one of the most
+
+1329
+00:56:25,610 --> 00:56:28,610
+anxiety evoking experiences
+anyone can have.
+
+1330
+00:56:28,610 --> 00:56:30,190
+If you really have to go to the bathroom
+
+1331
+00:56:30,190 --> 00:56:32,580
+it's very hard to fall
+asleep or stay asleep.
+
+1332
+00:56:32,580 --> 00:56:35,680
+And bedwetting, which happens in kids
+
+1333
+00:56:35,680 --> 00:56:40,626
+very early on is a failure
+of those circuits to mature
+
+1334
+00:56:40,626 --> 00:56:44,350
+until, you know, I think
+we all assume that babies
+
+1335
+00:56:44,350 --> 00:56:46,010
+are gonna pee in their sleep,
+
+1336
+00:56:46,010 --> 00:56:48,945
+but adults aren't supposed to do that.
+
+1337
+00:56:48,945 --> 00:56:51,300
+And the circuits take some time to develop
+
+1338
+00:56:51,300 --> 00:56:52,240
+and in some kids they develop
+
+1339
+00:56:52,240 --> 00:56:53,960
+a little bit later than others.
+
+1340
+00:56:53,960 --> 00:56:57,740
+So having a full bladder is
+one way to disrupt your sleep.
+
+1341
+00:56:57,740 --> 00:57:00,440
+You don't wanna go to bed
+dehydrated, but that's one way.
+
+1342
+00:57:00,440 --> 00:57:03,440
+On the other hand there is evidence
+
+1343
+00:57:03,440 --> 00:57:06,000
+that if you want to
+remember your dreams more,
+
+1344
+00:57:06,000 --> 00:57:08,840
+or remember more of your dreams
+
+1345
+00:57:08,840 --> 00:57:10,530
+there is a tool that you can use.
+
+1346
+00:57:10,530 --> 00:57:12,160
+I don't necessarily recommend it,
+
+1347
+00:57:12,160 --> 00:57:14,510
+which is to drink a bunch of
+water before you go to sleep.
+
+1348
+00:57:14,510 --> 00:57:15,660
+And then what happens is
+
+1349
+00:57:15,660 --> 00:57:17,950
+you tend to break in and out of REM sleep.
+
+1350
+00:57:17,950 --> 00:57:19,470
+It tends to be fractured.
+
+1351
+00:57:19,470 --> 00:57:21,443
+And with a sleep journal
+
+1352
+00:57:21,443 --> 00:57:23,180
+and they've done these laboratory studies.
+
+1353
+00:57:23,180 --> 00:57:26,050
+Believe it or not, people will
+recall more of their dreams
+
+1354
+00:57:26,050 --> 00:57:27,980
+because they're in this
+kind of semi-conscious state
+
+1355
+00:57:27,980 --> 00:57:30,310
+because they're constantly
+waking up throughout the night.
+
+1356
+00:57:30,310 --> 00:57:32,780
+I suggest not having a full
+bladder before you go to sleep.
+
+1357
+00:57:32,780 --> 00:57:36,250
+That one's kind of an
+obvious one, but nonetheless.
+
+1358
+00:57:36,250 --> 00:57:39,970
+The other one is if you
+recall that during REM sleep
+
+1359
+00:57:39,970 --> 00:57:43,220
+we have a shift in
+neurotransmitter such that
+
+1360
+00:57:45,255 --> 00:57:46,088
+we have less
+
+1361
+00:57:47,830 --> 00:57:49,230
+serotonin, right?
+
+1362
+00:57:49,230 --> 00:57:50,310
+Just wanna make sure I got that right.
+
+1363
+00:57:50,310 --> 00:57:51,863
+Excuse me, less serotonin.
+
+1364
+00:57:53,288 --> 00:57:55,860
+There are a lot of supplements out there
+
+1365
+00:57:55,860 --> 00:57:58,230
+geared toward improving sleep.
+
+1366
+00:57:58,230 --> 00:58:00,750
+I've taken some of them and
+I've taken many of them,
+
+1367
+00:58:00,750 --> 00:58:03,160
+if not all of them at this point.
+
+1368
+00:58:03,160 --> 00:58:04,750
+So I could report back to you.
+
+1369
+00:58:04,750 --> 00:58:06,430
+And I think I mentioned
+on a previous episode
+
+1370
+00:58:06,430 --> 00:58:08,152
+that when I take tryptophan,
+
+1371
+00:58:08,152 --> 00:58:10,207
+or anything that contains 5-HTP, which is
+
+1372
+00:58:10,207 --> 00:58:13,555
+serotonin or a precursor to serotonin,
+
+1373
+00:58:13,555 --> 00:58:15,260
+serotonin is made from tryptophan,
+
+1374
+00:58:15,260 --> 00:58:17,470
+I tend to fall very deeply asleep
+
+1375
+00:58:17,470 --> 00:58:19,057
+and then wake up a few hours later.
+
+1376
+00:58:19,057 --> 00:58:22,090
+And that makes sense now
+based on the fact that,
+
+1377
+00:58:22,090 --> 00:58:24,200
+you just don't want a lot
+of REM sleep early on.
+
+1378
+00:58:24,200 --> 00:58:25,611
+What was probably happening
+
+1379
+00:58:25,611 --> 00:58:27,030
+is that I was getting a
+lot of REM sleep early on,
+
+1380
+00:58:27,030 --> 00:58:28,590
+because low levels of serotonin
+
+1381
+00:58:28,590 --> 00:58:31,527
+are typically associated
+with slow wave sleep
+
+1382
+00:58:31,527 --> 00:58:33,240
+and that comes early in the night.
+
+1383
+00:58:33,240 --> 00:58:35,360
+So for some people those
+supplements might work,
+
+1384
+00:58:35,360 --> 00:58:38,653
+but be aware serotonin supplements
+
+1385
+00:58:38,653 --> 00:58:42,425
+could disrupt the timing of
+REM sleep and slow wave sleep.
+
+1386
+00:58:42,425 --> 00:58:44,700
+And in my case led to waking up
+
+1387
+00:58:44,700 --> 00:58:46,250
+very shortly after going to sleep
+
+1388
+00:58:46,250 --> 00:58:48,750
+and not being able to get back to sleep.
+
+1389
+00:58:48,750 --> 00:58:52,380
+Now if you want to increase
+your slow wave sleep.
+
+1390
+00:58:52,380 --> 00:58:54,880
+That's interesting. There
+are ways to do that.
+
+1391
+00:58:54,880 --> 00:58:58,230
+One of the most powerful ways
+to increase slow wave sleep,
+
+1392
+00:58:58,230 --> 00:59:00,424
+the percentage of slow wave sleep,
+
+1393
+00:59:00,424 --> 00:59:02,410
+apparently without any disruption
+
+1394
+00:59:02,410 --> 00:59:05,730
+to the other components
+of sleep and learning
+
+1395
+00:59:05,730 --> 00:59:08,440
+is to engage in resistance exercise.
+
+1396
+00:59:08,440 --> 00:59:10,640
+It's pretty clear that resistance exercise
+
+1397
+00:59:10,640 --> 00:59:13,420
+triggers a number of metabolic
+and endocrine pathways
+
+1398
+00:59:13,420 --> 00:59:16,470
+that lend themselves to
+release of growth hormone,
+
+1399
+00:59:16,470 --> 00:59:18,740
+which happens early in the night.
+
+1400
+00:59:18,740 --> 00:59:21,806
+And resistance exercise
+therefore can induce
+
+1401
+00:59:21,806 --> 00:59:24,670
+a greater percentage of slow wave sleep.
+
+1402
+00:59:24,670 --> 00:59:27,430
+It doesn't have to be done very
+close to going to bed time.
+
+1403
+00:59:27,430 --> 00:59:28,770
+In fact, for some people
+
+1404
+00:59:28,770 --> 00:59:30,130
+the exercise could be disruptive,
+
+1405
+00:59:30,130 --> 00:59:32,730
+for reasons I've talked
+about in previous episodes.
+
+1406
+00:59:32,730 --> 00:59:35,430
+But resistance exercise,
+unlike aerobic exercise
+
+1407
+00:59:35,430 --> 00:59:38,280
+does seem to increase the
+amount of slow wave sleep,
+
+1408
+00:59:38,280 --> 00:59:40,650
+which as we know is involved in
+
+1409
+00:59:40,650 --> 00:59:42,890
+motor learning and the acquisition of
+
+1410
+00:59:42,890 --> 00:59:45,510
+fine detailed information
+not general rules,
+
+1411
+00:59:45,510 --> 00:59:48,143
+or the emotional
+components of experiences.
+
+1412
+00:59:49,100 --> 00:59:52,380
+For those of you that are
+interested in lucid dreaming
+
+1413
+00:59:52,380 --> 00:59:54,990
+and would like to increase
+the amount of lucid dreaming
+
+1414
+00:59:54,990 --> 00:59:56,510
+that you're experiencing,
+
+1415
+00:59:56,510 --> 00:59:58,590
+I haven't been able to
+track down that device
+
+1416
+00:59:58,590 --> 01:00:01,400
+with the red light that I
+described at the beginning,
+
+1417
+01:00:01,400 --> 01:00:04,150
+but there are a number of just simple
+
+1418
+01:00:04,150 --> 01:00:07,750
+zero technology tools that
+one could use in principle.
+
+1419
+01:00:07,750 --> 01:00:09,592
+One is to set a queue.
+
+1420
+01:00:09,592 --> 01:00:13,790
+The way this works is you come
+up with a simple statement
+
+1421
+01:00:13,790 --> 01:00:17,080
+about something that you'd like to see,
+
+1422
+01:00:17,080 --> 01:00:20,181
+or experience later in dreams.
+
+1423
+01:00:20,181 --> 01:00:24,379
+You can, for instance,
+write down, you know,
+
+1424
+01:00:24,379 --> 01:00:29,060
+something like, I want to
+remember the red apple.
+
+1425
+01:00:29,060 --> 01:00:31,010
+I know it sounds silly and trivial,
+
+1426
+01:00:31,010 --> 01:00:34,220
+and you look at that you would
+probably wanna write it down
+
+1427
+01:00:34,220 --> 01:00:35,053
+on a piece of paper.
+
+1428
+01:00:35,053 --> 01:00:36,810
+You might even want to draw a red apple,
+
+1429
+01:00:36,810 --> 01:00:39,530
+and then before you go to
+sleep you would look at it
+
+1430
+01:00:39,530 --> 01:00:41,820
+and then you would just go to sleep.
+
+1431
+01:00:41,820 --> 01:00:44,060
+There are some reports that doing that
+
+1432
+01:00:44,060 --> 01:00:47,510
+for several days in a row can
+lead to a situation in which
+
+1433
+01:00:47,510 --> 01:00:49,450
+you are suddenly in your dream
+
+1434
+01:00:49,450 --> 01:00:51,140
+and you remember the red apple,
+
+1435
+01:00:51,140 --> 01:00:53,980
+and that gives you a
+sort of tether to reality
+
+1436
+01:00:53,980 --> 01:00:55,360
+between the dream state and reality
+
+1437
+01:00:55,360 --> 01:00:57,270
+that allows you to navigate and shape
+
+1438
+01:00:57,270 --> 01:00:59,110
+and kind of adjust your dreams.
+
+1439
+01:00:59,110 --> 01:01:00,970
+Lucid dreaming does not have to be,
+
+1440
+01:01:00,970 --> 01:01:05,264
+or include the ability to
+alter features of the dream,
+
+1441
+01:01:05,264 --> 01:01:07,730
+you know, to be able to
+control things in the dream.
+
+1442
+01:01:07,730 --> 01:01:10,330
+Sometimes it's just the
+awareness that you are dreaming,
+
+1443
+01:01:10,330 --> 01:01:13,650
+but nonetheless some people
+enjoy lucid dreaming.
+
+1444
+01:01:13,650 --> 01:01:15,930
+And then for people that
+have a lot of lucid dreams
+
+1445
+01:01:15,930 --> 01:01:18,940
+that feel kind of overwhelmed by those,
+
+1446
+01:01:18,940 --> 01:01:21,593
+that's going to involve trying to
+
+1447
+01:01:21,593 --> 01:01:26,593
+embrace protocols that can set
+the right duration of sleep.
+
+1448
+01:01:27,100 --> 01:01:29,230
+There's a little bit
+of literature not a lot
+
+1449
+01:01:29,230 --> 01:01:31,510
+that shows that keeping the
+
+1450
+01:01:31,510 --> 01:01:34,112
+total amount of sleep per night
+
+1451
+01:01:34,112 --> 01:01:38,620
+to say six hours such that
+you begin sleep and end
+
+1452
+01:01:38,620 --> 01:01:41,820
+at the beginning and end of
+one of these ultradian cycles,
+
+1453
+01:01:41,820 --> 01:01:43,120
+can be better than waking up
+
+1454
+01:01:43,120 --> 01:01:45,470
+in the middle of one of
+these ultradian cycles.
+
+1455
+01:01:46,943 --> 01:01:49,190
+So try and find the right
+amount of sleep that you need,
+
+1456
+01:01:49,190 --> 01:01:50,130
+that's right for you,
+
+1457
+01:01:50,130 --> 01:01:52,370
+and then try and get that
+consistently night to night.
+
+1458
+01:01:52,370 --> 01:01:55,090
+If you're a lucid dreamer
+and you don't like it,
+
+1459
+01:01:55,090 --> 01:01:56,922
+then you may want to start to
+
+1460
+01:01:56,922 --> 01:01:59,520
+make sure that you're waking up
+
+1461
+01:01:59,520 --> 01:02:01,500
+at the end of one of
+these ultradian cycles.
+
+1462
+01:02:01,500 --> 01:02:03,130
+So in this case,
+
+1463
+01:02:03,130 --> 01:02:05,020
+it would be better to
+wake up after six hours
+
+1464
+01:02:05,020 --> 01:02:06,800
+than after seven and if you did
+
+1465
+01:02:06,800 --> 01:02:08,760
+sleep longer than six
+hours, maybe you'd wanna get
+
+1466
+01:02:08,760 --> 01:02:09,940
+to seven and a half hours.
+
+1467
+01:02:09,940 --> 01:02:10,900
+'Cause that's gonna reflect
+
+1468
+01:02:10,900 --> 01:02:12,670
+the end of one of these 90 minute cycles,
+
+1469
+01:02:12,670 --> 01:02:14,570
+as opposed to waking up in the middle.
+
+1470
+01:02:15,590 --> 01:02:18,020
+Alcohol. Alcohol and marijuana
+
+1471
+01:02:18,020 --> 01:02:20,740
+are well known to induce states that are
+
+1472
+01:02:20,740 --> 01:02:21,970
+pseudo sleep like.
+
+1473
+01:02:21,970 --> 01:02:24,300
+Especially, when people fall asleep
+
+1474
+01:02:24,300 --> 01:02:27,846
+after having consumed alcohol or THC,
+
+1475
+01:02:27,846 --> 01:02:30,643
+one of the active components of marijuana.
+
+1476
+01:02:31,670 --> 01:02:33,900
+Alcohol, THC
+
+1477
+01:02:33,900 --> 01:02:37,213
+and most things like them,
+
+1478
+01:02:37,213 --> 01:02:41,740
+meaning things that
+increase serotonin, or GABA
+
+1479
+01:02:41,740 --> 01:02:43,760
+are going to disrupt the pattern of sleep.
+
+1480
+01:02:43,760 --> 01:02:44,950
+They're going to disrupt the depth.
+
+1481
+01:02:44,950 --> 01:02:46,859
+They're going to disrupt
+
+1482
+01:02:46,859 --> 01:02:48,280
+the overall sequencing
+of more slow wave sleep
+
+1483
+01:02:48,280 --> 01:02:50,540
+early in the night and more
+REM sleep later in the night.
+
+1484
+01:02:50,540 --> 01:02:52,436
+That's just the reality.
+
+1485
+01:02:52,436 --> 01:02:55,079
+There are some things that
+
+1486
+01:02:55,079 --> 01:02:57,570
+at least, in a few
+studies that I could find
+
+1487
+01:02:57,570 --> 01:02:59,580
+seem to suggest that you could
+
+1488
+01:02:59,580 --> 01:03:01,770
+increase the amount of slow wave sleep
+
+1489
+01:03:01,770 --> 01:03:04,960
+using things like arginine,
+the amino acid arginine.
+
+1490
+01:03:04,960 --> 01:03:05,850
+Although, you really wanna check.
+
+1491
+01:03:05,850 --> 01:03:07,970
+Arginine can have effects
+on heart, et cetera
+
+1492
+01:03:07,970 --> 01:03:09,310
+has other effects.
+
+1493
+01:03:09,310 --> 01:03:11,887
+But, alcohol, THC, not
+gonna be great for sleep
+
+1494
+01:03:11,887 --> 01:03:13,720
+and depth of sleep.
+
+1495
+01:03:13,720 --> 01:03:15,590
+You might feel like you
+can fall asleep faster,
+
+1496
+01:03:15,590 --> 01:03:17,390
+but the sleep that you're accessing
+
+1497
+01:03:17,390 --> 01:03:19,550
+really isn't the kind of
+deep restorative sleep
+
+1498
+01:03:19,550 --> 01:03:21,920
+that you should be getting.
+
+1499
+01:03:21,920 --> 01:03:24,170
+Now, of course, if that's what you need
+
+1500
+01:03:24,170 --> 01:03:26,390
+in order to sleep and that's
+within your protocols,
+
+1501
+01:03:26,390 --> 01:03:27,223
+I've said here before,
+
+1502
+01:03:27,223 --> 01:03:28,470
+I'm not suggesting people take anything.
+
+1503
+01:03:28,470 --> 01:03:29,890
+I'm not a medical doctor.
+
+1504
+01:03:29,890 --> 01:03:30,723
+I'm not a cop.
+
+1505
+01:03:30,723 --> 01:03:33,201
+So I'm not trying to
+irregulate anyone's behavior.
+
+1506
+01:03:33,201 --> 01:03:36,530
+I'm just telling you
+what the literature says.
+
+1507
+01:03:36,530 --> 01:03:38,830
+Some of you may want
+to explore your dreams
+
+1508
+01:03:38,830 --> 01:03:40,762
+and meaning of dreams, et cetera.
+
+1509
+01:03:40,762 --> 01:03:43,130
+You know, there's not a lot of hard data
+
+1510
+01:03:43,130 --> 01:03:43,980
+about how to do this,
+
+1511
+01:03:43,980 --> 01:03:47,240
+but a lot of people report
+keeping a sleep journal,
+
+1512
+01:03:47,240 --> 01:03:49,320
+where a dream journal can be very useful.
+
+1513
+01:03:49,320 --> 01:03:51,360
+So they mark when they
+think they fell asleep
+
+1514
+01:03:51,360 --> 01:03:53,230
+the night before, when they woke up
+
+1515
+01:03:53,230 --> 01:03:55,350
+and if they wake up in
+the middle of the night,
+
+1516
+01:03:55,350 --> 01:03:57,404
+early in the morning
+they'll just write down
+
+1517
+01:03:57,404 --> 01:03:59,700
+what they can recall of their dreams.
+
+1518
+01:03:59,700 --> 01:04:01,910
+And even if they recall nothing,
+
+1519
+01:04:01,910 --> 01:04:04,640
+many people have the
+experience of mid morning
+
+1520
+01:04:04,640 --> 01:04:07,210
+or later afternoon that
+suddenly comes to them
+
+1521
+01:04:07,210 --> 01:04:10,150
+that they had a dream about
+something and writing that down.
+
+1522
+01:04:10,150 --> 01:04:11,860
+I kept a dream journal for a while.
+
+1523
+01:04:11,860 --> 01:04:13,340
+It didn't really afford me much.
+
+1524
+01:04:13,340 --> 01:04:14,950
+I didn't really learn anything
+
+1525
+01:04:14,950 --> 01:04:17,050
+except that my dreams were very bizarre.
+
+1526
+01:04:17,050 --> 01:04:20,345
+But, there are some things
+that happen in dreams
+
+1527
+01:04:20,345 --> 01:04:22,880
+that are associated with REM sleep
+
+1528
+01:04:22,880 --> 01:04:24,320
+as compared to slow wave sleep,
+
+1529
+01:04:24,320 --> 01:04:25,640
+which can tell you whether or not
+
+1530
+01:04:25,640 --> 01:04:28,980
+your dream likely happened in
+REM sleep or slow wave sleep.
+
+1531
+01:04:28,980 --> 01:04:30,900
+And the distinguishing
+feature it turns out
+
+1532
+01:04:30,900 --> 01:04:33,348
+is something called theory of mind.
+
+1533
+01:04:33,348 --> 01:04:35,020
+Theory of mind is actually an idea
+
+1534
+01:04:35,020 --> 01:04:38,500
+that was developed for the
+study and assessment of autism.
+
+1535
+01:04:38,500 --> 01:04:42,189
+And it was initially that
+phrase, theory of mind,
+
+1536
+01:04:42,189 --> 01:04:47,070
+was brought about by Simon Baron Cohen,
+
+1537
+01:04:47,070 --> 01:04:51,042
+who is Sacha Baron Cohen,
+the comedians brother.
+
+1538
+01:04:51,042 --> 01:04:54,484
+Simon Baron Cohen is a psychologist and
+
+1539
+01:04:54,484 --> 01:04:58,510
+to some extent an
+neuroscientist at Oxford.
+
+1540
+01:04:58,510 --> 01:05:01,334
+And theory of mind tests
+are done on children.
+
+1541
+01:05:01,334 --> 01:05:05,240
+And the theory of mind test is
+some what like the following,
+
+1542
+01:05:05,240 --> 01:05:07,490
+a child is brought into a laboratory
+
+1543
+01:05:07,490 --> 01:05:08,985
+and watches a video of
+
+1544
+01:05:08,985 --> 01:05:11,860
+a child playing with some sort of toy.
+
+1545
+01:05:11,860 --> 01:05:14,105
+And then at the end of
+playing with that toy
+
+1546
+01:05:14,105 --> 01:05:17,140
+they put the toy in a
+drawer and they go away,
+
+1547
+01:05:17,140 --> 01:05:21,162
+and then another child comes
+in and is looking around
+
+1548
+01:05:21,162 --> 01:05:24,840
+and then the experimenter asks the child
+
+1549
+01:05:24,840 --> 01:05:27,507
+who's in the experiment,
+the real child and says,
+
+1550
+01:05:27,507 --> 01:05:30,620
+"You know, what does the child think?
+
+1551
+01:05:30,620 --> 01:05:32,270
+You know, what are they feeling?"
+
+1552
+01:05:33,198 --> 01:05:35,520
+And most children have a particular age,
+
+1553
+01:05:35,520 --> 01:05:37,723
+five or six or older
+will say, "Oh, you know,
+
+1554
+01:05:37,723 --> 01:05:40,767
+he or she is confused, they
+don't know where the toy is."
+
+1555
+01:05:40,767 --> 01:05:42,204
+Or, they'll say something that implies
+
+1556
+01:05:42,204 --> 01:05:45,424
+what we call theory of mind,
+that they can put their
+
+1557
+01:05:45,424 --> 01:05:49,985
+ideas and their mind
+into what the other child
+
+1558
+01:05:49,985 --> 01:05:52,230
+is likely to be feeling or experiencing.
+
+1559
+01:05:52,230 --> 01:05:53,780
+That's theory of mind.
+
+1560
+01:05:53,780 --> 01:05:57,320
+And it turns out that this is used
+
+1561
+01:05:57,320 --> 01:05:59,930
+as one of the assessments for autism,
+
+1562
+01:05:59,930 --> 01:06:03,360
+because some children,
+not all, but some children
+
+1563
+01:06:03,360 --> 01:06:05,980
+that have autism or that
+go on to develop autism
+
+1564
+01:06:05,980 --> 01:06:07,660
+don't have this theory of mind.
+
+1565
+01:06:07,660 --> 01:06:10,250
+They tend to fixate on the fact that
+
+1566
+01:06:10,250 --> 01:06:12,120
+the first child put the toy in the drawer.
+
+1567
+01:06:12,120 --> 01:06:13,710
+They'll say it's in the drawer
+
+1568
+01:06:13,710 --> 01:06:15,610
+as opposed to answering the question
+
+1569
+01:06:15,610 --> 01:06:18,270
+which is how does the
+second child feel about it,
+
+1570
+01:06:18,270 --> 01:06:20,620
+or what are they experiencing?
+
+1571
+01:06:20,620 --> 01:06:22,545
+So theory of mind is something that
+
+1572
+01:06:22,545 --> 01:06:25,310
+emerges early in life as a part of the
+
+1573
+01:06:25,310 --> 01:06:27,120
+maturation of the circuits in the brain
+
+1574
+01:06:27,120 --> 01:06:31,950
+associated with emotional
+learning and social interactions.
+
+1575
+01:06:31,950 --> 01:06:35,500
+And we experienced this in certain dreams.
+
+1576
+01:06:35,500 --> 01:06:38,450
+So if you had a dream
+that you're puzzled about,
+
+1577
+01:06:38,450 --> 01:06:40,770
+or that you're fixated on
+and you're thinking about,
+
+1578
+01:06:40,770 --> 01:06:42,462
+you might ask, "In that dream
+
+1579
+01:06:42,462 --> 01:06:46,480
+was I assessing somebody
+else's emotion and feeling,
+
+1580
+01:06:46,480 --> 01:06:49,720
+or was I very much in my own
+first person experience?"
+
+1581
+01:06:49,720 --> 01:06:53,300
+And that the tendency
+is that theory of mind
+
+1582
+01:06:53,300 --> 01:06:58,158
+tends to show up most in
+these REM associated dreams.
+
+1583
+01:06:58,158 --> 01:07:00,470
+Now this isn't a hard and fast rule,
+
+1584
+01:07:00,470 --> 01:07:02,450
+but chances are if you were in a dream
+
+1585
+01:07:02,450 --> 01:07:04,470
+and you were thinking about other people
+
+1586
+01:07:04,470 --> 01:07:06,070
+who wanted to do something to you,
+
+1587
+01:07:06,070 --> 01:07:07,900
+you were thinking about their desire
+
+1588
+01:07:07,900 --> 01:07:10,730
+to chase you or help you,
+
+1589
+01:07:10,730 --> 01:07:12,700
+or something that was related
+
+1590
+01:07:12,700 --> 01:07:14,370
+to someone else's emotional experience.
+
+1591
+01:07:14,370 --> 01:07:17,001
+It was probably a REM dream.
+
+1592
+01:07:17,001 --> 01:07:19,620
+That dream occurred in
+rapid eye movement sleep
+
+1593
+01:07:19,620 --> 01:07:21,660
+as opposed to slow wave sleep.
+
+1594
+01:07:21,660 --> 01:07:24,338
+And that makes sense when you
+think about the role of REM
+
+1595
+01:07:24,338 --> 01:07:28,750
+in emotional unlearning of associations
+
+1596
+01:07:28,750 --> 01:07:30,100
+with particular life events.
+
+1597
+01:07:30,100 --> 01:07:33,960
+That REM is rich with
+all sorts of exploration
+
+1598
+01:07:33,960 --> 01:07:37,760
+of the emotional load of being chased,
+
+1599
+01:07:37,760 --> 01:07:39,160
+or the emotional load of
+
+1600
+01:07:39,160 --> 01:07:40,890
+having to take an exam the next day,
+
+1601
+01:07:40,890 --> 01:07:42,570
+or being late for something.
+
+1602
+01:07:42,570 --> 01:07:45,430
+But again, if you're fixated
+
+1603
+01:07:45,430 --> 01:07:48,250
+or you can recall thinking a lot about,
+
+1604
+01:07:48,250 --> 01:07:49,330
+or feeling a lot about
+
+1605
+01:07:49,330 --> 01:07:51,800
+what somebody else's motivations were
+
+1606
+01:07:51,800 --> 01:07:54,260
+then chances are it was in REM and if not
+
+1607
+01:07:54,260 --> 01:07:56,780
+chances are it was in slow wave sleep.
+
+1608
+01:07:56,780 --> 01:08:01,298
+Today we've been in a deep
+dive of sleep and dreaming,
+
+1609
+01:08:01,298 --> 01:08:03,139
+learning and unlearning.
+
+1610
+01:08:03,139 --> 01:08:06,170
+And I just want to recap
+a few of the highlights
+
+1611
+01:08:06,170 --> 01:08:07,934
+and important points.
+
+1612
+01:08:07,934 --> 01:08:11,470
+A lot more slow wave sleep and
+less REM early in the night,
+
+1613
+01:08:11,470 --> 01:08:14,662
+more REM and less slow wave
+sleep later in the night.
+
+1614
+01:08:14,662 --> 01:08:16,997
+REM sleep is associated with
+
+1615
+01:08:16,997 --> 01:08:20,969
+intense experiences without
+this chemical epinephrine
+
+1616
+01:08:20,970 --> 01:08:23,649
+that allows us the anxiety or fear.
+
+1617
+01:08:23,649 --> 01:08:26,099
+And almost certainly has an important role
+
+1618
+01:08:26,100 --> 01:08:29,620
+in uncoupling of emotion from experiences.
+
+1619
+01:08:29,620 --> 01:08:33,080
+Kind of self-induced therapy
+that we go into each night.
+
+1620
+01:08:33,080 --> 01:08:35,010
+That bears striking resemblance
+
+1621
+01:08:35,010 --> 01:08:38,670
+to things like EMDR and
+ketamine therapies and so forth.
+
+1622
+01:08:38,670 --> 01:08:41,457
+Slow wave sleep is critical, however,
+
+1623
+01:08:41,457 --> 01:08:43,700
+it's critical mostly for motor learning
+
+1624
+01:08:43,700 --> 01:08:45,779
+and the learning of specific details.
+
+1625
+01:08:45,779 --> 01:08:50,319
+So REM is kind of emotions and
+general themes and meaning,
+
+1626
+01:08:50,319 --> 01:08:53,345
+and slow wave sleep, motor
+learning and details.
+
+1627
+01:08:53,345 --> 01:08:57,775
+I personally find it fascinating
+that consistency of sleep,
+
+1628
+01:08:57,776 --> 01:09:01,040
+meaning getting six hours every night
+
+1629
+01:09:01,040 --> 01:09:04,109
+is better than getting ten
+one night, eight the next,
+
+1630
+01:09:04,109 --> 01:09:05,722
+five the next, four the next.
+
+1631
+01:09:06,580 --> 01:09:09,569
+I find that fascinating and I
+think I also like it because
+
+1632
+01:09:09,569 --> 01:09:11,029
+it's something I can control better
+
+1633
+01:09:11,029 --> 01:09:12,209
+than just trying to sleep more,
+
+1634
+01:09:12,210 --> 01:09:14,439
+which I think I'm not
+alone and agreeing that
+
+1635
+01:09:14,439 --> 01:09:16,589
+that's just hard for
+a lot of people to do.
+
+1636
+01:09:17,810 --> 01:09:21,120
+This episode also brings
+us to the conclusion of
+
+1637
+01:09:21,120 --> 01:09:24,870
+a five episode streak where
+we've been focusing on sleep
+
+1638
+01:09:24,870 --> 01:09:28,050
+and transitions in and out of
+sleep, non sleep depressed.
+
+1639
+01:09:28,050 --> 01:09:30,640
+We've talked about a lot
+of tools, morning light,
+
+1640
+01:09:30,640 --> 01:09:34,630
+evening light, avoiding lights,
+blue blockers, supplements,
+
+1641
+01:09:34,630 --> 01:09:37,770
+tools for measuring sleep
+duration and quality.
+
+1642
+01:09:37,770 --> 01:09:40,620
+We've been covering a lot of themes.
+
+1643
+01:09:40,620 --> 01:09:41,990
+I like to think that by now
+
+1644
+01:09:41,990 --> 01:09:45,520
+you're armed with a number
+of tools and information.
+
+1645
+01:09:45,520 --> 01:09:48,100
+Things like knowing when
+your temperature minimum is,
+
+1646
+01:09:48,100 --> 01:09:50,130
+knowing when you might
+wanna view light or not,
+
+1647
+01:09:50,130 --> 01:09:52,330
+when you might wanna
+eat or take hot showers,
+
+1648
+01:09:52,330 --> 01:09:54,120
+or God forbid a cold shower,
+
+1649
+01:09:54,120 --> 01:09:56,560
+something that most people
+including me more or less loath,
+
+1650
+01:09:56,560 --> 01:09:58,510
+but can have certain benefits.
+
+1651
+01:09:58,510 --> 01:10:00,892
+And that will allow you
+to shape your sleep life
+
+1652
+01:10:00,892 --> 01:10:03,220
+and get this consistent,
+
+1653
+01:10:03,220 --> 01:10:04,870
+or more or less consistent amount of sleep
+
+1654
+01:10:04,870 --> 01:10:06,090
+on a regular basis.
+
+1655
+01:10:06,090 --> 01:10:08,940
+Nobody's perfect. In fact
+I have this little joke
+
+1656
+01:10:08,940 --> 01:10:10,600
+that I sometimes tell, it's not funny.
+
+1657
+01:10:10,600 --> 01:10:13,260
+Like, most of the jokes I
+tell I'm told are not funny,
+
+1658
+01:10:13,260 --> 01:10:15,630
+but, you know, there's so
+much excitement now about
+
+1659
+01:10:15,630 --> 01:10:17,060
+intermittent fasting.
+
+1660
+01:10:17,060 --> 01:10:18,900
+Sometimes I think that
+someone should start
+
+1661
+01:10:18,900 --> 01:10:20,610
+something on intermittent
+sleep deprivation,
+
+1662
+01:10:20,610 --> 01:10:22,190
+although we're already doing that.
+
+1663
+01:10:22,190 --> 01:10:25,186
+We are all experiencing lack
+of sleep from time to time.
+
+1664
+01:10:25,186 --> 01:10:28,440
+And I don't think we should
+catastrophize that too much.
+
+1665
+01:10:28,440 --> 01:10:29,900
+I think that what we wanna do
+
+1666
+01:10:29,900 --> 01:10:33,610
+rather than accumulate
+a sleep anxiety is to...
+
+1667
+01:10:33,610 --> 01:10:37,230
+You know, if we get a bad
+night's sleep, we want to adjust,
+
+1668
+01:10:37,230 --> 01:10:38,590
+we want to get back on track
+
+1669
+01:10:38,590 --> 01:10:40,540
+and just get the
+consistent amount of sleep.
+
+1670
+01:10:40,540 --> 01:10:43,340
+Use those non sleep deep rest
+protocols to help us relax
+
+1671
+01:10:43,340 --> 01:10:44,410
+when we're feeling anxious,
+
+1672
+01:10:44,410 --> 01:10:46,980
+we're having trouble waking
+up in the middle of the night.
+
+1673
+01:10:46,980 --> 01:10:48,420
+There are a lot of tools out there,
+
+1674
+01:10:48,420 --> 01:10:50,720
+and most of them are zero cost.
+
+1675
+01:10:50,720 --> 01:10:52,991
+And so I hope you'll
+find those beneficial.
+
+1676
+01:10:52,991 --> 01:10:55,520
+If you've been hearing Costello snoring
+
+1677
+01:10:55,520 --> 01:10:56,950
+throughout this episode.
+
+1678
+01:10:56,950 --> 01:10:59,070
+I apologize in his behalf.
+
+1679
+01:10:59,070 --> 01:11:01,440
+As I said, in the welcome
+video to this podcast
+
+1680
+01:11:01,440 --> 01:11:03,090
+he's an integral part of the podcast.
+
+1681
+01:11:03,090 --> 01:11:04,360
+A few people have said, "Hey,
+
+1682
+01:11:04,360 --> 01:11:07,196
+that noise in the background
+is really disruptive."
+
+1683
+01:11:07,196 --> 01:11:09,550
+Hey, what can I say?
+
+1684
+01:11:09,550 --> 01:11:12,513
+Costello is a ten-year-old
+bulldog mastiff.
+
+1685
+01:11:12,513 --> 01:11:15,610
+The lifespan on those
+animals is about 10 years.
+
+1686
+01:11:15,610 --> 01:11:17,930
+So I'm not trying to make you feel guilty,
+
+1687
+01:11:17,930 --> 01:11:20,550
+but, you know, after he's gone
+there won't be any snoring,
+
+1688
+01:11:20,550 --> 01:11:23,206
+although I'll probably
+get a different dog.
+
+1689
+01:11:23,206 --> 01:11:25,894
+So sort of a, what were the
+kids say, sorry not sorry.
+
+1690
+01:11:25,894 --> 01:11:28,773
+Sorry not sorry about the snoring
+
+1691
+01:11:28,773 --> 01:11:31,070
+and I'm sorry if it's
+disruptive genuinely,
+
+1692
+01:11:31,070 --> 01:11:34,120
+but he's here for the hall.
+
+1693
+01:11:34,120 --> 01:11:36,123
+So that's what that's about.
+
+1694
+01:11:37,620 --> 01:11:40,270
+As we close out the segment on sleep
+
+1695
+01:11:40,270 --> 01:11:42,350
+we are moving into a new theme and topic
+
+1696
+01:11:42,350 --> 01:11:44,460
+for the next four to five episodes.
+
+1697
+01:11:44,460 --> 01:11:46,620
+We are going to discuss the science
+
+1698
+01:11:46,620 --> 01:11:50,100
+and the tools related to neuroplasticity.
+
+1699
+01:11:50,100 --> 01:11:52,880
+Neuroplasticity is a remarkable feature
+
+1700
+01:11:52,880 --> 01:11:54,080
+of the nervous system.
+
+1701
+01:11:54,080 --> 01:11:56,890
+In fact, it's the defining
+feature of the nervous system,
+
+1702
+01:11:56,890 --> 01:11:59,510
+which is its ability to change itself
+
+1703
+01:11:59,510 --> 01:12:01,170
+in response to experience.
+
+1704
+01:12:01,170 --> 01:12:03,710
+That is unlike every other tissue
+
+1705
+01:12:03,710 --> 01:12:06,510
+and collection of cells
+and organ in our body.
+
+1706
+01:12:06,510 --> 01:12:09,350
+It's really what makes us us as a species
+
+1707
+01:12:09,350 --> 01:12:12,310
+and it's what makes us us as individuals,
+
+1708
+01:12:12,310 --> 01:12:14,730
+and it's really where our potential lies.
+
+1709
+01:12:14,730 --> 01:12:17,430
+Everything that we know,
+everything we can do,
+
+1710
+01:12:17,430 --> 01:12:19,030
+and our true potential
+
+1711
+01:12:19,030 --> 01:12:21,080
+in terms of what we will ever be able to
+
+1712
+01:12:21,080 --> 01:12:23,914
+know, do, say, in life is set by
+
+1713
+01:12:23,914 --> 01:12:26,749
+the limits of neuroplasticity.
+
+1714
+01:12:26,749 --> 01:12:29,780
+So we're going to explore
+learning and childhood,
+
+1715
+01:12:29,780 --> 01:12:31,030
+learning and adulthood.
+
+1716
+01:12:31,030 --> 01:12:33,309
+We're going to discuss detailed protocols
+
+1717
+01:12:33,309 --> 01:12:37,180
+as they relate to sensory plasticity.
+
+1718
+01:12:37,180 --> 01:12:38,570
+Learning new sensory information,
+
+1719
+01:12:38,570 --> 01:12:42,200
+versus motor plasticity or
+sensory motor integration.
+
+1720
+01:12:42,200 --> 01:12:44,330
+We're going to talk about
+language acquisition.
+
+1721
+01:12:44,330 --> 01:12:45,770
+We're going to be talking about
+
+1722
+01:12:45,770 --> 01:12:47,950
+emotional acquisition and breadth.
+
+1723
+01:12:47,950 --> 01:12:50,040
+As well as, I think a
+topic a lot of people
+
+1724
+01:12:50,040 --> 01:12:51,693
+are gonna find fascinating is,
+
+1725
+01:12:51,693 --> 01:12:54,590
+the relationship between plasticity set
+
+1726
+01:12:54,590 --> 01:12:57,750
+during childhood attachment
+to parent or other caregiver,
+
+1727
+01:12:57,750 --> 01:13:01,091
+and how that maps onto
+adult relationships.
+
+1728
+01:13:01,091 --> 01:13:03,100
+Many of you have probably heard about
+
+1729
+01:13:03,100 --> 01:13:05,000
+secure attach or insecure attach.
+
+1730
+01:13:05,000 --> 01:13:07,550
+The A, B and C, D babies as they're called
+
+1731
+01:13:07,550 --> 01:13:09,390
+from the classic studies
+
+1732
+01:13:09,390 --> 01:13:10,623
+of Bowlby and others.
+
+1733
+01:13:11,918 --> 01:13:13,360
+But now there's actual
+neuroscience that can say
+
+1734
+01:13:13,360 --> 01:13:15,300
+which circuits were active
+
+1735
+01:13:15,300 --> 01:13:17,242
+during those early life attachment
+
+1736
+01:13:17,242 --> 01:13:21,520
+and how those map to
+adult attachment styles,
+
+1737
+01:13:21,520 --> 01:13:24,250
+challenges, and what makes us more likely
+
+1738
+01:13:24,250 --> 01:13:26,970
+to select certain partners
+and styles of attachment,
+
+1739
+01:13:26,970 --> 01:13:28,240
+as well as how to change those.
+
+1740
+01:13:28,240 --> 01:13:30,290
+It's really fascinating and I think
+
+1741
+01:13:30,290 --> 01:13:34,610
+neuroscience's time has
+come for neuroplasticity.
+
+1742
+01:13:34,610 --> 01:13:36,410
+We're also gonna talk, of course, about
+
+1743
+01:13:36,410 --> 01:13:39,090
+supplements and chemicals
+and machines and devices
+
+1744
+01:13:39,090 --> 01:13:42,418
+that can assist in speeding
+up the plasticity process.
+
+1745
+01:13:42,418 --> 01:13:44,530
+Or believe it or not, there are some cases
+
+1746
+01:13:44,530 --> 01:13:46,680
+where you might want to delay plasticity
+
+1747
+01:13:46,680 --> 01:13:48,970
+in order to get more depth of learning
+
+1748
+01:13:48,970 --> 01:13:51,270
+and have that learning last longer.
+
+1749
+01:13:51,270 --> 01:13:54,039
+Something that is just absolutely
+spectacular literature.
+
+1750
+01:13:54,039 --> 01:13:57,330
+So I'm very excited to
+move on to that topic soon.
+
+1751
+01:13:57,330 --> 01:13:59,230
+I hope that the tools that
+you've acquired so far
+
+1752
+01:13:59,230 --> 01:14:00,710
+and the knowledge that
+you've acquired so far
+
+1753
+01:14:00,710 --> 01:14:03,190
+is helping you with your self evaluation
+
+1754
+01:14:03,190 --> 01:14:04,940
+and experimentation as you see fit,
+
+1755
+01:14:04,940 --> 01:14:06,920
+and is allowing you to
+not just sleep better,
+
+1756
+01:14:06,920 --> 01:14:08,570
+but feel better while you're awake.
+
+1757
+01:14:08,570 --> 01:14:11,680
+And hopefully has set the
+stage for you to learn better
+
+1758
+01:14:11,680 --> 01:14:16,230
+as we start to march into
+the month on neuroplasticity.
+
+1759
+01:14:16,230 --> 01:14:18,520
+Many of you have asked
+how you can help support
+
+1760
+01:14:18,520 --> 01:14:20,540
+the Huberman Lab Podcast and we
+
+1761
+01:14:20,540 --> 01:14:22,660
+greatly appreciate the question.
+
+1762
+01:14:22,660 --> 01:14:24,060
+You can help support the podcast
+
+1763
+01:14:24,060 --> 01:14:26,020
+by subscribing to the YouTube channel,
+
+1764
+01:14:26,020 --> 01:14:27,420
+if you haven't already
+
+1765
+01:14:27,420 --> 01:14:31,160
+and leaving comments and
+questions in the comment section.
+
+1766
+01:14:31,160 --> 01:14:34,210
+If you could subscribe
+on Apple and or Spotify,
+
+1767
+01:14:34,210 --> 01:14:35,260
+that's helpful.
+
+1768
+01:14:35,260 --> 01:14:39,770
+And there's a place on Apple
+Podcasts to leave a rating,
+
+1769
+01:14:39,770 --> 01:14:43,515
+as well as comments about how
+you feel about the podcast.
+
+1770
+01:14:43,515 --> 01:14:47,050
+If you could suggest the
+podcast to friends and coworkers
+
+1771
+01:14:47,050 --> 01:14:48,620
+and anyone else that
+you think would benefit
+
+1772
+01:14:48,620 --> 01:14:51,050
+from the information
+that also really helps us
+
+1773
+01:14:51,050 --> 01:14:52,040
+get the word out.
+
+1774
+01:14:52,040 --> 01:14:54,530
+And of course, check out our sponsors
+
+1775
+01:14:54,530 --> 01:14:55,780
+because that's a very direct way
+
+1776
+01:14:55,780 --> 01:14:57,610
+to help us continue to
+get this information
+
+1777
+01:14:57,610 --> 01:14:58,980
+out to the general public.
+
+1778
+01:14:58,980 --> 01:15:00,650
+Many of you have asked about supplements
+
+1779
+01:15:00,650 --> 01:15:02,670
+and where I personally get my supplements.
+
+1780
+01:15:02,670 --> 01:15:04,710
+I've partnered with Thorne
+
+1781
+01:15:04,710 --> 01:15:07,140
+and I get my supplements
+from Thorne because,
+
+1782
+01:15:07,140 --> 01:15:09,542
+by my view they have the
+highest level of stringency
+
+1783
+01:15:09,542 --> 01:15:13,680
+and precision in terms
+of what's in the bottle.
+
+1784
+01:15:13,680 --> 01:15:16,360
+And they also have very
+high quality standards.
+
+1785
+01:15:16,360 --> 01:15:17,850
+They're partnered with the Mayo Clinic
+
+1786
+01:15:17,850 --> 01:15:20,530
+and all the major sports organizations.
+
+1787
+01:15:20,530 --> 01:15:22,099
+If you wanna try Thorne supplements
+
+1788
+01:15:22,099 --> 01:15:24,520
+you can go to thorne.com.
+
+1789
+01:15:24,520 --> 01:15:29,520
+So that's Thorne spelled
+thorne.com/u/huberman.
+
+1790
+01:15:31,070 --> 01:15:34,690
+And if you do that you can see
+the formulations that I take.
+
+1791
+01:15:34,690 --> 01:15:36,330
+And you'll also get 20% off,
+
+1792
+01:15:36,330 --> 01:15:39,820
+not just those formulations,
+but anything that Thorne makes.
+
+1793
+01:15:39,820 --> 01:15:43,751
+That's thorne.com/u/huberman
+
+1794
+01:15:43,751 --> 01:15:47,470
+to get 20% off anything that they provide.
+
+1795
+01:15:47,470 --> 01:15:50,550
+Last but not least, a
+few people wrote to me
+
+1796
+01:15:50,550 --> 01:15:55,550
+with some questions/corrections
+about things that I said
+
+1797
+01:15:55,860 --> 01:15:57,180
+in previous podcasts.
+
+1798
+01:15:57,180 --> 01:15:59,700
+So in keeping with my goal of
+
+1799
+01:15:59,700 --> 01:16:02,600
+making the information accurate and clear,
+
+1800
+01:16:02,600 --> 01:16:04,490
+I just want to correct myself
+
+1801
+01:16:04,490 --> 01:16:06,040
+about a few things that I said.
+
+1802
+01:16:06,900 --> 01:16:08,450
+One of those and I'm guessing
+
+1803
+01:16:08,450 --> 01:16:10,120
+it probably came from an endocrinologist
+
+1804
+01:16:10,120 --> 01:16:14,691
+or somebody else that knows
+a lot about testicles said,
+
+1805
+01:16:14,691 --> 01:16:17,660
+"Huberman, you mentioned that testosterone
+
+1806
+01:16:17,660 --> 01:16:20,740
+is made by the sertoli cells
+of the testes, and it's not.
+
+1807
+01:16:20,740 --> 01:16:22,860
+It's made by the leydig
+cells of the testes."
+
+1808
+01:16:22,860 --> 01:16:24,530
+And indeed you are correct.
+
+1809
+01:16:24,530 --> 01:16:27,480
+And so I want to make
+sure that I clarify that.
+
+1810
+01:16:27,480 --> 01:16:30,210
+Testosterone is made by the
+leydig cells of the testes,
+
+1811
+01:16:30,210 --> 01:16:31,487
+not by the sertoli cells.
+
+1812
+01:16:31,487 --> 01:16:35,430
+The sertoli cells make 5
+alpha-reductase and aromatase,
+
+1813
+01:16:35,430 --> 01:16:36,650
+and some other enzymes involved
+
+1814
+01:16:36,650 --> 01:16:39,080
+in conversion of testosterone into
+
+1815
+01:16:39,080 --> 01:16:40,740
+things like DHT and estrogen.
+
+1816
+01:16:40,740 --> 01:16:42,080
+So thank you for that correction.
+
+1817
+01:16:42,080 --> 01:16:44,730
+I genuinely appreciate it. I misspoke.
+
+1818
+01:16:44,730 --> 01:16:46,596
+The other thing I said,
+was at one point I said,
+
+1819
+01:16:46,596 --> 01:16:48,354
+"Typical temperature is 96.8
+
+1820
+01:16:48,354 --> 01:16:52,060
+when I actually meant to say 98.6."
+
+1821
+01:16:52,060 --> 01:16:55,810
+So it was a dyslexic slip
+on my part and I apologize.
+
+1822
+01:16:55,810 --> 01:16:57,800
+I don't know that I'm dyslexic.
+
+1823
+01:16:57,800 --> 01:17:00,930
+I know I haven't been clinically
+diagnosed with dyslexia,
+
+1824
+01:17:00,930 --> 01:17:03,250
+but I swapped them,
+which sometimes happens
+
+1825
+01:17:03,250 --> 01:17:04,660
+when I'm going fast.
+
+1826
+01:17:04,660 --> 01:17:07,487
+So I apologize. I'll use
+this a moment to just say
+
+1827
+01:17:07,487 --> 01:17:10,626
+temperature varies a lot
+across the day and night,
+
+1828
+01:17:10,626 --> 01:17:13,160
+that was a theme of previous podcasts.
+
+1829
+01:17:13,160 --> 01:17:16,260
+So we can't really talk about
+average temperature anyway,
+
+1830
+01:17:16,260 --> 01:17:17,430
+but I do want to be clear that
+
+1831
+01:17:17,430 --> 01:17:21,290
+most people think about
+average temperature as 98.6.
+
+1832
+01:17:21,290 --> 01:17:23,924
+I misspoke, my error and I apologize.
+
+1833
+01:17:23,924 --> 01:17:27,010
+Thank you for joining me in this journey
+
+1834
+01:17:27,010 --> 01:17:29,090
+of the nervous system in biology
+
+1835
+01:17:29,090 --> 01:17:31,570
+and trying to understand the mechanisms
+
+1836
+01:17:31,570 --> 01:17:34,480
+that make us who we are and
+how we function in sleep
+
+1837
+01:17:34,480 --> 01:17:35,729
+and in wakefulness.
+
+1838
+01:17:35,729 --> 01:17:38,829
+It's really an incredible
+landscape to consider
+
+1839
+01:17:38,829 --> 01:17:41,584
+and I hope that you're getting
+a lot out of the information.
+
+1840
+01:17:41,584 --> 01:17:44,628
+As always thank you for
+your interest in science.
+
+1841
+01:17:44,628 --> 01:17:47,211
+[upbeat music]
+

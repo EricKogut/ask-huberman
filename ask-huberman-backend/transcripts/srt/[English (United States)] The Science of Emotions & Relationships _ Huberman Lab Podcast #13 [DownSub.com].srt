@@ -1,0 +1,10891 @@
+1
+00:00:00,360 --> 00:00:02,350
+- [Andrew Huberman] Welcome
+to the Huberman Lab Podcast,
+
+2
+00:00:02,350 --> 00:00:03,417
+where we discuss science
+
+3
+00:00:03,417 --> 00:00:05,983
+and science-based tools for everyday life.
+
+4
+00:00:09,178 --> 00:00:10,890
+- My name is Andrew Huberman,
+
+5
+00:00:10,890 --> 00:00:12,258
+and I'm a professor of neurobiology
+
+6
+00:00:12,258 --> 00:00:15,980
+and ophthalmology at
+Stanford School of Medicine.
+
+7
+00:00:15,980 --> 00:00:17,200
+This podcast is separate
+
+8
+00:00:17,200 --> 00:00:19,268
+from my teaching and
+research roles at Stanford.
+
+9
+00:00:19,268 --> 00:00:21,740
+It is however part of my desire and effort
+
+10
+00:00:21,740 --> 00:00:24,760
+to bring zero-cost to consumer
+information about science
+
+11
+00:00:24,760 --> 00:00:27,890
+and science-related tools
+to the general public.
+
+12
+00:00:27,890 --> 00:00:29,015
+In keeping with that theme,
+
+13
+00:00:29,015 --> 00:00:32,320
+I'd like to thank the
+sponsors of today's podcast.
+
+14
+00:00:32,320 --> 00:00:34,532
+Our first sponsor is InsideTracker.
+
+15
+00:00:34,532 --> 00:00:37,656
+InsideTracker is a
+personalized nutrition platform
+
+16
+00:00:37,656 --> 00:00:40,456
+that analyzes data from your blood and DNA
+
+17
+00:00:40,456 --> 00:00:42,600
+to help you better understand your body
+
+18
+00:00:42,600 --> 00:00:44,500
+and inform your health goals.
+
+19
+00:00:44,500 --> 00:00:47,040
+I'm a big believer in
+getting blood test taken,
+
+20
+00:00:47,040 --> 00:00:50,095
+because it's simply the only
+way to get in-depth data
+
+21
+00:00:50,095 --> 00:00:52,711
+about your metabolic factors, hormones,
+
+22
+00:00:52,711 --> 00:00:55,050
+all the things that inform your immediate
+
+23
+00:00:55,050 --> 00:00:56,448
+and long-term health.
+
+24
+00:00:56,448 --> 00:00:58,987
+Nowadays, there are
+also excellent DNA tests
+
+25
+00:00:58,987 --> 00:01:00,770
+that can further inform you
+
+26
+00:01:00,770 --> 00:01:03,200
+about your immediate and long-term health.
+
+27
+00:01:03,200 --> 00:01:05,740
+Now the problem with most
+blood tests out there
+
+28
+00:01:05,740 --> 00:01:08,190
+is that you get information
+back, you get a lot of numbers,
+
+29
+00:01:08,190 --> 00:01:09,110
+and they'll tell you whether or not
+
+30
+00:01:09,110 --> 00:01:11,663
+your numbers are in normal
+range or high or low,
+
+31
+00:01:11,663 --> 00:01:12,990
+but they don't inform you
+
+32
+00:01:12,990 --> 00:01:14,729
+what steps to take as a consequence.
+
+33
+00:01:14,729 --> 00:01:17,270
+In addition, they can
+often be very confusing,
+
+34
+00:01:17,270 --> 00:01:19,650
+what all the factors are
+and what they really mean.
+
+35
+00:01:19,650 --> 00:01:22,320
+InsideTracker has a
+dashboard and a platform
+
+36
+00:01:22,320 --> 00:01:25,490
+that makes interpreting all
+that information really easy.
+
+37
+00:01:25,490 --> 00:01:27,120
+It also points you in the direction
+
+38
+00:01:27,120 --> 00:01:30,650
+of certain lifestyle factors,
+exercise, nutrition et cetera,
+
+39
+00:01:30,650 --> 00:01:31,660
+that you might want to change
+
+40
+00:01:31,660 --> 00:01:34,555
+in order to bring the numbers
+into the ranges that you want.
+
+41
+00:01:34,555 --> 00:01:36,130
+So InsideTracker is something
+
+42
+00:01:36,130 --> 00:01:37,750
+that I've been doing for some time now,
+
+43
+00:01:37,750 --> 00:01:39,890
+and it's really helped
+me inform the choices.
+
+44
+00:01:39,890 --> 00:01:41,190
+For instance, I've swapped out
+
+45
+00:01:41,190 --> 00:01:43,050
+some of the foods that
+I was eating regularly.
+
+46
+00:01:43,050 --> 00:01:44,800
+I found out I was actually too high
+
+47
+00:01:44,800 --> 00:01:46,270
+in certain vitamins and minerals,
+
+48
+00:01:46,270 --> 00:01:47,670
+I was too low in others.
+
+49
+00:01:47,670 --> 00:01:50,130
+It's really helped me adjust my diet
+
+50
+00:01:50,130 --> 00:01:51,770
+and my exercise regimes.
+
+51
+00:01:51,770 --> 00:01:53,040
+And it really gives me the confidence
+
+52
+00:01:53,040 --> 00:01:55,460
+that I'm on the path to long-term health.
+
+53
+00:01:55,460 --> 00:01:57,000
+So if you want to try InsideTracker,
+
+54
+00:01:57,000 --> 00:02:00,290
+you can go to insidetracker.com/huberman
+
+55
+00:02:00,290 --> 00:02:03,630
+to get 25% off any of
+InsideTracker's plans.
+
+56
+00:02:03,630 --> 00:02:05,730
+Use the code Huberman at checkout,
+
+57
+00:02:05,730 --> 00:02:08,350
+that's insidetracker.com/huberman
+
+58
+00:02:08,350 --> 00:02:11,190
+to get 25% off any of InsidTracker's plans
+
+59
+00:02:11,190 --> 00:02:13,690
+and use the code Huberman at checkout.
+
+60
+00:02:13,690 --> 00:02:16,115
+Our next sponsor is ExpressVPN.
+
+61
+00:02:16,115 --> 00:02:19,010
+ExpressVPN is a virtual private network
+
+62
+00:02:19,010 --> 00:02:20,460
+that keeps your data safe
+
+63
+00:02:20,460 --> 00:02:22,240
+and secure and private.
+
+64
+00:02:22,240 --> 00:02:24,450
+It does that by routing
+your internet activity
+
+65
+00:02:24,450 --> 00:02:26,600
+through their servers and encrypting it
+
+66
+00:02:26,600 --> 00:02:28,875
+so that no one can see or sell your data.
+
+67
+00:02:28,875 --> 00:02:31,010
+I started using ExpressVPN
+
+68
+00:02:31,010 --> 00:02:33,450
+because my bank account got hacked.
+
+69
+00:02:33,450 --> 00:02:35,070
+I still don't know
+exactly how it happened,
+
+70
+00:02:35,070 --> 00:02:37,170
+but it was an absolute mess.
+
+71
+00:02:37,170 --> 00:02:38,050
+I lost money,
+
+72
+00:02:38,050 --> 00:02:39,320
+I lost a lot of time.
+
+73
+00:02:39,320 --> 00:02:41,613
+I wouldn't want to have
+it happen to anybody.
+
+74
+00:02:41,613 --> 00:02:42,880
+When that happened,
+
+75
+00:02:42,880 --> 00:02:44,374
+I talked to my friends
+in the tech community
+
+76
+00:02:44,374 --> 00:02:46,400
+and they told me that even though
+
+77
+00:02:46,400 --> 00:02:48,610
+you think your internet
+connection is secure
+
+78
+00:02:48,610 --> 00:02:49,987
+oftentimes it's not.
+
+79
+00:02:49,987 --> 00:02:51,900
+So I tend to use internet connections
+
+80
+00:02:51,900 --> 00:02:55,940
+on planes, in hotels, in
+cafes, but also at home.
+
+81
+00:02:55,940 --> 00:02:57,094
+And I was told that even at home,
+
+82
+00:02:57,094 --> 00:03:00,340
+your data may not be
+as secure as you think.
+
+83
+00:03:00,340 --> 00:03:03,730
+And so with ExpressVPN, your
+data is absolutely secure,
+
+84
+00:03:03,730 --> 00:03:05,650
+so are your online activities.
+
+85
+00:03:05,650 --> 00:03:06,550
+The great thing is
+
+86
+00:03:06,550 --> 00:03:08,710
+you don't even notice that it's operating,
+
+87
+00:03:08,710 --> 00:03:09,830
+it's running in the background.
+
+88
+00:03:09,830 --> 00:03:13,010
+You just turn it on and it
+goes without you realizing
+
+89
+00:03:13,010 --> 00:03:14,480
+that your data is being protected,
+
+90
+00:03:14,480 --> 00:03:16,904
+it doesn't interfere with any
+of your online activities.
+
+91
+00:03:16,904 --> 00:03:19,731
+So I use ExpressVPN when I travel,
+
+92
+00:03:19,731 --> 00:03:22,270
+anytime I'm outside the
+house, when I'm at work
+
+93
+00:03:22,270 --> 00:03:23,790
+and when I'm at home.
+
+94
+00:03:23,790 --> 00:03:25,096
+If you want to try ExpressVPN,
+
+95
+00:03:25,096 --> 00:03:29,580
+you can go to expressvpn.com/huberman.
+
+96
+00:03:29,580 --> 00:03:32,044
+And if you do that, you'll
+get an extra three months free
+
+97
+00:03:32,044 --> 00:03:34,490
+on one of their one-year packages.
+
+98
+00:03:34,490 --> 00:03:37,730
+That's expressvpn.com/huberman
+
+99
+00:03:37,730 --> 00:03:40,359
+to get three months free
+on a one-year package.
+
+100
+00:03:40,359 --> 00:03:44,430
+The final sponsor of today's
+podcast is Magic Spoon.
+
+101
+00:03:44,430 --> 00:03:46,150
+Magic Spoon is a zero-sugar,
+
+102
+00:03:46,150 --> 00:03:48,319
+grain-free, keto-friendly cereal.
+
+103
+00:03:48,319 --> 00:03:50,280
+As I've mentioned before on the podcast,
+
+104
+00:03:50,280 --> 00:03:55,230
+I'm neither ketogenic, nor am
+I all-meat, nor am I vegan.
+
+105
+00:03:55,230 --> 00:03:57,960
+The way I eat is that
+early in the day I fast,
+
+106
+00:03:57,960 --> 00:04:00,210
+and then sometime around
+noon I eat my first meal,
+
+107
+00:04:00,210 --> 00:04:02,760
+and that meal is always low carbohydrate,
+
+108
+00:04:02,760 --> 00:04:03,810
+and then throughout the day,
+
+109
+00:04:03,810 --> 00:04:06,230
+I maintain a low carbohydrate diet.
+
+110
+00:04:06,230 --> 00:04:09,780
+The fasting and low carbohydrate
+diet during the daytime
+
+111
+00:04:09,780 --> 00:04:11,760
+optimizes alertness and wakefulness,
+
+112
+00:04:11,760 --> 00:04:13,840
+I want to be awake and be able to work.
+
+113
+00:04:13,840 --> 00:04:15,830
+And then at night is when
+I eat my carbohydrates,
+
+114
+00:04:15,830 --> 00:04:18,200
+'cause it facilitates
+the transition to sleep.
+
+115
+00:04:18,200 --> 00:04:21,793
+So for me, Magic Spoon is a
+terrific snack in the afternoon.
+
+116
+00:04:21,793 --> 00:04:24,200
+I'll sometimes even have it with lunch.
+
+117
+00:04:24,200 --> 00:04:25,180
+And the reason I like it
+
+118
+00:04:25,180 --> 00:04:26,930
+is because it tastes really delicious,
+
+119
+00:04:26,930 --> 00:04:29,680
+and it's compatible with the keto-friendly
+
+120
+00:04:29,680 --> 00:04:33,224
+or keto-like meals that
+I eat throughout the day.
+
+121
+00:04:33,224 --> 00:04:34,693
+They come in a variety of flavors,
+
+122
+00:04:34,693 --> 00:04:37,590
+cocoa, fruity, peanut butter, frosted.
+
+123
+00:04:37,590 --> 00:04:39,170
+I particularly like the frosted
+
+124
+00:04:39,170 --> 00:04:41,350
+because it tastes like
+donuts, in my opinion,
+
+125
+00:04:41,350 --> 00:04:42,940
+and I love donuts.
+
+126
+00:04:42,940 --> 00:04:43,773
+As a consequence,
+
+127
+00:04:43,773 --> 00:04:45,486
+I love Magic Spoon cereal.
+
+128
+00:04:45,486 --> 00:04:46,680
+I can consume it.
+
+129
+00:04:46,680 --> 00:04:50,430
+It tastes like a pastry and
+it has zero grams of sugar,
+
+130
+00:04:50,430 --> 00:04:51,263
+and it's compatible
+
+131
+00:04:51,263 --> 00:04:54,120
+with this nutritional
+regimen I mentioned earlier.
+
+132
+00:04:54,120 --> 00:04:55,530
+If you want to try Magic Spoon,
+
+133
+00:04:55,530 --> 00:04:58,390
+you can go to magicspoon.com/huberman
+
+134
+00:04:58,390 --> 00:04:59,704
+to grab a variety pack.
+
+135
+00:04:59,704 --> 00:05:04,210
+Use the code Huberman at checkout
+and get $5 off your order.
+
+136
+00:05:04,210 --> 00:05:06,670
+That's magicspoon.com/huberman,
+
+137
+00:05:06,670 --> 00:05:09,760
+and use the code Huberman to get $5 off.
+
+138
+00:05:09,760 --> 00:05:12,086
+This month, we're talking all
+about the science of emotions
+
+139
+00:05:12,086 --> 00:05:15,002
+and tools related to
+the science of emotions.
+
+140
+00:05:15,002 --> 00:05:18,239
+We've talked about the science
+of stress and resiliency,
+
+141
+00:05:18,239 --> 00:05:20,620
+tools to access more calm,
+
+142
+00:05:20,620 --> 00:05:24,120
+tools raise your stress threshold,
+to become more resilient.
+
+143
+00:05:24,120 --> 00:05:25,420
+We've talked about motivation
+
+144
+00:05:25,420 --> 00:05:27,074
+and the role of the dopamine system.
+
+145
+00:05:27,074 --> 00:05:29,290
+I'd like to make a couple of announcements
+
+146
+00:05:29,290 --> 00:05:30,786
+about some new resources.
+
+147
+00:05:30,786 --> 00:05:33,525
+The first one is that
+we have now captioned
+
+148
+00:05:33,525 --> 00:05:35,448
+all the Huberman Lab episodes
+
+149
+00:05:35,448 --> 00:05:37,434
+in English and in Spanish.
+
+150
+00:05:37,434 --> 00:05:38,770
+We were able to do that,
+
+151
+00:05:38,770 --> 00:05:41,706
+thanks to your support of
+our sponsors and on Patreon.
+
+152
+00:05:41,706 --> 00:05:44,370
+So now, all of the podcasts
+
+153
+00:05:44,370 --> 00:05:46,347
+have a captioning feature on YouTube,
+
+154
+00:05:46,347 --> 00:05:48,707
+and those were done by experts.
+
+155
+00:05:48,707 --> 00:05:51,335
+So while there might be
+the occasional error,
+
+156
+00:05:51,335 --> 00:05:53,746
+for the most part, they're very precise.
+
+157
+00:05:53,746 --> 00:05:54,920
+We've done that
+
+158
+00:05:54,920 --> 00:05:57,792
+so that people that prefer to
+consume the content in Spanish
+
+159
+00:05:57,792 --> 00:06:00,030
+or that like to read the content
+
+160
+00:06:00,030 --> 00:06:02,350
+from the English subtitles can do so.
+
+161
+00:06:02,350 --> 00:06:03,450
+And we're going to continue
+
+162
+00:06:03,450 --> 00:06:06,040
+to expand the number of
+languages that are captioned
+
+163
+00:06:06,040 --> 00:06:07,270
+for the Huberman Lab Podcast.
+
+164
+00:06:07,270 --> 00:06:08,828
+So we want to thank you for that resource.
+
+165
+00:06:08,828 --> 00:06:11,900
+It's now available for all episodes.
+
+166
+00:06:11,900 --> 00:06:14,190
+In addition, in previous episodes
+
+167
+00:06:14,190 --> 00:06:18,550
+I've talked about NSDR
+or non-sleep depressed.
+
+168
+00:06:18,550 --> 00:06:21,410
+NSDRs come in in a variety
+of different forms,
+
+169
+00:06:21,410 --> 00:06:23,690
+there's self-hypnosis.
+
+170
+00:06:23,690 --> 00:06:26,530
+I've pointed you to some
+resources for that previously.
+
+171
+00:06:26,530 --> 00:06:28,220
+There's yoga nidra.
+
+172
+00:06:28,220 --> 00:06:31,990
+NSDR is really about
+achieving calm quickly,
+
+173
+00:06:31,990 --> 00:06:35,270
+and doing that in a self-directed
+way, for many reasons,
+
+174
+00:06:35,270 --> 00:06:37,290
+in order to access sleep more readily,
+
+175
+00:06:37,290 --> 00:06:39,710
+in order to de-stress very deeply,
+
+176
+00:06:39,710 --> 00:06:42,374
+in order to replace
+sleep that you've lost.
+
+177
+00:06:42,374 --> 00:06:45,310
+It also seems to aid neuroplasticity.
+
+178
+00:06:45,310 --> 00:06:46,170
+It can enhance
+
+179
+00:06:46,170 --> 00:06:49,070
+the rearrangements of
+connections in the brain
+
+180
+00:06:49,070 --> 00:06:50,060
+that occur during learning,
+
+181
+00:06:50,060 --> 00:06:51,559
+there's scientific support for that.
+
+182
+00:06:51,559 --> 00:06:56,559
+There's a link in today's
+episode caption to a new site.
+
+183
+00:06:56,606 --> 00:06:58,094
+This is a YouTube video
+
+184
+00:06:58,094 --> 00:07:00,850
+that was brought free of cost
+
+185
+00:07:00,850 --> 00:07:02,440
+by the folks over at Madefor,
+
+186
+00:07:02,440 --> 00:07:04,990
+a company that's been a sponsor
+of the podcast previously.
+
+187
+00:07:04,990 --> 00:07:07,302
+So this is an NSDR script
+
+188
+00:07:07,302 --> 00:07:10,908
+that doesn't contain any of the intentions
+
+189
+00:07:10,908 --> 00:07:14,060
+or some of the more typical
+language of yoga nidra,
+
+190
+00:07:14,060 --> 00:07:17,536
+instead it's focused purely
+on the breathing protocols,
+
+191
+00:07:17,536 --> 00:07:20,020
+as well as includes a sort of body scan
+
+192
+00:07:20,020 --> 00:07:20,853
+where you direct
+
+193
+00:07:20,853 --> 00:07:22,970
+your attention to different
+locations around your body.
+
+194
+00:07:22,970 --> 00:07:26,162
+It has all the core elements
+of non-sleep deep rest,
+
+195
+00:07:26,162 --> 00:07:28,902
+but is distinct from yoga nidra.
+
+196
+00:07:28,902 --> 00:07:31,280
+I just offer this to you as a resource.
+
+197
+00:07:31,280 --> 00:07:32,370
+If you'd like to use it,
+
+198
+00:07:32,370 --> 00:07:35,120
+it's about 30 minutes long,
+and should be very effective
+
+199
+00:07:35,120 --> 00:07:37,350
+in bringing you into
+deep states of relaxation
+
+200
+00:07:37,350 --> 00:07:40,100
+for all the reasons I mentioned before.
+
+201
+00:07:40,100 --> 00:07:41,900
+So let's talk about emotions.
+
+202
+00:07:41,900 --> 00:07:43,470
+Emotions are a fascinating
+
+203
+00:07:43,470 --> 00:07:45,913
+and vital aspect of our life experience.
+
+204
+00:07:45,913 --> 00:07:47,960
+It's fair to say that emotions
+
+205
+00:07:47,960 --> 00:07:51,960
+make up most of what we think
+of as our experience of life,
+
+206
+00:07:51,960 --> 00:07:53,026
+even the things we do,
+
+207
+00:07:53,026 --> 00:07:55,077
+our behaviors and the places we go,
+
+208
+00:07:55,077 --> 00:07:57,639
+and the people we end up
+encountering in our life,
+
+209
+00:07:57,639 --> 00:08:02,450
+all of that really funnels
+into our emotional perception
+
+210
+00:08:02,450 --> 00:08:05,181
+of what those things mean,
+whether or not they made us happy
+
+211
+00:08:05,181 --> 00:08:10,181
+or sad or depressed or
+lonely, or were all inspiring.
+
+212
+00:08:10,217 --> 00:08:12,630
+Now one thing that is absolutely true
+
+213
+00:08:12,630 --> 00:08:14,820
+is that everyone's perception of emotion
+
+214
+00:08:14,820 --> 00:08:16,033
+is slightly different.
+
+215
+00:08:16,033 --> 00:08:20,280
+Meaning, your idea of happy
+is very likely different
+
+216
+00:08:20,280 --> 00:08:23,626
+than my idea of what a
+state of happiness is.
+
+217
+00:08:23,626 --> 00:08:27,720
+And we know this also for
+color vision, for instance,
+
+218
+00:08:27,720 --> 00:08:30,098
+even though the cells
+in your eye and my eye
+
+219
+00:08:30,098 --> 00:08:33,640
+that perceive the color red are identical
+
+220
+00:08:33,640 --> 00:08:35,599
+right down to the genes that they express,
+
+221
+00:08:35,599 --> 00:08:39,177
+we can be certain based
+on experimental evidence,
+
+222
+00:08:39,177 --> 00:08:41,186
+and what are called
+psychophysical studies,
+
+223
+00:08:41,186 --> 00:08:45,540
+that your idea of the most intense red
+
+224
+00:08:45,540 --> 00:08:46,570
+is going to be very different
+
+225
+00:08:46,570 --> 00:08:48,840
+than my idea of the most intense red
+
+226
+00:08:48,840 --> 00:08:51,050
+if we were given a selection
+of 10 different reds
+
+227
+00:08:51,050 --> 00:08:52,700
+and asked which one is most intense,
+
+228
+00:08:52,700 --> 00:08:54,980
+which one looks most red,
+
+229
+00:08:54,980 --> 00:08:56,200
+and that seems crazy,
+
+230
+00:08:56,200 --> 00:08:58,790
+you would think that
+something as simple as color
+
+231
+00:08:58,790 --> 00:09:00,962
+would be universal, and yet it's not.
+
+232
+00:09:00,962 --> 00:09:03,135
+And so we need to agree at the outset
+
+233
+00:09:03,135 --> 00:09:07,450
+that emotions are complicated
+and yet they are tractable.
+
+234
+00:09:07,450 --> 00:09:08,650
+They can be understood.
+
+235
+00:09:08,650 --> 00:09:09,990
+And today we're going to talk about
+
+236
+00:09:09,990 --> 00:09:13,421
+a lot of tools to
+understand what emotions are
+
+237
+00:09:13,421 --> 00:09:16,750
+for you to understand what
+your emotional states mean
+
+238
+00:09:16,750 --> 00:09:18,250
+and what they don't mean.
+
+239
+00:09:18,250 --> 00:09:20,620
+And in doing that, that will
+allow you to place value
+
+240
+00:09:20,620 --> 00:09:21,453
+on whether or not
+
+241
+00:09:21,453 --> 00:09:25,740
+you should hold an emotional
+state as true or not true,
+
+242
+00:09:25,740 --> 00:09:28,170
+whether or not it has
+meaning or it doesn't,
+
+243
+00:09:28,170 --> 00:09:30,040
+as well as whether or not
+the emotions of others
+
+244
+00:09:30,040 --> 00:09:33,032
+are important to you in a given context.
+
+245
+00:09:33,032 --> 00:09:35,390
+We're going to talk a
+lot about development.
+
+246
+00:09:35,390 --> 00:09:36,330
+In fact, we're going to center
+
+247
+00:09:36,330 --> 00:09:39,891
+a lot of our discussion today
+around infancy and puberty.
+
+248
+00:09:39,891 --> 00:09:41,840
+We're also going to talk about tools
+
+249
+00:09:41,840 --> 00:09:43,798
+for enhancing one's emotional range
+
+250
+00:09:43,798 --> 00:09:48,490
+and for navigating difficult
+emotional situations.
+
+251
+00:09:48,490 --> 00:09:50,060
+I'm not a clinical psychologist,
+
+252
+00:09:50,060 --> 00:09:50,896
+I'm not a therapist,
+
+253
+00:09:50,896 --> 00:09:53,627
+but I do have some
+background in psychology.
+
+254
+00:09:53,627 --> 00:09:56,090
+And today I'm going to be drawing
+
+255
+00:09:56,090 --> 00:09:58,200
+from the psychology greats, not me,
+
+256
+00:09:58,200 --> 00:10:01,230
+but from the greats of
+psychology who studied emotion,
+
+257
+00:10:01,230 --> 00:10:02,884
+who studied emotional development,
+
+258
+00:10:02,884 --> 00:10:05,420
+and linking that to the
+neuroscience of emotion.
+
+259
+00:10:05,420 --> 00:10:08,720
+Because nowadays we understand
+a lot about the chemicals
+
+260
+00:10:08,720 --> 00:10:10,670
+and the hormones and the neural circuits
+
+261
+00:10:10,670 --> 00:10:13,260
+in the brain and body
+that underlie emotion.
+
+262
+00:10:13,260 --> 00:10:14,240
+So while there's no
+
+263
+00:10:14,240 --> 00:10:17,358
+one single universally
+true theory of emotion,
+
+264
+00:10:17,358 --> 00:10:20,660
+at the intersection of many
+of the existing theories,
+
+265
+00:10:20,660 --> 00:10:21,970
+there are really some ground truth.
+
+266
+00:10:21,970 --> 00:10:23,893
+So today we're going to
+visit those ground truths.
+
+267
+00:10:23,893 --> 00:10:26,440
+We're going to talk about the
+tools that emerge from them.
+
+268
+00:10:26,440 --> 00:10:27,310
+And we're going to talk about
+
+269
+00:10:27,310 --> 00:10:29,730
+some absolutely wild and wacky experiments
+
+270
+00:10:29,730 --> 00:10:31,520
+that people are doing out there right now,
+
+271
+00:10:31,520 --> 00:10:33,650
+that I don't necessarily recommend you do,
+
+272
+00:10:33,650 --> 00:10:35,460
+of inhaling different types of hormones
+
+273
+00:10:35,460 --> 00:10:37,420
+and trying to get attached more quickly.
+
+274
+00:10:37,420 --> 00:10:38,253
+You're actually going to do
+
+275
+00:10:38,253 --> 00:10:40,180
+some experiential stuff today if you like.
+
+276
+00:10:40,180 --> 00:10:41,910
+There's some things that
+you can do in real time
+
+277
+00:10:41,910 --> 00:10:43,987
+while listening to the podcast,
+
+278
+00:10:43,987 --> 00:10:46,180
+in order to tap into
+
+279
+00:10:46,180 --> 00:10:48,190
+some of the mechanisms
+that I'll be referring to.
+
+280
+00:10:48,190 --> 00:10:49,780
+So today's going to be very interactive
+
+281
+00:10:49,780 --> 00:10:52,740
+in a way that previous
+podcast episodes have not.
+
+282
+00:10:52,740 --> 00:10:54,319
+If we want to understand emotions,
+
+283
+00:10:54,319 --> 00:10:57,356
+we have to look at where
+emotions first develop.
+
+284
+00:10:57,356 --> 00:11:00,180
+In fact, this is a critical central theme
+
+285
+00:11:00,180 --> 00:11:03,019
+if you want to understand
+brain science and psychology.
+
+286
+00:11:03,019 --> 00:11:05,447
+There's a rule in neuroanatomy.
+
+287
+00:11:05,447 --> 00:11:09,200
+Because if you look at 50
+different brains of humans
+
+288
+00:11:09,200 --> 00:11:12,120
+or you compare the brains
+of dogs and humans,
+
+289
+00:11:12,120 --> 00:11:13,540
+there are a lot of differences.
+
+290
+00:11:13,540 --> 00:11:14,430
+Certain things are the same
+
+291
+00:11:14,430 --> 00:11:15,870
+but certain things are different.
+
+292
+00:11:15,870 --> 00:11:18,840
+And the rule that every
+good neuroanatomist knows
+
+293
+00:11:18,840 --> 00:11:20,430
+is that if you want to understand
+
+294
+00:11:20,430 --> 00:11:22,036
+what a part of the brain does,
+
+295
+00:11:22,036 --> 00:11:23,910
+you have to address two questions.
+
+296
+00:11:23,910 --> 00:11:25,946
+First, you have to know what connections
+
+297
+00:11:25,946 --> 00:11:27,670
+does that brain area make?
+
+298
+00:11:27,670 --> 00:11:29,640
+What is it connected to?
+
+299
+00:11:29,640 --> 00:11:33,650
+Where does it get inputs from
+and where does it send inputs?
+
+300
+00:11:33,650 --> 00:11:35,830
+So for instance, if there's
+an area of the brain
+
+301
+00:11:35,830 --> 00:11:38,863
+that gets direct input from
+the neurons in the nose,
+
+302
+00:11:38,863 --> 00:11:41,150
+you can be pretty certain
+
+303
+00:11:41,150 --> 00:11:44,170
+that it has some role in analyzing smell
+
+304
+00:11:44,170 --> 00:11:46,530
+in measuring something about odors
+
+305
+00:11:46,530 --> 00:11:48,223
+or analyzing something about odors.
+
+306
+00:11:48,223 --> 00:11:50,790
+Now if it also gets input from the eye,
+
+307
+00:11:50,790 --> 00:11:52,720
+you can also conclude that it gets input
+
+308
+00:11:52,720 --> 00:11:55,084
+from the visual system that it cares about
+
+309
+00:11:55,084 --> 00:11:57,080
+light and photons.
+
+310
+00:11:57,080 --> 00:11:58,019
+This is sort of obvious.
+
+311
+00:11:58,019 --> 00:12:00,246
+And yet you need to
+know that connectivity,
+
+312
+00:12:00,246 --> 00:12:03,330
+and you need to know what's called
+
+313
+00:12:03,330 --> 00:12:05,630
+the developmental origin
+of that structure.
+
+314
+00:12:05,630 --> 00:12:08,224
+You need to know where it
+was early in development,
+
+315
+00:12:08,224 --> 00:12:11,630
+because things move around
+a lot as the brain develops.
+
+316
+00:12:11,630 --> 00:12:12,490
+The brain, of course
+
+317
+00:12:12,490 --> 00:12:14,354
+is this more or less squishy thing
+
+318
+00:12:14,354 --> 00:12:16,010
+floating around in some liquid
+
+319
+00:12:16,010 --> 00:12:17,830
+that stuffed inside your skull.
+
+320
+00:12:17,830 --> 00:12:20,130
+And as a consequence,
+things move around a lot.
+
+321
+00:12:20,130 --> 00:12:21,680
+They are not always in the same place
+
+322
+00:12:21,680 --> 00:12:23,336
+in two different species
+
+323
+00:12:23,336 --> 00:12:26,137
+or two individuals of the same species.
+
+324
+00:12:26,137 --> 00:12:28,530
+So you have to know
+where they started out,
+
+325
+00:12:28,530 --> 00:12:29,800
+because where they started out
+
+326
+00:12:29,800 --> 00:12:31,351
+informs what they do as well.
+
+327
+00:12:31,351 --> 00:12:33,049
+And when we're talking about emotions,
+
+328
+00:12:33,049 --> 00:12:36,060
+we cannot point to one area of the brain.
+
+329
+00:12:36,060 --> 00:12:38,060
+We can't say that's the area of the brain
+
+330
+00:12:38,060 --> 00:12:39,496
+that's responsible for emotions.
+
+331
+00:12:39,496 --> 00:12:41,758
+There is this so-called limbic system
+
+332
+00:12:41,758 --> 00:12:45,640
+that has been linked to
+emotions in various ways.
+
+333
+00:12:45,640 --> 00:12:47,056
+We're going to talk about that today.
+
+334
+00:12:47,056 --> 00:12:49,685
+But the limbic system
+is just one component
+
+335
+00:12:49,685 --> 00:12:52,450
+of the inputs to create emotions.
+
+336
+00:12:52,450 --> 00:12:55,100
+It's not the place for emotions.
+
+337
+00:12:55,100 --> 00:12:57,398
+You can't go in and lesion
+one location in the brain
+
+338
+00:12:57,398 --> 00:13:02,398
+and eliminate emotions entirely,
+just doesn't work that way.
+
+339
+00:13:02,410 --> 00:13:04,684
+So, first of all, we have to ask,
+
+340
+00:13:04,684 --> 00:13:07,210
+what are the circuits for emotion?
+
+341
+00:13:07,210 --> 00:13:08,800
+What are the brain areas for emotion?
+
+342
+00:13:08,800 --> 00:13:11,080
+And nowadays there's a
+lot of debate about this.
+
+343
+00:13:11,080 --> 00:13:13,823
+For years, it was thought
+that there might be circuits,
+
+344
+00:13:13,823 --> 00:13:15,570
+meaning connections in the brain
+
+345
+00:13:15,570 --> 00:13:17,270
+that generate the feeling of being happy
+
+346
+00:13:17,270 --> 00:13:18,410
+or circuits that generate
+
+347
+00:13:18,410 --> 00:13:20,349
+the feeling of being sad, et cetera.
+
+348
+00:13:20,349 --> 00:13:22,360
+That's been challenged.
+
+349
+00:13:22,360 --> 00:13:24,700
+In fact, Lisa Feldman Barrett
+
+350
+00:13:24,700 --> 00:13:27,400
+has been the person who's
+really challenged this head-on,
+
+351
+00:13:27,400 --> 00:13:28,600
+and has very good evidence
+
+352
+00:13:28,600 --> 00:13:31,640
+for the fact that such
+circuits probably don't exist.
+
+353
+00:13:31,640 --> 00:13:33,286
+And yet I think there's good evidence
+
+354
+00:13:33,286 --> 00:13:35,350
+for circuits in the brain,
+
+355
+00:13:35,350 --> 00:13:37,462
+such as limbic circuits and other circuits
+
+356
+00:13:37,462 --> 00:13:40,070
+that shift our overall states
+
+357
+00:13:40,070 --> 00:13:43,360
+or our overall level of
+alertness or calmness,
+
+358
+00:13:43,360 --> 00:13:44,193
+or whether they're not,
+
+359
+00:13:44,193 --> 00:13:46,740
+they bias us toward
+viewing the outside world
+
+360
+00:13:46,740 --> 00:13:47,980
+or paying more attention
+
+361
+00:13:47,980 --> 00:13:50,119
+to what's going on inside our bodies.
+
+362
+00:13:50,119 --> 00:13:51,840
+If none of this makes sense right now,
+
+363
+00:13:51,840 --> 00:13:53,370
+I promise it will make sense soon.
+
+364
+00:13:53,370 --> 00:13:55,010
+But the important thing to understand
+
+365
+00:13:55,010 --> 00:13:58,372
+is that emotions do arise
+in the brain and body.
+
+366
+00:13:58,372 --> 00:14:01,221
+They arise because there
+are specific connections
+
+367
+00:14:01,221 --> 00:14:03,907
+between specific areas
+in the brain and body.
+
+368
+00:14:03,907 --> 00:14:07,670
+And if we want to understand
+how emotions work,
+
+369
+00:14:07,670 --> 00:14:10,089
+we have to look how emotions are built.
+
+370
+00:14:10,089 --> 00:14:15,089
+And they are built during
+infancy, adolescence, and puberty,
+
+371
+00:14:16,750 --> 00:14:18,510
+and then it continues into adulthood.
+
+372
+00:14:18,510 --> 00:14:21,440
+But the groundwork is laid
+down early in development
+
+373
+00:14:21,440 --> 00:14:23,340
+when we are small children.
+
+374
+00:14:23,340 --> 00:14:24,210
+So let's think about
+
+375
+00:14:24,210 --> 00:14:26,625
+what happens to a baby
+that comes into the world.
+
+376
+00:14:26,625 --> 00:14:28,440
+A baby comes into the world.
+
+377
+00:14:28,440 --> 00:14:29,460
+You were born into this world
+
+378
+00:14:29,460 --> 00:14:33,901
+without really any understanding
+of the things around you.
+
+379
+00:14:33,901 --> 00:14:36,700
+Now, there are two ways that
+you can interact with the world
+
+380
+00:14:36,700 --> 00:14:38,850
+and you're always doing them more or less
+
+381
+00:14:38,850 --> 00:14:41,065
+to some degree at the same time.
+
+382
+00:14:41,065 --> 00:14:43,790
+Those are interoception,
+
+383
+00:14:43,790 --> 00:14:46,360
+paying attention what's
+going on inside you,
+
+384
+00:14:46,360 --> 00:14:47,730
+what you feel internally,
+
+385
+00:14:47,730 --> 00:14:48,740
+and exteroception,
+
+386
+00:14:48,740 --> 00:14:51,420
+paying attention to what's
+going on outside you.
+
+387
+00:14:51,420 --> 00:14:52,750
+Hold that in mind, please.
+
+388
+00:14:52,750 --> 00:14:55,650
+Because the fact that
+you're both interocepting
+
+389
+00:14:55,650 --> 00:14:58,930
+and exterocepting is true
+for your entire life,
+
+390
+00:14:58,930 --> 00:15:02,230
+and it sets the foundation
+for understanding emotions.
+
+391
+00:15:02,230 --> 00:15:03,556
+It's absolutely critical.
+
+392
+00:15:03,556 --> 00:15:05,633
+As an infant,
+
+393
+00:15:06,550 --> 00:15:09,280
+you didn't have any
+knowledge of what you needed.
+
+394
+00:15:09,280 --> 00:15:10,760
+You didn't understand hunger,
+
+395
+00:15:10,760 --> 00:15:12,180
+you didn't understand toys
+
+396
+00:15:12,180 --> 00:15:13,280
+when you first came into the world,
+
+397
+00:15:13,280 --> 00:15:15,758
+you didn't understand cold
+or heat or any of that.
+
+398
+00:15:15,758 --> 00:15:20,609
+When you needed something, you
+experienced that as anxiety.
+
+399
+00:15:20,609 --> 00:15:23,160
+You would feel an increase in alertness
+
+400
+00:15:23,160 --> 00:15:25,018
+if you had to use the bathroom.
+
+401
+00:15:25,018 --> 00:15:27,320
+you would feel an increase in alertness
+
+402
+00:15:27,320 --> 00:15:28,209
+if you were hungry,
+
+403
+00:15:28,209 --> 00:15:29,930
+and you would vocalize,
+
+404
+00:15:29,930 --> 00:15:33,410
+you would cry out, you would act agitated.
+
+405
+00:15:33,410 --> 00:15:35,900
+You might cue, you might do
+a number of different things,
+
+406
+00:15:35,900 --> 00:15:39,572
+but all you knew was what
+you were feeling internally.
+
+407
+00:15:39,572 --> 00:15:41,100
+And then your caregiver,
+
+408
+00:15:41,100 --> 00:15:43,580
+whoever that might've been
+would respond to that.
+
+409
+00:15:43,580 --> 00:15:44,873
+So you would feel some agitation,
+
+410
+00:15:44,873 --> 00:15:47,270
+a caregiver would come
+and make a decision,
+
+411
+00:15:47,270 --> 00:15:50,130
+Oh, you need food, and give you milk,
+
+412
+00:15:50,130 --> 00:15:53,750
+or change your diaper
+or wrap you in a blanket
+
+413
+00:15:53,750 --> 00:15:54,696
+if you were cold,
+
+414
+00:15:54,696 --> 00:15:56,620
+but they didn't know if you were cold,
+
+415
+00:15:56,620 --> 00:15:58,700
+they could just assume that you were cold.
+
+416
+00:15:58,700 --> 00:16:00,790
+So this is actually really
+important to understand
+
+417
+00:16:00,790 --> 00:16:04,060
+that a baby, when you were a
+baby, and when I was a baby,
+
+418
+00:16:04,060 --> 00:16:06,590
+we didn't have any sense
+of the outside world
+
+419
+00:16:06,590 --> 00:16:11,590
+except that it responded to our
+acts of anxiety essentially.
+
+420
+00:16:11,710 --> 00:16:13,330
+Now this isn't Freudian theory,
+
+421
+00:16:13,330 --> 00:16:15,030
+There are components of it
+
+422
+00:16:15,030 --> 00:16:16,520
+that are embedded in Freudian theory,
+
+423
+00:16:16,520 --> 00:16:19,290
+but all developmental
+psychologists agree that
+
+424
+00:16:19,290 --> 00:16:20,694
+babies lack the ability
+
+425
+00:16:20,694 --> 00:16:23,153
+to make cognitive sense
+of the outside world,
+
+426
+00:16:23,153 --> 00:16:26,230
+but in this feeling of anxiety
+
+427
+00:16:26,230 --> 00:16:28,330
+and registering one's own internal state,
+
+428
+00:16:28,330 --> 00:16:30,380
+and then crying out to the outside world,
+
+429
+00:16:30,380 --> 00:16:32,851
+either through crying
+or subtle vocalizations,
+
+430
+00:16:32,851 --> 00:16:35,641
+or even just cuing, making some noise,
+
+431
+00:16:35,641 --> 00:16:39,350
+we start to develop a relationship
+with the outside world
+
+432
+00:16:39,350 --> 00:16:40,830
+in which our internal states,
+
+433
+00:16:40,830 --> 00:16:44,642
+our shifts and anxiety
+start to drive requests,
+
+434
+00:16:44,642 --> 00:16:48,870
+and people come and respond
+to those requests, hopefully.
+
+435
+00:16:48,870 --> 00:16:50,730
+And the reason I say hopefully
+
+436
+00:16:50,730 --> 00:16:51,703
+is that we've all heard
+
+437
+00:16:51,703 --> 00:16:54,750
+presumably about these cases of neglect.
+
+438
+00:16:54,750 --> 00:16:57,340
+There are a lot of cases
+where if you neglect a baby,
+
+439
+00:16:57,340 --> 00:16:59,930
+you neglect an adolescent or a teenager,
+
+440
+00:16:59,930 --> 00:17:01,630
+development doesn't go well,
+
+441
+00:17:01,630 --> 00:17:02,980
+and we'll touch on some of those.
+
+442
+00:17:02,980 --> 00:17:04,560
+But those are really extreme cases.
+
+443
+00:17:04,560 --> 00:17:07,160
+They're sort of like the
+parallel to experiments
+
+444
+00:17:07,160 --> 00:17:09,059
+that are often done in the
+laboratory with animals,
+
+445
+00:17:09,059 --> 00:17:11,440
+where you've probably heard
+of these enriched environments
+
+446
+00:17:11,440 --> 00:17:13,640
+where they'll give mice a bunch of toys,
+
+447
+00:17:13,640 --> 00:17:14,632
+and they'll give them
+
+448
+00:17:14,632 --> 00:17:17,119
+some different foods
+every once in a while,
+
+449
+00:17:17,119 --> 00:17:18,809
+and they'll house them
+together with other mice.
+
+450
+00:17:18,810 --> 00:17:21,109
+And then what you find
+is that the animals,
+
+451
+00:17:21,109 --> 00:17:23,349
+they will say, "Oh, their brain is thicker
+
+452
+00:17:23,349 --> 00:17:26,479
+and their neurons have more
+branches to them and all that."
+
+453
+00:17:26,480 --> 00:17:30,047
+But that's really comparing
+deprivation with normalcy.
+
+454
+00:17:30,047 --> 00:17:32,409
+What we want to center on today instead
+
+455
+00:17:32,409 --> 00:17:35,547
+is what happens when things go well,
+
+456
+00:17:35,547 --> 00:17:38,820
+and why things might not go well
+
+457
+00:17:38,820 --> 00:17:40,590
+in certain circumstances is interesting.
+
+458
+00:17:40,590 --> 00:17:42,020
+But to me, not as interesting
+
+459
+00:17:42,020 --> 00:17:44,240
+as what healthy emotional
+development looks like.
+
+460
+00:17:44,240 --> 00:17:46,470
+And if you haven't achieved
+healthy emotional development,
+
+461
+00:17:46,470 --> 00:17:47,900
+what can be done as an intervention
+
+462
+00:17:47,900 --> 00:17:51,320
+at later times in order to rescue that?
+
+463
+00:17:51,320 --> 00:17:53,959
+So the baby, you as a baby,
+
+464
+00:17:53,959 --> 00:17:56,482
+you're flopping around there in your crib,
+
+465
+00:17:56,482 --> 00:17:59,040
+you're getting care where you need it
+
+466
+00:17:59,040 --> 00:18:00,471
+and when you need it, presumably,
+
+467
+00:18:00,471 --> 00:18:05,471
+and this gets to the basis
+of what emotions are about,
+
+468
+00:18:06,470 --> 00:18:09,533
+which are emotions are
+really about forming bonds
+
+469
+00:18:09,533 --> 00:18:12,558
+and being able to predict
+things in the world.
+
+470
+00:18:12,558 --> 00:18:15,174
+That's really what emotions are about.
+
+471
+00:18:15,174 --> 00:18:18,180
+Whether or not the baby
+feels angry or happy or sad,
+
+472
+00:18:18,180 --> 00:18:20,600
+we don't know, we can
+guess, but we don't know.
+
+473
+00:18:20,600 --> 00:18:22,700
+In fact, most of the time we
+don't even know how we feel,
+
+474
+00:18:22,700 --> 00:18:24,030
+let alone how other people feel,
+
+475
+00:18:24,030 --> 00:18:25,170
+and that's true for adults.
+
+476
+00:18:25,170 --> 00:18:27,609
+So if I asked you how you feel right now,
+
+477
+00:18:27,609 --> 00:18:29,640
+I don't know that you could tell me
+
+478
+00:18:29,640 --> 00:18:32,387
+in any kind of rich
+language that I would say,
+
+479
+00:18:32,387 --> 00:18:34,150
+"Oh I really understand."
+
+480
+00:18:34,150 --> 00:18:36,070
+If you said you were very, very depressed
+
+481
+00:18:36,070 --> 00:18:37,040
+or very, very happy,
+
+482
+00:18:37,040 --> 00:18:39,710
+I'd have some sense because
+of how extreme that is,
+
+483
+00:18:39,710 --> 00:18:41,190
+but I don't know that I would really know,
+
+484
+00:18:41,190 --> 00:18:43,230
+and I don't think you know
+how I feel right now either.
+
+485
+00:18:43,230 --> 00:18:44,601
+I could be furious right now
+
+486
+00:18:44,601 --> 00:18:45,860
+or I could be very happy,
+
+487
+00:18:45,860 --> 00:18:46,906
+you don't have any idea.
+
+488
+00:18:46,906 --> 00:18:48,951
+And of course, we have these
+things called expressions,
+
+489
+00:18:48,951 --> 00:18:50,560
+our pupils dilate.
+
+490
+00:18:50,560 --> 00:18:52,690
+There are various cues of how people feel.
+
+491
+00:18:52,690 --> 00:18:53,752
+We're going to talk about those cues,
+
+492
+00:18:53,752 --> 00:18:55,124
+but you really don't know.
+
+493
+00:18:55,124 --> 00:18:57,640
+And at this point I
+actually just want to pause
+
+494
+00:18:57,640 --> 00:18:59,985
+and mention a really interesting tool
+
+495
+00:18:59,985 --> 00:19:02,680
+that is trying to address this question
+
+496
+00:19:02,680 --> 00:19:04,788
+of what are emotions and
+what do they consist of,
+
+497
+00:19:04,788 --> 00:19:06,900
+that you can use if you like.
+
+498
+00:19:06,900 --> 00:19:07,733
+This is an app,
+
+499
+00:19:07,733 --> 00:19:08,566
+I didn't develop it,
+
+500
+00:19:08,566 --> 00:19:09,708
+I don't have any relationship to them,
+
+501
+00:19:09,708 --> 00:19:12,923
+but the app was developed
+by people at Yale,
+
+502
+00:19:14,420 --> 00:19:16,375
+by groups at Yale who do research,
+
+503
+00:19:16,375 --> 00:19:18,000
+and it's called Mood Meter.
+
+504
+00:19:18,000 --> 00:19:19,460
+And it's actually quite interesting.
+
+505
+00:19:19,460 --> 00:19:22,320
+I think it's either free or it's 0.99.
+
+506
+00:19:22,320 --> 00:19:24,180
+Again, no business relationship to them.
+
+507
+00:19:24,180 --> 00:19:28,150
+But what they're trying
+to do is put more nuance,
+
+508
+00:19:28,150 --> 00:19:31,090
+more subtlety on our words,
+
+509
+00:19:31,090 --> 00:19:32,980
+and our language for emotions,
+
+510
+00:19:32,980 --> 00:19:34,740
+and be able to allow you
+
+511
+00:19:34,740 --> 00:19:37,170
+to predict how you're going
+to feel in the future.
+
+512
+00:19:37,170 --> 00:19:38,560
+And it's actually quite interesting.
+
+513
+00:19:38,560 --> 00:19:40,610
+I'm on the app right now, and
+I know you can't see this,
+
+514
+00:19:40,610 --> 00:19:42,960
+but it's called Mood Meter.
+
+515
+00:19:42,960 --> 00:19:45,285
+And you can find on Apple or Android.
+
+516
+00:19:45,285 --> 00:19:47,181
+And you go into and it asks you,
+
+517
+00:19:47,181 --> 00:19:50,380
+it says to me, "Hi, Andrew,
+how are you right now?
+
+518
+00:19:50,380 --> 00:19:53,390
+And I click the little
+tab that says I feel.
+
+519
+00:19:53,390 --> 00:19:57,560
+And I can either pick high
+energy and unpleasant,
+
+520
+00:19:57,560 --> 00:20:01,450
+high energy and pleasant,
+low energy unpleasant
+
+521
+00:20:01,450 --> 00:20:02,880
+or low energy pleasant.
+
+522
+00:20:02,880 --> 00:20:05,800
+And I would say right now I
+feel high energy pleasant.
+
+523
+00:20:05,800 --> 00:20:07,370
+So I just revealed to you how I feel.
+
+524
+00:20:07,370 --> 00:20:08,454
+So I click on that,
+
+525
+00:20:08,454 --> 00:20:11,540
+and then it gives you a gallery of colors,
+
+526
+00:20:11,540 --> 00:20:13,153
+and you just move your
+finger to the location
+
+527
+00:20:13,153 --> 00:20:15,860
+where you think it matches most.
+
+528
+00:20:15,860 --> 00:20:17,592
+And as you do that, little words pop up.
+
+529
+00:20:17,592 --> 00:20:20,950
+I know some people are
+listening to this on audio only.
+
+530
+00:20:20,950 --> 00:20:22,980
+So it say motivated, cheerful, inspired.
+
+531
+00:20:22,980 --> 00:20:24,668
+I would say, I'm feeling
+right now, cheerful.
+
+532
+00:20:24,668 --> 00:20:27,780
+So you click that and then you
+just go to the next window,
+
+533
+00:20:27,780 --> 00:20:29,017
+and it just says, what are you doing?
+
+534
+00:20:29,017 --> 00:20:30,930
+And this feels like play to me,
+
+535
+00:20:30,930 --> 00:20:32,150
+but I'm going to call it work.
+
+536
+00:20:32,150 --> 00:20:33,540
+And then that's it.
+
+537
+00:20:33,540 --> 00:20:35,560
+And then what it does
+
+538
+00:20:35,560 --> 00:20:38,300
+is it basically starts
+to collect data on you.
+
+539
+00:20:38,300 --> 00:20:39,450
+You're giving it information.
+
+540
+00:20:39,450 --> 00:20:41,455
+And it starts to link
+that to other features
+
+541
+00:20:41,455 --> 00:20:43,487
+that you allowed access to if you like,
+
+542
+00:20:43,487 --> 00:20:46,110
+and it starts helping
+you be able to predict
+
+543
+00:20:46,110 --> 00:20:48,320
+how you're going to feel
+different times a day.
+
+544
+00:20:48,320 --> 00:20:50,455
+It's actually quite
+accurate in certain ways,
+
+545
+00:20:50,455 --> 00:20:51,442
+quite interesting.
+
+546
+00:20:51,442 --> 00:20:55,100
+And it points to a couple of
+really interesting features,
+
+547
+00:20:55,100 --> 00:20:58,280
+which is that we don't
+really have enough language
+
+548
+00:20:58,280 --> 00:21:00,229
+to describe all the emotional states,
+
+549
+00:21:00,229 --> 00:21:02,627
+and yet there's some core truths
+
+550
+00:21:02,627 --> 00:21:04,700
+to what makes up an emotion.
+
+551
+00:21:04,700 --> 00:21:07,790
+And I want to review that
+twice during today's podcast,
+
+552
+00:21:07,790 --> 00:21:11,240
+because this can really help people,
+
+553
+00:21:11,240 --> 00:21:13,710
+kids and adults understand better
+
+554
+00:21:13,710 --> 00:21:16,080
+what they're feeling and why,
+
+555
+00:21:16,080 --> 00:21:18,537
+and when best to engage
+in certain activities,
+
+556
+00:21:18,537 --> 00:21:22,370
+and thankfully, when best to
+avoid certain activities too.
+
+557
+00:21:22,370 --> 00:21:24,363
+So the way this works is the following.
+
+558
+00:21:25,730 --> 00:21:28,038
+You need to ask yourself at any point,
+
+559
+00:21:28,038 --> 00:21:29,900
+you could do this right now if you like,
+
+560
+00:21:29,900 --> 00:21:32,420
+what's your level of autonomic arousal?
+
+561
+00:21:32,420 --> 00:21:34,750
+Autonomic arousal is just the continuum,
+
+562
+00:21:34,750 --> 00:21:38,890
+the range of alert to calm.
+
+563
+00:21:38,890 --> 00:21:40,890
+So if you're in a panic right now,
+
+564
+00:21:40,890 --> 00:21:45,300
+you are like 10 out of
+10 on the arousal scale.
+
+565
+00:21:45,300 --> 00:21:46,337
+If you're asleep,
+
+566
+00:21:46,337 --> 00:21:49,185
+you're probably not
+comprehending what I'm saying,
+
+567
+00:21:49,185 --> 00:21:51,080
+although maybe a little bit.
+
+568
+00:21:51,080 --> 00:21:52,480
+But let's say you're very drowsy,
+
+569
+00:21:52,480 --> 00:21:54,424
+you might be at a one or a two.
+
+570
+00:21:54,424 --> 00:21:57,210
+So you always have to ask,
+
+571
+00:21:57,210 --> 00:21:59,440
+where are you on the arousal scale?
+
+572
+00:21:59,440 --> 00:22:03,571
+And then there's this other
+axis, this other question,
+
+573
+00:22:03,571 --> 00:22:06,310
+which is what we call valence.
+
+574
+00:22:06,310 --> 00:22:07,760
+Now valence is a value.
+
+575
+00:22:07,760 --> 00:22:09,370
+Do you feel good or bad?
+
+576
+00:22:09,370 --> 00:22:10,650
+I would say I feel pretty good right now.
+
+577
+00:22:10,650 --> 00:22:11,970
+On a scale of one to 10,
+
+578
+00:22:11,970 --> 00:22:14,021
+I'm like, I dunno, I feel like a seven.
+
+579
+00:22:14,021 --> 00:22:15,525
+Got good night's sleep last night,
+
+580
+00:22:15,525 --> 00:22:18,438
+had a good walk with
+Costello this morning,
+
+581
+00:22:18,438 --> 00:22:20,370
+I'm fed, I'm hydrated.
+
+582
+00:22:20,370 --> 00:22:21,203
+I feel good,
+
+583
+00:22:21,203 --> 00:22:22,036
+So I'm like a seven.
+
+584
+00:22:22,036 --> 00:22:24,325
+So I'm alert and I feel pretty good.
+
+585
+00:22:24,325 --> 00:22:26,510
+And then there's a third thing,
+
+586
+00:22:26,510 --> 00:22:30,090
+which is how much we are interocepting
+
+587
+00:22:30,090 --> 00:22:32,138
+and how much we are exterocepting.
+
+588
+00:22:32,138 --> 00:22:35,141
+So how much our attention
+is focused internally
+
+589
+00:22:35,141 --> 00:22:39,089
+on what we're feeling and how
+much it's focused externally.
+
+590
+00:22:39,089 --> 00:22:42,303
+And this is always going
+to be in a dynamic balance.
+
+591
+00:22:42,303 --> 00:22:46,050
+So for instance, if you're
+really, really stressed,
+
+592
+00:22:46,050 --> 00:22:48,090
+oftentimes that puts you in a position
+
+593
+00:22:48,090 --> 00:22:50,270
+to be really in touch with
+what's going on in your body.
+
+594
+00:22:50,270 --> 00:22:52,100
+If you start having a lot of somatic,
+
+595
+00:22:52,100 --> 00:22:53,480
+a lot of bodily sensations,
+
+596
+00:22:53,480 --> 00:22:56,062
+like your heart is beating so
+fast that you can't ignore it,
+
+597
+00:22:56,062 --> 00:22:59,490
+then you're really strongly interoceptive.
+
+598
+00:22:59,490 --> 00:23:01,040
+But also sometimes you're really stressed
+
+599
+00:23:01,040 --> 00:23:02,330
+because someone's stressing you out
+
+600
+00:23:02,330 --> 00:23:03,528
+or somebody sends you a text message
+
+601
+00:23:03,528 --> 00:23:05,650
+or makes a comment about
+
+602
+00:23:05,650 --> 00:23:07,720
+a YouTube thing you posted or something,
+
+603
+00:23:07,720 --> 00:23:09,070
+and you're really triggered by it.
+
+604
+00:23:09,070 --> 00:23:10,020
+That never happens to me.
+
+605
+00:23:10,020 --> 00:23:14,390
+But if it does happen to you,
+then you're exterocepting.
+
+606
+00:23:14,390 --> 00:23:15,430
+So these three things,
+
+607
+00:23:15,430 --> 00:23:17,797
+how alert or sleepy you are, that's one,
+
+608
+00:23:17,797 --> 00:23:20,640
+how good or bad you feel, that's two,
+
+609
+00:23:20,640 --> 00:23:21,473
+and then whether or not
+
+610
+00:23:21,473 --> 00:23:23,490
+most of your attention
+is directed outward,
+
+611
+00:23:23,490 --> 00:23:25,720
+or whether or not it's directed inward.
+
+612
+00:23:25,720 --> 00:23:27,770
+And much of what we call emotions
+
+613
+00:23:27,770 --> 00:23:30,200
+are made up by those three things.
+
+614
+00:23:30,200 --> 00:23:33,140
+And so let's return now to development,
+
+615
+00:23:33,140 --> 00:23:35,150
+but tuck that away and just
+kind of think about it,
+
+616
+00:23:35,150 --> 00:23:38,613
+alert versus asleep, good versus bad,
+
+617
+00:23:38,613 --> 00:23:41,430
+and focused internally
+or focused externally.
+
+618
+00:23:41,430 --> 00:23:43,527
+Because when I looked at
+
+619
+00:23:43,527 --> 00:23:47,070
+all the theories of emotion
+that were out there,
+
+620
+00:23:47,070 --> 00:23:48,802
+there were a lot of
+different components to them,
+
+621
+00:23:48,802 --> 00:23:50,390
+but they all seem to center back
+
+622
+00:23:50,390 --> 00:23:52,090
+to these same three features
+
+623
+00:23:52,090 --> 00:23:54,560
+in some way or to some degree or another.
+
+624
+00:23:54,560 --> 00:23:56,220
+And it can be very powerful to understand
+
+625
+00:23:56,220 --> 00:23:59,499
+and look at your emotions
+through that lens.
+
+626
+00:23:59,499 --> 00:24:02,630
+So let's return to the infant.
+
+627
+00:24:02,630 --> 00:24:04,146
+There's the baby in the crib.
+
+628
+00:24:04,146 --> 00:24:06,069
+It's mostly interocepting.
+
+629
+00:24:06,069 --> 00:24:10,270
+As caregivers bring it
+what it needs, you hope,
+
+630
+00:24:10,270 --> 00:24:13,080
+milk, diaper changes, et cetera,
+
+631
+00:24:13,080 --> 00:24:15,210
+a warm blanket if it's cold,
+
+632
+00:24:15,210 --> 00:24:16,290
+pull off the blanket
+
+633
+00:24:16,290 --> 00:24:18,220
+when the baby's fussing and it's too warm,
+
+634
+00:24:18,220 --> 00:24:19,798
+'cause babies get too warm also,
+
+635
+00:24:19,798 --> 00:24:21,923
+it starts to exterocept.
+
+636
+00:24:23,037 --> 00:24:24,680
+Excuse me, I misspoke,
+
+637
+00:24:24,680 --> 00:24:25,513
+I want to be very clear,
+
+638
+00:24:25,513 --> 00:24:27,800
+it starts to exterocept.
+
+639
+00:24:27,800 --> 00:24:30,380
+The baby starts to look
+into the outside world
+
+640
+00:24:30,380 --> 00:24:32,420
+and start making predictions.
+
+641
+00:24:32,420 --> 00:24:37,198
+It starts wondering how much
+it needs to cry or predicting,
+
+642
+00:24:37,198 --> 00:24:40,210
+"Well, if I cry like a little bit,
+
+643
+00:24:40,210 --> 00:24:43,632
+then mom comes over and I get my milk.
+
+644
+00:24:43,632 --> 00:24:48,200
+Or if I cry a lot, mom doesn't
+come over and give me milk,
+
+645
+00:24:48,200 --> 00:24:50,732
+so I need to really scream
+at the top of my head."
+
+646
+00:24:50,732 --> 00:24:55,510
+So babies are starting to
+evaluate and do all this,
+
+647
+00:24:55,510 --> 00:24:56,858
+but they're not doing it consciously.
+
+648
+00:24:56,858 --> 00:24:59,350
+They're doing this strategically
+
+649
+00:24:59,350 --> 00:25:00,958
+in order to relieve anxiety.
+
+650
+00:25:00,958 --> 00:25:05,300
+And I won't propose that that's
+what we do into adulthood.
+
+651
+00:25:05,300 --> 00:25:07,550
+But a lot of what we do in adulthood
+
+652
+00:25:07,550 --> 00:25:09,980
+is when we feel something,
+we start exterocepting.
+
+653
+00:25:09,980 --> 00:25:10,813
+Some people are much better
+
+654
+00:25:10,813 --> 00:25:13,530
+at just sitting as a container
+and just interocepting
+
+655
+00:25:13,530 --> 00:25:15,523
+and paying attention to what
+they're feeling internally.
+
+656
+00:25:15,523 --> 00:25:18,295
+But most people do a little
+bit of a balance of both.
+
+657
+00:25:18,295 --> 00:25:19,420
+We don't feel good,
+
+658
+00:25:19,420 --> 00:25:21,260
+so we look for an item or food
+
+659
+00:25:21,260 --> 00:25:22,400
+that might make us feel better.
+
+660
+00:25:22,400 --> 00:25:25,080
+We're feeling anxious
+heading into the dentist
+
+661
+00:25:25,080 --> 00:25:25,913
+or something like that,
+
+662
+00:25:25,913 --> 00:25:26,746
+so we text somebody.
+
+663
+00:25:26,746 --> 00:25:28,450
+We do this almost reflexively,
+
+664
+00:25:28,450 --> 00:25:29,678
+it's not always conscious.
+
+665
+00:25:29,678 --> 00:25:33,564
+So infants do this, and
+we continue to do this.
+
+666
+00:25:33,564 --> 00:25:35,500
+We start to now balance our interoceptive
+
+667
+00:25:35,500 --> 00:25:38,762
+and exteroceptive focus,
+
+668
+00:25:38,762 --> 00:25:42,170
+looking inward and looking outward.
+
+669
+00:25:42,170 --> 00:25:43,350
+And as we do that,
+
+670
+00:25:43,350 --> 00:25:45,770
+we're starting to figure
+out what gets our needs met.
+
+671
+00:25:45,770 --> 00:25:49,510
+Remember, emotions are
+really there to form bonds
+
+672
+00:25:49,510 --> 00:25:50,800
+and to make predictions.
+
+673
+00:25:50,800 --> 00:25:53,880
+And so our needs are going to
+be met to some degree or not.
+
+674
+00:25:53,880 --> 00:25:55,950
+Sometimes sadly there is neglect.
+
+675
+00:25:55,950 --> 00:25:57,480
+Sometimes people don't show up for us
+
+676
+00:25:57,480 --> 00:25:58,830
+the way that we would like.
+
+677
+00:25:58,830 --> 00:26:02,424
+And in general, our responses to that
+
+678
+00:26:02,424 --> 00:26:04,590
+have to do with whether or not
+
+679
+00:26:04,590 --> 00:26:07,140
+we predict whether or
+not they would or not.
+
+680
+00:26:07,140 --> 00:26:09,450
+When we expect something
+and it doesn't happen,
+
+681
+00:26:09,450 --> 00:26:10,400
+It's a big let down.
+
+682
+00:26:10,400 --> 00:26:12,950
+That was the discussion
+about dopamine last episode.
+
+683
+00:26:12,950 --> 00:26:16,620
+So the many theories of emotion,
+the triune brain theory,
+
+684
+00:26:16,620 --> 00:26:18,480
+that you have a primitive
+and involved brain,
+
+685
+00:26:18,480 --> 00:26:20,488
+something that's a little bit
+on shaky ground these days.
+
+686
+00:26:20,488 --> 00:26:22,370
+The idea that Darwin proposed,
+
+687
+00:26:22,370 --> 00:26:24,476
+that there are these universal
+expressions of emotions.
+
+688
+00:26:24,476 --> 00:26:27,820
+The work of Helen Fisher on love,
+
+689
+00:26:27,820 --> 00:26:29,520
+that you have circuits in the brain
+
+690
+00:26:29,520 --> 00:26:31,320
+for lost circuits in the brain,
+
+691
+00:26:31,320 --> 00:26:34,229
+for love and circuits in the
+brain for long-term bonds,
+
+692
+00:26:34,229 --> 00:26:36,877
+as well as the work of
+Lisa Feldman Barrett,
+
+693
+00:26:36,877 --> 00:26:39,410
+saying that emotions are contextual,
+
+694
+00:26:39,410 --> 00:26:40,803
+that they have a social component.
+
+695
+00:26:40,803 --> 00:26:43,810
+And I'll be talking more about this,
+
+696
+00:26:43,810 --> 00:26:45,092
+but the work of Allan Schore,
+
+697
+00:26:45,092 --> 00:26:49,430
+a clinical psychologist
+and researcher at UCLA,
+
+698
+00:26:49,430 --> 00:26:51,830
+about right brain, left brain,
+
+699
+00:26:51,830 --> 00:26:53,420
+and its role in emotional development.
+
+700
+00:26:53,420 --> 00:26:55,940
+All of them have strong elements
+
+701
+00:26:55,940 --> 00:26:57,660
+of this idea of paying attention
+
+702
+00:26:57,660 --> 00:26:59,932
+to what's going on inward and outward.
+
+703
+00:26:59,932 --> 00:27:04,622
+As a young creature, an
+infant and young toddler,
+
+704
+00:27:04,622 --> 00:27:06,620
+you were mainly focused inward,
+
+705
+00:27:06,620 --> 00:27:09,040
+and you started to understand
+what was going on outward
+
+706
+00:27:09,040 --> 00:27:12,500
+as a way of predicting what
+would bring you relief,
+
+707
+00:27:12,500 --> 00:27:14,200
+what would remove your anxiety.
+
+708
+00:27:14,200 --> 00:27:17,310
+And that's where the fundamental
+rules of your experience,
+
+709
+00:27:17,310 --> 00:27:19,367
+your emotional experience were laid down.
+
+710
+00:27:19,367 --> 00:27:22,130
+And I realized that's a lot of information
+
+711
+00:27:22,130 --> 00:27:24,032
+and it's somewhat of an academic talk,
+
+712
+00:27:24,032 --> 00:27:25,686
+but there were two tools in there
+
+713
+00:27:25,686 --> 00:27:27,090
+that I just want to highlight,
+
+714
+00:27:27,090 --> 00:27:28,390
+one is the Mood Meter app.
+
+715
+00:27:28,390 --> 00:27:30,500
+If you're interested in, it
+can give you some insight
+
+716
+00:27:30,500 --> 00:27:32,860
+into the different kinds
+of nuance within emotions
+
+717
+00:27:32,860 --> 00:27:34,978
+and allow you to actually
+predict emotional states,
+
+718
+00:27:34,978 --> 00:27:37,247
+if you want to try that
+
+719
+00:27:37,247 --> 00:27:39,090
+and you might find that interesting.
+
+720
+00:27:39,090 --> 00:27:40,470
+The other one is this idea that
+
+721
+00:27:40,470 --> 00:27:42,094
+there are three axes two emotion,
+
+722
+00:27:42,094 --> 00:27:44,369
+three continuum that interact,
+
+723
+00:27:44,369 --> 00:27:46,658
+the level of alertness and calmness,
+
+724
+00:27:46,658 --> 00:27:48,244
+how good or bad you feel,
+
+725
+00:27:48,244 --> 00:27:50,750
+and whether or not you're mainly
+focused inward or outward,
+
+726
+00:27:50,750 --> 00:27:53,483
+because those are going
+to form a useful tool kit
+
+727
+00:27:53,483 --> 00:27:55,790
+for the information going forward.
+
+728
+00:27:55,790 --> 00:27:58,983
+So now let's talk about
+what kind of baby you were,
+
+729
+00:27:58,983 --> 00:28:03,145
+because that actually informs
+your emotionality now.
+
+730
+00:28:03,145 --> 00:28:04,680
+These are classic.
+
+731
+00:28:04,680 --> 00:28:06,106
+They're actually famous experiments
+
+732
+00:28:06,106 --> 00:28:08,300
+done by Bowlby and Ainsworth.
+
+733
+00:28:08,300 --> 00:28:09,630
+Anyone that study psychology
+
+734
+00:28:09,630 --> 00:28:10,900
+or has taken a psychology class
+
+735
+00:28:10,900 --> 00:28:12,121
+might have learned about this.
+
+736
+00:28:12,121 --> 00:28:14,907
+This is this classic experiment
+
+737
+00:28:14,907 --> 00:28:19,745
+of what was called the strange
+situation task in which,
+
+738
+00:28:19,745 --> 00:28:22,920
+and I'm describing it very
+coarsely here, I realize.
+
+739
+00:28:22,920 --> 00:28:27,033
+But a mother and child
+come into the laboratory.
+
+740
+00:28:27,033 --> 00:28:29,823
+Yes, this is now also
+been done with fathers.
+
+741
+00:28:31,053 --> 00:28:35,830
+The baby and the mother or
+father play together for a bit,
+
+742
+00:28:35,830 --> 00:28:37,844
+and then the mother leaves.
+
+743
+00:28:37,844 --> 00:28:40,680
+The mother leaves for some period of time
+
+744
+00:28:40,680 --> 00:28:42,246
+and then comes back.
+
+745
+00:28:42,246 --> 00:28:45,730
+And the research is devoted
+
+746
+00:28:45,730 --> 00:28:48,750
+to understanding the response of the child
+
+747
+00:28:48,750 --> 00:28:50,650
+when the caretaker,
+
+748
+00:28:50,650 --> 00:28:54,610
+the mother or the father
+returns, most all children,
+
+749
+00:28:54,610 --> 00:28:58,550
+not every child, but
+most children will cry
+
+750
+00:28:58,550 --> 00:29:00,340
+when their primary caretaker leaves.
+
+751
+00:29:00,340 --> 00:29:02,060
+They don't like that.
+
+752
+00:29:02,060 --> 00:29:03,750
+And there are good reasons for that.
+
+753
+00:29:03,750 --> 00:29:05,480
+They formed a bond and an attachment.
+
+754
+00:29:05,480 --> 00:29:06,313
+And we will talk about
+
+755
+00:29:06,313 --> 00:29:09,849
+some of the deeper chemical
+reasons for those bonds.
+
+756
+00:29:09,849 --> 00:29:12,930
+However, the experiment is focused
+
+757
+00:29:12,930 --> 00:29:15,200
+on the return of the caregiver.
+
+758
+00:29:15,200 --> 00:29:17,570
+Because Bowlby and Ainsworth,
+
+759
+00:29:17,570 --> 00:29:20,835
+and many of their scientific
+offspring and colleagues
+
+760
+00:29:20,835 --> 00:29:25,835
+identified at least four
+patterns that babies display
+
+761
+00:29:27,670 --> 00:29:29,460
+when their caretaker returns,
+
+762
+00:29:29,460 --> 00:29:32,830
+and they group these
+into group a, b, c, d,
+
+763
+00:29:32,830 --> 00:29:36,730
+so much so that the kids
+were referred to as a babies,
+
+764
+00:29:36,730 --> 00:29:39,860
+b babies, c babies or d babies.
+
+765
+00:29:39,860 --> 00:29:42,150
+You may know which one you were.
+
+766
+00:29:42,150 --> 00:29:44,050
+But the categories are really interesting.
+
+767
+00:29:44,050 --> 00:29:46,112
+The first babies are the a babies.
+
+768
+00:29:46,112 --> 00:29:47,320
+So these were kids
+
+769
+00:29:47,320 --> 00:29:49,254
+that would get upset when
+their caretaker would leave.
+
+770
+00:29:49,254 --> 00:29:52,051
+But when their caretaker would return,
+
+771
+00:29:52,051 --> 00:29:55,310
+the infant would respond with happiness,
+
+772
+00:29:55,310 --> 00:29:56,670
+with what looked like delight.
+
+773
+00:29:56,670 --> 00:29:57,910
+They would go to the caretaker.
+
+774
+00:29:57,910 --> 00:29:58,743
+They seemed happy.
+
+775
+00:29:58,743 --> 00:30:02,473
+If they had been fussy before
+or sad, they felt relieved.
+
+776
+00:30:03,760 --> 00:30:07,034
+These are referred to
+as secure attached kids.
+
+777
+00:30:07,034 --> 00:30:10,130
+So they have a healthy
+response to separation,
+
+778
+00:30:10,130 --> 00:30:11,134
+and they have a healthy response
+
+779
+00:30:11,134 --> 00:30:14,396
+to re-engaging with the caretaker.
+
+780
+00:30:14,396 --> 00:30:16,345
+The b babies as they're called
+
+781
+00:30:16,345 --> 00:30:21,119
+were less likely to seek
+comfort from their caregiver
+
+782
+00:30:21,119 --> 00:30:23,650
+when the caregiver would return.
+
+783
+00:30:23,650 --> 00:30:25,984
+So they would sometimes
+continue to play with their toys
+
+784
+00:30:25,984 --> 00:30:29,740
+or if they had an adult in the room
+
+785
+00:30:29,740 --> 00:30:31,447
+while the parent was gone,
+they would stay with them.
+
+786
+00:30:31,447 --> 00:30:34,245
+It was sometimes complicated and nuanced,
+
+787
+00:30:34,245 --> 00:30:37,503
+but these were referred
+to as avoidant babies.
+
+788
+00:30:38,561 --> 00:30:40,190
+Don't run away with any conclusions
+
+789
+00:30:40,190 --> 00:30:42,013
+about the language here just yet.
+
+790
+00:30:42,013 --> 00:30:45,373
+It's not clear that avoidant
+babies become avoidant adults,
+
+791
+00:30:45,373 --> 00:30:47,500
+but bear with me.
+
+792
+00:30:47,500 --> 00:30:52,114
+The c babies would respond to
+the return of the caregiver
+
+793
+00:30:52,114 --> 00:30:54,930
+with acts of annoyance.
+
+794
+00:30:54,930 --> 00:30:56,635
+They seemed kind of angry.
+
+795
+00:30:56,635 --> 00:30:58,640
+So it wasn't that they ignored them,
+
+796
+00:30:58,640 --> 00:31:00,340
+they seem kind of angry.
+
+797
+00:31:00,340 --> 00:31:02,900
+And those were referred
+to as ambivalent babies,
+
+798
+00:31:02,900 --> 00:31:04,290
+not to be confused with a babies.
+
+799
+00:31:04,290 --> 00:31:06,878
+These are the c babies,
+were the ambivalent babies.
+
+800
+00:31:06,878 --> 00:31:08,800
+So the infant's reaction
+
+801
+00:31:08,800 --> 00:31:11,765
+to the returning caregiver
+were inconsistent.
+
+802
+00:31:11,765 --> 00:31:15,310
+It seemed like they wanted
+to bond with them again
+
+803
+00:31:15,310 --> 00:31:17,499
+but that they seem kind of annoyed.
+
+804
+00:31:17,499 --> 00:31:19,348
+I think we've all felt this way before
+
+805
+00:31:19,348 --> 00:31:21,130
+with people that we care very much about,
+
+806
+00:31:21,130 --> 00:31:23,500
+especially people we care very much about.
+
+807
+00:31:23,500 --> 00:31:25,430
+And then the third category, the d babies,
+
+808
+00:31:25,430 --> 00:31:27,900
+were the disorganized babies,
+that's what they call them.
+
+809
+00:31:27,900 --> 00:31:29,511
+They weren't disorganized
+and that they were messy,
+
+810
+00:31:29,511 --> 00:31:32,771
+the child avoided
+interactions with everyone
+
+811
+00:31:32,771 --> 00:31:35,686
+and acted fearful when
+the caregiver returned,
+
+812
+00:31:35,686 --> 00:31:38,210
+and their behavior didn't really change
+
+813
+00:31:38,210 --> 00:31:40,070
+whether or not the
+caregiver was there or not.
+
+814
+00:31:40,070 --> 00:31:42,750
+And that fourth category was
+actually added rather late
+
+815
+00:31:42,750 --> 00:31:44,024
+in the course of this research.
+
+816
+00:31:44,024 --> 00:31:47,780
+I should mention these
+experiments have been repeated
+
+817
+00:31:47,780 --> 00:31:50,823
+with a huge variety of different contexts.
+
+818
+00:31:50,823 --> 00:31:52,950
+There was work done by Mary Main
+
+819
+00:31:52,950 --> 00:31:55,393
+at UC Berkeley and many others,
+
+820
+00:31:55,393 --> 00:31:58,900
+looking at all sorts of
+variations on this theme.
+
+821
+00:31:58,900 --> 00:32:01,240
+But over time, it made it clear
+
+822
+00:32:01,240 --> 00:32:05,930
+that certain babies
+are able to feel secure
+
+823
+00:32:05,930 --> 00:32:10,110
+upon re-engaging with their
+caregiver and others don't,
+
+824
+00:32:10,110 --> 00:32:12,030
+or they're confused about it.
+
+825
+00:32:12,030 --> 00:32:15,240
+So we probably don't know
+
+826
+00:32:15,240 --> 00:32:17,458
+whether or not you were
+an a, b or c, d baby,
+
+827
+00:32:17,458 --> 00:32:19,260
+unless you were in these experiments
+
+828
+00:32:19,260 --> 00:32:21,070
+and somehow you had that knowledge.
+
+829
+00:32:21,070 --> 00:32:23,408
+But this work, this classic work
+
+830
+00:32:23,408 --> 00:32:26,772
+opened up a huge set
+of important questions
+
+831
+00:32:26,772 --> 00:32:30,200
+that relate to what is the reestablishment
+
+832
+00:32:30,200 --> 00:32:31,580
+of the bond really about.
+
+833
+00:32:31,580 --> 00:32:34,230
+I mean, what's actually
+being figured out here
+
+834
+00:32:34,230 --> 00:32:36,500
+is not whether or not there
+are four categories of babies,
+
+835
+00:32:36,500 --> 00:32:37,580
+that's interesting,
+
+836
+00:32:37,580 --> 00:32:40,370
+but it presumably is more interesting
+
+837
+00:32:40,370 --> 00:32:45,150
+to focus on what is it that
+defines a really good bond,
+
+838
+00:32:45,150 --> 00:32:47,730
+a secure attachment, or
+an insecure attachment
+
+839
+00:32:47,730 --> 00:32:49,258
+or an avoidant attachment.
+
+840
+00:32:49,258 --> 00:32:54,258
+And the four things are
+gaze. literally eye contact,
+
+841
+00:32:56,460 --> 00:32:58,950
+and doesn't have to be
+direct beaming eye contact
+
+842
+00:32:58,950 --> 00:33:00,950
+with no blinks like people
+have accused me of before.
+
+843
+00:33:00,950 --> 00:33:03,170
+It can just be gaze,
+people look at each other,
+
+844
+00:33:03,170 --> 00:33:04,540
+you see couples, they look at each other,
+
+845
+00:33:04,540 --> 00:33:06,510
+they don't always stare each
+other long periods of time,
+
+846
+00:33:06,510 --> 00:33:07,463
+sometimes they do.
+
+847
+00:33:08,620 --> 00:33:12,653
+Vocalizations, so what
+we say and how we say it.
+
+848
+00:33:13,490 --> 00:33:15,210
+Affect or emotion,
+
+849
+00:33:15,210 --> 00:33:18,177
+so the way that we express
+it, crying, smiling
+
+850
+00:33:18,177 --> 00:33:22,000
+et cetera, and touch, those four things.
+
+851
+00:33:22,000 --> 00:33:24,540
+And you probably could
+add a fifth dimension
+
+852
+00:33:24,540 --> 00:33:27,320
+once language and written
+language develops,
+
+853
+00:33:27,320 --> 00:33:28,740
+which is written word,
+
+854
+00:33:28,740 --> 00:33:29,780
+exchange of letters,
+
+855
+00:33:29,780 --> 00:33:30,670
+exchange of texts,
+
+856
+00:33:30,670 --> 00:33:33,490
+exchange of things of that
+sort, emails, are another way
+
+857
+00:33:33,490 --> 00:33:35,400
+in which people can bond.
+
+858
+00:33:35,400 --> 00:33:40,355
+But gaze, vocalization, affect
+and touch are really the core
+
+859
+00:33:40,355 --> 00:33:44,453
+of this thing that we call
+social bonds and emotionality.
+
+860
+00:33:44,453 --> 00:33:46,180
+Now that's important.
+
+861
+00:33:46,180 --> 00:33:47,290
+We know for instance
+
+862
+00:33:47,290 --> 00:33:50,240
+that there are brain areas
+like the fusiform face area
+
+863
+00:33:50,240 --> 00:33:51,334
+which is deep in the brain
+
+864
+00:33:51,334 --> 00:33:54,970
+that is responsible for
+the processing of faces.
+
+865
+00:33:54,970 --> 00:33:58,060
+Children's recognition of
+their parents' faces and voices
+
+866
+00:33:58,060 --> 00:34:00,842
+is extremely accurate and strong.
+
+867
+00:34:00,842 --> 00:34:05,730
+Likewise, parents recognition
+of their child's vocalizations
+
+868
+00:34:05,730 --> 00:34:08,750
+not just voices, but cries are remarkable.
+
+869
+00:34:08,750 --> 00:34:11,210
+If you've ever had the
+experience of being at a party
+
+870
+00:34:11,210 --> 00:34:12,510
+with somebody who has small children
+
+871
+00:34:12,510 --> 00:34:13,342
+and you're talking to them,
+
+872
+00:34:13,342 --> 00:34:15,749
+and all of a sudden they
+hear something but you don't,
+
+873
+00:34:15,750 --> 00:34:18,070
+it's as if they've got wolf hearing,
+
+874
+00:34:18,070 --> 00:34:19,679
+and all of a sudden, they go
+running into the other room.
+
+875
+00:34:19,679 --> 00:34:22,389
+And indeed the kid is like, I don't know,
+
+876
+00:34:22,389 --> 00:34:23,869
+some kid is beating up their kid
+
+877
+00:34:23,870 --> 00:34:25,590
+or their kid's beating up some other kid,
+
+878
+00:34:25,590 --> 00:34:27,739
+or the kid injure themselves
+
+879
+00:34:27,739 --> 00:34:29,269
+or feels emotionally injured.
+
+880
+00:34:29,270 --> 00:34:30,626
+This perception of voices.
+
+881
+00:34:30,626 --> 00:34:32,600
+There's very good evidence
+
+882
+00:34:32,600 --> 00:34:34,190
+to support the fact that we are tuned
+
+883
+00:34:34,190 --> 00:34:36,770
+to the frequencies of voices
+
+884
+00:34:36,770 --> 00:34:38,790
+and vocalizations of
+people that we care about.
+
+885
+00:34:38,790 --> 00:34:39,927
+It's not just true in rodents
+
+886
+00:34:39,927 --> 00:34:41,650
+and in birds and other mammals,
+
+887
+00:34:41,650 --> 00:34:43,340
+it's definitely true in humans as well.
+
+888
+00:34:43,340 --> 00:34:45,170
+And babies are very tuned in
+
+889
+00:34:45,170 --> 00:34:46,969
+to the sound of their mother's voice,
+
+890
+00:34:46,969 --> 00:34:48,888
+even, yes, while they're in the womb.
+
+891
+00:34:48,889 --> 00:34:52,969
+There's this whole world of
+what's called mother-ease,
+
+892
+00:34:52,969 --> 00:34:56,879
+which is the particular
+style of speech that mothers
+
+893
+00:34:56,880 --> 00:35:00,250
+and other caretakers now
+we know use with children.
+
+894
+00:35:00,250 --> 00:35:01,295
+So those are the core elements.
+
+895
+00:35:01,295 --> 00:35:04,390
+How you look at somebody
+and how they look at you,
+
+896
+00:35:04,390 --> 00:35:08,344
+what you say, what they say,
+what they seem to be feeling,
+
+897
+00:35:08,344 --> 00:35:11,210
+and how that makes you
+feel, smiles, frowns.
+
+898
+00:35:11,210 --> 00:35:13,772
+If you know someone really
+well, you can read inflections,
+
+899
+00:35:13,772 --> 00:35:15,970
+like even little subtle things like,
+
+900
+00:35:15,970 --> 00:35:18,460
+mm, they don't really believe me,
+
+901
+00:35:18,460 --> 00:35:21,690
+or, oh they're really excited by this,
+
+902
+00:35:21,690 --> 00:35:24,957
+or, oh, now I know what they're thinking.
+
+903
+00:35:24,957 --> 00:35:27,430
+That kind of processing,
+
+904
+00:35:27,430 --> 00:35:29,580
+some people are better at it than others,
+
+905
+00:35:29,580 --> 00:35:31,010
+but everyone's better at doing that
+
+906
+00:35:31,010 --> 00:35:32,850
+with people that we recognize and know.
+
+907
+00:35:32,850 --> 00:35:35,946
+In fact, couples come to know
+each other exceedingly well,
+
+908
+00:35:35,946 --> 00:35:38,680
+so much so that it can both benefit
+
+909
+00:35:38,680 --> 00:35:40,440
+and injure their relationship
+
+910
+00:35:40,440 --> 00:35:42,750
+to constantly be making these perceptions.
+
+911
+00:35:42,750 --> 00:35:43,583
+But there's a range.
+
+912
+00:35:43,583 --> 00:35:46,040
+Some people are more tuned
+into this than others.
+
+913
+00:35:46,040 --> 00:35:47,614
+And that probably has roots
+
+914
+00:35:47,614 --> 00:35:50,820
+in the sorts of attachments
+that you form early on.
+
+915
+00:35:50,820 --> 00:35:55,620
+So Bowlby and colleagues
+develop these a, b, c, d thing.
+
+916
+00:35:55,620 --> 00:35:57,435
+And it has a lot to do
+with face processing
+
+917
+00:35:57,435 --> 00:36:00,580
+and gaze and vocalizations and touch,
+
+918
+00:36:00,580 --> 00:36:02,820
+all of those happen on
+return with the mother,
+
+919
+00:36:02,820 --> 00:36:03,980
+but they weren't parsing those,
+
+920
+00:36:03,980 --> 00:36:05,670
+they weren't looking at them individually.
+
+921
+00:36:05,670 --> 00:36:10,113
+So this raises a really
+interesting question, which is,
+
+922
+00:36:11,250 --> 00:36:13,730
+what is it when we feel something?
+
+923
+00:36:13,730 --> 00:36:15,810
+Is it because of something
+
+924
+00:36:15,810 --> 00:36:18,300
+that happened spontaneously
+in us, it's a memory,
+
+925
+00:36:18,300 --> 00:36:20,530
+or it's something that we
+realize, we saw on the internet
+
+926
+00:36:20,530 --> 00:36:22,670
+or we got news about somebody?
+
+927
+00:36:22,670 --> 00:36:24,280
+Nowadays people get so much information
+
+928
+00:36:24,280 --> 00:36:25,113
+about the people they know,
+
+929
+00:36:25,113 --> 00:36:26,970
+both the people they like and dislike
+
+930
+00:36:26,970 --> 00:36:30,540
+by way of viewing online activities.
+
+931
+00:36:30,540 --> 00:36:31,760
+So they're exterocepting,
+
+932
+00:36:31,760 --> 00:36:33,770
+and then it's impacting
+your internal state.
+
+933
+00:36:33,770 --> 00:36:35,100
+And it's clear
+
+934
+00:36:35,100 --> 00:36:38,051
+from most all of the
+theories of emotional health,
+
+935
+00:36:38,051 --> 00:36:41,124
+that an ability to recognize
+
+936
+00:36:41,124 --> 00:36:43,110
+when your own internal state
+
+937
+00:36:43,110 --> 00:36:46,298
+is being driven primarily
+by external events,
+
+938
+00:36:46,298 --> 00:36:50,663
+as important for being able
+to emotionally regulate.
+
+939
+00:36:50,663 --> 00:36:52,430
+People who are constantly
+
+940
+00:36:52,430 --> 00:36:55,162
+being yanked around by the
+external happenings in the world,
+
+941
+00:36:55,162 --> 00:36:57,236
+you would say are emotionally labile,
+
+942
+00:36:57,236 --> 00:37:00,186
+they are not in control of their emotions,
+
+943
+00:37:00,186 --> 00:37:02,501
+even if they're calm all the time,
+
+944
+00:37:02,501 --> 00:37:04,460
+if that calmness only arrives
+
+945
+00:37:04,460 --> 00:37:06,160
+because they're in a placid environment
+
+946
+00:37:06,160 --> 00:37:08,430
+and then you put a cracker
+in that environment
+
+947
+00:37:08,430 --> 00:37:11,760
+and they freak out, well,
+then they're not really calm.
+
+948
+00:37:11,760 --> 00:37:13,930
+Their calm in so far
+
+949
+00:37:13,930 --> 00:37:16,300
+as there isn't something
+disturbing in the environment.
+
+950
+00:37:16,300 --> 00:37:18,240
+So how much the outside environment
+
+951
+00:37:18,240 --> 00:37:19,724
+disrupts your internal environment
+
+952
+00:37:19,724 --> 00:37:20,840
+has everything to do
+
+953
+00:37:20,840 --> 00:37:23,340
+with this balance of interoception
+and an exteroception.
+
+954
+00:37:23,340 --> 00:37:24,760
+And it very likely has roots
+
+955
+00:37:24,760 --> 00:37:27,610
+in whether or not you were secure attached
+
+956
+00:37:27,610 --> 00:37:28,840
+or insecure attached,
+
+957
+00:37:28,840 --> 00:37:32,220
+disorganized or ambivalent as a baby.
+
+958
+00:37:32,220 --> 00:37:34,340
+And of course, you can't
+travel back in time and know,
+
+959
+00:37:34,340 --> 00:37:35,450
+but there are some hints
+
+960
+00:37:35,450 --> 00:37:38,357
+as to what kind of
+emotionality each of us has
+
+961
+00:37:38,357 --> 00:37:41,630
+by examining two periods of development,
+
+962
+00:37:41,630 --> 00:37:45,660
+one is adolescence and puberty
+and the other is adulthood.
+
+963
+00:37:45,660 --> 00:37:47,479
+So while we can't travel back in time,
+
+964
+00:37:47,479 --> 00:37:49,728
+there is an exercise that you can do
+
+965
+00:37:49,728 --> 00:37:52,804
+to address at least in this moment,
+
+966
+00:37:52,804 --> 00:37:55,765
+whether or not you have
+a bias for exteroception
+
+967
+00:37:55,765 --> 00:37:58,280
+or a bias for interoception,
+
+968
+00:37:58,280 --> 00:38:01,215
+whether or not you are better
+at least in this moment,
+
+969
+00:38:01,215 --> 00:38:02,390
+at paying attention
+
+970
+00:38:02,390 --> 00:38:05,110
+to what's going on
+internally or externally.
+
+971
+00:38:05,110 --> 00:38:07,328
+And of course, this will
+vary with circumstance.
+
+972
+00:38:07,328 --> 00:38:10,370
+I think we all know people
+that, maybe it's you,
+
+973
+00:38:10,370 --> 00:38:12,828
+you go to a party and you get there,
+
+974
+00:38:12,828 --> 00:38:14,720
+and everyone seems to be talking
+
+975
+00:38:14,720 --> 00:38:15,778
+and having a really good time,
+
+976
+00:38:15,778 --> 00:38:17,378
+and you're wondering whether or not
+
+977
+00:38:17,378 --> 00:38:19,370
+you have any food in your teeth
+
+978
+00:38:19,370 --> 00:38:20,850
+or whether or not there's
+something on your face
+
+979
+00:38:20,850 --> 00:38:22,740
+or whether or not your hair is right
+
+980
+00:38:22,740 --> 00:38:24,903
+or whether or not you said
+something the wrong way,
+
+981
+00:38:24,903 --> 00:38:27,410
+whether or not you're turning red.
+
+982
+00:38:27,410 --> 00:38:29,498
+People also experience this
+a lot with public speaking.
+
+983
+00:38:29,498 --> 00:38:33,990
+It's not just about learning
+to clamp your level of stress,
+
+984
+00:38:33,990 --> 00:38:36,030
+it's also about how much
+you're exterocepting,
+
+985
+00:38:36,030 --> 00:38:38,240
+how much you're out of
+your head, they call it.
+
+986
+00:38:38,240 --> 00:38:40,812
+But how much you're focused
+on the events around you
+
+987
+00:38:40,812 --> 00:38:43,930
+versus the events inside you.
+
+988
+00:38:43,930 --> 00:38:44,798
+Actually, it's interesting
+
+989
+00:38:44,798 --> 00:38:49,201
+when you talk to people who
+are very effective athletes
+
+990
+00:38:49,201 --> 00:38:51,965
+or they have very high
+stress high consequence jobs,
+
+991
+00:38:51,965 --> 00:38:55,210
+they talk about this notion
+of getting out of your head.
+
+992
+00:38:55,210 --> 00:38:57,580
+You only have so much
+attentional resource,
+
+993
+00:38:57,580 --> 00:38:59,910
+and it can be split between two things,
+
+994
+00:38:59,910 --> 00:39:00,887
+you'll see that in a moment.
+
+995
+00:39:00,887 --> 00:39:02,950
+They can be anchored to one thing.
+
+996
+00:39:02,950 --> 00:39:05,763
+It can be fully focused on
+what's going on internally
+
+997
+00:39:05,763 --> 00:39:08,260
+or it can be fully focused on
+what's going on externally.
+
+998
+00:39:08,260 --> 00:39:10,550
+And if you want to be
+effective in the world,
+
+999
+00:39:10,550 --> 00:39:11,836
+effective being in quotes,
+
+1000
+00:39:11,836 --> 00:39:16,049
+it is useful when in very
+dynamic environments,
+
+1001
+00:39:16,049 --> 00:39:17,812
+especially social environments,
+
+1002
+00:39:17,812 --> 00:39:21,090
+to have a lot of your
+attention focused outward
+
+1003
+00:39:21,090 --> 00:39:23,530
+as opposed to trying to pay attention
+
+1004
+00:39:23,530 --> 00:39:25,050
+to whether or not you're
+saying things correctly
+
+1005
+00:39:25,050 --> 00:39:26,380
+or the tambour of your own voice,
+
+1006
+00:39:26,380 --> 00:39:28,780
+that is more or less destructive
+
+1007
+00:39:28,780 --> 00:39:32,030
+for the ability to engage socially.
+
+1008
+00:39:32,030 --> 00:39:34,688
+So here's the exercise.
+
+1009
+00:39:34,688 --> 00:39:35,900
+You can do this.
+
+1010
+00:39:35,900 --> 00:39:37,275
+Please don't do this if you're driving.
+
+1011
+00:39:37,275 --> 00:39:41,320
+But let's just try and illustrate
+
+1012
+00:39:41,320 --> 00:39:42,153
+or allow you
+
+1013
+00:39:42,153 --> 00:39:45,780
+to experience this interoceptive,
+exteroceptive balance,
+
+1014
+00:39:45,780 --> 00:39:48,330
+and the extent to which you can move
+
+1015
+00:39:48,330 --> 00:39:51,075
+interoception and
+exteroception deliberately.
+
+1016
+00:39:51,075 --> 00:39:54,453
+If you close your eyes right now
+
+1017
+00:39:54,453 --> 00:39:59,453
+and concentrate on the contact
+of any portion of your body
+
+1018
+00:39:59,760 --> 00:40:01,840
+with say the chair or your car seat,
+
+1019
+00:40:01,840 --> 00:40:02,673
+although please, again,
+
+1020
+00:40:02,673 --> 00:40:03,701
+don't do this while you're driving,
+
+1021
+00:40:03,701 --> 00:40:05,470
+anywhere that you are,
+
+1022
+00:40:05,470 --> 00:40:07,314
+even if you're just standing
+up or you're in the kitchen,
+
+1023
+00:40:07,314 --> 00:40:08,526
+you're laying on the couch,
+
+1024
+00:40:08,526 --> 00:40:11,610
+and trying to bring as
+much of your attention
+
+1025
+00:40:11,610 --> 00:40:15,880
+to that point of contact as possible.
+
+1026
+00:40:15,880 --> 00:40:16,713
+And then from there,
+
+1027
+00:40:16,713 --> 00:40:19,100
+you're going to move your
+attention even more deeply
+
+1028
+00:40:19,100 --> 00:40:22,400
+into say the sensation of
+what's going on in your gut.
+
+1029
+00:40:22,400 --> 00:40:23,233
+Are you full?
+
+1030
+00:40:23,233 --> 00:40:24,066
+Are you empty?
+
+1031
+00:40:24,066 --> 00:40:24,899
+Are you hungry?
+
+1032
+00:40:24,899 --> 00:40:26,000
+Are you not?
+
+1033
+00:40:26,000 --> 00:40:27,780
+Is your heart beating, at what rate?
+
+1034
+00:40:27,780 --> 00:40:29,260
+What's the cadence of your breathing?
+
+1035
+00:40:29,260 --> 00:40:31,539
+Basically bringing your
+focus and attention
+
+1036
+00:40:31,539 --> 00:40:34,830
+to everything at the surface
+of your skin and inward.
+
+1037
+00:40:34,830 --> 00:40:37,750
+So I'm going to do a rare thing
+on the Huberman Lab Podcast.
+
+1038
+00:40:37,750 --> 00:40:39,930
+I'm going to introduce about
+five to eight seconds of silence
+
+1039
+00:40:39,930 --> 00:40:42,383
+in order to allow you
+to do that a little bit.
+
+1040
+00:40:55,500 --> 00:40:57,570
+Now this is an exercise
+
+1041
+00:40:57,570 --> 00:40:58,870
+that you can continue afterward
+
+1042
+00:40:58,870 --> 00:41:01,050
+if you want to extend
+how long you do this.
+
+1043
+00:41:01,050 --> 00:41:03,400
+But now try and do something that,
+
+1044
+00:41:03,400 --> 00:41:05,270
+for most people actually
+is a little bit harder,
+
+1045
+00:41:05,270 --> 00:41:07,331
+which is to purely exterocept,
+
+1046
+00:41:07,331 --> 00:41:10,904
+put your eyes or your ears, or both
+
+1047
+00:41:10,904 --> 00:41:14,610
+on anything in your
+immediate space, one thing.
+
+1048
+00:41:14,610 --> 00:41:18,045
+And I would restrict that
+thing to something small enough
+
+1049
+00:41:18,045 --> 00:41:20,700
+that at least in your field of view
+
+1050
+00:41:20,700 --> 00:41:24,090
+it would occupy 20% of your field of view.
+
+1051
+00:41:24,090 --> 00:41:25,510
+So it doesn't have to be a pinpoint
+
+1052
+00:41:25,510 --> 00:41:27,130
+unless the pin is right in front of you
+
+1053
+00:41:27,130 --> 00:41:28,610
+and you're holding it real close.
+
+1054
+00:41:28,610 --> 00:41:32,010
+I would say, look across the
+room, pick a panel on the wall
+
+1055
+00:41:32,010 --> 00:41:34,640
+or a leg of a table or something,
+
+1056
+00:41:34,640 --> 00:41:35,473
+and try and bring
+
+1057
+00:41:35,473 --> 00:41:38,483
+as much of your attention
+to that as possible.
+
+1058
+00:41:38,483 --> 00:41:42,260
+And again, I'll take about
+five seconds of silence
+
+1059
+00:41:42,260 --> 00:41:44,210
+to allow you to exterocept.
+
+1060
+00:41:52,670 --> 00:41:53,990
+So what you probably found is that
+
+1061
+00:41:53,990 --> 00:41:54,920
+you were able to do that,
+
+1062
+00:41:54,920 --> 00:41:58,640
+but that some degree of
+interoception is maintained.
+
+1063
+00:41:58,640 --> 00:42:00,930
+It's hard to place 100% of your attention
+
+1064
+00:42:00,930 --> 00:42:02,105
+on something externally,
+
+1065
+00:42:02,105 --> 00:42:05,017
+unless it's really exciting, really novel.
+
+1066
+00:42:05,017 --> 00:42:06,895
+If you've ever watched
+a really great movie,
+
+1067
+00:42:06,895 --> 00:42:09,628
+presumably you're exterocepting
+
+1068
+00:42:09,628 --> 00:42:11,660
+more than you're interoceptive
+
+1069
+00:42:11,660 --> 00:42:13,058
+until something exciting happens
+
+1070
+00:42:13,058 --> 00:42:14,240
+and then you feel something.
+
+1071
+00:42:14,240 --> 00:42:15,418
+You're actually tethering
+
+1072
+00:42:15,418 --> 00:42:18,280
+your emotional experience
+to something external.
+
+1073
+00:42:18,280 --> 00:42:22,160
+And now you can also do this dynamically.
+
+1074
+00:42:22,160 --> 00:42:24,960
+You can decide to focus
+internally and externally.
+
+1075
+00:42:24,960 --> 00:42:29,960
+You can decide to split
+it 50%, 50% or 70/30.
+
+1076
+00:42:31,120 --> 00:42:35,845
+You can develop a heightened
+ability to do this.
+
+1077
+00:42:35,845 --> 00:42:38,270
+And the power of doing that
+
+1078
+00:42:38,270 --> 00:42:40,390
+is actually that when
+you are in environments
+
+1079
+00:42:40,390 --> 00:42:43,100
+where you feel like you're
+focused too much internally
+
+1080
+00:42:43,100 --> 00:42:45,369
+and you'd like to be
+focused more externally,
+
+1081
+00:42:45,369 --> 00:42:47,230
+you can actually do that deliberately.
+
+1082
+00:42:47,230 --> 00:42:49,220
+But as you notice, it takes work,
+
+1083
+00:42:49,220 --> 00:42:51,730
+it involves taking your
+attentional spotlight,
+
+1084
+00:42:51,730 --> 00:42:53,792
+and what we call the
+aperture of your attention,
+
+1085
+00:42:53,792 --> 00:42:57,455
+and narrowing that
+aperture to either the self
+
+1086
+00:42:57,455 --> 00:43:00,229
+or something externally
+or splitting the two.
+
+1087
+00:43:00,229 --> 00:43:03,010
+And yet there are practices
+
+1088
+00:43:03,010 --> 00:43:06,890
+that have been developed that center on
+
+1089
+00:43:06,890 --> 00:43:09,262
+moving interoception and exteroception
+
+1090
+00:43:09,262 --> 00:43:13,470
+from one being more heavily
+weighted than the other,
+
+1091
+00:43:13,470 --> 00:43:14,480
+more focused outward
+
+1092
+00:43:14,480 --> 00:43:16,040
+or more focused inward.
+
+1093
+00:43:16,040 --> 00:43:17,280
+And it's dynamic.
+
+1094
+00:43:17,280 --> 00:43:18,470
+And the circuits in the brain
+
+1095
+00:43:18,470 --> 00:43:20,767
+that underlie intero and exteroception
+
+1096
+00:43:20,767 --> 00:43:22,160
+aren't exactly known,
+
+1097
+00:43:22,160 --> 00:43:24,440
+but they are anchored in
+the areas of the brain
+
+1098
+00:43:24,440 --> 00:43:25,450
+that are involved in attention,
+
+1099
+00:43:25,450 --> 00:43:26,690
+like the frontal eye fields
+
+1100
+00:43:26,690 --> 00:43:29,830
+and areas that when you
+third-person yourself,
+
+1101
+00:43:29,830 --> 00:43:31,670
+when you can see yourself doing something,
+
+1102
+00:43:31,670 --> 00:43:33,520
+like if you put your hand
+out in your environment
+
+1103
+00:43:33,520 --> 00:43:34,696
+and you focus on your hand,
+
+1104
+00:43:34,696 --> 00:43:36,370
+you know that that's your hand
+
+1105
+00:43:36,370 --> 00:43:37,730
+as opposed to some random object.
+
+1106
+00:43:37,730 --> 00:43:40,460
+There are areas of the brain
+that are involved in that,
+
+1107
+00:43:40,460 --> 00:43:43,020
+in recognizing location of self
+
+1108
+00:43:43,020 --> 00:43:44,720
+relative to the rest of your body.
+
+1109
+00:43:46,032 --> 00:43:50,560
+These exercises are really
+what are at the core
+
+1110
+00:43:50,560 --> 00:43:52,820
+of these development of emotional bonds.
+
+1111
+00:43:52,820 --> 00:43:55,610
+Because as we mentioned
+before, these four things,
+
+1112
+00:43:55,610 --> 00:43:59,191
+the gaze, vocalization, touch and affect,
+
+1113
+00:43:59,191 --> 00:44:02,170
+those are happening very dynamically.
+
+1114
+00:44:02,170 --> 00:44:03,600
+So if somebody winks at you,
+
+1115
+00:44:03,600 --> 00:44:04,950
+you're paying attention to their wink,
+
+1116
+00:44:04,950 --> 00:44:06,958
+but then you also notice how you feel.
+
+1117
+00:44:06,958 --> 00:44:08,290
+Then they might say something,
+
+1118
+00:44:08,290 --> 00:44:10,300
+then you might say something,
+this is very dynamic.
+
+1119
+00:44:10,300 --> 00:44:11,520
+So if it seems overwhelming
+
+1120
+00:44:11,520 --> 00:44:13,870
+to try and interocept an exterocept
+
+1121
+00:44:13,870 --> 00:44:15,030
+and then shift the balance,
+
+1122
+00:44:15,030 --> 00:44:16,170
+you do that all the time.
+
+1123
+00:44:16,170 --> 00:44:18,713
+Your brain and nervous system
+are fantastic at doing this.
+
+1124
+00:44:18,713 --> 00:44:21,810
+Now, some people have a very hard time
+
+1125
+00:44:21,810 --> 00:44:25,105
+breaking out of a very
+strongly interoceptive mode.
+
+1126
+00:44:25,105 --> 00:44:26,528
+Some people have a harder time
+
+1127
+00:44:26,528 --> 00:44:30,320
+breaking out of their exteroceptive mode.
+
+1128
+00:44:30,320 --> 00:44:31,802
+It's very interesting note
+
+1129
+00:44:31,802 --> 00:44:35,110
+the extent to which we have biases
+
+1130
+00:44:35,110 --> 00:44:37,920
+in how interoceptive or
+exteroceptive we are.
+
+1131
+00:44:37,920 --> 00:44:40,266
+Remember those three axes
+that we talked about earlier,
+
+1132
+00:44:40,266 --> 00:44:42,490
+you have valence, good or bad,
+
+1133
+00:44:42,490 --> 00:44:44,900
+you have alertness, alert or calm,
+
+1134
+00:44:44,900 --> 00:44:48,502
+and you have interoceptive
+or exteroceptive bias.
+
+1135
+00:44:48,502 --> 00:44:51,970
+And it's going to differ across the day,
+
+1136
+00:44:51,970 --> 00:44:53,900
+it's going to differ across the lifetime.
+
+1137
+00:44:53,900 --> 00:44:55,160
+It's certainly going to differ
+
+1138
+00:44:55,160 --> 00:44:57,550
+according to whatever it
+is that you're engaged in.
+
+1139
+00:44:57,550 --> 00:44:59,600
+But early in development,
+
+1140
+00:44:59,600 --> 00:45:01,951
+you start off with this
+interoceptive bias.
+
+1141
+00:45:01,951 --> 00:45:06,010
+You are starting to develop
+expectations, predictions
+
+1142
+00:45:06,010 --> 00:45:08,177
+about how the outside
+world is going to work.
+
+1143
+00:45:08,177 --> 00:45:12,130
+And you are trying to
+figure out the reliability
+
+1144
+00:45:12,130 --> 00:45:13,768
+of outside events in people.
+
+1145
+00:45:13,768 --> 00:45:16,165
+And where things are reliable,
+
+1146
+00:45:16,165 --> 00:45:18,773
+when people are reliable,
+
+1147
+00:45:18,773 --> 00:45:22,190
+we are able to give up
+more of our interoception.
+
+1148
+00:45:22,190 --> 00:45:25,890
+There's literally trust
+that our interoceptive needs
+
+1149
+00:45:25,890 --> 00:45:27,610
+our internal needs will be met
+
+1150
+00:45:27,610 --> 00:45:29,931
+through bonds and actions of others.
+
+1151
+00:45:29,931 --> 00:45:32,035
+This starts to veer toward
+
+1152
+00:45:32,035 --> 00:45:34,540
+the discussion about neglect and trauma.
+
+1153
+00:45:34,540 --> 00:45:36,610
+We are going to devote entire episodes,
+
+1154
+00:45:36,610 --> 00:45:39,930
+probably an entire month
+to trauma and PTSD.
+
+1155
+00:45:39,930 --> 00:45:43,830
+But those have roots in what
+we're talking about now.
+
+1156
+00:45:43,830 --> 00:45:45,340
+And it's important to internalize
+
+1157
+00:45:45,340 --> 00:45:46,720
+and understand what
+we're talking about now
+
+1158
+00:45:46,720 --> 00:45:49,820
+in order to get the most out
+of those future conversations.
+
+1159
+00:45:49,820 --> 00:45:52,070
+So if all of this seems like
+
+1160
+00:45:52,070 --> 00:45:54,511
+a lot of information and very complicated,
+
+1161
+00:45:54,511 --> 00:45:57,073
+I just invite you to pay
+attention from time to time
+
+1162
+00:45:57,073 --> 00:46:00,323
+how much you happen to be
+interocepting or exterocepting,
+
+1163
+00:46:00,323 --> 00:46:03,947
+because emotions and the
+intensity of those emotions
+
+1164
+00:46:03,947 --> 00:46:06,160
+will grow or shrink
+
+1165
+00:46:06,160 --> 00:46:07,930
+depending on how much we're interocepting.
+
+1166
+00:46:07,930 --> 00:46:10,122
+If we are feeling extremely sad,
+
+1167
+00:46:10,122 --> 00:46:15,122
+and there is an outside
+event that made us sad,
+
+1168
+00:46:15,630 --> 00:46:17,910
+chances are there's going to be a balance,
+
+1169
+00:46:17,910 --> 00:46:20,713
+but that the extreme
+grief, the extreme sadness
+
+1170
+00:46:20,713 --> 00:46:23,688
+is going to lead us to
+mostly interoceptive.
+
+1171
+00:46:23,688 --> 00:46:27,220
+Whereas when we're
+feeling extremely happy,
+
+1172
+00:46:27,220 --> 00:46:28,114
+the same is true.
+
+1173
+00:46:28,114 --> 00:46:30,650
+Something great happens in the world,
+
+1174
+00:46:30,650 --> 00:46:31,710
+and we're just going to feel it.
+
+1175
+00:46:31,710 --> 00:46:33,080
+Most of our perception,
+
+1176
+00:46:33,080 --> 00:46:35,830
+most of our awareness is going
+to be on our internal state.
+
+1177
+00:46:35,830 --> 00:46:38,520
+So we are always tethered
+to the outside world
+
+1178
+00:46:38,520 --> 00:46:39,815
+to some degree or another.
+
+1179
+00:46:39,815 --> 00:46:42,160
+That was true when you were an infant,
+
+1180
+00:46:42,160 --> 00:46:44,110
+and it was true when
+you were an adolescent,
+
+1181
+00:46:44,110 --> 00:46:46,359
+and it's true as an adult.
+
+1182
+00:46:46,359 --> 00:46:48,587
+So now I want to just pause,
+
+1183
+00:46:48,587 --> 00:46:51,030
+just shelve the discussion
+
+1184
+00:46:51,030 --> 00:46:53,270
+about interoception,
+exteroception for a moment.
+
+1185
+00:46:53,270 --> 00:46:54,266
+And I want to talk about
+
+1186
+00:46:54,266 --> 00:46:57,688
+what is arguably the second most, if not,
+
+1187
+00:46:57,688 --> 00:47:01,537
+equally important aspect
+of your development
+
+1188
+00:47:01,537 --> 00:47:04,153
+as it relates to emotionality
+
+1189
+00:47:04,153 --> 00:47:07,030
+and as it relates to
+this, what I call trust,
+
+1190
+00:47:07,030 --> 00:47:08,630
+but this ability to predict
+
+1191
+00:47:08,630 --> 00:47:10,540
+whether or not things in the outside world
+
+1192
+00:47:10,540 --> 00:47:13,270
+are reliable or not reliable
+
+1193
+00:47:13,270 --> 00:47:14,387
+in terms of their ability
+
+1194
+00:47:14,387 --> 00:47:17,150
+to help you meet your interoceptive needs.
+
+1195
+00:47:17,150 --> 00:47:20,880
+And that period is puberty.
+
+1196
+00:47:20,880 --> 00:47:23,430
+So up until now, we've been
+talking mainly about psychology,
+
+1197
+00:47:23,430 --> 00:47:25,530
+not a lot of biology,
+not a lot of mechanism.
+
+1198
+00:47:25,530 --> 00:47:26,980
+And now we're going to transition
+
+1199
+00:47:26,980 --> 00:47:28,500
+into talking about mechanism,
+
+1200
+00:47:28,500 --> 00:47:31,270
+hormones, receptors, et cetera.
+
+1201
+00:47:31,270 --> 00:47:34,477
+Puberty is a absolute biological event.
+
+1202
+00:47:34,477 --> 00:47:39,016
+It has a beginning, and it
+has a specific definition,
+
+1203
+00:47:39,016 --> 00:47:42,401
+which is the transition
+into reproductive maturity.
+
+1204
+00:47:42,401 --> 00:47:44,220
+So there are a lot of hormonal changes.
+
+1205
+00:47:44,220 --> 00:47:45,980
+Yes, there are also a
+lot of brain changes.
+
+1206
+00:47:45,980 --> 00:47:47,190
+And most people don't realize it,
+
+1207
+00:47:47,190 --> 00:47:49,450
+but the brain changes occur first.
+
+1208
+00:47:49,450 --> 00:47:52,020
+The brain turns on the hormone systems
+
+1209
+00:47:52,020 --> 00:47:53,883
+that allow puberty to occur.
+
+1210
+00:47:55,610 --> 00:47:58,470
+Puberty is occurring earlier nowadays
+
+1211
+00:47:58,470 --> 00:48:00,164
+than it did in the past.
+
+1212
+00:48:00,164 --> 00:48:03,650
+The current numbers
+that I was able to find
+
+1213
+00:48:03,650 --> 00:48:06,960
+is that in females and girls,
+
+1214
+00:48:06,960 --> 00:48:09,610
+the transition is starting around age 10,
+
+1215
+00:48:09,610 --> 00:48:11,970
+whereas in boys, it's about age 12,
+
+1216
+00:48:11,970 --> 00:48:12,845
+that's going to differ
+
+1217
+00:48:12,845 --> 00:48:14,900
+by way of a number of different factors.
+
+1218
+00:48:14,900 --> 00:48:16,350
+Those are averages.
+
+1219
+00:48:16,350 --> 00:48:18,620
+So it depends on where
+you are in the world,
+
+1220
+00:48:18,620 --> 00:48:20,210
+depends on all sorts of things.
+
+1221
+00:48:20,210 --> 00:48:22,833
+One of the primary triggers for puberty
+
+1222
+00:48:22,833 --> 00:48:24,921
+is actually body fat.
+
+1223
+00:48:24,921 --> 00:48:26,622
+This is interesting.
+
+1224
+00:48:26,622 --> 00:48:31,622
+The peptide hormone, leptin,
+some people call it a peptide,
+
+1225
+00:48:32,230 --> 00:48:33,270
+some people call it a hormone,
+
+1226
+00:48:33,270 --> 00:48:34,920
+but it meets both definitions
+
+1227
+00:48:34,920 --> 00:48:38,510
+depending on how you look
+at it, is made by fat.
+
+1228
+00:48:38,510 --> 00:48:42,810
+So leptin had a lot of
+popularity in the '90s,
+
+1229
+00:48:42,810 --> 00:48:46,182
+because it was discovered
+as being produced by fat,
+
+1230
+00:48:46,182 --> 00:48:48,480
+and it was seen in animal studies
+
+1231
+00:48:48,480 --> 00:48:50,350
+that it could promote leanness.
+
+1232
+00:48:50,350 --> 00:48:52,350
+It actually communicates to the brain
+
+1233
+00:48:52,350 --> 00:48:53,860
+that there's enough body fat
+
+1234
+00:48:53,860 --> 00:48:56,956
+in order to allow the metabolic factors
+
+1235
+00:48:56,956 --> 00:48:59,760
+and processes to occur
+to liberate more fat.
+
+1236
+00:48:59,760 --> 00:49:01,100
+This is why people have trouble
+
+1237
+00:49:01,100 --> 00:49:02,740
+losing that last five pounds.
+
+1238
+00:49:02,740 --> 00:49:04,810
+It's because leptin levels are very low.
+
+1239
+00:49:04,810 --> 00:49:05,840
+This was actually the basis
+
+1240
+00:49:05,840 --> 00:49:08,040
+for the whole cheat day, refeed thing,
+
+1241
+00:49:08,040 --> 00:49:12,040
+that the idea was if you
+eat a lot for one day a week
+
+1242
+00:49:12,040 --> 00:49:13,035
+while dieting hard,
+
+1243
+00:49:13,035 --> 00:49:15,250
+that you can signal to the brain
+
+1244
+00:49:15,250 --> 00:49:16,311
+that there's enough leptin.
+
+1245
+00:49:16,311 --> 00:49:18,130
+I don't know if that's the reason
+
+1246
+00:49:18,130 --> 00:49:19,330
+or whether or not the cheat days
+
+1247
+00:49:19,330 --> 00:49:22,880
+just provided some psychological
+relief, probably both.
+
+1248
+00:49:22,880 --> 00:49:25,880
+But in any case, leptin
+is made by body fat.
+
+1249
+00:49:25,880 --> 00:49:27,290
+And when there's enough leptin,
+
+1250
+00:49:27,290 --> 00:49:30,630
+it signals the brain to trigger puberty.
+
+1251
+00:49:30,630 --> 00:49:33,400
+There was a paper
+published in the mid '90s
+
+1252
+00:49:33,400 --> 00:49:35,295
+in the Journal Science, excellent journal,
+
+1253
+00:49:35,295 --> 00:49:39,912
+showing that leptin could be
+injected into younger females
+
+1254
+00:49:39,912 --> 00:49:44,420
+that would not have yet gone into puberty.
+
+1255
+00:49:44,420 --> 00:49:47,920
+And you could accelerate the
+onset of puberty with leptin.
+
+1256
+00:49:47,920 --> 00:49:50,860
+So more body fat, the
+earlier puberty, that's true.
+
+1257
+00:49:50,860 --> 00:49:52,450
+Leptin is also involved
+
+1258
+00:49:52,450 --> 00:49:55,280
+in various growth effects
+in the body generally.
+
+1259
+00:49:55,280 --> 00:49:57,572
+And it's interesting, very obese children
+
+1260
+00:49:57,572 --> 00:50:00,820
+don't necessarily undergo puberty earlier.
+
+1261
+00:50:00,820 --> 00:50:04,190
+Sometimes they do, but they
+do tend to be larger boned.
+
+1262
+00:50:04,190 --> 00:50:05,780
+Their bones actually grow more quickly,
+
+1263
+00:50:05,780 --> 00:50:07,530
+and they tend to have higher bone density
+
+1264
+00:50:07,530 --> 00:50:09,930
+because leptin is also
+involved in bone density.
+
+1265
+00:50:11,824 --> 00:50:14,048
+The whole issue of onset of puberty
+
+1266
+00:50:14,048 --> 00:50:17,580
+also has some really
+interesting social effects.
+
+1267
+00:50:17,580 --> 00:50:19,830
+And I want to really highlight
+
+1268
+00:50:19,830 --> 00:50:22,780
+that most of these effects,
+also called pheromone effects.
+
+1269
+00:50:22,780 --> 00:50:23,700
+Remember a hormone
+
+1270
+00:50:23,700 --> 00:50:26,680
+is a substance secreted from
+one area of the body, travels,
+
+1271
+00:50:26,680 --> 00:50:29,330
+and impacts tissues and
+cells elsewhere in the body.
+
+1272
+00:50:29,330 --> 00:50:31,420
+A pheromone is a chemical
+
+1273
+00:50:31,420 --> 00:50:33,900
+that's released by one member of a species
+
+1274
+00:50:33,900 --> 00:50:35,630
+that goes and acts on
+
+1275
+00:50:35,630 --> 00:50:37,820
+and impacts other members of that species
+
+1276
+00:50:37,820 --> 00:50:39,499
+or even other species.
+
+1277
+00:50:39,499 --> 00:50:42,340
+So for instance, rodents are very good
+
+1278
+00:50:42,340 --> 00:50:45,750
+at detecting the urine
+
+1279
+00:50:45,750 --> 00:50:48,450
+and the scent markings of large carnivores
+
+1280
+00:50:48,450 --> 00:50:49,450
+that want to eat them.
+
+1281
+00:50:49,450 --> 00:50:51,653
+So that's a pheromone interaction.
+
+1282
+00:50:52,740 --> 00:50:54,970
+Whether or not they're
+pheromonal effects in humans
+
+1283
+00:50:54,970 --> 00:50:56,200
+is very debated.
+
+1284
+00:50:56,200 --> 00:50:58,480
+I did a post on this on
+Instagram a little while ago
+
+1285
+00:50:58,480 --> 00:51:00,680
+about some pheromone effects
+that were reported in humans.
+
+1286
+00:51:00,680 --> 00:51:04,097
+And I had a couple of
+people come at me saying,
+
+1287
+00:51:04,097 --> 00:51:06,630
+"Look, it's never really
+been shown in humans
+
+1288
+00:51:06,630 --> 00:51:08,290
+that there's a pheromonal vomer,"
+
+1289
+00:51:08,290 --> 00:51:09,770
+what's called the vomeronasal organ.
+
+1290
+00:51:09,770 --> 00:51:11,600
+There's something called Jacobson's organ.
+
+1291
+00:51:11,600 --> 00:51:12,662
+It's rudimentary.
+
+1292
+00:51:12,662 --> 00:51:16,610
+Some people have it, some people
+don't, very controversial.
+
+1293
+00:51:16,610 --> 00:51:17,570
+So I want to point out
+
+1294
+00:51:17,570 --> 00:51:19,860
+that human pheromone
+effects are controversial.
+
+1295
+00:51:19,860 --> 00:51:21,798
+Although I think there's, in my opinion,
+
+1296
+00:51:21,798 --> 00:51:24,110
+there's ample evidence for them,
+
+1297
+00:51:24,110 --> 00:51:25,662
+synchronization of menstrual cycles.
+
+1298
+00:51:25,662 --> 00:51:27,709
+Many people report,
+
+1299
+00:51:27,709 --> 00:51:29,970
+then people say there's some studies
+
+1300
+00:51:29,970 --> 00:51:31,162
+that show that it's not true.
+
+1301
+00:51:31,162 --> 00:51:35,140
+Then there've been some
+data showing very impressive
+
+1302
+00:51:35,140 --> 00:51:39,525
+pheromonal effects of female partners
+
+1303
+00:51:39,525 --> 00:51:43,750
+being able to detect the odor
+of their significant others
+
+1304
+00:51:43,750 --> 00:51:45,820
+on t-shirts that were
+washed several times.
+
+1305
+00:51:45,820 --> 00:51:47,250
+So they can't consciously perceive it,
+
+1306
+00:51:47,250 --> 00:51:49,480
+but they say this one smells like them,
+
+1307
+00:51:49,480 --> 00:51:51,030
+this one smells like my partner.
+
+1308
+00:51:51,030 --> 00:51:55,176
+And indeed, the match
+was way above chance.
+
+1309
+00:51:55,176 --> 00:51:58,610
+So there does seem to be
+weak pheromonal effects
+
+1310
+00:51:58,610 --> 00:52:00,540
+at least in my opinion
+when I look at the data,
+
+1311
+00:52:00,540 --> 00:52:02,270
+but much more needs to be done.
+
+1312
+00:52:02,270 --> 00:52:05,270
+So one of the more
+interesting pheromone effects
+
+1313
+00:52:05,270 --> 00:52:08,415
+that impacts puberty, at
+least in animal models
+
+1314
+00:52:08,415 --> 00:52:11,310
+is the so-called Vandenbergh
+effect, which is,
+
+1315
+00:52:11,310 --> 00:52:13,847
+if you take a pre-pubertal female,
+
+1316
+00:52:13,847 --> 00:52:17,786
+so a female that has not
+undergone sexual maturation,
+
+1317
+00:52:17,786 --> 00:52:21,410
+and you introduce a novel male
+
+1318
+00:52:21,410 --> 00:52:24,400
+that is not the father or
+a brother, not a sibling,
+
+1319
+00:52:24,400 --> 00:52:29,099
+she will undergo puberty
+almost immediately.
+
+1320
+00:52:29,099 --> 00:52:30,640
+So this is really striking.
+
+1321
+00:52:30,640 --> 00:52:31,473
+For years,
+
+1322
+00:52:31,473 --> 00:52:33,550
+this was thought not to
+occur in primate species,
+
+1323
+00:52:33,550 --> 00:52:35,522
+but there was a paper published last year
+
+1324
+00:52:35,522 --> 00:52:38,840
+in Current Biology, Cell Press
+journal, excellent journal,
+
+1325
+00:52:38,840 --> 00:52:42,161
+showing that mandrills, a
+particular type of primate,
+
+1326
+00:52:42,161 --> 00:52:45,336
+they exhibit this Vandenbergh effect.
+
+1327
+00:52:45,336 --> 00:52:49,940
+There are also all sorts
+of other pheromone effects.
+
+1328
+00:52:49,940 --> 00:52:52,310
+There's the most infamous one
+
+1329
+00:52:52,310 --> 00:52:53,313
+is called the Bruce effect,
+
+1330
+00:52:53,313 --> 00:52:56,814
+where the introduction of a novel male
+
+1331
+00:52:56,814 --> 00:53:01,814
+to a pregnant female animal
+causes spontaneous miscarriage.
+
+1332
+00:53:03,788 --> 00:53:07,040
+And that effect seems
+to be protected against
+
+1333
+00:53:07,040 --> 00:53:08,823
+by the presence of the father.
+
+1334
+00:53:10,046 --> 00:53:12,090
+This interpretation of this,
+
+1335
+00:53:12,090 --> 00:53:14,270
+and I want to really highlight
+
+1336
+00:53:14,270 --> 00:53:15,972
+that these are animal studies,
+
+1337
+00:53:15,972 --> 00:53:18,970
+but the way this works
+
+1338
+00:53:18,970 --> 00:53:21,731
+is that if a pregnant female
+
+1339
+00:53:21,731 --> 00:53:25,662
+is in the company of the
+male that impregnated her,
+
+1340
+00:53:25,662 --> 00:53:29,030
+then her young are protected
+
+1341
+00:53:29,030 --> 00:53:31,780
+by his scent presence or
+his pheromone presence.
+
+1342
+00:53:31,780 --> 00:53:35,149
+But if he's gone and
+a novel male shows up,
+
+1343
+00:53:35,149 --> 00:53:39,543
+there's a tendency for her
+to spontaneously miscarry,
+
+1344
+00:53:39,543 --> 00:53:43,840
+and essentially for the fetus to be lost.
+
+1345
+00:53:43,840 --> 00:53:45,500
+Now, whether or not this occurs in humans
+
+1346
+00:53:45,500 --> 00:53:48,890
+is still very controversial,
+but nonetheless,
+
+1347
+00:53:48,890 --> 00:53:50,960
+these pheromone effects exist.
+
+1348
+00:53:50,960 --> 00:53:53,360
+And that one is called the Bruce effect,
+
+1349
+00:53:53,360 --> 00:53:55,850
+named after Hilda Bruce,
+
+1350
+00:53:55,850 --> 00:53:58,761
+who is the scientist that discovered it.
+
+1351
+00:53:58,761 --> 00:54:00,250
+The one that's relevant
+
+1352
+00:54:00,250 --> 00:54:03,010
+to the puberty discussion
+is the Vandenbergh effect,
+
+1353
+00:54:03,010 --> 00:54:04,860
+which I mentioned a few minutes ago,
+
+1354
+00:54:04,860 --> 00:54:07,358
+which is a novel male showing up,
+
+1355
+00:54:07,358 --> 00:54:10,050
+has to be a sexually competent male,
+
+1356
+00:54:10,050 --> 00:54:12,488
+so he has to have already
+passed through puberty,
+
+1357
+00:54:12,488 --> 00:54:17,460
+and his presence triggers
+activation of puberty
+
+1358
+00:54:17,460 --> 00:54:19,180
+in a female that otherwise
+
+1359
+00:54:19,180 --> 00:54:21,710
+would have remained
+pre-pubertal for longer.
+
+1360
+00:54:21,710 --> 00:54:24,615
+Again, whether or not this
+happens in humans is unclear.
+
+1361
+00:54:24,615 --> 00:54:29,615
+Well, what can we be sure about
+when we think about puberty?
+
+1362
+00:54:30,166 --> 00:54:33,050
+Puberty is triggered by a
+number of different factors.
+
+1363
+00:54:33,050 --> 00:54:35,390
+There are changes in GABA
+expression in the brain,
+
+1364
+00:54:35,390 --> 00:54:36,720
+an inhibitory transmitter.
+
+1365
+00:54:36,720 --> 00:54:37,954
+One of the more interesting molecules
+
+1366
+00:54:37,954 --> 00:54:40,939
+that triggers puberty in all individuals
+
+1367
+00:54:40,939 --> 00:54:43,610
+is something called kisspeptin,
+
+1368
+00:54:43,610 --> 00:54:48,610
+K-I-S-S-P-E-P-T-I-N, kisspeptin.
+
+1369
+00:54:49,320 --> 00:54:51,950
+Kisspeptin is made by the brain.
+
+1370
+00:54:51,950 --> 00:54:52,917
+And it stimulates
+
+1371
+00:54:52,917 --> 00:54:55,905
+large amounts of all different hormone
+
+1372
+00:54:55,905 --> 00:55:00,905
+called GnRH, gonadotrophin-releasing
+hormone to be released.
+
+1373
+00:55:01,110 --> 00:55:02,481
+Gonadotropin-releasing hormone
+
+1374
+00:55:02,481 --> 00:55:04,404
+then causes the release of another hormone
+
+1375
+00:55:04,404 --> 00:55:07,818
+called luteinizing hormone or LH,
+
+1376
+00:55:07,818 --> 00:55:09,719
+which travels in the bloodstream
+
+1377
+00:55:09,719 --> 00:55:13,406
+and stimulates the ovaries of
+females to produce estrogen
+
+1378
+00:55:13,406 --> 00:55:17,683
+and the testes of males
+to produce testosterone.
+
+1379
+00:55:17,683 --> 00:55:20,523
+Kisspeptin has other effects as well.
+
+1380
+00:55:21,830 --> 00:55:23,780
+But those are some of the main ones
+
+1381
+00:55:23,780 --> 00:55:25,790
+as they relate to puberty.
+
+1382
+00:55:25,790 --> 00:55:28,670
+This is interesting,
+because at this point,
+
+1383
+00:55:28,670 --> 00:55:30,320
+the testes in males
+
+1384
+00:55:30,320 --> 00:55:32,320
+start churning out tons of testosterone
+
+1385
+00:55:32,320 --> 00:55:33,680
+in order to trigger
+
+1386
+00:55:33,680 --> 00:55:36,700
+the development of secondary
+sexual characteristics,
+
+1387
+00:55:36,700 --> 00:55:39,410
+body hair and all the others,
+deepening of voice, et cetera.
+
+1388
+00:55:39,410 --> 00:55:43,250
+And in females, estrogen is
+doing various other things,
+
+1389
+00:55:43,250 --> 00:55:45,557
+breast development, et cetera.
+
+1390
+00:55:45,557 --> 00:55:48,379
+Normally, in an adult,
+
+1391
+00:55:48,379 --> 00:55:50,709
+somebody who has passed puberty,
+
+1392
+00:55:50,709 --> 00:55:53,960
+a big increase in
+gonadotropin releasing hormone
+
+1393
+00:55:53,960 --> 00:55:56,910
+and luteinizing hormone would
+eventually be shut down,
+
+1394
+00:55:56,910 --> 00:55:59,180
+because the way that the brain works,
+
+1395
+00:55:59,180 --> 00:56:01,030
+the hypothalamus and the pituitary
+
+1396
+00:56:01,030 --> 00:56:03,710
+are actually measuring how
+much hormone is in the blood.
+
+1397
+00:56:03,710 --> 00:56:05,540
+And if testosterone or estrogen
+
+1398
+00:56:05,540 --> 00:56:07,580
+or any other hormone goes too high,
+
+1399
+00:56:07,580 --> 00:56:08,468
+they shut down
+
+1400
+00:56:08,468 --> 00:56:10,930
+the release of things
+like luteinizing hormone.
+
+1401
+00:56:10,930 --> 00:56:13,150
+It's called a negative feedback loop.
+
+1402
+00:56:13,150 --> 00:56:15,100
+Basically is like a
+thermostat in the house.
+
+1403
+00:56:15,100 --> 00:56:16,210
+It's more complicated than that,
+
+1404
+00:56:16,210 --> 00:56:19,410
+but once levels get too
+high in the blood stream,
+
+1405
+00:56:19,410 --> 00:56:20,430
+it shuts down.
+
+1406
+00:56:20,430 --> 00:56:22,160
+But kisspeptin is able to drive
+
+1407
+00:56:22,160 --> 00:56:25,620
+very high levels of these
+hormones in an ongoing way
+
+1408
+00:56:25,620 --> 00:56:28,350
+so that puberty can
+commence and can continue.
+
+1409
+00:56:28,350 --> 00:56:31,046
+And incidentally,
+kisspeptin has now become
+
+1410
+00:56:31,046 --> 00:56:36,046
+yet another of the panoply of hormones
+
+1411
+00:56:36,350 --> 00:56:39,290
+and peptides and cocktails
+that athletes take
+
+1412
+00:56:39,290 --> 00:56:42,199
+in order to try and stimulate
+natural hormone production,
+
+1413
+00:56:42,199 --> 00:56:44,040
+essentially to create their own
+
+1414
+00:56:44,040 --> 00:56:46,773
+performance-enhancing drugs endogenously.
+
+1415
+00:56:46,773 --> 00:56:48,930
+No judgment there, but that's a fact,
+
+1416
+00:56:48,930 --> 00:56:51,210
+there's a lot of kisspeptin used.
+
+1417
+00:56:51,210 --> 00:56:53,550
+I truly not suggesting anyone do this,
+
+1418
+00:56:53,550 --> 00:56:56,800
+but people are buying
+and injecting kisspeptin
+
+1419
+00:56:56,800 --> 00:57:00,220
+for the specific reason
+that even past puberty
+
+1420
+00:57:00,220 --> 00:57:04,740
+can stimulate the large increases
+in things like estrogen,
+
+1421
+00:57:04,740 --> 00:57:07,850
+large increases in testosterone
+and things of that sort.
+
+1422
+00:57:07,850 --> 00:57:09,789
+Has a number of psychological effects too,
+
+1423
+00:57:09,789 --> 00:57:12,942
+seems to have big effects
+on libido, et cetera.
+
+1424
+00:57:12,942 --> 00:57:15,730
+All these things of course
+are subject to feedback loops,
+
+1425
+00:57:15,730 --> 00:57:18,060
+so they don't work indefinitely.
+
+1426
+00:57:18,060 --> 00:57:18,893
+And I'm going to highlight,
+
+1427
+00:57:18,893 --> 00:57:20,300
+again, I'm not suggesting anyone do it,
+
+1428
+00:57:20,300 --> 00:57:23,040
+but I do like to pay
+attention to what's out there.
+
+1429
+00:57:23,040 --> 00:57:25,832
+And kisspeptin, because it
+wasn't discovered that long ago
+
+1430
+00:57:25,832 --> 00:57:28,048
+is one of the things that
+you don't often hear about
+
+1431
+00:57:28,048 --> 00:57:31,810
+when people talk about
+performance-enhancing drugs
+
+1432
+00:57:31,810 --> 00:57:33,990
+or therapeutic endocrinology.
+
+1433
+00:57:33,990 --> 00:57:35,861
+These things also have therapeutic uses
+
+1434
+00:57:35,861 --> 00:57:39,300
+in the endocrine setting.
+
+1435
+00:57:39,300 --> 00:57:41,380
+So for instance, kids
+that don't undergo puberty
+
+1436
+00:57:41,380 --> 00:57:44,330
+or kids that are hypogonadal
+or adults that are hypogonadal,
+
+1437
+00:57:44,330 --> 00:57:45,690
+they're not making enough hormone
+
+1438
+00:57:45,690 --> 00:57:49,780
+will take things like
+kisspeptin among other things.
+
+1439
+00:57:49,780 --> 00:57:53,040
+So that's how puberty happens
+at the biological level,
+
+1440
+00:57:53,040 --> 00:57:54,584
+gets triggered by leptin and kisspeptin.
+
+1441
+00:57:54,584 --> 00:57:57,272
+And then this young child
+
+1442
+00:57:57,272 --> 00:58:02,270
+is now a different
+creature to to some extent,
+
+1443
+00:58:02,270 --> 00:58:03,521
+not just because
+
+1444
+00:58:03,521 --> 00:58:05,620
+they're reproductively
+competent, of course,
+
+1445
+00:58:05,620 --> 00:58:07,670
+but because there's a shift
+
+1446
+00:58:07,670 --> 00:58:11,573
+in a number of the things that
+underlie these social bonds,
+
+1447
+00:58:11,573 --> 00:58:14,220
+there's a market shift
+
+1448
+00:58:14,220 --> 00:58:15,480
+in a number of the things
+
+1449
+00:58:15,480 --> 00:58:19,030
+that allow children and adults
+
+1450
+00:58:19,030 --> 00:58:22,300
+to engage in predictive
+behavior about each other.
+
+1451
+00:58:22,300 --> 00:58:25,648
+And the whole nature of
+adolescence and puberty
+
+1452
+00:58:25,648 --> 00:58:30,034
+is to take a child that was a generalist
+
+1453
+00:58:30,034 --> 00:58:31,920
+and to make them a specialist.
+
+1454
+00:58:31,920 --> 00:58:33,096
+And this is very important
+
+1455
+00:58:33,096 --> 00:58:35,830
+as it relates to the
+conversation about emotionality.
+
+1456
+00:58:35,830 --> 00:58:40,800
+But it's important in terms
+of aspects of brain function
+
+1457
+00:58:40,800 --> 00:58:41,870
+and in terms of learning
+
+1458
+00:58:41,870 --> 00:58:44,440
+and in terms of who
+each and every one of us
+
+1459
+00:58:44,440 --> 00:58:45,963
+will and has become.
+
+1460
+00:58:47,132 --> 00:58:49,800
+In adolescents and in childhood,
+
+1461
+00:58:49,800 --> 00:58:51,769
+sure, there are some genetic biases,
+
+1462
+00:58:51,769 --> 00:58:54,790
+hair color, eye color,
+height, and things like that.
+
+1463
+00:58:54,790 --> 00:58:56,940
+A lot of that's programmed
+into the genome.
+
+1464
+00:58:58,260 --> 00:59:01,167
+There are other genetic
+biases too of course,
+
+1465
+00:59:01,167 --> 00:59:02,727
+that we inherit.
+
+1466
+00:59:02,727 --> 00:59:06,650
+But it's in adolescents in puberty
+
+1467
+00:59:06,650 --> 00:59:08,520
+that we go from essentially
+
+1468
+00:59:08,520 --> 00:59:10,857
+being somewhat good at a bunch of things
+
+1469
+00:59:10,857 --> 00:59:13,650
+or somewhat poor at a bunch of things,
+
+1470
+00:59:13,650 --> 00:59:16,057
+to be coming very good at a few things
+
+1471
+00:59:16,057 --> 00:59:18,055
+and very poor at a lot of other things.
+
+1472
+00:59:18,055 --> 00:59:19,370
+And that's because
+
+1473
+00:59:19,370 --> 00:59:22,006
+of the relationship to
+puberty and neuroplasticity,
+
+1474
+00:59:22,006 --> 00:59:25,160
+this ability to change the
+brain in response to experience
+
+1475
+00:59:25,160 --> 00:59:28,631
+is starting to taper off
+such that by our early 20s,
+
+1476
+00:59:28,631 --> 00:59:30,819
+it's harder to achieve.
+
+1477
+00:59:30,819 --> 00:59:34,400
+Now, the transition from
+generalist to specialist
+
+1478
+00:59:34,400 --> 00:59:36,820
+is one aspect of adolescence and puberty,
+
+1479
+00:59:36,820 --> 00:59:39,230
+but the other is the formation
+
+1480
+00:59:39,230 --> 00:59:40,800
+of social and emotional bonds.
+
+1481
+00:59:40,800 --> 00:59:43,220
+And most of what consumes the minds
+
+1482
+00:59:43,220 --> 00:59:47,140
+and waking hours of adolescents
+
+1483
+00:59:47,140 --> 00:59:48,760
+and children who have gone through puberty
+
+1484
+00:59:48,760 --> 00:59:50,110
+and going through puberty
+
+1485
+00:59:50,110 --> 00:59:54,362
+is questions about how they
+relate to social structures,
+
+1486
+00:59:54,362 --> 00:59:56,089
+who they can rely on,
+
+1487
+00:59:56,089 --> 00:59:59,050
+and how they can make reliable
+predictions in the world,
+
+1488
+00:59:59,050 --> 01:00:00,640
+now that they have more urgency
+
+1489
+01:00:00,640 --> 01:00:02,945
+that they are physically changed.
+
+1490
+01:00:02,945 --> 01:00:04,500
+In fact, you could argue
+
+1491
+01:00:04,500 --> 01:00:07,240
+that puberty is the
+fastest rate of maturation
+
+1492
+01:00:07,240 --> 01:00:09,400
+that you'll go through at
+any point in your life.
+
+1493
+01:00:09,400 --> 01:00:11,300
+It's the largest change
+that you'll go through
+
+1494
+01:00:11,300 --> 01:00:14,073
+at any point in your life
+in terms of who you are,
+
+1495
+01:00:14,073 --> 01:00:16,720
+because your biology has
+fundamentally changed
+
+1496
+01:00:16,720 --> 01:00:20,190
+at the level of your brain
+and your bodily organs,
+
+1497
+01:00:20,190 --> 01:00:22,686
+all your organs from the skin inward.
+
+1498
+01:00:22,686 --> 01:00:26,223
+So I want to visit a
+little bit of the research
+
+1499
+01:00:26,223 --> 01:00:30,060
+about some of the core needs that occurred
+
+1500
+01:00:30,060 --> 01:00:31,748
+during puberty and adolescence,
+
+1501
+01:00:31,748 --> 01:00:33,220
+not just for parents
+
+1502
+01:00:33,220 --> 01:00:36,290
+or for the people that might
+be in puberty and adolescence,
+
+1503
+01:00:36,290 --> 01:00:38,470
+but also so that people can reflect
+
+1504
+01:00:38,470 --> 01:00:42,840
+on which of the sort of boxes
+were checked off for them
+
+1505
+01:00:42,840 --> 01:00:46,363
+as they approached emotional maturity.
+
+1506
+01:00:46,363 --> 01:00:49,070
+So there's a terrific review article
+
+1507
+01:00:49,070 --> 01:00:52,360
+that was published in the
+journal Nature, which is,
+
+1508
+01:00:52,360 --> 01:00:53,540
+if not the premier,
+
+1509
+01:00:53,540 --> 01:00:56,101
+then certainly among the
+top three premier journals
+
+1510
+01:00:56,101 --> 01:00:57,960
+in the field of science
+
+1511
+01:00:57,960 --> 01:01:02,660
+about the biology of
+adolescence and puberty,
+
+1512
+01:01:02,660 --> 01:01:06,570
+as well as some of the
+core needs and demands
+
+1513
+01:01:06,570 --> 01:01:07,770
+that have to be met
+
+1514
+01:01:07,770 --> 01:01:11,040
+for successful emotional
+maturation during that time.
+
+1515
+01:01:11,040 --> 01:01:12,651
+We will provide a link to that,
+
+1516
+01:01:12,651 --> 01:01:14,930
+but I just want to highlight
+
+1517
+01:01:14,930 --> 01:01:18,230
+a few of the things that they
+place in the final table.
+
+1518
+01:01:18,230 --> 01:01:19,777
+I don't want to go through
+all the results right now,
+
+1519
+01:01:19,777 --> 01:01:22,113
+because you could do that
+on your own if you like.
+
+1520
+01:01:22,113 --> 01:01:23,263
+They mainly highlight
+
+1521
+01:01:23,263 --> 01:01:27,127
+a lot of the changes in
+neurons and neural circuits.
+
+1522
+01:01:27,127 --> 01:01:29,150
+For instance, I'll just highlight one,
+
+1523
+01:01:29,150 --> 01:01:30,414
+there's a connection
+
+1524
+01:01:30,414 --> 01:01:32,790
+between the dopamine centers in the brain
+
+1525
+01:01:32,790 --> 01:01:34,010
+and an area of the brain
+
+1526
+01:01:34,010 --> 01:01:37,680
+that's involved in emotion and dispersal.
+
+1527
+01:01:37,680 --> 01:01:39,290
+Dispersal is very interesting.
+
+1528
+01:01:39,290 --> 01:01:41,800
+What you observe in animals and humans
+
+1529
+01:01:42,725 --> 01:01:45,450
+is that around the end of adolescence
+
+1530
+01:01:45,450 --> 01:01:46,927
+and during the transition to puberty,
+
+1531
+01:01:46,927 --> 01:01:51,291
+both because of changes in the
+brain and changes in hormones
+
+1532
+01:01:51,291 --> 01:01:56,291
+there's an intense desire
+on the part of the child
+
+1533
+01:01:56,327 --> 01:02:01,327
+to get further and further
+away from primary caregivers,
+
+1534
+01:02:01,653 --> 01:02:04,090
+not permanently, they always return,
+
+1535
+01:02:04,090 --> 01:02:05,960
+similar to a child that walks off
+
+1536
+01:02:05,960 --> 01:02:07,920
+and then looks back and
+sees if everything's safe
+
+1537
+01:02:07,920 --> 01:02:09,203
+and then continues on.
+
+1538
+01:02:09,203 --> 01:02:11,366
+During adolescence and puberty,
+
+1539
+01:02:11,366 --> 01:02:13,942
+both in animals and in kids,
+
+1540
+01:02:13,942 --> 01:02:16,800
+it almost seems like
+there's a bias for action,
+
+1541
+01:02:16,800 --> 01:02:17,633
+and the action
+
+1542
+01:02:17,633 --> 01:02:21,170
+is always in a direction away
+from the primary caregiver.
+
+1543
+01:02:21,170 --> 01:02:24,160
+Now, as soon as I say that,
+I can just imagine in my mind
+
+1544
+01:02:24,160 --> 01:02:25,127
+that somebody out there saying,
+
+1545
+01:02:25,127 --> 01:02:27,500
+"Well, no, my kid as
+soon as they hit puberty,
+
+1546
+01:02:27,500 --> 01:02:29,680
+they just want to stay
+home with us all the time."
+
+1547
+01:02:29,680 --> 01:02:30,860
+That's not typical.
+
+1548
+01:02:30,860 --> 01:02:32,570
+It happens, but it's not typical.
+
+1549
+01:02:32,570 --> 01:02:33,690
+Mostly there's a desire
+
+1550
+01:02:33,690 --> 01:02:35,740
+to start spending more time with friends,
+
+1551
+01:02:35,740 --> 01:02:39,130
+more time with peers and
+less time with adults.
+
+1552
+01:02:39,130 --> 01:02:40,920
+And I find it extremely interesting
+
+1553
+01:02:40,920 --> 01:02:42,780
+to note that that's not
+just true in humans,
+
+1554
+01:02:42,780 --> 01:02:45,000
+that's true in other primate species.
+
+1555
+01:02:45,000 --> 01:02:46,360
+That's true in rodents.
+
+1556
+01:02:46,360 --> 01:02:49,729
+That's true in almost every
+other mammalian species.
+
+1557
+01:02:49,729 --> 01:02:52,330
+So there's something about these hormones
+
+1558
+01:02:52,330 --> 01:02:55,063
+that don't just allow sexual reproduction.
+
+1559
+01:02:55,063 --> 01:02:56,810
+They don't just change the brain
+
+1560
+01:02:56,810 --> 01:02:59,292
+and bodily organs and the shape of us,
+
+1561
+01:02:59,292 --> 01:03:03,110
+they also bias us towards dispersal,
+
+1562
+01:03:03,110 --> 01:03:04,430
+getting further and further away
+
+1563
+01:03:04,430 --> 01:03:06,290
+from primary caregivers in particular.
+
+1564
+01:03:06,290 --> 01:03:09,010
+So parents of teenagers
+or future teenagers,
+
+1565
+01:03:09,010 --> 01:03:10,860
+it is not just normal,
+
+1566
+01:03:10,860 --> 01:03:14,270
+it is baked in to the biology of humans
+
+1567
+01:03:14,270 --> 01:03:18,190
+to disperse around adolescents
+and in the teen years.
+
+1568
+01:03:18,190 --> 01:03:20,740
+So again, I just want to
+highlight a few of these,
+
+1569
+01:03:20,740 --> 01:03:21,763
+what were listed
+
+1570
+01:03:21,763 --> 01:03:24,043
+as intervention strategies
+
+1571
+01:03:24,043 --> 01:03:27,553
+to promote healthy
+adolescence and puberty.
+
+1572
+01:03:27,553 --> 01:03:29,955
+It's very interesting
+because the entire article,
+
+1573
+01:03:29,955 --> 01:03:34,743
+I should mention who wrote
+this article, apologies.
+
+1574
+01:03:35,930 --> 01:03:37,530
+One of them is a friend of mine.
+
+1575
+01:03:37,530 --> 01:03:40,450
+So the first author is Ronald Dahl,
+
+1576
+01:03:40,450 --> 01:03:43,053
+not the children's book
+author, I'm assuming,
+
+1577
+01:03:44,430 --> 01:03:45,840
+no, from the School of Public Health
+
+1578
+01:03:45,840 --> 01:03:47,515
+at University of California, Berkeley
+
+1579
+01:03:47,515 --> 01:03:51,520
+and Nicholas Allen, Linda Wilbert
+
+1580
+01:03:51,520 --> 01:03:54,560
+and Anna Balanoff Suliman,
+
+1581
+01:03:54,560 --> 01:03:56,200
+forgive me for the
+pronunciation of the last one.
+
+1582
+01:03:56,200 --> 01:03:58,880
+I know Dr. Wilbert quite well.
+
+1583
+01:03:58,880 --> 01:04:01,350
+She's done the work on dispersal,
+
+1584
+01:04:01,350 --> 01:04:03,458
+is quite well known for that work,
+
+1585
+01:04:03,458 --> 01:04:06,807
+and it's a very extensive review,
+
+1586
+01:04:06,807 --> 01:04:10,080
+but I think you'll find it accessible.
+
+1587
+01:04:10,080 --> 01:04:12,890
+A lot of changes and
+thickness of the brain
+
+1588
+01:04:12,890 --> 01:04:14,240
+at different stages, et cetera.
+
+1589
+01:04:14,240 --> 01:04:15,840
+But I think most people will be interested
+
+1590
+01:04:15,840 --> 01:04:20,680
+in what that translates
+to in the real world.
+
+1591
+01:04:20,680 --> 01:04:23,564
+And what's interesting is during puberty,
+
+1592
+01:04:23,564 --> 01:04:26,500
+there's increased connection,
+
+1593
+01:04:26,500 --> 01:04:29,390
+connectivity as we call it
+between the prefrontal cortex,
+
+1594
+01:04:29,390 --> 01:04:31,732
+which is involved in
+motivation and decision-making,
+
+1595
+01:04:31,732 --> 01:04:33,726
+being able to suppress action
+
+1596
+01:04:33,726 --> 01:04:37,430
+for making long-term goals possible,
+
+1597
+01:04:37,430 --> 01:04:41,200
+as well as dopamine
+centers and the amygdala.
+
+1598
+01:04:41,200 --> 01:04:44,610
+So there's this really broad
+integration and testing.
+
+1599
+01:04:44,610 --> 01:04:46,230
+I think this is the key element here,
+
+1600
+01:04:46,230 --> 01:04:49,440
+testing of circuits
+for emotions and reward
+
+1601
+01:04:49,440 --> 01:04:50,600
+as they relate to decisions.
+
+1602
+01:04:50,600 --> 01:04:53,007
+And I think that's useful because
+
+1603
+01:04:53,007 --> 01:04:55,730
+when you look at the behavior
+of adolescents and teens,
+
+1604
+01:04:55,730 --> 01:04:57,530
+they are testing social interactions,
+
+1605
+01:04:57,530 --> 01:05:00,136
+they are testing physical
+interactions with the world.
+
+1606
+01:05:00,136 --> 01:05:02,943
+Oftentimes they're engaging
+in unsafe behavior.
+
+1607
+01:05:05,344 --> 01:05:07,493
+I would never try and justify that
+
+1608
+01:05:07,493 --> 01:05:09,372
+with the underlying neurology,
+
+1609
+01:05:09,372 --> 01:05:13,570
+but the neuroscience points
+to increased connectivity
+
+1610
+01:05:13,570 --> 01:05:16,900
+between areas of the brain that
+are related to emotionality
+
+1611
+01:05:16,900 --> 01:05:21,470
+and to threat detection like
+the amygdala, but also reward.
+
+1612
+01:05:21,470 --> 01:05:23,314
+So it's a time of testing behaviorally
+
+1613
+01:05:23,314 --> 01:05:26,842
+how different behaviors
+lead to success or not.
+
+1614
+01:05:26,842 --> 01:05:31,230
+It's how different behaviors
+lead to fear states or not.
+
+1615
+01:05:31,230 --> 01:05:32,063
+Now, of course you could say that
+
+1616
+01:05:32,063 --> 01:05:33,270
+of any stage of development,
+
+1617
+01:05:33,270 --> 01:05:36,730
+but it seems like puberty is
+a very, very heightened stage
+
+1618
+01:05:36,730 --> 01:05:39,040
+in which testing of contingencies,
+
+1619
+01:05:39,040 --> 01:05:41,280
+good or bad is taking place.
+
+1620
+01:05:41,280 --> 01:05:44,190
+And of course it's operating in a body
+
+1621
+01:05:44,190 --> 01:05:46,820
+that's now more capable than the infant.
+
+1622
+01:05:46,820 --> 01:05:50,150
+So an infant can damage
+themselves through error,
+
+1623
+01:05:50,150 --> 01:05:52,730
+but it's harder for them
+to damage themselves
+
+1624
+01:05:52,730 --> 01:05:53,957
+through deliberate planning.
+
+1625
+01:05:53,957 --> 01:05:55,780
+That's why it's important of course,
+
+1626
+01:05:55,780 --> 01:05:57,790
+to lock up all the
+medications in the house,
+
+1627
+01:05:57,790 --> 01:05:59,329
+make sure infants can't get to them,
+
+1628
+01:05:59,329 --> 01:06:02,700
+but it's not likely that the infant
+
+1629
+01:06:02,700 --> 01:06:05,710
+is going to devise an
+extremely diabolical plan
+
+1630
+01:06:05,710 --> 01:06:08,737
+to get into the cabinet to
+get a certain substance.
+
+1631
+01:06:08,737 --> 01:06:10,763
+Whereas a teenager might.
+
+1632
+01:06:12,040 --> 01:06:14,470
+So you can start to map the neurology
+
+1633
+01:06:14,470 --> 01:06:17,010
+onto some of this emotional exploration.
+
+1634
+01:06:17,010 --> 01:06:19,260
+I do realize that this
+episode is about emotions.
+
+1635
+01:06:19,260 --> 01:06:20,529
+Puberty is a time in which
+
+1636
+01:06:20,529 --> 01:06:25,010
+the internal state of
+the person or the animal
+
+1637
+01:06:25,010 --> 01:06:27,267
+is being sampled and tested against
+
+1638
+01:06:27,267 --> 01:06:29,240
+different exteroceptive events,
+
+1639
+01:06:29,240 --> 01:06:30,960
+only now they are able
+
+1640
+01:06:30,960 --> 01:06:34,570
+to guide those events with more urgency.
+
+1641
+01:06:34,570 --> 01:06:36,950
+It's no longer just about
+whether or not the caregiver
+
+1642
+01:06:36,950 --> 01:06:39,330
+is bringing you milk or bringing you food.
+
+1643
+01:06:39,330 --> 01:06:40,787
+Now, of course, the parents will all say,
+
+1644
+01:06:40,787 --> 01:06:42,550
+"Yeah, but I'm paying for
+everything that they're doing.
+
+1645
+01:06:42,550 --> 01:06:44,600
+I'm paying for the car and
+I'm paying for the food."
+
+1646
+01:06:44,600 --> 01:06:45,613
+Ah, true.
+
+1647
+01:06:45,613 --> 01:06:49,050
+But the biology doesn't
+care about the source,
+
+1648
+01:06:49,050 --> 01:06:52,410
+the child or the adolescent is now able,
+
+1649
+01:06:52,410 --> 01:06:55,390
+the teen really, is able to now sample
+
+1650
+01:06:55,390 --> 01:06:59,480
+many, many more exteroceptive
+events through behavior.
+
+1651
+01:06:59,480 --> 01:07:01,840
+So some of these
+recommendations are interesting.
+
+1652
+01:07:01,840 --> 01:07:04,920
+The theory is that one of the motivations
+
+1653
+01:07:04,920 --> 01:07:08,038
+is to learn to mitigate the
+risk of famine and malnutrition.
+
+1654
+01:07:08,038 --> 01:07:10,970
+As teenagers get older,
+they start questioning
+
+1655
+01:07:10,970 --> 01:07:11,836
+whether or not their parents
+
+1656
+01:07:11,836 --> 01:07:14,320
+are everything they thought they were,
+
+1657
+01:07:14,320 --> 01:07:16,535
+whether or not they're the
+greatest thing that ever was
+
+1658
+01:07:16,535 --> 01:07:19,160
+or the worst thing that ever was, perhaps.
+
+1659
+01:07:19,160 --> 01:07:21,330
+Including whether or not
+
+1660
+01:07:21,330 --> 01:07:23,360
+they will be able to
+provide them resources.
+
+1661
+01:07:23,360 --> 01:07:24,450
+So they test whether or not
+
+1662
+01:07:24,450 --> 01:07:26,140
+they can actually feed themselves,
+
+1663
+01:07:26,140 --> 01:07:28,327
+whether or not they
+can support themselves.
+
+1664
+01:07:28,327 --> 01:07:30,864
+Although rarely not,
+
+1665
+01:07:30,864 --> 01:07:32,530
+certainly it happens,
+
+1666
+01:07:32,530 --> 01:07:35,390
+but rarely are they really
+taking care of themselves.
+
+1667
+01:07:35,390 --> 01:07:37,560
+Although some teens are forced
+to take care of themselves
+
+1668
+01:07:37,560 --> 01:07:38,967
+of course, because parents
+
+1669
+01:07:38,967 --> 01:07:40,638
+and other caretakers aren't available.
+
+1670
+01:07:40,638 --> 01:07:45,330
+The recommendations that
+map to the biology include,
+
+1671
+01:07:45,330 --> 01:07:48,200
+there's been a big push for
+later start times in schools
+
+1672
+01:07:48,200 --> 01:07:50,730
+to match their shifts in circadian rhythms
+
+1673
+01:07:50,730 --> 01:07:52,020
+and the need for extended sleep.
+
+1674
+01:07:52,020 --> 01:07:54,593
+Something we talked about
+during the sleep episodes.
+
+1675
+01:07:55,610 --> 01:07:59,418
+To insist on sleep interventions for youth
+
+1676
+01:07:59,418 --> 01:08:02,940
+who are at increased risk
+for mental health problems.
+
+1677
+01:08:02,940 --> 01:08:06,210
+Almost every mental
+health issue is supported
+
+1678
+01:08:06,210 --> 01:08:10,440
+by getting regular quality
+sleep of sufficient duration.
+
+1679
+01:08:10,440 --> 01:08:12,732
+Sufficient duration is going
+to vary from person to person.
+
+1680
+01:08:12,732 --> 01:08:16,529
+Leveraging different kinds
+of social relationships
+
+1681
+01:08:16,529 --> 01:08:18,429
+that reinforce positive behavior.
+
+1682
+01:08:18,430 --> 01:08:21,033
+This is starting to sound like
+kind of a boiler plate stuff.
+
+1683
+01:08:21,033 --> 01:08:24,489
+And yet, really the goal is during puberty
+
+1684
+01:08:24,490 --> 01:08:28,240
+to encourage as many
+safe forms of interaction
+
+1685
+01:08:28,240 --> 01:08:31,895
+that allow children, teens,
+really and adolescents,
+
+1686
+01:08:31,895 --> 01:08:33,209
+I keep calling them children,
+
+1687
+01:08:33,210 --> 01:08:35,848
+but what I mean are children
+going through puberty,
+
+1688
+01:08:35,848 --> 01:08:38,969
+that allow them to test
+this thing of autonomy
+
+1689
+01:08:38,969 --> 01:08:43,460
+so that they can start
+to make good assessments
+
+1690
+01:08:43,460 --> 01:08:47,800
+about their exteroceptive
+events that they are selecting
+
+1691
+01:08:47,800 --> 01:08:49,479
+and how those make them feel internally.
+
+1692
+01:08:49,479 --> 01:08:51,329
+So they're essentially doing a buffet.
+
+1693
+01:08:51,330 --> 01:08:52,711
+The buffet has now broadened
+
+1694
+01:08:52,711 --> 01:08:56,020
+to not just include the
+events and experiences
+
+1695
+01:08:56,020 --> 01:08:58,569
+that their parents and
+other caretakers bring them,
+
+1696
+01:08:58,569 --> 01:09:00,549
+but they can now expand the buffet
+
+1697
+01:09:00,550 --> 01:09:03,109
+into things that they
+can provide themselves.
+
+1698
+01:09:03,109 --> 01:09:05,459
+And so adolescence and puberty
+
+1699
+01:09:05,460 --> 01:09:07,912
+is really seen as the
+period of development
+
+1700
+01:09:07,912 --> 01:09:11,550
+in which one self-samples
+for these two elements
+
+1701
+01:09:11,550 --> 01:09:13,477
+that we talked about at
+the beginning, which are,
+
+1702
+01:09:13,477 --> 01:09:17,870
+how do I form bonds and
+how do I make predictions
+
+1703
+01:09:17,870 --> 01:09:19,569
+about what will make me feel good
+
+1704
+01:09:19,569 --> 01:09:22,094
+at a level of interoception.
+
+1705
+01:09:22,094 --> 01:09:24,640
+Some of that might sound
+a little transactional,
+
+1706
+01:09:24,640 --> 01:09:26,609
+that all we're trying to do
+
+1707
+01:09:26,609 --> 01:09:29,439
+is figure out how we can bond with people
+
+1708
+01:09:29,439 --> 01:09:32,045
+so we can get what we need
+so we can feel how we need.
+
+1709
+01:09:32,046 --> 01:09:34,340
+I think that's true to some extent,
+
+1710
+01:09:34,340 --> 01:09:35,880
+of course, there's a richer,
+
+1711
+01:09:35,880 --> 01:09:40,880
+more abstract aspect to
+relationships too, which are,
+
+1712
+01:09:41,279 --> 01:09:42,949
+in relationships you can access
+
+1713
+01:09:42,950 --> 01:09:45,069
+things you couldn't do
+before, you can cooperate.
+
+1714
+01:09:45,069 --> 01:09:46,319
+There's things like teamwork.
+
+1715
+01:09:46,319 --> 01:09:47,417
+You can do all sorts of things.
+
+1716
+01:09:47,417 --> 01:09:49,409
+But in terms of the biology,
+
+1717
+01:09:49,410 --> 01:09:51,792
+it's clear that there's
+this stage of development
+
+1718
+01:09:51,792 --> 01:09:54,006
+where more autonomy,
+
+1719
+01:09:54,006 --> 01:09:56,280
+more physical capability
+
+1720
+01:09:56,280 --> 01:09:58,368
+is triggered by these
+hormone changes in the brain,
+
+1721
+01:09:58,368 --> 01:10:01,360
+and these peptide changes
+in the brain and body.
+
+1722
+01:10:01,360 --> 01:10:03,630
+And that nonetheless
+
+1723
+01:10:03,630 --> 01:10:05,742
+brings us back to the exact same model
+
+1724
+01:10:05,742 --> 01:10:07,820
+that we started with in infancy,
+
+1725
+01:10:07,820 --> 01:10:12,552
+of alert or calm, feel good or feel bad,
+
+1726
+01:10:12,552 --> 01:10:17,010
+primarily exterocepting,
+primarily interocepting.
+
+1727
+01:10:17,010 --> 01:10:18,410
+So I keep going back to this,
+
+1728
+01:10:18,410 --> 01:10:20,530
+I'm sort of like a
+repeating record on that,
+
+1729
+01:10:20,530 --> 01:10:22,950
+because the same core algorithm,
+
+1730
+01:10:22,950 --> 01:10:26,790
+the same core function is at
+play throughout the lifespan.
+
+1731
+01:10:26,790 --> 01:10:29,009
+And that's a useful
+framework in my opinion,
+
+1732
+01:10:29,009 --> 01:10:32,500
+because it allows you to
+sort through all the data
+
+1733
+01:10:32,500 --> 01:10:33,810
+and information that's out there about,
+
+1734
+01:10:33,810 --> 01:10:36,060
+well, this area, the
+astria terminalis is active
+
+1735
+01:10:36,060 --> 01:10:37,750
+or the basal lateral amygdala is active
+
+1736
+01:10:37,750 --> 01:10:39,250
+or gray matter thickening
+
+1737
+01:10:39,250 --> 01:10:40,620
+or this hormone or that hormone,
+
+1738
+01:10:40,620 --> 01:10:43,033
+and return to a kind of kernel
+
+1739
+01:10:43,033 --> 01:10:45,840
+of certainly not exhaustive truth,
+
+1740
+01:10:45,840 --> 01:10:48,180
+it doesn't cover all
+aspects of emotionality,
+
+1741
+01:10:48,180 --> 01:10:51,210
+but at least establishes some groundwork
+
+1742
+01:10:51,210 --> 01:10:52,900
+from which you can start to evaluate
+
+1743
+01:10:52,900 --> 01:10:56,159
+how different behaviors might
+or might not make sense,
+
+1744
+01:10:56,159 --> 01:10:58,610
+how certain emotional responses
+
+1745
+01:10:58,610 --> 01:11:00,030
+might or might not make sense,
+
+1746
+01:11:00,030 --> 01:11:03,670
+regardless of the age of
+the person or the organism.
+
+1747
+01:11:03,670 --> 01:11:06,800
+A discussion about emotions
+would not be complete
+
+1748
+01:11:06,800 --> 01:11:11,706
+without talking about the
+right brain, left brain stuff.
+
+1749
+01:11:11,706 --> 01:11:16,706
+And this is a very interesting
+aspect of sociology,
+
+1750
+01:11:17,140 --> 01:11:19,505
+psychology and neuroscience.
+
+1751
+01:11:19,505 --> 01:11:22,260
+There's a theory of emotional development
+
+1752
+01:11:22,260 --> 01:11:24,880
+that I find particularly interesting,
+
+1753
+01:11:24,880 --> 01:11:26,970
+which is from Allan Schore at UCLA,
+
+1754
+01:11:26,970 --> 01:11:27,803
+that talks about
+
+1755
+01:11:27,803 --> 01:11:30,652
+how most of our testing
+of bonds and relationships
+
+1756
+01:11:30,652 --> 01:11:35,100
+is this seesawing back and
+forth between very dopaminergic,
+
+1757
+01:11:35,100 --> 01:11:36,360
+so driven by dopamine
+
+1758
+01:11:36,360 --> 01:11:39,640
+or serotonergic, driven
+by serotonin states.
+
+1759
+01:11:39,640 --> 01:11:42,800
+And this starts with infant and
+mother or infant and father.
+
+1760
+01:11:42,800 --> 01:11:45,260
+I talked a little bit about
+this in the previous episode,
+
+1761
+01:11:45,260 --> 01:11:46,178
+but just to remind you,
+
+1762
+01:11:46,178 --> 01:11:48,250
+or for anyone that didn't hear about it,
+
+1763
+01:11:48,250 --> 01:11:50,070
+that during development,
+
+1764
+01:11:50,070 --> 01:11:51,340
+healthy emotional development
+
+1765
+01:11:51,340 --> 01:11:56,340
+clearly begins with an ability
+for the caretaker and child
+
+1766
+01:11:56,720 --> 01:12:00,310
+to be in calm, peaceful,
+soothing, touch-oriented,
+
+1767
+01:12:00,310 --> 01:12:02,820
+eye gazing type of behaviors.
+
+1768
+01:12:02,820 --> 01:12:06,973
+Those really drive serotonin,
+the endogenous opioid system,
+
+1769
+01:12:08,450 --> 01:12:10,940
+oxytocin, things are very calming
+
+1770
+01:12:10,940 --> 01:12:14,060
+and are centered around
+pleasure with the here and now,
+
+1771
+01:12:14,060 --> 01:12:17,110
+as well as excited states of
+what we're going to do next.
+
+1772
+01:12:17,110 --> 01:12:19,630
+There's actually a characteristic sign
+
+1773
+01:12:19,630 --> 01:12:21,812
+of the dopaminergic interaction,
+
+1774
+01:12:21,812 --> 01:12:26,440
+where both caretaker
+and child are wide-eyed,
+
+1775
+01:12:26,440 --> 01:12:27,370
+the pupils dilate.
+
+1776
+01:12:27,370 --> 01:12:28,900
+That's a signature of arousal.
+
+1777
+01:12:28,900 --> 01:12:29,860
+They get really excited.
+
+1778
+01:12:29,860 --> 01:12:32,385
+Oftentimes the baby will look
+away if it gets really excited
+
+1779
+01:12:32,385 --> 01:12:35,184
+those are signatures of
+dopamine release in the body,
+
+1780
+01:12:35,184 --> 01:12:38,526
+and in adolescents, these
+same things carry forward,
+
+1781
+01:12:38,526 --> 01:12:40,310
+where their good bonds
+
+1782
+01:12:40,310 --> 01:12:44,583
+are achieved through
+hanging around, watching TV,
+
+1783
+01:12:46,530 --> 01:12:47,540
+playing video games
+
+1784
+01:12:47,540 --> 01:12:49,500
+or texting together or talking,
+
+1785
+01:12:49,500 --> 01:12:50,333
+whatever it is
+
+1786
+01:12:50,333 --> 01:12:53,450
+that the soothing local
+activity happens to be,
+
+1787
+01:12:53,450 --> 01:12:56,100
+as well as adventure and
+things that are exciting,
+
+1788
+01:12:56,100 --> 01:12:57,860
+so it could be sports,
+it could be shopping,
+
+1789
+01:12:57,860 --> 01:12:59,880
+it could be a summer adventure.
+
+1790
+01:12:59,880 --> 01:13:01,770
+It could be the next big thing.
+
+1791
+01:13:01,770 --> 01:13:03,610
+And so this kind of
+seesawing back and forth
+
+1792
+01:13:03,610 --> 01:13:08,410
+between the different reward
+systems seems to be the basis
+
+1793
+01:13:08,410 --> 01:13:10,830
+from which healthy
+emotional bonds are created.
+
+1794
+01:13:10,830 --> 01:13:12,500
+And I invite anyone
+who's interested in this
+
+1795
+01:13:12,500 --> 01:13:16,133
+to look up some of Dr. Schore's work.
+
+1796
+01:13:17,140 --> 01:13:18,700
+I think I misspoke on the last episode.
+
+1797
+01:13:18,700 --> 01:13:19,630
+He's not a psychiatrist,
+
+1798
+01:13:19,630 --> 01:13:22,260
+he's a clinical psychologist
+and psychoanalyst,
+
+1799
+01:13:22,260 --> 01:13:24,320
+but has deep routings in neuroscience.
+
+1800
+01:13:24,320 --> 01:13:26,814
+So I think a fascinating aspect.
+
+1801
+01:13:26,814 --> 01:13:29,970
+But the way it's framed in his book
+
+1802
+01:13:31,112 --> 01:13:32,110
+and in some of the language
+
+1803
+01:13:32,110 --> 01:13:34,440
+around right brain, left brain.
+
+1804
+01:13:34,440 --> 01:13:35,930
+And we've all heard this stuff before,
+
+1805
+01:13:35,930 --> 01:13:39,280
+that the right brain is thought
+to be the emotional side.
+
+1806
+01:13:39,280 --> 01:13:41,413
+This is the characteristic
+thing that you hear out there.
+
+1807
+01:13:41,413 --> 01:13:43,770
+That the right brain is holistic,
+
+1808
+01:13:43,770 --> 01:13:45,080
+that it's emotive,
+
+1809
+01:13:45,080 --> 01:13:48,200
+and that the left brain is
+logical, sequential and analytic.
+
+1810
+01:13:48,200 --> 01:13:51,713
+And that's not what Schore was proposing.
+
+1811
+01:13:51,713 --> 01:13:54,800
+There are some right brain,
+left brain differences.
+
+1812
+01:13:54,800 --> 01:13:57,500
+But the idea that the right brain
+
+1813
+01:13:57,500 --> 01:13:59,361
+is synthetic, holistic and emotive,
+
+1814
+01:13:59,361 --> 01:14:00,560
+and that the left brain
+
+1815
+01:14:00,560 --> 01:14:04,460
+is logical, sequential
+and analytic is false.
+
+1816
+01:14:04,460 --> 01:14:08,253
+There is zero neuroscience
+evidence for that whatsoever.
+
+1817
+01:14:08,253 --> 01:14:11,510
+We're going to address this in more detail
+
+1818
+01:14:11,510 --> 01:14:12,990
+during a month talking about learning
+
+1819
+01:14:12,990 --> 01:14:14,750
+and memory and dementia,
+
+1820
+01:14:14,750 --> 01:14:16,930
+but let's talk about some truths,
+
+1821
+01:14:16,930 --> 01:14:19,040
+some differences between the
+left brain and right brain,
+
+1822
+01:14:19,040 --> 01:14:20,780
+because we can't have a
+discussion about emotion
+
+1823
+01:14:20,780 --> 01:14:21,730
+without doing that.
+
+1824
+01:14:22,590 --> 01:14:27,340
+The left brain, at least for
+people who are right-handed
+
+1825
+01:14:27,340 --> 01:14:29,130
+is linguistically dominant.
+
+1826
+01:14:29,130 --> 01:14:31,200
+Meaning, most of language
+
+1827
+01:14:31,200 --> 01:14:33,428
+is centered in the left side of the brain
+
+1828
+01:14:33,428 --> 01:14:36,189
+for right-handed people.
+
+1829
+01:14:36,189 --> 01:14:38,180
+If you are a left-hander
+
+1830
+01:14:38,180 --> 01:14:40,280
+and you were forced to
+become right-handed,
+
+1831
+01:14:40,280 --> 01:14:43,940
+chances are this is still true,
+
+1832
+01:14:43,940 --> 01:14:47,330
+because of when language
+gets laid down in the brain.
+
+1833
+01:14:47,330 --> 01:14:48,915
+For left-handers,
+
+1834
+01:14:48,915 --> 01:14:51,880
+people that naturally
+write with their left hand
+
+1835
+01:14:51,880 --> 01:14:53,125
+and always did,
+
+1836
+01:14:53,125 --> 01:14:56,728
+language is still mostly in
+the left side of the brain,
+
+1837
+01:14:56,728 --> 01:15:00,802
+but it's also found more often
+
+1838
+01:15:00,802 --> 01:15:02,520
+in the right side of the brain.
+
+1839
+01:15:02,520 --> 01:15:04,810
+So it's not as lateralized as we say,
+
+1840
+01:15:04,810 --> 01:15:06,840
+it's kind of distributed between both.
+
+1841
+01:15:06,840 --> 01:15:07,825
+So right-handers,
+
+1842
+01:15:07,825 --> 01:15:08,900
+most of your language
+
+1843
+01:15:08,900 --> 01:15:10,238
+is coming from the left
+side of your brain.
+
+1844
+01:15:10,238 --> 01:15:12,170
+Left-handers, it's probably
+
+1845
+01:15:12,170 --> 01:15:13,940
+a little bit more evenly distributed.
+
+1846
+01:15:13,940 --> 01:15:15,120
+And there are some variations,
+
+1847
+01:15:15,120 --> 01:15:17,780
+whether or not you're a
+hook righty or a hook lefty,
+
+1848
+01:15:17,780 --> 01:15:19,280
+there's all sorts of nuance to this,
+
+1849
+01:15:19,280 --> 01:15:22,050
+but that's the general aspect.
+
+1850
+01:15:22,050 --> 01:15:23,412
+So language tends to be centered
+
+1851
+01:15:23,412 --> 01:15:25,020
+in the left side of the brain.
+
+1852
+01:15:25,020 --> 01:15:27,850
+And that includes
+lexicon, grammar, syntax,
+
+1853
+01:15:27,850 --> 01:15:29,810
+all of it, except for one.
+
+1854
+01:15:29,810 --> 01:15:31,540
+And we'll talk about
+one aspect of language
+
+1855
+01:15:31,540 --> 01:15:33,940
+that seems to be more right brain.
+
+1856
+01:15:33,940 --> 01:15:35,960
+That's very interesting.
+
+1857
+01:15:35,960 --> 01:15:39,437
+There does seem to be
+some arithmetic advantage.
+
+1858
+01:15:39,437 --> 01:15:43,710
+So ability in math in the
+left side of the brain.
+
+1859
+01:15:43,710 --> 01:15:44,543
+And I'm going to talk about
+
+1860
+01:15:44,543 --> 01:15:46,139
+how all this was discovered in a minute.
+
+1861
+01:15:46,139 --> 01:15:51,050
+And the right brain, however,
+is linguistically primitive.
+
+1862
+01:15:51,050 --> 01:15:52,090
+Most people don't realize this
+
+1863
+01:15:52,090 --> 01:15:53,690
+because the right brain
+is always described
+
+1864
+01:15:53,690 --> 01:15:54,790
+as the emotive side,
+
+1865
+01:15:54,790 --> 01:15:56,840
+it's super emotional and holistic,
+
+1866
+01:15:56,840 --> 01:15:59,170
+but it's actually
+linguistically primitive.
+
+1867
+01:15:59,170 --> 01:16:00,003
+And there's a way
+
+1868
+01:16:00,003 --> 01:16:02,764
+that that's been teased
+out through experiment.
+
+1869
+01:16:02,764 --> 01:16:06,680
+It's very good at
+manipulating spatial things
+
+1870
+01:16:06,680 --> 01:16:09,000
+and visual spatial tasks.
+
+1871
+01:16:09,000 --> 01:16:10,960
+It's primarily handling that stuff,
+
+1872
+01:16:10,960 --> 01:16:14,562
+but it sort of non-language
+except one aspect.
+
+1873
+01:16:14,562 --> 01:16:16,650
+And there isn't a ton
+of evidence for this,
+
+1874
+01:16:16,650 --> 01:16:19,187
+but the evidence is
+strong, which is prosody.
+
+1875
+01:16:19,187 --> 01:16:23,943
+Prosody is the LILting
+and falling of language.
+
+1876
+01:16:25,010 --> 01:16:26,990
+So a good example would be Italian.
+
+1877
+01:16:26,990 --> 01:16:27,900
+I don't speak Italian.
+
+1878
+01:16:27,900 --> 01:16:29,284
+I only know a little bit of Italian,
+
+1879
+01:16:29,284 --> 01:16:31,300
+but the most of the Italian I know
+
+1880
+01:16:31,300 --> 01:16:34,276
+is when my Italian
+colleagues have said to me,
+
+1881
+01:16:34,276 --> 01:16:35,160
+[speaks in foreign language],
+
+1882
+01:16:35,160 --> 01:16:36,411
+which means like what
+are you trying to say,
+
+1883
+01:16:36,411 --> 01:16:37,360
+what are you saying?
+
+1884
+01:16:37,360 --> 01:16:39,130
+I think I'm getting that right.
+
+1885
+01:16:39,130 --> 01:16:40,590
+Basically they're saying
+I don't speak Italian,
+
+1886
+01:16:40,590 --> 01:16:41,600
+which is true.
+
+1887
+01:16:41,600 --> 01:16:44,510
+Or because one of them knows
+I loves Costello very much,
+
+1888
+01:16:44,510 --> 01:16:47,510
+they always say [speaks
+in foreign language],
+
+1889
+01:16:47,510 --> 01:16:49,250
+which means big, lazy guy,
+
+1890
+01:16:49,250 --> 01:16:51,560
+which accurately captures Costello.
+
+1891
+01:16:51,560 --> 01:16:53,906
+So even those few examples,
+
+1892
+01:16:53,906 --> 01:16:57,516
+[speaks in foreign language],
+
+1893
+01:16:57,516 --> 01:17:00,010
+there's a lot of LILt and fall in Italian,
+
+1894
+01:17:00,010 --> 01:17:00,997
+other languages, not so much.
+
+1895
+01:17:00,997 --> 01:17:02,570
+And it varies by language.
+
+1896
+01:17:02,570 --> 01:17:04,640
+One of the reasons I find
+Italian so beautiful,
+
+1897
+01:17:04,640 --> 01:17:05,700
+not the Italian I speak,
+
+1898
+01:17:05,700 --> 01:17:07,318
+but the Italian that other people speak
+
+1899
+01:17:07,318 --> 01:17:08,990
+so beautiful to listen to
+
+1900
+01:17:08,990 --> 01:17:10,240
+that that prosody
+
+1901
+01:17:10,240 --> 01:17:14,020
+and the shifts in intonation
+are really quite remarkable.
+
+1902
+01:17:14,020 --> 01:17:15,950
+It's almost like a singing song
+
+1903
+01:17:15,950 --> 01:17:17,360
+listening to them speak.
+
+1904
+01:17:17,360 --> 01:17:19,070
+And I used to like to go
+to scientific meetings.
+
+1905
+01:17:19,070 --> 01:17:20,750
+And I always hang out with the Italians,
+
+1906
+01:17:20,750 --> 01:17:22,720
+'cause I had some good
+friends in Italian labs,
+
+1907
+01:17:22,720 --> 01:17:24,470
+but also 'cause they always
+knew where the best food was,
+
+1908
+01:17:24,470 --> 01:17:26,670
+their standards for food are incredible.
+
+1909
+01:17:26,670 --> 01:17:29,320
+They would rather starve
+than eat terrible pasta,
+
+1910
+01:17:29,320 --> 01:17:30,352
+and the pasta they do find
+
+1911
+01:17:30,352 --> 01:17:33,120
+and that they're willing
+to eat is always fantastic.
+
+1912
+01:17:33,120 --> 01:17:35,470
+But in addition to that,
+they always brought a guitar.
+
+1913
+01:17:35,470 --> 01:17:36,400
+They were a lot more fun
+
+1914
+01:17:36,400 --> 01:17:37,950
+than a lot of my other colleagues
+
+1915
+01:17:37,950 --> 01:17:39,330
+to hang out with at meetings.
+
+1916
+01:17:39,330 --> 01:17:40,430
+So in any event,
+
+1917
+01:17:40,430 --> 01:17:41,984
+the right brain is doing things
+
+1918
+01:17:41,984 --> 01:17:45,260
+that are more about manipulating
+spatial information.
+
+1919
+01:17:45,260 --> 01:17:48,181
+And I'll talk about this
+more in a future episode.
+
+1920
+01:17:48,181 --> 01:17:50,820
+This was discovered in
+split-brain patients,
+
+1921
+01:17:50,820 --> 01:17:52,090
+the people that lack connection
+
+1922
+01:17:52,090 --> 01:17:53,467
+between the two sides of the brain,
+
+1923
+01:17:53,467 --> 01:17:55,540
+this had to be teased out
+
+1924
+01:17:55,540 --> 01:17:56,900
+through very complicated experiments.
+
+1925
+01:17:56,900 --> 01:17:59,400
+People like Roger Sperry who
+won a Nobel Prize for this,
+
+1926
+01:17:59,400 --> 01:18:00,396
+who was at Caltech,
+
+1927
+01:18:00,396 --> 01:18:02,350
+Mike Gazzaniga and others
+
+1928
+01:18:02,350 --> 01:18:05,820
+figured out these lateralized differences.
+
+1929
+01:18:05,820 --> 01:18:09,269
+but let's just try and demolish the myth
+
+1930
+01:18:09,269 --> 01:18:13,670
+that the right side is synthetic
+and holistic and emotive,
+
+1931
+01:18:13,670 --> 01:18:15,950
+and that the left side is
+logical, sequential, and analytic,
+
+1932
+01:18:15,950 --> 01:18:18,370
+that you're a left brain
+person or a right brain person.
+
+1933
+01:18:18,370 --> 01:18:19,810
+Nothing could be further from the truth.
+
+1934
+01:18:19,810 --> 01:18:21,910
+There's no scientific
+evidence to support that.
+
+1935
+01:18:21,910 --> 01:18:24,130
+And there's a few lesion studies
+
+1936
+01:18:24,130 --> 01:18:25,320
+that can tease out effects
+
+1937
+01:18:25,320 --> 01:18:27,276
+that make you think
+that's what's happening,
+
+1938
+01:18:27,276 --> 01:18:29,150
+but the really careful work
+
+1939
+01:18:29,150 --> 01:18:31,220
+points in a totally different direction.
+
+1940
+01:18:31,220 --> 01:18:32,695
+We can't have a complete conversation
+
+1941
+01:18:32,695 --> 01:18:36,710
+about emotions and bonds
+and social connection
+
+1942
+01:18:36,710 --> 01:18:38,740
+without talking about oxytocin.
+
+1943
+01:18:38,740 --> 01:18:40,750
+Oxytocin has come to such prominence
+
+1944
+01:18:40,750 --> 01:18:43,870
+in the last decade or so,
+and seems to be everywhere.
+
+1945
+01:18:43,870 --> 01:18:44,873
+Anytime you hear a discussion
+
+1946
+01:18:44,873 --> 01:18:49,274
+about neuroscience in the
+brain or hormones in the brain,
+
+1947
+01:18:49,274 --> 01:18:54,274
+oxytocin is released in response
+to lactation in females,
+
+1948
+01:18:55,286 --> 01:19:00,286
+it is released in response
+to sexual interactions.
+
+1949
+01:19:00,321 --> 01:19:04,484
+It is released in response
+to non-sexual touch.
+
+1950
+01:19:04,484 --> 01:19:07,871
+It's released in males and females,
+
+1951
+01:19:07,871 --> 01:19:11,119
+and indeed it's involved in pair bonding
+
+1952
+01:19:11,119 --> 01:19:14,513
+and the establishment of
+social bonds in general.
+
+1953
+01:19:16,015 --> 01:19:21,015
+How it does that seems to be
+by matching internal state.
+
+1954
+01:19:21,210 --> 01:19:23,278
+It seems to both increase
+
+1955
+01:19:23,278 --> 01:19:26,413
+synchrony of internal state somehow,
+
+1956
+01:19:26,413 --> 01:19:29,490
+maybe it sets a level of
+calmness or alertness.
+
+1957
+01:19:29,490 --> 01:19:31,391
+That seems like a reasonable hypothesis,
+
+1958
+01:19:31,391 --> 01:19:34,656
+as well as raising people's awareness
+
+1959
+01:19:34,656 --> 01:19:38,965
+for the emotional state of their partner.
+
+1960
+01:19:38,965 --> 01:19:40,660
+And again, this brings us
+
+1961
+01:19:40,660 --> 01:19:43,481
+back to this alertness calmness axis
+
+1962
+01:19:43,481 --> 01:19:46,673
+and this interoceptive,
+exteroceptive axis.
+
+1963
+01:19:47,569 --> 01:19:49,140
+In order to form good bonds,
+
+1964
+01:19:49,140 --> 01:19:52,280
+we can't just be thinking
+about how we feel,
+
+1965
+01:19:52,280 --> 01:19:54,920
+we also need to be paying
+attention to how others feel,
+
+1966
+01:19:54,920 --> 01:19:57,300
+and we're evaluating a match.
+
+1967
+01:19:57,300 --> 01:19:58,740
+We're trying to see whether or not
+
+1968
+01:19:58,740 --> 01:20:02,500
+there seems to be some sort
+of synchrony between states.
+
+1969
+01:20:02,500 --> 01:20:05,919
+And oxytocin, both seems
+to increase that synchrony
+
+1970
+01:20:05,919 --> 01:20:10,423
+and increase awareness for
+the emotional state of others.
+
+1971
+01:20:11,500 --> 01:20:12,333
+Now I know many of you
+
+1972
+01:20:12,333 --> 01:20:15,570
+are probably screaming mirror
+neurons, mirror neurons.
+
+1973
+01:20:15,570 --> 01:20:17,367
+Mirror, neurons, as some of you may know,
+
+1974
+01:20:17,367 --> 01:20:19,220
+and some of you perhaps may not,
+
+1975
+01:20:19,220 --> 01:20:22,267
+are neurons that were
+discovered in animals and humans
+
+1976
+01:20:22,267 --> 01:20:25,380
+for their ability to respond
+
+1977
+01:20:25,380 --> 01:20:29,830
+when people engage in
+certain physical actions
+
+1978
+01:20:29,830 --> 01:20:31,240
+like lifting of a pen,
+
+1979
+01:20:31,240 --> 01:20:33,216
+but the same neurons would respond
+
+1980
+01:20:33,216 --> 01:20:37,140
+when somebody watched
+someone else lift a pen.
+
+1981
+01:20:37,140 --> 01:20:39,780
+So they were really mirrors of,
+
+1982
+01:20:39,780 --> 01:20:42,479
+were representing mirrors of behavior,
+
+1983
+01:20:42,479 --> 01:20:44,893
+both in self and in others.
+
+1984
+01:20:46,168 --> 01:20:49,040
+Mirror neurons are very controversial.
+
+1985
+01:20:49,040 --> 01:20:51,210
+There are many neuroscientists
+who I respect a lot,
+
+1986
+01:20:51,210 --> 01:20:53,105
+who don't think they exist,
+
+1987
+01:20:53,105 --> 01:20:55,850
+because they look at the data,
+
+1988
+01:20:55,850 --> 01:20:57,780
+and the data, at least in their mind
+
+1989
+01:20:57,780 --> 01:21:01,019
+were over interpreted
+in the realm of empathy
+
+1990
+01:21:01,019 --> 01:21:04,956
+and in assigning value to the
+emotional states of others.
+
+1991
+01:21:04,956 --> 01:21:06,604
+And when I look at the literature,
+
+1992
+01:21:06,604 --> 01:21:11,604
+my opinion is that indeed
+there are neurons in the brain
+
+1993
+01:21:12,094 --> 01:21:14,921
+that clearly represent
+the actions of others,
+
+1994
+01:21:14,921 --> 01:21:16,180
+but it's not clear
+
+1995
+01:21:16,180 --> 01:21:18,510
+that they're wired into the
+emotion and empathy system
+
+1996
+01:21:18,510 --> 01:21:19,900
+in any direct way.
+
+1997
+01:21:19,900 --> 01:21:22,670
+And I think the growing
+consensus is that mirror neurons,
+
+1998
+01:21:22,670 --> 01:21:26,370
+while the name is terrific
+and it's so catchy,
+
+1999
+01:21:26,370 --> 01:21:28,330
+and encompasses so much
+
+2000
+01:21:28,330 --> 01:21:29,950
+of what you would love
+for it to encompass,
+
+2001
+01:21:29,950 --> 01:21:32,120
+but that the data don't
+really support that.
+
+2002
+01:21:32,120 --> 01:21:34,050
+But this is controversial,
+and I'm perfectly happy
+
+2003
+01:21:34,050 --> 01:21:35,960
+to get experts on here
+
+2004
+01:21:35,960 --> 01:21:38,990
+that could debate it better than I could.
+
+2005
+01:21:38,990 --> 01:21:41,170
+There are however neurons in the brain
+
+2006
+01:21:41,170 --> 01:21:43,630
+that were discovered by my colleague,
+
+2007
+01:21:43,630 --> 01:21:46,373
+Keren Haroush at Stanford
+
+2008
+01:21:46,373 --> 01:21:48,633
+when she was working in Noam Ziv's Lab,
+
+2009
+01:21:49,991 --> 01:21:54,991
+that clearly point to the
+fact that primate species
+
+2010
+01:21:56,400 --> 01:21:59,670
+are making assumptions
+
+2011
+01:21:59,670 --> 01:22:01,810
+and are trying to predict the behavior
+
+2012
+01:22:01,810 --> 01:22:03,900
+of other members of their species.
+
+2013
+01:22:03,900 --> 01:22:04,733
+It's an experiment,
+
+2014
+01:22:04,733 --> 01:22:06,180
+I don't have time to
+go into in real detail,
+
+2015
+01:22:06,180 --> 01:22:08,000
+we should probably just get Keren on here.
+
+2016
+01:22:08,000 --> 01:22:08,833
+For those of you
+
+2017
+01:22:08,833 --> 01:22:10,280
+that are familiar with
+the prisoner's dilemma,
+
+2018
+01:22:10,280 --> 01:22:13,160
+which is really a model of cooperation,
+
+2019
+01:22:13,160 --> 01:22:14,119
+you can either cooperate
+
+2020
+01:22:14,119 --> 01:22:18,832
+or one member of a given
+interaction can cooperate
+
+2021
+01:22:18,832 --> 01:22:20,100
+and the other one won't,
+
+2022
+01:22:20,100 --> 01:22:22,148
+where you can both not cooperate.
+
+2023
+01:22:22,148 --> 01:22:25,010
+There are ways in which
+you can solve this,
+
+2024
+01:22:25,010 --> 01:22:26,273
+so-called prisoner's dilemma,
+
+2025
+01:22:26,273 --> 01:22:28,460
+by looking at previous behavior
+
+2026
+01:22:28,460 --> 01:22:32,378
+and making predictions about
+the likely next behavior
+
+2027
+01:22:32,378 --> 01:22:35,690
+that the other individual will engage in.
+
+2028
+01:22:35,690 --> 01:22:36,990
+And there do seem to be neurons
+
+2029
+01:22:36,990 --> 01:22:40,623
+that are doing these sorts of
+predictions or computations.
+
+2030
+01:22:41,470 --> 01:22:44,234
+Again, I'll go into this in
+more detail in the future.
+
+2031
+01:22:44,234 --> 01:22:46,530
+So rather than thinking
+about mirror neurons,
+
+2032
+01:22:46,530 --> 01:22:47,755
+like neurons for empathy,
+
+2033
+01:22:47,755 --> 01:22:50,256
+I think it's more correct
+
+2034
+01:22:50,256 --> 01:22:51,940
+to think about neurons
+
+2035
+01:22:51,940 --> 01:22:54,310
+that are trying to predict
+the behavior of others.
+
+2036
+01:22:54,310 --> 01:22:55,460
+And that's, as we said,
+
+2037
+01:22:55,460 --> 01:22:58,830
+one of the core features of emotions,
+
+2038
+01:22:58,830 --> 01:23:01,460
+which are to establish bonds,
+
+2039
+01:23:01,460 --> 01:23:02,490
+and through those bonds,
+
+2040
+01:23:02,490 --> 01:23:04,010
+to be able to predict behavior.
+
+2041
+01:23:04,010 --> 01:23:07,174
+So oxytocin is one
+component of this ability
+
+2042
+01:23:07,174 --> 01:23:11,450
+to predict others' behavior
+and to guide our own behavior.
+
+2043
+01:23:11,450 --> 01:23:13,601
+So here's some experiments
+
+2044
+01:23:13,601 --> 01:23:17,593
+that involve the administration
+of intranasal oxytocin.
+
+2045
+01:23:18,522 --> 01:23:20,450
+Now I think you need a prescription,
+
+2046
+01:23:20,450 --> 01:23:21,680
+although in some places you don't.
+
+2047
+01:23:21,680 --> 01:23:24,470
+There are people who are
+taking intranasal oxytocin
+
+2048
+01:23:24,470 --> 01:23:26,826
+in order to try and increase
+the depth of bonding.
+
+2049
+01:23:26,826 --> 01:23:29,610
+And I don't recommend you do that.
+
+2050
+01:23:29,610 --> 01:23:30,650
+I've never tried that.
+
+2051
+01:23:30,650 --> 01:23:32,520
+Whatever oxytocin I've released,
+
+2052
+01:23:32,520 --> 01:23:36,463
+I've made without an intranasal
+exogenous application.
+
+2053
+01:23:36,463 --> 01:23:39,550
+But what's been reported
+
+2054
+01:23:39,550 --> 01:23:43,070
+is increased positive
+communication among couples.
+
+2055
+01:23:43,070 --> 01:23:46,620
+So people have taken
+intranasal oxytocin in studies.
+
+2056
+01:23:46,620 --> 01:23:48,210
+So that study,
+
+2057
+01:23:48,210 --> 01:23:49,043
+for those of you like,
+
+2058
+01:23:49,043 --> 01:23:50,500
+was published in Biological Psychiatry,
+
+2059
+01:23:50,500 --> 01:23:53,483
+which my psychiatry colleagues
+tell me is a fine journal.
+
+2060
+01:23:53,483 --> 01:23:54,930
+And the title is
+
+2061
+01:23:54,930 --> 01:23:57,860
+intranasal oxytocin increases
+positive communication
+
+2062
+01:23:57,860 --> 01:24:00,350
+and reduces the stress
+hormone cortisol levels
+
+2063
+01:24:00,350 --> 01:24:02,556
+during couple conflict,
+
+2064
+01:24:02,556 --> 01:24:03,634
+they have them fight,
+
+2065
+01:24:03,634 --> 01:24:07,559
+or they have them fight
+with and without oxytocin.
+
+2066
+01:24:07,559 --> 01:24:08,658
+So interesting.
+
+2067
+01:24:08,658 --> 01:24:12,340
+Very much in line with
+the idea that oxytocin
+
+2068
+01:24:12,340 --> 01:24:14,242
+is the "trust hormone."
+
+2069
+01:24:14,242 --> 01:24:16,920
+That's sort of in keeping with that.
+
+2070
+01:24:16,920 --> 01:24:19,107
+That was a 2009 paper.
+
+2071
+01:24:19,107 --> 01:24:20,949
+There's other evidence, for instance,
+
+2072
+01:24:20,949 --> 01:24:25,410
+that men report a greater sense
+of connection and intimacy
+
+2073
+01:24:25,410 --> 01:24:26,660
+with their partners during sex
+
+2074
+01:24:26,660 --> 01:24:29,736
+after taking intranasal oxytocin.
+
+2075
+01:24:29,736 --> 01:24:32,670
+There are studies in autistic children.
+
+2076
+01:24:32,670 --> 01:24:34,986
+Giving them intranasal oxytocin as a way
+
+2077
+01:24:34,986 --> 01:24:38,934
+to try and help them establish
+better social connection
+
+2078
+01:24:38,934 --> 01:24:42,820
+and "empathy" or theory of mind.
+
+2079
+01:24:42,820 --> 01:24:44,470
+I've talked about theory of mind before,
+
+2080
+01:24:44,470 --> 01:24:48,200
+were understanding of what other children
+
+2081
+01:24:48,200 --> 01:24:51,160
+and adults are experiencing.
+
+2082
+01:24:51,160 --> 01:24:54,012
+Oxytocin does seem to create
+these general effects,
+
+2083
+01:24:54,012 --> 01:24:58,850
+and how nuanced they are in
+one situation or another,
+
+2084
+01:24:58,850 --> 01:24:59,860
+I don't know.
+
+2085
+01:24:59,860 --> 01:25:01,420
+I'm aware and I was told,
+
+2086
+01:25:01,420 --> 01:25:02,930
+and I'm definitely not recommending this,
+
+2087
+01:25:02,930 --> 01:25:07,390
+that there's a marketed
+oxytocin ketamine nasal spray.
+
+2088
+01:25:07,390 --> 01:25:08,662
+Now I have no idea.
+
+2089
+01:25:08,662 --> 01:25:10,470
+Maybe someone can put in the comments
+
+2090
+01:25:10,470 --> 01:25:14,240
+why you'd want to combine
+oxytocin and ketamine.
+
+2091
+01:25:14,240 --> 01:25:15,672
+I can't imagine why.
+
+2092
+01:25:15,672 --> 01:25:18,250
+Ketamine is a dissociative anesthetic
+
+2093
+01:25:18,250 --> 01:25:20,036
+that's used for the treatment of PTSD.
+
+2094
+01:25:20,036 --> 01:25:22,373
+It used to be used as a recreational drug.
+
+2095
+01:25:22,373 --> 01:25:27,373
+It's very similar to PCP,
+seems quite dangerous in fact.
+
+2096
+01:25:29,650 --> 01:25:32,135
+I don't know why those two
+things would be combined,
+
+2097
+01:25:32,135 --> 01:25:34,670
+why one would want to combine them.
+
+2098
+01:25:34,670 --> 01:25:37,020
+But there are products out there
+
+2099
+01:25:37,020 --> 01:25:38,590
+that seem to combine those two things.
+
+2100
+01:25:38,590 --> 01:25:41,620
+And I'm not certain why one would do that,
+
+2101
+01:25:41,620 --> 01:25:45,220
+but it's interesting to
+note that it's happening.
+
+2102
+01:25:45,220 --> 01:25:47,910
+A particularly interesting
+study about oxytocin is that,
+
+2103
+01:25:47,910 --> 01:25:49,670
+that was published in the
+journal, Neuroscience,
+
+2104
+01:25:49,670 --> 01:25:50,503
+which is a good journal,
+
+2105
+01:25:50,503 --> 01:25:53,440
+that oxytocin modulates
+
+2106
+01:25:53,440 --> 01:25:56,047
+social distance between males and females.
+
+2107
+01:25:56,047 --> 01:25:57,510
+So that's interesting.
+
+2108
+01:25:57,510 --> 01:25:59,474
+What they did is they gave oxytocin
+
+2109
+01:25:59,474 --> 01:26:03,500
+to people that were in
+monogamous relationships,
+
+2110
+01:26:03,500 --> 01:26:06,650
+and then they evaluated
+the extent to which the,
+
+2111
+01:26:06,650 --> 01:26:07,483
+in this case,
+
+2112
+01:26:07,483 --> 01:26:08,460
+the males in those relationships
+
+2113
+01:26:08,460 --> 01:26:10,840
+would pay attention to visual attention
+
+2114
+01:26:10,840 --> 01:26:14,120
+to attractive other potential partners.
+
+2115
+01:26:14,120 --> 01:26:14,953
+And it seemed like
+
+2116
+01:26:14,953 --> 01:26:16,860
+that the general takeaway from this study
+
+2117
+01:26:16,860 --> 01:26:18,610
+is that oxytocin administration
+
+2118
+01:26:18,610 --> 01:26:20,930
+seemed to promote monogamous behavior.
+
+2119
+01:26:20,930 --> 01:26:22,290
+So behavior that wasn't in line
+
+2120
+01:26:22,290 --> 01:26:24,450
+with monogamy of the
+relationship that they were in
+
+2121
+01:26:24,450 --> 01:26:28,040
+as opposed to a foraging
+for potentially new mates.
+
+2122
+01:26:28,040 --> 01:26:30,290
+Now of course, these are
+somewhat artificial experiments
+
+2123
+01:26:30,290 --> 01:26:31,620
+or very artificial experiments,
+
+2124
+01:26:31,620 --> 01:26:33,400
+depending on how you interpret them.
+
+2125
+01:26:33,400 --> 01:26:35,170
+But the general theme
+
+2126
+01:26:35,170 --> 01:26:40,010
+is that oxytocin is promoting monogamy,
+
+2127
+01:26:40,010 --> 01:26:41,510
+it's promoting pair bonding,
+
+2128
+01:26:41,510 --> 01:26:42,380
+it's promoting
+
+2129
+01:26:42,380 --> 01:26:46,286
+a understanding of the
+internal state of others,
+
+2130
+01:26:46,286 --> 01:26:49,360
+which requires enhanced exteroception
+
+2131
+01:26:49,360 --> 01:26:50,890
+for those particular others.
+
+2132
+01:26:50,890 --> 01:26:54,070
+So not just generally
+having them look everywhere
+
+2133
+01:26:54,070 --> 01:26:55,250
+and see what's going on in the world,
+
+2134
+01:26:55,250 --> 01:26:56,799
+but particularly paying attention
+
+2135
+01:26:56,799 --> 01:26:59,222
+to the emotional states of others.
+
+2136
+01:26:59,222 --> 01:27:01,167
+I'm sure several of you will be asking,
+
+2137
+01:27:01,167 --> 01:27:03,186
+"Well, what can I do
+to increase oxytocin,"
+
+2138
+01:27:03,186 --> 01:27:04,425
+if that's your goal.
+
+2139
+01:27:04,425 --> 01:27:05,710
+There's some evidence.
+
+2140
+01:27:05,710 --> 01:27:06,630
+And I invite you again
+
+2141
+01:27:06,630 --> 01:27:11,160
+to go to examine.com or
+another such site like PubMed
+
+2142
+01:27:11,160 --> 01:27:12,473
+if you want to forage PubMed,
+
+2143
+01:27:12,473 --> 01:27:16,340
+that vitamin D is required
+for proper production,
+
+2144
+01:27:16,340 --> 01:27:17,190
+and in some cases
+
+2145
+01:27:17,190 --> 01:27:20,610
+can increase levels of
+oxytocin when supplemented,
+
+2146
+01:27:20,610 --> 01:27:21,730
+which is interesting.
+
+2147
+01:27:21,730 --> 01:27:23,860
+And that believe it or not, melatonin,
+
+2148
+01:27:23,860 --> 01:27:24,950
+or old friend melatonin,
+
+2149
+01:27:24,950 --> 01:27:29,370
+which I have pushed back against
+as a supplement for sleep,
+
+2150
+01:27:29,370 --> 01:27:32,210
+because of what I view
+
+2151
+01:27:32,210 --> 01:27:35,278
+as untoward side effects
+of melatonin in most cases,
+
+2152
+01:27:35,278 --> 01:27:38,152
+but it seems like melatonin in some cases
+
+2153
+01:27:38,152 --> 01:27:41,680
+can prime the system
+
+2154
+01:27:41,680 --> 01:27:44,690
+for slightly increased oxytocin release.
+
+2155
+01:27:44,690 --> 01:27:45,870
+There's even one report,
+
+2156
+01:27:45,870 --> 01:27:48,240
+although it didn't look that strong to me
+
+2157
+01:27:48,240 --> 01:27:51,850
+that low doses of caffeine
+could increase oxytocin release.
+
+2158
+01:27:51,850 --> 01:27:54,550
+But that to me falls under the category
+
+2159
+01:27:54,550 --> 01:27:56,100
+of what was once described
+
+2160
+01:27:56,100 --> 01:27:59,630
+as a drug when injected
+into a person or animal
+
+2161
+01:27:59,630 --> 01:28:02,810
+is always effective at
+producing a scientific paper.
+
+2162
+01:28:02,810 --> 01:28:04,210
+Meaning that you can get a result,
+
+2163
+01:28:04,210 --> 01:28:06,200
+but the result isn't always so robust.
+
+2164
+01:28:06,200 --> 01:28:08,530
+So you always want to read past
+the titles and the abstracts
+
+2165
+01:28:08,530 --> 01:28:10,310
+and get into the meat of the paper.
+
+2166
+01:28:10,310 --> 01:28:11,143
+And when I did that,
+
+2167
+01:28:11,143 --> 01:28:13,240
+the effects were pretty negligible
+
+2168
+01:28:13,240 --> 01:28:14,560
+with caffeine on oxytocin.
+
+2169
+01:28:14,560 --> 01:28:16,910
+But it's interesting that
+vitamin D and melatonin
+
+2170
+01:28:16,910 --> 01:28:19,640
+may have some positive
+effects on oxytocin release.
+
+2171
+01:28:19,640 --> 01:28:20,530
+But like I said,
+
+2172
+01:28:20,530 --> 01:28:22,004
+many people are just taking oxytocin
+
+2173
+01:28:22,004 --> 01:28:24,770
+directly through these intranasal sprays.
+
+2174
+01:28:24,770 --> 01:28:28,270
+I'm pretty sure it's prescription
+in most places, but check.
+
+2175
+01:28:28,270 --> 01:28:30,360
+And again, I'm not
+recommending anybody do that.
+
+2176
+01:28:30,360 --> 01:28:31,193
+I've never tried it.
+
+2177
+01:28:31,193 --> 01:28:32,300
+I don't know that I will.
+
+2178
+01:28:32,300 --> 01:28:35,300
+I think I'm going to stick with
+the oxytocin that I've got.
+
+2179
+01:28:35,300 --> 01:28:36,730
+The other molecule that we make
+
+2180
+01:28:36,730 --> 01:28:39,812
+that's extremely important for
+social bonds and emotionality
+
+2181
+01:28:39,812 --> 01:28:41,940
+is one that we're going to talk about more
+
+2182
+01:28:41,940 --> 01:28:44,792
+in the month on hormones,
+that's vasopressin.
+
+2183
+01:28:44,792 --> 01:28:48,733
+Vasopressin suppresses urination.
+
+2184
+01:28:50,112 --> 01:28:51,298
+It's made by the body,
+
+2185
+01:28:51,298 --> 01:28:53,970
+but it was developed as a treatment
+
+2186
+01:28:53,970 --> 01:28:55,850
+for something called diabetes insipidus,
+
+2187
+01:28:55,850 --> 01:28:57,635
+where people urinate excessively,
+
+2188
+01:28:57,635 --> 01:28:59,576
+and they actually risk dehydration
+
+2189
+01:28:59,576 --> 01:29:02,030
+and they can lose a lot of
+electrolytes, et cetera.
+
+2190
+01:29:02,030 --> 01:29:03,527
+So it causes water retention.
+
+2191
+01:29:03,527 --> 01:29:06,960
+Alcohol consumption inhibits vasopressin.
+
+2192
+01:29:06,960 --> 01:29:08,390
+So large amounts of alcohol,
+
+2193
+01:29:08,390 --> 01:29:11,940
+many people excrete, a
+lot of fluid and so forth.
+
+2194
+01:29:11,940 --> 01:29:14,705
+Vasopressin has effects
+on the brain directly.
+
+2195
+01:29:14,705 --> 01:29:18,444
+It actually creates
+feelings of giddy love.
+
+2196
+01:29:18,444 --> 01:29:22,710
+It also increases memory
+in very potent ways.
+
+2197
+01:29:22,710 --> 01:29:24,606
+There's a whole biohacking community
+
+2198
+01:29:24,606 --> 01:29:28,709
+that has been dabbling with
+vasopressin for some time.
+
+2199
+01:29:28,709 --> 01:29:30,090
+I have never tried it.
+
+2200
+01:29:30,090 --> 01:29:31,020
+I certainly don't recommend it.
+
+2201
+01:29:31,020 --> 01:29:32,950
+It is prescription.
+
+2202
+01:29:32,950 --> 01:29:37,517
+It is a pretty serious
+compound to start messing with,
+
+2203
+01:29:39,440 --> 01:29:42,040
+because it has so many
+different effects in the body.
+
+2204
+01:29:42,040 --> 01:29:46,141
+It's interesting because it
+creates the sense of giddy love.
+
+2205
+01:29:46,141 --> 01:29:49,706
+It's also used somewhat as an aphrodisiac,
+
+2206
+01:29:49,706 --> 01:29:51,778
+so it's similar to oxytocin.
+
+2207
+01:29:51,778 --> 01:29:54,000
+It also has very interesting effects
+
+2208
+01:29:54,000 --> 01:29:56,827
+on monogamous or non-monogamous behavior.
+
+2209
+01:29:56,827 --> 01:29:59,490
+This, again, we will
+revisit in the future.
+
+2210
+01:29:59,490 --> 01:30:02,380
+But there's a beautiful set of experiments
+
+2211
+01:30:02,380 --> 01:30:04,500
+that have been done in
+a little rodent species
+
+2212
+01:30:04,500 --> 01:30:05,910
+called a prairie vole.
+
+2213
+01:30:05,910 --> 01:30:06,743
+It turns out
+
+2214
+01:30:06,743 --> 01:30:08,130
+there are two different
+populations of prairie voles,
+
+2215
+01:30:08,130 --> 01:30:09,130
+some are monogamous,
+
+2216
+01:30:09,130 --> 01:30:12,750
+they always meet with the
+same other prairie vole,
+
+2217
+01:30:12,750 --> 01:30:16,300
+and some are very robustly non-monogamous,
+
+2218
+01:30:16,300 --> 01:30:18,680
+they mate with as many other
+prairie voles as they can.
+
+2219
+01:30:18,680 --> 01:30:20,750
+And turns out that levels of vasopressin
+
+2220
+01:30:20,750 --> 01:30:22,680
+and/or vasopressin receptor
+
+2221
+01:30:22,680 --> 01:30:24,627
+dictate whether or not
+they're monogamous or not.
+
+2222
+01:30:24,627 --> 01:30:27,168
+And there's actually some
+interesting evidence in humans.
+
+2223
+01:30:27,168 --> 01:30:29,520
+When people report their behavior,
+
+2224
+01:30:29,520 --> 01:30:31,034
+assuming they're reporting accurately,
+
+2225
+01:30:31,034 --> 01:30:33,498
+that vasopressin and vasopressin levels
+
+2226
+01:30:33,498 --> 01:30:35,006
+can relate to monogamy
+
+2227
+01:30:35,006 --> 01:30:37,430
+or non-monogamy in humans as well.
+
+2228
+01:30:37,430 --> 01:30:41,010
+We're going to talk about
+this in the month on hormones.
+
+2229
+01:30:41,010 --> 01:30:42,810
+If we're talking about the
+neuroscience of emotions,
+
+2230
+01:30:42,810 --> 01:30:44,542
+we have to talk about the vagus nerve.
+
+2231
+01:30:44,542 --> 01:30:47,840
+I described what the vagus
+nerve is in a previous episode,
+
+2232
+01:30:47,840 --> 01:30:49,260
+that it's these connections
+
+2233
+01:30:49,260 --> 01:30:51,560
+between the body and the viscera,
+
+2234
+01:30:51,560 --> 01:30:53,100
+including the gut, the heart, the lungs
+
+2235
+01:30:53,100 --> 01:30:55,040
+and the immune system and the brain,
+
+2236
+01:30:55,040 --> 01:30:57,570
+and that the brain is also
+controlling these organs.
+
+2237
+01:30:57,570 --> 01:30:58,983
+So it's a two-way street.
+
+2238
+01:30:59,830 --> 01:31:02,105
+There's this big myth out
+there that I mentioned before,
+
+2239
+01:31:02,105 --> 01:31:05,465
+that stimulating the vagus in various ways
+
+2240
+01:31:05,465 --> 01:31:07,050
+leads to calmness.
+
+2241
+01:31:07,050 --> 01:31:08,664
+That it's always going to calm you down.
+
+2242
+01:31:08,664 --> 01:31:10,680
+And that is false.
+
+2243
+01:31:10,680 --> 01:31:12,400
+I just want to repeat
+that is completely false.
+
+2244
+01:31:12,400 --> 01:31:15,040
+In fact, it was just
+paper, yet another paper
+
+2245
+01:31:15,040 --> 01:31:16,210
+published the other day,
+
+2246
+01:31:16,210 --> 01:31:18,820
+which is fantastic, which
+is from David McCormick Lab
+
+2247
+01:31:18,820 --> 01:31:19,741
+up at the University of Oregon.
+
+2248
+01:31:19,741 --> 01:31:22,491
+It's published in Current
+Biology, excellent journal,
+
+2249
+01:31:22,491 --> 01:31:24,824
+showing, I'm just reading the title,
+
+2250
+01:31:24,824 --> 01:31:28,700
+vagus nerve stimulation
+induces widespread cortical,
+
+2251
+01:31:28,700 --> 01:31:31,340
+the neocortex and behavioral activation.
+
+2252
+01:31:31,340 --> 01:31:32,918
+I've read the paper, it's fantastic.
+
+2253
+01:31:32,918 --> 01:31:35,255
+It illustrates yet again,
+
+2254
+01:31:35,255 --> 01:31:38,480
+stimulation of the vagus
+increases dopamine release,
+
+2255
+01:31:38,480 --> 01:31:41,836
+increases activation
+of the brain alertness.
+
+2256
+01:31:41,836 --> 01:31:45,260
+It is a stimulant of alertness,
+
+2257
+01:31:45,260 --> 01:31:47,800
+it is not calming people down.
+
+2258
+01:31:47,800 --> 01:31:50,809
+Now this is interesting
+in light of emotionality
+
+2259
+01:31:50,809 --> 01:31:55,670
+because of work that's
+been done by many groups,
+
+2260
+01:31:55,670 --> 01:31:56,930
+but in particular,
+
+2261
+01:31:56,930 --> 01:31:58,820
+I'm going to focus on the
+work of a colleague of mine,
+
+2262
+01:31:58,820 --> 01:32:01,410
+Karl Deisseroth at Stanford,
+who's a psychiatrist,
+
+2263
+01:32:01,410 --> 01:32:02,801
+but has also developed a lot of tools
+
+2264
+01:32:02,801 --> 01:32:07,180
+to adjust the activity
+of neurons in real time
+
+2265
+01:32:07,180 --> 01:32:09,644
+using light and electrical
+stimulation and so forth.
+
+2266
+01:32:09,644 --> 01:32:12,670
+I'll refer you to an
+article in the New Yorker
+
+2267
+01:32:12,670 --> 01:32:14,240
+that was published about
+this a few years ago
+
+2268
+01:32:14,240 --> 01:32:15,940
+I'm going to read a brief excerpt.
+
+2269
+01:32:15,940 --> 01:32:18,159
+I'll put the link in the caption as well.
+
+2270
+01:32:18,159 --> 01:32:23,087
+He's talking to an extremely
+suicidal depressed patient
+
+2271
+01:32:23,087 --> 01:32:26,440
+who has a small device implanted
+
+2272
+01:32:26,440 --> 01:32:29,070
+that allows her to adjust
+her vagus nerve activity.
+
+2273
+01:32:29,070 --> 01:32:30,360
+Now vagus stimulation
+
+2274
+01:32:30,360 --> 01:32:32,910
+was originally developed for
+the treatment of epilepsy.
+
+2275
+01:32:32,910 --> 01:32:35,762
+It's now being used for
+various other purposes.
+
+2276
+01:32:35,762 --> 01:32:40,660
+Vagus stimulation can even
+increase plasticity, it seems.
+
+2277
+01:32:40,660 --> 01:32:43,470
+So again, increasing activity of the vagus
+
+2278
+01:32:43,470 --> 01:32:44,397
+increases alertness,
+
+2279
+01:32:44,397 --> 01:32:48,160
+and it's just incredible to
+see what happens in real time
+
+2280
+01:32:48,160 --> 01:32:50,884
+to emotionality when
+the vagus is stimulated,
+
+2281
+01:32:50,884 --> 01:32:54,760
+again, not calming, but
+activating alertness.
+
+2282
+01:32:54,760 --> 01:32:57,280
+They're in his office and they're talking,
+
+2283
+01:32:57,280 --> 01:32:59,400
+and he asks her how she's doing,
+
+2284
+01:32:59,400 --> 01:33:02,547
+and she describes how
+she's been doing previously
+
+2285
+01:33:03,610 --> 01:33:05,550
+as "going pancake,"
+
+2286
+01:33:05,550 --> 01:33:08,460
+which for her just means
+totally laid out flat,
+
+2287
+01:33:08,460 --> 01:33:09,572
+not much going on.
+
+2288
+01:33:09,572 --> 01:33:13,080
+She talks about how she
+doesn't want to pursue a job.
+
+2289
+01:33:13,080 --> 01:33:14,157
+She's really depressed.
+
+2290
+01:33:14,157 --> 01:33:18,947
+And he says in typical
+good psychiatrist fashion,
+
+2291
+01:33:18,947 --> 01:33:20,320
+"Well, that's a lot to think about,"
+
+2292
+01:33:20,320 --> 01:33:21,620
+that's actually the quote.
+
+2293
+01:33:23,107 --> 01:33:26,150
+And they talk about her
+blood pressure, et cetera.
+
+2294
+01:33:26,150 --> 01:33:27,848
+And then she says,
+
+2295
+01:33:27,848 --> 01:33:30,350
+mood's been down, just spiraling down,
+
+2296
+01:33:30,350 --> 01:33:33,361
+talks about insomnia,
+bad dreams, low appetite.
+
+2297
+01:33:33,361 --> 01:33:35,800
+So this is severe depression.
+
+2298
+01:33:35,800 --> 01:33:37,061
+This is what we call major depression.
+
+2299
+01:33:37,061 --> 01:33:39,147
+And then she requests,
+
+2300
+01:33:39,147 --> 01:33:43,110
+"Can we please go up to
+1.5 on vagus stimulation?"
+
+2301
+01:33:43,110 --> 01:33:45,448
+She'd been receiving 1.2 milli amps
+
+2302
+01:33:45,448 --> 01:33:48,062
+of stimulation every five
+minutes to 30 seconds
+
+2303
+01:33:48,062 --> 01:33:50,613
+but was no longer able
+to feel the effects.
+
+2304
+01:33:50,613 --> 01:33:51,547
+So he says,
+
+2305
+01:33:51,547 --> 01:33:53,030
+"Okay, I think we can go up a little,
+
+2306
+01:33:53,030 --> 01:33:54,580
+you're tolerating things well."
+
+2307
+01:33:55,800 --> 01:33:59,767
+They start the stimulation and,
+
+2308
+01:33:59,767 --> 01:34:03,437
+"In the course of the next few
+minutes," her name was Sally,
+
+2309
+01:34:03,437 --> 01:34:06,040
+"underwent a remarkable
+change, her frown disappeared.
+
+2310
+01:34:06,040 --> 01:34:07,065
+She became cheerful,
+
+2311
+01:34:07,065 --> 01:34:08,810
+describing the pleasure she'd had
+
+2312
+01:34:08,810 --> 01:34:09,810
+during the Christmas holiday
+
+2313
+01:34:09,810 --> 01:34:10,990
+and recounting how she'd recently
+
+2314
+01:34:10,990 --> 01:34:13,243
+watched some YouTube videos of Deisseroth.
+
+2315
+01:34:14,810 --> 01:34:17,026
+She was still smiling and
+talking when the session ended,
+
+2316
+01:34:17,026 --> 01:34:19,420
+and they walked out to
+the reception area."
+
+2317
+01:34:19,420 --> 01:34:21,940
+So this is just by stimulating
+and activating the vagus.
+
+2318
+01:34:21,940 --> 01:34:23,190
+Now why am I bringing this up?
+
+2319
+01:34:23,190 --> 01:34:27,680
+Well, for several reasons, one
+is the vagus is fascinating
+
+2320
+01:34:27,680 --> 01:34:29,160
+in terms of the brain body connection,
+
+2321
+01:34:29,160 --> 01:34:33,135
+two, I'd like to, trying
+to dispel the myth
+
+2322
+01:34:33,135 --> 01:34:35,980
+that vagus stimulation
+is all about being calm,
+
+2323
+01:34:35,980 --> 01:34:37,086
+it's really about being alert.
+
+2324
+01:34:37,086 --> 01:34:39,830
+I don't know how that
+originally got going backwards,
+
+2325
+01:34:39,830 --> 01:34:41,933
+but it's about being alert.
+
+2326
+01:34:41,933 --> 01:34:46,150
+And once again, level of
+alertness or level of calmness
+
+2327
+01:34:46,150 --> 01:34:47,830
+is impacting emotion,
+
+2328
+01:34:47,830 --> 01:34:49,761
+that this axis of alertness and calmness
+
+2329
+01:34:49,761 --> 01:34:54,430
+is one primary axis in emotion.
+
+2330
+01:34:54,430 --> 01:34:55,550
+It's not the only one,
+
+2331
+01:34:55,550 --> 01:34:58,546
+because there's also this
+valence component of good or bad.
+
+2332
+01:34:58,546 --> 01:35:00,440
+Those two aren't the only ones,
+
+2333
+01:35:00,440 --> 01:35:01,660
+because there's also this component
+
+2334
+01:35:01,660 --> 01:35:03,330
+of interoceptive, exteroceptive
+
+2335
+01:35:03,330 --> 01:35:04,210
+that we talked about earlier.
+
+2336
+01:35:04,210 --> 01:35:05,710
+And there will be others too.
+
+2337
+01:35:05,710 --> 01:35:07,220
+Again, it's not exhaustive.
+
+2338
+01:35:07,220 --> 01:35:08,257
+But I find it fascinating,
+
+2339
+01:35:08,257 --> 01:35:11,200
+and it really brings us
+back to where we started,
+
+2340
+01:35:11,200 --> 01:35:13,209
+which is what are the
+core elements of emotion,
+
+2341
+01:35:13,209 --> 01:35:15,220
+and what can you do about them?
+
+2342
+01:35:15,220 --> 01:35:18,990
+And before we close up today,
+I just want to make sure that
+
+2343
+01:35:18,990 --> 01:35:20,360
+even though I've mentioned some tools,
+
+2344
+01:35:20,360 --> 01:35:22,840
+I talked about the Mood Meter app,
+
+2345
+01:35:22,840 --> 01:35:25,187
+I talked about oxytocin
+
+2346
+01:35:25,187 --> 01:35:27,236
+and some of the things
+that impact oxytocin,
+
+2347
+01:35:27,236 --> 01:35:29,830
+I talked about some of the ways
+
+2348
+01:35:29,830 --> 01:35:31,919
+that you can conceptualize emotions.
+
+2349
+01:35:31,919 --> 01:35:34,700
+This business of how you
+conceptualize emotions
+
+2350
+01:35:34,700 --> 01:35:37,760
+is really the most powerful
+tool you can ever have
+
+2351
+01:35:37,760 --> 01:35:39,850
+in terms of understanding
+
+2352
+01:35:39,850 --> 01:35:41,490
+and regulating your emotional state.
+
+2353
+01:35:41,490 --> 01:35:44,400
+If you're willing to try and
+wrap your head around it,
+
+2354
+01:35:44,400 --> 01:35:46,760
+I realize it's not the
+simplest thing to do.
+
+2355
+01:35:46,760 --> 01:35:49,640
+But rather than think of
+emotions as just these labels,
+
+2356
+01:35:49,640 --> 01:35:52,743
+happy, sad, or depressed,
+
+2357
+01:35:52,743 --> 01:35:55,631
+thinking about emotions, excuse me,
+
+2358
+01:35:55,631 --> 01:36:00,242
+as elements of the brain and body
+
+2359
+01:36:00,242 --> 01:36:03,000
+that encompass levels of alertness
+
+2360
+01:36:03,000 --> 01:36:05,570
+that include a dynamic
+with the outside world
+
+2361
+01:36:05,570 --> 01:36:07,427
+and your perception of
+your internal state.
+
+2362
+01:36:07,427 --> 01:36:10,300
+And starting to really
+think about emotions
+
+2363
+01:36:10,300 --> 01:36:11,411
+in a structured way
+
+2364
+01:36:11,411 --> 01:36:14,400
+cannot only allow you to understand
+
+2365
+01:36:14,400 --> 01:36:15,460
+some of the pathology
+
+2366
+01:36:15,460 --> 01:36:18,190
+of when you might feel
+depressed or anxious
+
+2367
+01:36:18,190 --> 01:36:19,415
+or others are depressed and anxious,
+
+2368
+01:36:19,415 --> 01:36:20,950
+but also to develop
+
+2369
+01:36:20,950 --> 01:36:23,810
+a richer emotional experience to anything.
+
+2370
+01:36:23,810 --> 01:36:25,190
+Now of course, I don't expect that
+
+2371
+01:36:25,190 --> 01:36:27,610
+as you're out there
+interacting with friends
+
+2372
+01:36:27,610 --> 01:36:29,520
+and you're watching TV
+and experiencing life,
+
+2373
+01:36:29,520 --> 01:36:32,590
+that you should be parsing
+every bit of your experience
+
+2374
+01:36:32,590 --> 01:36:34,860
+in some sort of reductionist
+and mechanistic way.
+
+2375
+01:36:34,860 --> 01:36:35,994
+That's not the goal here.
+
+2376
+01:36:35,994 --> 01:36:37,842
+But for those of you
+that are practitioners,
+
+2377
+01:36:37,842 --> 01:36:39,720
+teachers of any kind,
+
+2378
+01:36:39,720 --> 01:36:40,970
+for those of you that are kids,
+
+2379
+01:36:40,970 --> 01:36:43,980
+for those of you that
+are trying to understand
+
+2380
+01:36:43,980 --> 01:36:46,190
+what your emotional life
+and your consciousness,
+
+2381
+01:36:46,190 --> 01:36:47,408
+dare I say the word,
+
+2382
+01:36:47,408 --> 01:36:49,080
+really consists of,
+
+2383
+01:36:49,080 --> 01:36:51,884
+I do believe that these
+are fundamental elements
+
+2384
+01:36:51,884 --> 01:36:54,420
+that are well-supported by the science
+
+2385
+01:36:54,420 --> 01:36:56,009
+across a variety of researchers
+
+2386
+01:36:56,009 --> 01:36:59,512
+doing things from a variety
+of different perspectives
+
+2387
+01:36:59,512 --> 01:37:01,500
+and some of whom agree with one another
+
+2388
+01:37:01,500 --> 01:37:02,720
+and some of whom don't.
+
+2389
+01:37:02,720 --> 01:37:06,950
+So I offer it to you as
+a source of knowledge
+
+2390
+01:37:06,950 --> 01:37:08,200
+from which you can start
+
+2391
+01:37:08,200 --> 01:37:11,973
+to think about your emotional
+life differently, I hope,
+
+2392
+01:37:11,973 --> 01:37:13,690
+as well as others
+
+2393
+01:37:13,690 --> 01:37:16,350
+in a way that builds more
+richness into that experience,
+
+2394
+01:37:16,350 --> 01:37:18,510
+not that detracts from it.
+
+2395
+01:37:18,510 --> 01:37:20,813
+One last point as it relates to that,
+
+2396
+01:37:20,813 --> 01:37:24,610
+many of you have asked me
+about psychedelic therapies
+
+2397
+01:37:24,610 --> 01:37:27,869
+that are now emerging, things
+like psilocybin and MDMA,
+
+2398
+01:37:27,869 --> 01:37:29,820
+we are of course
+
+2399
+01:37:29,820 --> 01:37:32,300
+going to dive into that topic deeply.
+
+2400
+01:37:32,300 --> 01:37:35,181
+We have an expert guest coming
+on to discuss that topic.
+
+2401
+01:37:35,181 --> 01:37:40,181
+Those compounds clearly affect
+the aspects of emotionality
+
+2402
+01:37:41,610 --> 01:37:42,921
+that we were talking about today,
+
+2403
+01:37:42,921 --> 01:37:47,290
+calmness, alertness, valence, good or bad,
+
+2404
+01:37:47,290 --> 01:37:50,548
+interoceptive, exteroceptive positioning.
+
+2405
+01:37:50,548 --> 01:37:55,390
+And so rather than just do a
+kind of cursory exploration
+
+2406
+01:37:55,390 --> 01:37:56,250
+of those compounds
+
+2407
+01:37:56,250 --> 01:37:58,350
+and what the therapeutic
+and scientific community
+
+2408
+01:37:58,350 --> 01:38:00,809
+is thinking about them
+and how they function,
+
+2409
+01:38:00,809 --> 01:38:02,700
+I think it's more important
+
+2410
+01:38:02,700 --> 01:38:04,934
+to embed that framework in our thinking
+
+2411
+01:38:04,934 --> 01:38:07,480
+so that when we address psychedelics
+
+2412
+01:38:07,480 --> 01:38:09,048
+and we address other sorts of therapies,
+
+2413
+01:38:09,048 --> 01:38:10,608
+cognitive behavioral therapy,
+
+2414
+01:38:10,608 --> 01:38:12,535
+different types of emotive therapies
+
+2415
+01:38:12,535 --> 01:38:15,648
+that relate to individuals
+and couples et cetera,
+
+2416
+01:38:15,648 --> 01:38:18,485
+that we are able to think about them
+
+2417
+01:38:18,485 --> 01:38:20,658
+with some sort of structure and rigor
+
+2418
+01:38:20,658 --> 01:38:23,669
+rather than just talk about
+them as a bunch of chemicals
+
+2419
+01:38:23,669 --> 01:38:25,698
+that produce these amazing experiences
+
+2420
+01:38:25,698 --> 01:38:28,130
+that people need to tell you about.
+
+2421
+01:38:28,130 --> 01:38:29,820
+Because if there's one truth,
+
+2422
+01:38:29,820 --> 01:38:32,830
+it seems that psychedelic
+seem to promote activity
+
+2423
+01:38:32,830 --> 01:38:35,240
+of storytelling about
+psychedelic experience.
+
+2424
+01:38:35,240 --> 01:38:38,730
+But that itself is not really
+what the therapeutic community
+
+2425
+01:38:38,730 --> 01:38:41,462
+and the academic communities
+are interested in,
+
+2426
+01:38:41,462 --> 01:38:43,478
+they're interested in trying to understand
+
+2427
+01:38:43,478 --> 01:38:45,303
+the universal truths,
+
+2428
+01:38:45,303 --> 01:38:48,940
+the universal biological
+shifts and psychological shifts
+
+2429
+01:38:48,940 --> 01:38:51,840
+that occur in the clinical
+use of those compounds.
+
+2430
+01:38:51,840 --> 01:38:53,560
+And so we're going to hold off for now,
+
+2431
+01:38:53,560 --> 01:38:55,010
+but we will get to them.
+
+2432
+01:38:55,010 --> 01:38:56,040
+Once again, we've covered
+
+2433
+01:38:56,040 --> 01:38:57,840
+an enormous amount of material today.
+
+2434
+01:38:57,840 --> 01:38:59,130
+It's really the equivalent of two
+
+2435
+01:38:59,130 --> 01:39:02,649
+if not three university
+lectures in one podcast episode.
+
+2436
+01:39:02,649 --> 01:39:05,657
+I want to thank those of you
+that have supported the podcast
+
+2437
+01:39:05,657 --> 01:39:07,221
+and point to ways in which
+
+2438
+01:39:07,221 --> 01:39:08,921
+all of you can support the podcast.
+
+2439
+01:39:08,921 --> 01:39:11,158
+Many of these are cost-free.
+
+2440
+01:39:11,158 --> 01:39:13,459
+The first is to please
+subscribe on YouTube
+
+2441
+01:39:13,459 --> 01:39:16,600
+and as well to hit the
+notifications button
+
+2442
+01:39:16,600 --> 01:39:18,564
+so that when we release new videos,
+
+2443
+01:39:18,564 --> 01:39:20,448
+which typically is every Monday
+
+2444
+01:39:20,448 --> 01:39:21,890
+for the full length episodes,
+
+2445
+01:39:21,890 --> 01:39:23,274
+but we also know how short clips,
+
+2446
+01:39:23,274 --> 01:39:25,599
+that you'll be notified.
+
+2447
+01:39:25,599 --> 01:39:29,248
+As well if you could subscribe
+on Apple and Spotify,
+
+2448
+01:39:29,248 --> 01:39:31,750
+and leave us a review on Apple.
+
+2449
+01:39:31,750 --> 01:39:33,810
+You have the opportunity to
+leave us a five-star review
+
+2450
+01:39:33,810 --> 01:39:35,670
+if you think we deserve
+a five-star review.
+
+2451
+01:39:35,670 --> 01:39:38,350
+Please tell your friends
+and family and co-workers
+
+2452
+01:39:38,350 --> 01:39:39,183
+about the podcast
+
+2453
+01:39:39,183 --> 01:39:40,062
+if you think the material
+
+2454
+01:39:40,062 --> 01:39:42,921
+would be of interest and
+informative for them,
+
+2455
+01:39:42,921 --> 01:39:45,962
+and if you want to send them
+links, that's terrific too.
+
+2456
+01:39:45,962 --> 01:39:48,175
+We also have a Patreon account.
+
+2457
+01:39:48,175 --> 01:39:51,880
+It's patreon.com/andrewhuberman.
+
+2458
+01:39:51,880 --> 01:39:54,683
+And there you can support us
+at any level that you like.
+
+2459
+01:39:54,683 --> 01:39:57,410
+In addition, if you could
+check out our sponsors,
+
+2460
+01:39:57,410 --> 01:40:00,422
+we always provide links to
+those sponsors in the captions.
+
+2461
+01:40:00,422 --> 01:40:03,020
+That's the best way to
+support the podcast.
+
+2462
+01:40:03,020 --> 01:40:05,895
+And several of you have
+asked about supplements.
+
+2463
+01:40:05,895 --> 01:40:08,670
+I talk about supplements
+in various episodes.
+
+2464
+01:40:08,670 --> 01:40:09,900
+We've partnered with Thorne
+
+2465
+01:40:09,900 --> 01:40:11,660
+because we think Thorne
+
+2466
+01:40:11,660 --> 01:40:13,442
+has the very highest levels of stringency
+
+2467
+01:40:13,442 --> 01:40:15,757
+in terms of the purity of the contents
+
+2468
+01:40:15,757 --> 01:40:18,030
+and the amounts of the contents.
+
+2469
+01:40:18,030 --> 01:40:20,650
+They really put in the bottle
+what's listed on the bottle,
+
+2470
+01:40:20,650 --> 01:40:23,107
+which is not true for a lot
+of supplement companies.
+
+2471
+01:40:23,107 --> 01:40:25,510
+If you want to see the
+supplements that I take,
+
+2472
+01:40:25,510 --> 01:40:27,080
+as well as get a discount on those
+
+2473
+01:40:27,080 --> 01:40:29,370
+or any of the other
+supplements that Thorne makes,
+
+2474
+01:40:29,370 --> 01:40:33,826
+you can go to thorne.com/u/huberman,
+
+2475
+01:40:33,826 --> 01:40:36,678
+and you can get 20% off
+any of those supplements
+
+2476
+01:40:36,678 --> 01:40:39,120
+or any of the other
+supplements that Thorne makes.
+
+2477
+01:40:39,120 --> 01:40:44,120
+So that's Thorne, T-H-O-R-N-E
+dotcom slash the letter U
+
+2478
+01:40:45,263 --> 01:40:47,200
+slash Huberman
+
+2479
+01:40:47,200 --> 01:40:50,303
+to get 20% off any
+supplements that Thorne makes.
+
+2480
+01:40:50,303 --> 01:40:52,760
+And last but certainly not least,
+
+2481
+01:40:52,760 --> 01:40:54,714
+I want to thank you for
+your time and attention.
+
+2482
+01:40:54,714 --> 01:40:57,203
+And thank you for your
+interest in science.
+

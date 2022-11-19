@@ -1,0 +1,6768 @@
+1
+00:00:00,380 --> 00:00:02,080
+- Welcome to the Huberman Lab Podcast
+
+2
+00:00:02,080 --> 00:00:03,750
+where we discuss science
+
+3
+00:00:03,750 --> 00:00:05,850
+and science-based tools for everyday life.
+
+4
+00:00:07,004 --> 00:00:09,530
+(upbeat guitar music)
+
+5
+00:00:09,530 --> 00:00:10,680
+I'm Andrew Huberman
+
+6
+00:00:10,680 --> 00:00:13,720
+and I'm a professor of
+neurobiology and ophthalmology
+
+7
+00:00:13,720 --> 00:00:15,660
+at Stanford School of Medicine.
+
+8
+00:00:15,660 --> 00:00:17,850
+For today's podcast
+we're going to talk about
+
+9
+00:00:17,850 --> 00:00:20,420
+the parts list of the nervous system.
+
+10
+00:00:20,420 --> 00:00:22,070
+Now that might sound boring,
+
+11
+00:00:22,070 --> 00:00:24,050
+but these are the bits and pieces
+
+12
+00:00:24,050 --> 00:00:26,530
+that together make up everything
+
+13
+00:00:26,530 --> 00:00:29,410
+about your experience of life,
+from what you think about
+
+14
+00:00:29,410 --> 00:00:31,610
+to what you feel, what you imagine,
+
+15
+00:00:31,610 --> 00:00:32,619
+and what you accomplish
+
+16
+00:00:32,619 --> 00:00:35,720
+from the day you're born
+until the day you die.
+
+17
+00:00:35,720 --> 00:00:38,350
+That parts list is really incredible
+
+18
+00:00:38,350 --> 00:00:41,277
+because it has a history
+associated with it
+
+19
+00:00:41,277 --> 00:00:45,390
+that really provides a window
+into all sorts of things
+
+20
+00:00:45,390 --> 00:00:49,650
+like engineering, warfare,
+religion, and philosophy.
+
+21
+00:00:49,650 --> 00:00:51,970
+So I'm going to share
+with you the parts list
+
+22
+00:00:51,970 --> 00:00:54,010
+that makes up who you are
+
+23
+00:00:54,010 --> 00:00:57,870
+through the lens of some of
+those other aspects of life
+
+24
+00:00:57,870 --> 00:00:59,090
+and other aspects
+
+25
+00:00:59,090 --> 00:01:03,130
+of the history of the discovery
+of the nervous system.
+
+26
+00:01:03,130 --> 00:01:04,560
+By the end of this podcast
+
+27
+00:01:04,560 --> 00:01:06,470
+I promise you're going
+to understand a lot more
+
+28
+00:01:06,470 --> 00:01:09,353
+about how you work and how
+to apply that knowledge.
+
+29
+00:01:10,420 --> 00:01:12,160
+There's going to be a little bit of story.
+
+30
+00:01:12,160 --> 00:01:13,220
+There's going to be a lot of discussion
+
+31
+00:01:13,220 --> 00:01:16,400
+about the people who made
+these particular discoveries.
+
+32
+00:01:16,400 --> 00:01:18,310
+There'll be a little bit
+of technical language.
+
+33
+00:01:18,310 --> 00:01:20,180
+There's no way to avoid that.
+
+34
+00:01:20,180 --> 00:01:22,490
+But at the end you're
+going to have in hand
+
+35
+00:01:22,490 --> 00:01:24,010
+what will be the equivalent
+
+36
+00:01:24,010 --> 00:01:26,830
+of an entire semester of learning
+
+37
+00:01:26,830 --> 00:01:30,060
+about the nervous system and how you work
+
+38
+00:01:30,060 --> 00:01:33,260
+So a few important points
+before we get started.
+
+39
+00:01:33,260 --> 00:01:34,940
+I am not a medical doctor.
+
+40
+00:01:34,940 --> 00:01:36,700
+That means I don't prescribe anything.
+
+41
+00:01:36,700 --> 00:01:39,730
+I'm a professor, so sometimes
+I'll profess things.
+
+42
+00:01:39,730 --> 00:01:41,960
+In fact, I profess a lot of things.
+
+43
+00:01:41,960 --> 00:01:44,600
+We are going to talk about
+some basic functioning
+
+44
+00:01:44,600 --> 00:01:46,840
+of the nervous system parts and et cetera,
+
+45
+00:01:46,840 --> 00:01:47,860
+but we're also going to talk
+
+46
+00:01:47,860 --> 00:01:49,740
+about how to apply that knowledge.
+
+47
+00:01:49,740 --> 00:01:52,380
+That said, your healthcare, your wellbeing
+
+48
+00:01:52,380 --> 00:01:53,470
+is your responsibility.
+
+49
+00:01:53,470 --> 00:01:54,897
+So anytime we talk about tools
+
+50
+00:01:54,897 --> 00:01:57,930
+please filter it through
+that responsibility.
+
+51
+00:01:57,930 --> 00:01:59,290
+Talk to a healthcare professional
+
+52
+00:01:59,290 --> 00:02:02,010
+if you're going to explore
+any new tools or practices
+
+53
+00:02:02,010 --> 00:02:06,290
+and be smart in your
+pursuit of these new tools.
+
+54
+00:02:06,290 --> 00:02:09,250
+Also wanna emphasize that this podcast
+
+55
+00:02:09,250 --> 00:02:11,570
+and the other things I do on social media
+
+56
+00:02:11,570 --> 00:02:14,590
+are my personal goal of bringing
+
+57
+00:02:14,590 --> 00:02:18,150
+zero cost to consumer information
+to the general public.
+
+58
+00:02:18,150 --> 00:02:21,590
+It is separate from my role
+at Stanford University.
+
+59
+00:02:21,590 --> 00:02:23,320
+In that spirit I really want to thank
+
+60
+00:02:23,320 --> 00:02:25,670
+the sponsors of today's podcast.
+
+61
+00:02:25,670 --> 00:02:27,870
+The first one is Athletic Greens
+
+62
+00:02:27,870 --> 00:02:30,380
+which is an all-in-one drink.
+
+63
+00:02:30,380 --> 00:02:31,450
+It's a greens drink
+
+64
+00:02:31,450 --> 00:02:35,260
+that has vitamins, minerals,
+probiotics, prebiotics.
+
+65
+00:02:35,260 --> 00:02:38,310
+I've been using Athletic Greens since 2012
+
+66
+00:02:38,310 --> 00:02:41,220
+so I'm really delighted that
+they're sponsoring the podcast.
+
+67
+00:02:41,220 --> 00:02:42,817
+The reason I like it is because
+
+68
+00:02:42,817 --> 00:02:44,580
+I like vitamins and minerals,
+
+69
+00:02:44,580 --> 00:02:46,530
+I think they're important to my health
+
+70
+00:02:46,530 --> 00:02:49,140
+and it can be kind of overwhelming to know
+
+71
+00:02:49,140 --> 00:02:51,320
+what to take in that landscape.
+
+72
+00:02:51,320 --> 00:02:52,810
+So by taking one thing
+
+73
+00:02:52,810 --> 00:02:55,040
+that also happens to taste really good
+
+74
+00:02:55,040 --> 00:02:57,950
+I get all the vitamins minerals,
+et cetera, that I need.
+
+75
+00:02:57,950 --> 00:03:00,040
+There's also a lot of data there now
+
+76
+00:03:00,040 --> 00:03:02,810
+about the importance of the gut microbiome
+
+77
+00:03:02,810 --> 00:03:05,900
+for immune health and
+for the gut brain access,
+
+78
+00:03:05,900 --> 00:03:07,110
+all these things.
+
+79
+00:03:07,110 --> 00:03:09,570
+And the probiotics and prebiotics
+
+80
+00:03:09,570 --> 00:03:11,510
+are important to me for that reason.
+
+81
+00:03:11,510 --> 00:03:13,100
+If you want to try Athletic Greens
+
+82
+00:03:13,100 --> 00:03:16,730
+you can go to athleticgreens.com/huberman,
+
+83
+00:03:16,730 --> 00:03:19,300
+and put in the code word
+Huberman at checkout.
+
+84
+00:03:19,300 --> 00:03:20,290
+If you do that
+
+85
+00:03:20,290 --> 00:03:24,090
+they'll send you a year's
+supply of vitamin D3 and K2.
+
+86
+00:03:24,090 --> 00:03:25,530
+There's a lot in the news lately
+
+87
+00:03:25,530 --> 00:03:27,100
+about the importance of vitamin D3.
+
+88
+00:03:27,100 --> 00:03:29,440
+We can all get vitamin D3 from sunlight
+
+89
+00:03:29,440 --> 00:03:31,900
+but many of us aren't
+getting enough sunlight.
+
+90
+00:03:31,900 --> 00:03:34,530
+Vitamin D3 has been shown to be relevant
+
+91
+00:03:34,530 --> 00:03:37,800
+to the immune system and the
+hormone systems, et cetera.
+
+92
+00:03:37,800 --> 00:03:38,633
+So once again
+
+93
+00:03:38,633 --> 00:03:41,440
+that's athleticgreens.com/huberman,
+
+94
+00:03:41,440 --> 00:03:42,770
+enter Huberman at checkout,
+
+95
+00:03:42,770 --> 00:03:45,520
+and you get the year supply of D3 and K2
+
+96
+00:03:45,520 --> 00:03:47,730
+along with your Athletic Greens.
+
+97
+00:03:47,730 --> 00:03:51,360
+This podcast is also brought
+to us by Inside Tracker
+
+98
+00:03:51,360 --> 00:03:53,870
+which is a health monitoring company.
+
+99
+00:03:53,870 --> 00:03:57,280
+It uses blood tests and
+saliva tests to look at things
+
+100
+00:03:57,280 --> 00:03:59,872
+like DNA and metabolic markers
+
+101
+00:03:59,872 --> 00:04:02,440
+and monitors your hormones,
+
+102
+00:04:02,440 --> 00:04:05,100
+a huge number of different
+parameters of health
+
+103
+00:04:05,100 --> 00:04:07,420
+that really can only
+be measured accurately
+
+104
+00:04:07,420 --> 00:04:09,540
+through blood and saliva tests.
+
+105
+00:04:09,540 --> 00:04:12,380
+I use Inside Tracker because
+I'm a big believer in data.
+
+106
+00:04:12,380 --> 00:04:14,370
+There's a lot of aspects to our biology
+
+107
+00:04:14,370 --> 00:04:16,790
+that can only be accurately measured
+
+108
+00:04:16,790 --> 00:04:19,440
+by way of blood tests and saliva tests.
+
+109
+00:04:19,440 --> 00:04:21,700
+The thing that's really
+nice about Inside Tracker
+
+110
+00:04:21,700 --> 00:04:24,350
+is that rather than just giving
+you a bunch of numbers back
+
+111
+00:04:24,350 --> 00:04:27,100
+of the levels of these
+things in your body,
+
+112
+00:04:27,100 --> 00:04:30,150
+it gives you, through a
+really simple platform,
+
+113
+00:04:30,150 --> 00:04:32,260
+information about what to do
+
+114
+00:04:32,260 --> 00:04:34,230
+with all those levels of hormones
+
+115
+00:04:34,230 --> 00:04:36,490
+and metabolic markers, et cetera.
+
+116
+00:04:36,490 --> 00:04:38,660
+It also has a feature which
+is particularly interesting
+
+117
+00:04:38,660 --> 00:04:40,690
+which it measures your inner age,
+
+118
+00:04:40,690 --> 00:04:43,300
+which is more a measure
+of your biological age
+
+119
+00:04:43,300 --> 00:04:45,430
+as opposed to your chronological age.
+
+120
+00:04:45,430 --> 00:04:48,560
+And all that information is organized
+
+121
+00:04:48,560 --> 00:04:49,790
+so that you can make changes
+
+122
+00:04:49,790 --> 00:04:52,930
+in your nutritional regimes
+or your exercise regimes
+
+123
+00:04:52,930 --> 00:04:55,940
+and watch how those
+markers change over time.
+
+124
+00:04:55,940 --> 00:04:57,390
+So if you want to try Inside Tracker
+
+125
+00:04:57,390 --> 00:05:00,710
+you can go to insidetracker.com/huberman
+
+126
+00:05:00,710 --> 00:05:04,040
+and they'll give you 25% off at checkout.
+
+127
+00:05:04,040 --> 00:05:06,580
+So let's talk about the nervous system.
+
+128
+00:05:06,580 --> 00:05:09,710
+The reason I say your nervous
+system and not your brain
+
+129
+00:05:09,710 --> 00:05:13,060
+is because your brain is
+actually just one piece
+
+130
+00:05:13,060 --> 00:05:16,070
+of this larger, more
+important thing, frankly,
+
+131
+00:05:16,070 --> 00:05:17,890
+that we call the nervous system.
+
+132
+00:05:17,890 --> 00:05:21,930
+The nervous system includes
+your brain and your spinal cord
+
+133
+00:05:21,930 --> 00:05:24,670
+but also all the connections
+between your brain
+
+134
+00:05:24,670 --> 00:05:27,550
+and your spinal cord and
+the organs of your body.
+
+135
+00:05:27,550 --> 00:05:30,220
+It also includes, very importantly,
+
+136
+00:05:30,220 --> 00:05:33,510
+all the connections between your organs
+
+137
+00:05:33,510 --> 00:05:35,560
+back to your spinal cord and brain.
+
+138
+00:05:35,560 --> 00:05:39,220
+So the way to think about how
+you function at every level
+
+139
+00:05:39,220 --> 00:05:42,100
+from the moment you're
+born until the day you die,
+
+140
+00:05:42,100 --> 00:05:45,910
+everything you think and
+remember and feel and imagine
+
+141
+00:05:45,910 --> 00:05:49,030
+is that your nervous system
+is this continuous loop
+
+142
+00:05:49,030 --> 00:05:52,310
+of communication between the
+brain, spinal cord, and body
+
+143
+00:05:52,310 --> 00:05:54,270
+and body, spinal cord, and brain.
+
+144
+00:05:54,270 --> 00:05:55,900
+In fact, we really can't
+even separate them.
+
+145
+00:05:55,900 --> 00:05:57,751
+It's one continuous loop.
+
+146
+00:05:57,751 --> 00:06:01,230
+You may have heard of something
+called a Mobius strip.
+
+147
+00:06:01,230 --> 00:06:02,670
+A Mobius strip is almost like one of
+
+148
+00:06:02,670 --> 00:06:05,410
+these impossible figures
+that no matter which angle
+
+149
+00:06:05,410 --> 00:06:06,243
+you look at it from
+
+150
+00:06:06,243 --> 00:06:08,180
+you can't tell where it
+starts and where it ends.
+
+151
+00:06:08,180 --> 00:06:11,490
+And that's really how your
+nervous system is built.
+
+152
+00:06:11,490 --> 00:06:15,529
+That's the structure that
+allows you to, for instance,
+
+153
+00:06:15,529 --> 00:06:17,530
+deploy immune cells,
+
+154
+00:06:17,530 --> 00:06:20,430
+to release cells that
+will go kill infection
+
+155
+00:06:20,430 --> 00:06:21,880
+when you're in the presence of infection.
+
+156
+00:06:21,880 --> 00:06:23,470
+Most people just think about that
+
+157
+00:06:23,470 --> 00:06:25,350
+as a function of the immune system
+
+158
+00:06:25,350 --> 00:06:28,030
+but actually it's your nervous system
+
+159
+00:06:28,030 --> 00:06:29,970
+that tells organs like your spleen
+
+160
+00:06:29,970 --> 00:06:33,071
+to release killer cells
+that go and hunt down
+
+161
+00:06:33,071 --> 00:06:37,660
+those bacterial and viral
+invaders and gobble them up.
+
+162
+00:06:37,660 --> 00:06:39,550
+If you have a stomach ache, for instance,
+
+163
+00:06:39,550 --> 00:06:41,610
+sure, you feel that in your stomach,
+
+164
+00:06:41,610 --> 00:06:43,310
+but it's really your nervous system
+
+165
+00:06:43,310 --> 00:06:45,520
+that's causing the stomach ache.
+
+166
+00:06:45,520 --> 00:06:49,300
+The ache aspect of it is
+a nervous system feature.
+
+167
+00:06:49,300 --> 00:06:52,420
+So when we want to talk about experience
+
+168
+00:06:52,420 --> 00:06:55,930
+or we want to talk about how
+to change the self in any way,
+
+169
+00:06:55,930 --> 00:06:58,810
+we really need to think about
+the nervous system first.
+
+170
+00:06:58,810 --> 00:06:59,760
+It is fair to say
+
+171
+00:06:59,760 --> 00:07:01,350
+that the nervous system governs
+
+172
+00:07:01,350 --> 00:07:04,320
+all other biological systems of the body,
+
+173
+00:07:04,320 --> 00:07:08,410
+and it's also influenced by
+those other biological systems.
+
+174
+00:07:08,410 --> 00:07:10,900
+So if we're talking
+about the nervous system
+
+175
+00:07:10,900 --> 00:07:13,240
+we need to get a little
+specific about what we mean.
+
+176
+00:07:13,240 --> 00:07:15,780
+It's not just this big loop of wires.
+
+177
+00:07:15,780 --> 00:07:18,470
+In fact, there's a
+interesting story about that
+
+178
+00:07:18,470 --> 00:07:22,450
+because at the turn of the
+sort of 1800s to 1900s,
+
+179
+00:07:22,450 --> 00:07:23,550
+it actually was believed
+
+180
+00:07:23,550 --> 00:07:26,550
+that our nervous system
+was just one giant cell.
+
+181
+00:07:26,550 --> 00:07:29,270
+But two guys, that names
+aren't super important,
+
+182
+00:07:29,270 --> 00:07:31,620
+but in fairness to their
+important discovery,
+
+183
+00:07:31,620 --> 00:07:35,370
+Ramon y Cajal, a Spaniard,
+Camillo Golgi, an Italian guy,
+
+184
+00:07:35,370 --> 00:07:39,020
+figured out how to label
+or stain the nervous system
+
+185
+00:07:39,020 --> 00:07:41,240
+in a way that revealed, oh my goodness,
+
+186
+00:07:41,240 --> 00:07:44,960
+we're actually made up of
+trillions of these little cells,
+
+187
+00:07:44,960 --> 00:07:47,080
+nerve cells that are called neurons.
+
+188
+00:07:47,080 --> 00:07:48,020
+And that's what a neuron is.
+
+189
+00:07:48,020 --> 00:07:49,350
+It's just a nerve cell.
+
+190
+00:07:49,350 --> 00:07:50,760
+They also saw
+
+191
+00:07:50,760 --> 00:07:53,620
+that those nerve cells
+weren't touching one another.
+
+192
+00:07:53,620 --> 00:07:55,580
+They're actually separated by little gaps.
+
+193
+00:07:55,580 --> 00:07:58,000
+And those little gaps you
+may have heard of before,
+
+194
+00:07:58,000 --> 00:07:59,900
+they're called synapses.
+
+195
+00:07:59,900 --> 00:08:02,100
+Those synapses are where the chemicals
+
+196
+00:08:02,100 --> 00:08:05,330
+from one neuron are kind of
+spit out or vomited into.
+
+197
+00:08:05,330 --> 00:08:09,700
+And then the next nerve
+cell detects those chemicals
+
+198
+00:08:09,700 --> 00:08:12,410
+and then passes
+electricity down its length
+
+199
+00:08:12,410 --> 00:08:14,450
+to the next nerve cell and so forth.
+
+200
+00:08:14,450 --> 00:08:18,280
+So really the way to think about
+your body and your thoughts
+
+201
+00:08:18,280 --> 00:08:21,670
+and your mind is that you are
+a flow of electricity, right?
+
+202
+00:08:21,670 --> 00:08:23,030
+There's nothing mystical about this.
+
+203
+00:08:23,030 --> 00:08:24,420
+You're a flow of electricity
+
+204
+00:08:24,420 --> 00:08:26,340
+between these different nerve cells.
+
+205
+00:08:26,340 --> 00:08:28,590
+And depending on which
+nerve cells are active
+
+206
+00:08:28,590 --> 00:08:30,950
+you might be lifting your
+arm or lowering your arm.
+
+207
+00:08:30,950 --> 00:08:34,140
+You might be seeing something
+and perceiving that it's red
+
+208
+00:08:34,140 --> 00:08:35,270
+or you might be seeing something
+
+209
+00:08:35,270 --> 00:08:36,580
+and perceiving that it's green,
+
+210
+00:08:36,580 --> 00:08:39,840
+all depending on which nerve
+cells are electrically active
+
+211
+00:08:39,840 --> 00:08:40,803
+at a given moment.
+
+212
+00:08:41,710 --> 00:08:44,360
+The example of perceiving
+red or perceiving green
+
+213
+00:08:44,360 --> 00:08:46,300
+is a particularly good example
+
+214
+00:08:46,300 --> 00:08:49,540
+because so often our
+experience of the world
+
+215
+00:08:49,540 --> 00:08:52,480
+makes it seem as if these out these things
+
+216
+00:08:52,480 --> 00:08:53,760
+that are happening outside us
+
+217
+00:08:53,760 --> 00:08:55,980
+are actually happening inside us.
+
+218
+00:08:55,980 --> 00:08:59,310
+But the language of the nervous
+system is just electricity.
+
+219
+00:08:59,310 --> 00:09:02,710
+It's just like a Morse code of some sort
+
+220
+00:09:02,710 --> 00:09:05,530
+or the syllables and words and consonants
+
+221
+00:09:05,530 --> 00:09:06,620
+and vowels of language.
+
+222
+00:09:06,620 --> 00:09:09,040
+It just depends on how
+they're assembled, what order.
+
+223
+00:09:09,040 --> 00:09:10,010
+And so that brings us
+
+224
+00:09:10,010 --> 00:09:12,950
+to the issue of how the
+nervous system works.
+
+225
+00:09:12,950 --> 00:09:15,260
+The way to think about how
+the nervous system works
+
+226
+00:09:15,260 --> 00:09:17,860
+is that our experiences, our memories,
+
+227
+00:09:17,860 --> 00:09:21,530
+everything is sort of
+like the keys on a piano
+
+228
+00:09:21,530 --> 00:09:23,940
+being played in a particular order, right?
+
+229
+00:09:23,940 --> 00:09:26,550
+If I play the keys on a
+piano in a particular order
+
+230
+00:09:26,550 --> 00:09:30,010
+and with a particular
+intensity, that's a given song.
+
+231
+00:09:30,010 --> 00:09:32,760
+We can make that analogous
+to a given experience.
+
+232
+00:09:32,760 --> 00:09:35,430
+It's not really that the key, you know,
+
+233
+00:09:35,430 --> 00:09:39,440
+A sharp or E flat is the song.
+
+234
+00:09:39,440 --> 00:09:41,170
+It's just one component of the song.
+
+235
+00:09:41,170 --> 00:09:44,000
+So when you hear that,
+you know, for instance,
+
+236
+00:09:44,000 --> 00:09:46,180
+there's a brain area
+called the hippocampus,
+
+237
+00:09:46,180 --> 00:09:49,040
+which there is, that's involved in memory.
+
+238
+00:09:49,040 --> 00:09:50,830
+Well, it's involved in memory,
+
+239
+00:09:50,830 --> 00:09:53,910
+but it's not that memories
+are stored there as,
+
+240
+00:09:53,910 --> 00:09:54,770
+you know, sentences.
+
+241
+00:09:54,770 --> 00:09:58,070
+They're stored there as patterns
+of electricity in neurons
+
+242
+00:09:58,070 --> 00:10:00,740
+that when repeated, give you the sense
+
+243
+00:10:00,740 --> 00:10:02,950
+that you are experiencing the thing again.
+
+244
+00:10:02,950 --> 00:10:04,540
+In fact, deja vu,
+
+245
+00:10:04,540 --> 00:10:08,260
+the sense that what you're
+experiencing is so familiar
+
+246
+00:10:08,260 --> 00:10:10,920
+and like something that
+you've experienced previously
+
+247
+00:10:10,920 --> 00:10:13,320
+is merely that the neurons
+
+248
+00:10:13,320 --> 00:10:15,510
+that were active in one circumstance
+
+249
+00:10:15,510 --> 00:10:18,790
+are now becoming active in
+the same circumstance again.
+
+250
+00:10:18,790 --> 00:10:21,620
+And so it's really just
+like hearing the same song
+
+251
+00:10:21,620 --> 00:10:23,320
+maybe not played on a piano
+
+252
+00:10:23,320 --> 00:10:25,700
+but next time on a classical guitar,
+
+253
+00:10:25,700 --> 00:10:27,810
+there's something similar about that song
+
+254
+00:10:27,810 --> 00:10:30,120
+even though it's being played
+on two different instruments.
+
+255
+00:10:30,120 --> 00:10:31,790
+So I think it's important
+
+256
+00:10:31,790 --> 00:10:34,557
+that people understand the
+parts of their nervous system,
+
+257
+00:10:34,557 --> 00:10:38,250
+and that it includes so much
+more than just the brain
+
+258
+00:10:38,250 --> 00:10:41,010
+and that there are these
+things, neurons and synapses.
+
+259
+00:10:41,010 --> 00:10:43,900
+But really that it's
+the electrical activity
+
+260
+00:10:43,900 --> 00:10:47,140
+of these neurons that
+dictates our experience.
+
+261
+00:10:47,140 --> 00:10:49,740
+So if the early 1900s were when
+
+262
+00:10:49,740 --> 00:10:51,410
+these neurons were discovered,
+
+263
+00:10:51,410 --> 00:10:53,320
+certainly a lot has happened since then.
+
+264
+00:10:53,320 --> 00:10:57,800
+And in that time between
+the early 1900s and now
+
+265
+00:10:57,800 --> 00:10:58,850
+there's some important events
+
+266
+00:10:58,850 --> 00:11:01,829
+that actually happened in history
+
+267
+00:11:01,829 --> 00:11:05,910
+that gave us insight into
+how the nervous system works.
+
+268
+00:11:05,910 --> 00:11:09,610
+One of the more surprising
+ones was actually warfare.
+
+269
+00:11:09,610 --> 00:11:13,170
+So as most everybody knows in warfare
+
+270
+00:11:13,170 --> 00:11:16,170
+people get shot and people often die
+
+271
+00:11:16,170 --> 00:11:18,730
+but many people get
+shot and they don't die.
+
+272
+00:11:18,730 --> 00:11:23,730
+And in World War One, there
+were some changes in artillery,
+
+273
+00:11:24,030 --> 00:11:28,070
+in bullets that made for a situation
+
+274
+00:11:28,070 --> 00:11:31,690
+where bullets would
+enter the body and brain
+
+275
+00:11:31,690 --> 00:11:33,330
+at very discrete locations
+
+276
+00:11:33,330 --> 00:11:36,010
+and would go out the other
+side of the body or brain
+
+277
+00:11:36,010 --> 00:11:39,330
+and also make a very small
+hole at that exit location.
+
+278
+00:11:39,330 --> 00:11:40,905
+And in doing so produced a lot
+
+279
+00:11:40,905 --> 00:11:44,220
+of naturally occurring
+lesions of the nervous system.
+
+280
+00:11:44,220 --> 00:11:47,261
+Now you say, okay, well,
+how does that relate
+
+281
+00:11:47,261 --> 00:11:48,265
+to neuroscience?
+
+282
+00:11:48,265 --> 00:11:50,500
+Well, unlike previous years
+
+283
+00:11:50,500 --> 00:11:53,510
+where a lot of the artillery
+would create these big
+
+284
+00:11:53,510 --> 00:11:55,890
+sort of holes as the bullets
+
+285
+00:11:55,890 --> 00:11:57,530
+would blow out of the brain or body,
+
+286
+00:11:57,530 --> 00:11:59,360
+I know this is rather gruesome,
+
+287
+00:11:59,360 --> 00:12:01,610
+when the holes were very discrete
+
+288
+00:12:01,610 --> 00:12:04,180
+they entered at one point
+and left at another point,
+
+289
+00:12:04,180 --> 00:12:06,300
+they would take out or destroy
+
+290
+00:12:06,300 --> 00:12:10,460
+very discrete bits of neural
+tissue, of the nervous system.
+
+291
+00:12:10,460 --> 00:12:13,100
+So people were coming back from war
+
+292
+00:12:13,100 --> 00:12:14,970
+with holes in their brain
+
+293
+00:12:14,970 --> 00:12:16,540
+and in other parts of their nervous system
+
+294
+00:12:16,540 --> 00:12:19,250
+that were limited to
+very specific locations.
+
+295
+00:12:19,250 --> 00:12:22,020
+In addition to that,
+there was some advancement
+
+296
+00:12:22,020 --> 00:12:25,250
+in the cleaning of wounds that happened
+
+297
+00:12:25,250 --> 00:12:27,393
+so many more people were surviving.
+
+298
+00:12:28,290 --> 00:12:30,250
+What this meant was that neurologists
+
+299
+00:12:30,250 --> 00:12:32,650
+now had a collection of patients
+
+300
+00:12:32,650 --> 00:12:34,860
+that would come back and they'd have holes
+
+301
+00:12:34,860 --> 00:12:37,310
+in very specific locations of their brain.
+
+302
+00:12:37,310 --> 00:12:42,230
+And they'd say things like,
+well, I can recognize faces
+
+303
+00:12:42,230 --> 00:12:45,680
+but I can't recognize who
+those faces belong to.
+
+304
+00:12:45,680 --> 00:12:47,880
+I know it's a face, but I
+don't know who it belongs to.
+
+305
+00:12:47,880 --> 00:12:50,870
+And after that person eventually died
+
+306
+00:12:50,870 --> 00:12:52,070
+the neurologist would figure out,
+
+307
+00:12:52,070 --> 00:12:54,700
+ah, I've had 10 patients that all told me
+
+308
+00:12:54,700 --> 00:12:56,120
+that they couldn't recognize faces.
+
+309
+00:12:56,120 --> 00:12:57,480
+And they all had these bullet holes
+
+310
+00:12:57,480 --> 00:12:59,400
+that went through a particular
+region of the brain.
+
+311
+00:12:59,400 --> 00:13:00,500
+And that's how we know a lot
+
+312
+00:13:00,500 --> 00:13:01,970
+about how particular brain regions
+
+313
+00:13:01,970 --> 00:13:03,870
+like the hippocampus work.
+
+314
+00:13:03,870 --> 00:13:08,010
+In fact, some of the more
+amazing examples of this,
+
+315
+00:13:08,010 --> 00:13:10,540
+where people would come
+back and they, for instance,
+
+316
+00:13:10,540 --> 00:13:12,902
+would speak in complete gibberish
+
+317
+00:13:12,902 --> 00:13:15,700
+whereas previously they
+could speak normally.
+
+318
+00:13:15,700 --> 00:13:18,540
+And even though they were
+speaking in complete gibberish
+
+319
+00:13:18,540 --> 00:13:20,330
+they could understand language perfectly.
+
+320
+00:13:20,330 --> 00:13:21,950
+That's how we know that
+speech and language
+
+321
+00:13:21,950 --> 00:13:22,970
+are actually controlled
+
+322
+00:13:22,970 --> 00:13:25,230
+by separate portions
+of the nervous system.
+
+323
+00:13:25,230 --> 00:13:27,160
+And there are many examples like that.
+
+324
+00:13:27,160 --> 00:13:31,830
+People that couldn't recognize
+the faces of famous people
+
+325
+00:13:31,830 --> 00:13:33,560
+or, and that actually brings us
+
+326
+00:13:33,560 --> 00:13:35,760
+to an interesting example in modern times.
+
+327
+00:13:35,760 --> 00:13:39,190
+Many, many years later in the early 2000s
+
+328
+00:13:39,190 --> 00:13:41,978
+there was actually a
+paper that was published
+
+329
+00:13:41,978 --> 00:13:42,890
+in the journal "Nature",
+excellent journal,
+
+330
+00:13:42,890 --> 00:13:45,810
+showing that in a human being,
+
+331
+00:13:45,810 --> 00:13:47,630
+a perfectly healthy human being,
+
+332
+00:13:47,630 --> 00:13:50,890
+there was a neuron that would become
+
+333
+00:13:50,890 --> 00:13:54,140
+electrically active only when the person
+
+334
+00:13:54,140 --> 00:13:57,190
+viewed the picture of
+Jennifer Aniston, the actress.
+
+335
+00:13:57,190 --> 00:14:00,100
+So literally a neuron that
+represented Jennifer Aniston,
+
+336
+00:14:00,100 --> 00:14:01,570
+so-called Jennifer Aniston cells,
+
+337
+00:14:01,570 --> 00:14:03,870
+neuroscientists know about
+the Jennifer Aniston cells.
+
+338
+00:14:03,870 --> 00:14:05,990
+If you can recognize
+Jennifer Aniston's face
+
+339
+00:14:05,990 --> 00:14:08,840
+you have Jennifer Aniston neurons,
+
+340
+00:14:08,840 --> 00:14:10,160
+and presumably also have neurons
+
+341
+00:14:10,160 --> 00:14:11,630
+that can recognize the faces
+
+342
+00:14:11,630 --> 00:14:14,480
+of other famous and non-famous people.
+
+343
+00:14:14,480 --> 00:14:16,210
+So that indicates
+
+344
+00:14:16,210 --> 00:14:20,270
+that our brain is really
+a map of our experience.
+
+345
+00:14:20,270 --> 00:14:23,090
+We come into the world and
+our brain has a kind of bias
+
+346
+00:14:23,090 --> 00:14:24,960
+towards learning
+particular kinds of things.
+
+347
+00:14:24,960 --> 00:14:26,890
+It's ready to receive information
+
+348
+00:14:26,890 --> 00:14:28,450
+and learn that information,
+
+349
+00:14:28,450 --> 00:14:31,660
+but the brain is really
+a map of experience.
+
+350
+00:14:31,660 --> 00:14:34,630
+So let's talk about what
+experience really is.
+
+351
+00:14:34,630 --> 00:14:36,440
+What does it mean for your brain to work?
+
+352
+00:14:36,440 --> 00:14:38,005
+Well I think it's fair to say
+
+353
+00:14:38,005 --> 00:14:42,320
+that the nervous system really
+does five things, maybe six.
+
+354
+00:14:42,320 --> 00:14:44,370
+The first one is sensation.
+
+355
+00:14:44,370 --> 00:14:47,290
+So this is important to understand
+
+356
+00:14:47,290 --> 00:14:48,550
+for any and all of you
+
+357
+00:14:48,550 --> 00:14:50,530
+that want to change your nervous system
+
+358
+00:14:50,530 --> 00:14:53,560
+or to apply tools to make your
+nervous system work better.
+
+359
+00:14:53,560 --> 00:14:56,200
+Sensation is a non-negotiable element
+
+360
+00:14:56,200 --> 00:14:57,420
+of your nervous system.
+
+361
+00:14:57,420 --> 00:14:59,730
+You have neurons in your eye that perceive
+
+362
+00:14:59,730 --> 00:15:03,120
+certain colors of light and
+certain directions of movement.
+
+363
+00:15:03,120 --> 00:15:05,780
+You have neurons in
+your skin that perceive
+
+364
+00:15:05,780 --> 00:15:09,150
+particular kinds of touch,
+like light touch or firm touch
+
+365
+00:15:09,150 --> 00:15:10,970
+or painful touch.
+
+366
+00:15:10,970 --> 00:15:15,020
+You have neurons in your ears
+that perceive certain sounds.
+
+367
+00:15:15,020 --> 00:15:20,020
+Your entire experience of
+life is filtered by these,
+
+368
+00:15:20,700 --> 00:15:22,510
+what we call sensory receptors
+
+369
+00:15:22,510 --> 00:15:24,810
+if you want to know what the name is.
+
+370
+00:15:24,810 --> 00:15:26,760
+So this always raises
+an interesting question.
+
+371
+00:15:26,760 --> 00:15:29,430
+People ask, well, is
+there much more out there?
+
+372
+00:15:29,430 --> 00:15:31,600
+Is there a lot more happening in the world
+
+373
+00:15:31,600 --> 00:15:33,330
+that I'm not experiencing
+
+374
+00:15:33,330 --> 00:15:35,600
+or that humans aren't experiencing?
+
+375
+00:15:35,600 --> 00:15:37,500
+And the answer of course is yes,
+
+376
+00:15:37,500 --> 00:15:39,230
+there are many species on this planet
+
+377
+00:15:39,230 --> 00:15:42,130
+that are perceiving things
+that we will never perceive
+
+378
+00:15:42,130 --> 00:15:44,500
+unless we apply technology.
+
+379
+00:15:44,500 --> 00:15:48,190
+The best example I could think
+of off the top of my head
+
+380
+00:15:48,190 --> 00:15:50,580
+would be something like infrared vision.
+
+381
+00:15:50,580 --> 00:15:53,760
+There are snakes out there,
+pit vipers and so forth,
+
+382
+00:15:53,760 --> 00:15:56,110
+that can sense heat
+emissions from other animals.
+
+383
+00:15:56,110 --> 00:15:57,740
+They don't actually see their shape.
+
+384
+00:15:57,740 --> 00:16:01,440
+They sense their heat shape
+and their heat emissions.
+
+385
+00:16:01,440 --> 00:16:02,520
+Humans can't do that
+
+386
+00:16:02,520 --> 00:16:05,140
+unless of course they
+put on infrared goggles
+
+387
+00:16:05,140 --> 00:16:06,260
+or something that would allow them
+
+388
+00:16:06,260 --> 00:16:08,390
+to detect those heat emissions.
+
+389
+00:16:08,390 --> 00:16:11,570
+There are turtles and
+certain species of birds
+
+390
+00:16:11,570 --> 00:16:15,230
+that migrate long distances
+that can detect magnetic fields
+
+391
+00:16:15,230 --> 00:16:16,970
+because they have neurons,
+
+392
+00:16:16,970 --> 00:16:20,570
+again, it's the nervous system
+that allows them to do this.
+
+393
+00:16:20,570 --> 00:16:24,350
+So they have neurons in
+their nose and in their head
+
+394
+00:16:24,350 --> 00:16:27,540
+that allow them to migrate
+along magnetic fields
+
+395
+00:16:27,540 --> 00:16:30,030
+in order to, as amazing as this sounds,
+
+396
+00:16:30,030 --> 00:16:33,040
+go from one particular
+location in the ocean,
+
+397
+00:16:33,040 --> 00:16:34,980
+thousands of miles away
+
+398
+00:16:34,980 --> 00:16:39,090
+to all aggregate on one particular beach
+
+399
+00:16:39,090 --> 00:16:40,600
+at a particular time of year
+
+400
+00:16:40,600 --> 00:16:43,250
+so that they can mate, lay eggs,
+
+401
+00:16:43,250 --> 00:16:45,860
+and then wander back
+off into the sea to die.
+
+402
+00:16:45,860 --> 00:16:48,870
+And then their young
+will eventually hatch,
+
+403
+00:16:48,870 --> 00:16:51,830
+those cute little turtles
+will shuffle to the ocean,
+
+404
+00:16:51,830 --> 00:16:54,430
+swim off and go do the exact same thing.
+
+405
+00:16:54,430 --> 00:16:56,820
+They don't migrate that
+distance by vision.
+
+406
+00:16:56,820 --> 00:16:57,890
+They don't do it by smell.
+
+407
+00:16:57,890 --> 00:17:00,400
+They do it by sensing magnetic fields.
+
+408
+00:17:00,400 --> 00:17:04,030
+And many other species do
+these incredible things.
+
+409
+00:17:04,030 --> 00:17:07,530
+We don't, humans are not
+magnetic sensing organisms.
+
+410
+00:17:07,530 --> 00:17:09,017
+We can't do that
+
+411
+00:17:09,017 --> 00:17:11,670
+because we don't have receptors
+that sense magnetic fields.
+
+412
+00:17:11,670 --> 00:17:14,190
+There's some data that maybe some humans
+
+413
+00:17:14,190 --> 00:17:15,890
+can sense magnetic fields
+
+414
+00:17:15,890 --> 00:17:17,500
+but you should be very skeptical of anyone
+
+415
+00:17:17,500 --> 00:17:19,200
+that's convinced that they can do that
+
+416
+00:17:19,200 --> 00:17:22,300
+with any degree of robustness or accuracy,
+
+417
+00:17:22,300 --> 00:17:24,599
+because even the people that can do this
+
+418
+00:17:24,599 --> 00:17:26,979
+aren't necessarily aware that they can.
+
+419
+00:17:26,980 --> 00:17:29,290
+Maybe a topic for a future podcast.
+
+420
+00:17:29,290 --> 00:17:32,040
+So we have sensation,
+then we have perception.
+
+421
+00:17:32,040 --> 00:17:36,210
+Perception is our ability
+to take what we're sensing
+
+422
+00:17:36,210 --> 00:17:39,380
+and focus on it and make sense of it,
+
+423
+00:17:39,380 --> 00:17:41,000
+to explore it, to remember it.
+
+424
+00:17:41,000 --> 00:17:43,610
+So really perceptions are
+just whichever sensations
+
+425
+00:17:43,610 --> 00:17:46,240
+we happen to be paying
+attention to at any moment.
+
+426
+00:17:46,240 --> 00:17:47,720
+And you can do this right now.
+
+427
+00:17:47,720 --> 00:17:49,580
+You can experience perception
+
+428
+00:17:49,580 --> 00:17:51,940
+and the difference between
+perception and sensation
+
+429
+00:17:51,940 --> 00:17:53,320
+very easily.
+
+430
+00:17:53,320 --> 00:17:56,550
+If, for instance, I tell
+you to pay attention
+
+431
+00:17:56,550 --> 00:17:59,390
+to the contact of your feet,
+the bottoms of your feet,
+
+432
+00:17:59,390 --> 00:18:01,920
+with whatever surface they
+happen to be in contact with,
+
+433
+00:18:01,920 --> 00:18:04,660
+maybe it's shoes, maybe it's the floor,
+
+434
+00:18:04,660 --> 00:18:07,210
+if your feet are up maybe it's air.
+
+435
+00:18:07,210 --> 00:18:09,090
+The moment you place your,
+
+436
+00:18:09,090 --> 00:18:10,870
+what we call the spotlight of attention
+
+437
+00:18:10,870 --> 00:18:13,190
+or the spotlight of
+perception on your feet.
+
+438
+00:18:13,190 --> 00:18:15,880
+You are now perceiving
+what was happening there,
+
+439
+00:18:15,880 --> 00:18:18,140
+what was being sensed there.
+
+440
+00:18:18,140 --> 00:18:20,880
+The sensation was happening
+all along however.
+
+441
+00:18:20,880 --> 00:18:24,790
+So while sensation is not negotiable
+
+442
+00:18:24,790 --> 00:18:26,310
+you can't change your receptors
+
+443
+00:18:26,310 --> 00:18:28,770
+unless you adopt some new technology,
+
+444
+00:18:28,770 --> 00:18:32,200
+perception is under the
+control of your attention.
+
+445
+00:18:32,200 --> 00:18:33,760
+And the way to think about attention
+
+446
+00:18:33,760 --> 00:18:37,253
+is it's like a spotlight,
+except it's not one spotlight.
+
+447
+00:18:38,271 --> 00:18:40,760
+You actually have two
+attentional spotlights.
+
+448
+00:18:40,760 --> 00:18:43,070
+Anyone that tells you you can't multitask,
+
+449
+00:18:43,070 --> 00:18:44,450
+tell them they're wrong.
+
+450
+00:18:44,450 --> 00:18:47,490
+And if they disagree with
+you tell them to contact me
+
+451
+00:18:47,490 --> 00:18:52,490
+because in old world
+primates of which humans are,
+
+452
+00:18:52,730 --> 00:18:55,720
+we are able to do what's
+called covert attention.
+
+453
+00:18:55,720 --> 00:18:58,390
+We can place a spotlight
+of attention on something,
+
+454
+00:18:58,390 --> 00:19:00,810
+for instance, something
+we're reading or looking at
+
+455
+00:19:00,810 --> 00:19:02,130
+or someone that we're listening to.
+
+456
+00:19:02,130 --> 00:19:05,250
+And we can place a second
+spotlight of attention
+
+457
+00:19:05,250 --> 00:19:07,410
+on something we're
+eating and how it tastes
+
+458
+00:19:07,410 --> 00:19:10,710
+or our child running around
+in the room or my dog.
+
+459
+00:19:10,710 --> 00:19:13,030
+You can split your
+attention into two locations
+
+460
+00:19:13,030 --> 00:19:15,960
+but of course you can
+also bring your attention,
+
+461
+00:19:15,960 --> 00:19:19,470
+that is, your perception,
+to one particular location.
+
+462
+00:19:19,470 --> 00:19:20,910
+You can dilate your attention
+
+463
+00:19:20,910 --> 00:19:23,100
+kind of like making a
+spotlight more diffuse
+
+464
+00:19:23,100 --> 00:19:25,150
+or you can make it more concentrated.
+
+465
+00:19:25,150 --> 00:19:27,940
+This is very important to understand
+
+466
+00:19:27,940 --> 00:19:29,900
+if you're going to think about tools
+
+467
+00:19:29,900 --> 00:19:31,830
+to improve your nervous system,
+
+468
+00:19:31,830 --> 00:19:35,240
+whether or not that tool is
+in the form of a chemical
+
+469
+00:19:35,240 --> 00:19:37,090
+that you decide to
+take, maybe a supplement
+
+470
+00:19:37,090 --> 00:19:38,850
+to increase some chemical in your brain
+
+471
+00:19:38,850 --> 00:19:40,820
+if that's your choice,
+
+472
+00:19:40,820 --> 00:19:42,837
+or a brain machine device
+
+473
+00:19:42,837 --> 00:19:45,670
+or you're going to try
+and learn something better
+
+474
+00:19:45,670 --> 00:19:49,150
+by engaging in some focus
+or motivated pursuit
+
+475
+00:19:49,150 --> 00:19:51,230
+for some period of time each day.
+
+476
+00:19:51,230 --> 00:19:52,550
+Attention is something
+
+477
+00:19:52,550 --> 00:19:55,370
+that is absolutely under your control,
+
+478
+00:19:55,370 --> 00:19:57,820
+in particular when you're rested.
+
+479
+00:19:57,820 --> 00:19:58,920
+And we'll get back to this.
+
+480
+00:19:58,920 --> 00:20:03,920
+But when you are rested, and
+we'll define rest very clearly,
+
+481
+00:20:04,540 --> 00:20:06,680
+you are able to direct your attention
+
+482
+00:20:06,680 --> 00:20:08,090
+in very deliberate ways.
+
+483
+00:20:08,090 --> 00:20:12,010
+And that's because we have
+something in our nervous system
+
+484
+00:20:12,010 --> 00:20:14,370
+which is sort of like a two way street.
+
+485
+00:20:14,370 --> 00:20:16,500
+And that two way street is a communication
+
+486
+00:20:16,500 --> 00:20:20,010
+between the aspects of our
+nervous system that are reflexive
+
+487
+00:20:20,010 --> 00:20:23,520
+and the aspects of our nervous
+system that are deliberate.
+
+488
+00:20:23,520 --> 00:20:26,180
+So we all know what it's
+like to be reflexive.
+
+489
+00:20:26,180 --> 00:20:27,900
+You go through life, you're walking.
+
+490
+00:20:27,900 --> 00:20:29,130
+If you already know how to walk
+
+491
+00:20:29,130 --> 00:20:30,510
+you don't think about your walking.
+
+492
+00:20:30,510 --> 00:20:31,830
+You just walk.
+
+493
+00:20:31,830 --> 00:20:34,680
+And that's because the nervous
+system wants to pass off
+
+494
+00:20:34,680 --> 00:20:37,276
+as much as it can to reflexive action.
+
+495
+00:20:37,276 --> 00:20:39,640
+That's called bottom up processing.
+
+496
+00:20:39,640 --> 00:20:41,700
+It really just means that information
+
+497
+00:20:41,700 --> 00:20:43,920
+is flowing in through your senses,
+
+498
+00:20:43,920 --> 00:20:45,680
+regardless of what you're perceiving,
+
+499
+00:20:45,680 --> 00:20:46,990
+that information is flowing up
+
+500
+00:20:46,990 --> 00:20:49,330
+and it's directing your activity.
+
+501
+00:20:49,330 --> 00:20:51,310
+But at any moment, for instance,
+
+502
+00:20:51,310 --> 00:20:54,390
+let's say a car screeches in
+front of you around the corner,
+
+503
+00:20:54,390 --> 00:20:55,740
+and you suddenly pause.
+
+504
+00:20:55,740 --> 00:20:58,480
+You are now moving into deliberate action.
+
+505
+00:20:58,480 --> 00:21:01,770
+You would start looking around
+in a very deliberate way.
+
+506
+00:21:01,770 --> 00:21:04,550
+The nervous system can be
+reflexive in its action
+
+507
+00:21:04,550 --> 00:21:06,290
+or it can be deliberate.
+
+508
+00:21:06,290 --> 00:21:09,960
+If reflexive action tends to
+be what we call bottom up,
+
+509
+00:21:09,960 --> 00:21:13,220
+deliberate action and
+deliberate perceptions
+
+510
+00:21:13,220 --> 00:21:15,640
+and deliberate thoughts are top down.
+
+511
+00:21:15,640 --> 00:21:18,010
+They require some effort and some focus.
+
+512
+00:21:18,010 --> 00:21:18,940
+But that's the point,
+
+513
+00:21:18,940 --> 00:21:21,610
+you can decide to focus
+your attention and energy
+
+514
+00:21:21,610 --> 00:21:22,890
+on anything you want.
+
+515
+00:21:22,890 --> 00:21:26,570
+You can decide to focus your
+behavior in any way you want.
+
+516
+00:21:26,570 --> 00:21:29,090
+But it will always feel
+
+517
+00:21:29,090 --> 00:21:31,490
+like it requires some
+effort and some strain.
+
+518
+00:21:31,490 --> 00:21:32,840
+Whereas when you're in reflexive mode,
+
+519
+00:21:32,840 --> 00:21:35,760
+just walking and talking and
+eating and doing your thing
+
+520
+00:21:35,760 --> 00:21:37,320
+it's going to feel very easy.
+
+521
+00:21:37,320 --> 00:21:38,570
+And that's because your nervous system
+
+522
+00:21:38,570 --> 00:21:40,370
+basically wired up to be able
+
+523
+00:21:40,370 --> 00:21:43,540
+to do most things easily
+without much metabolic demand,
+
+524
+00:21:43,540 --> 00:21:45,090
+without consuming much energy.
+
+525
+00:21:45,090 --> 00:21:48,080
+But the moment you try and
+do something very specific,
+
+526
+00:21:48,080 --> 00:21:50,900
+you're going to feel a
+sort of mental friction.
+
+527
+00:21:50,900 --> 00:21:52,480
+It's going to be challenging.
+
+528
+00:21:52,480 --> 00:21:55,010
+So we've got sensations, perceptions,
+
+529
+00:21:55,010 --> 00:21:56,120
+and then we've got things
+
+530
+00:21:56,120 --> 00:21:58,820
+that we call feelings slash emotions.
+
+531
+00:21:58,820 --> 00:22:02,820
+And these get a little complicated
+because almost all of us,
+
+532
+00:22:02,820 --> 00:22:05,420
+I would hope all of us,
+are familiar with things
+
+533
+00:22:05,420 --> 00:22:09,820
+like happiness and sadness
+or boredom or frustration.
+
+534
+00:22:09,820 --> 00:22:11,870
+Scientists argue like crazy,
+
+535
+00:22:11,870 --> 00:22:13,350
+neuroscientists and psychologists
+
+536
+00:22:13,350 --> 00:22:14,780
+and philosophers for that matter,
+
+537
+00:22:14,780 --> 00:22:18,750
+argue like crazy about what
+these are and how they work.
+
+538
+00:22:18,750 --> 00:22:20,780
+Certainly emotions and feelings
+
+539
+00:22:20,780 --> 00:22:23,060
+are the product of the nervous system.
+
+540
+00:22:23,060 --> 00:22:25,600
+They involve the activity of neurons.
+
+541
+00:22:25,600 --> 00:22:28,540
+But as I mentioned earlier,
+neurons are electrically active
+
+542
+00:22:28,540 --> 00:22:30,400
+but they also release chemicals.
+
+543
+00:22:30,400 --> 00:22:33,443
+And there's a certain
+category of chemicals
+
+544
+00:22:33,443 --> 00:22:36,270
+that has a very profound influence
+
+545
+00:22:36,270 --> 00:22:38,173
+on our emotional states.
+
+546
+00:22:39,510 --> 00:22:41,470
+They're called neuromodulators.
+
+547
+00:22:41,470 --> 00:22:43,520
+And those neuromodulators
+have names that probably
+
+548
+00:22:43,520 --> 00:22:44,700
+you've heard of before.
+
+549
+00:22:44,700 --> 00:22:46,910
+Things like dopamine and serotonin
+
+550
+00:22:46,910 --> 00:22:49,053
+and acetylcholine, epinephrine.
+
+551
+00:22:49,970 --> 00:22:52,390
+Neuromodulators are really interesting
+
+552
+00:22:52,390 --> 00:22:55,770
+because they bias which
+neurons are likely to be active
+
+553
+00:22:55,770 --> 00:22:58,710
+and which ones are likely to be inactive.
+
+554
+00:22:58,710 --> 00:23:00,750
+A simple way to think
+about neuromodulators
+
+555
+00:23:00,750 --> 00:23:02,990
+is they are sort of like playlists
+
+556
+00:23:02,990 --> 00:23:05,740
+that you would have on any kind of device
+
+557
+00:23:05,740 --> 00:23:08,210
+where you're going to play
+particular categories of music.
+
+558
+00:23:08,210 --> 00:23:11,070
+So for instance, dopamine,
+which is often discussed
+
+559
+00:23:11,070 --> 00:23:16,070
+as the molecule of reward or
+joy, it is involved in reward.
+
+560
+00:23:16,970 --> 00:23:20,626
+And it does tend to create
+a sort of upbeat mood
+
+561
+00:23:20,626 --> 00:23:23,450
+when released in appropriate
+amounts in the brain.
+
+562
+00:23:23,450 --> 00:23:25,740
+But the reason it does
+that is because it makes
+
+563
+00:23:25,740 --> 00:23:30,060
+certain neurons and neural
+circuits as we call them
+
+564
+00:23:30,060 --> 00:23:32,670
+more active and others less active.
+
+565
+00:23:32,670 --> 00:23:34,040
+Okay.
+
+566
+00:23:34,040 --> 00:23:35,400
+So serotonin, for instance,
+
+567
+00:23:35,400 --> 00:23:37,200
+is a molecule that when released
+
+568
+00:23:37,200 --> 00:23:40,400
+tends to make us feel really
+good with what we have,
+
+569
+00:23:40,400 --> 00:23:41,980
+our sort of internal landscape
+
+570
+00:23:41,980 --> 00:23:43,660
+and the resources that we have,
+
+571
+00:23:43,660 --> 00:23:46,360
+whereas dopamine more than
+being a molecule of reward
+
+572
+00:23:46,360 --> 00:23:49,360
+is really more a molecule of motivation
+
+573
+00:23:49,360 --> 00:23:52,243
+toward things that are outside us
+
+574
+00:23:52,243 --> 00:23:53,830
+and that we want to pursue.
+
+575
+00:23:53,830 --> 00:23:56,570
+And we can look at healthy conditions
+
+576
+00:23:56,570 --> 00:23:59,450
+or situations like being
+in pursuit of a goal
+
+577
+00:23:59,450 --> 00:24:01,280
+where every time we accomplish something
+
+578
+00:24:01,280 --> 00:24:03,690
+en route to that goal, a little
+bit of dopamine is released
+
+579
+00:24:03,690 --> 00:24:06,640
+and we feel more motivation, that happens.
+
+580
+00:24:06,640 --> 00:24:08,790
+We can also look at the extreme example
+
+581
+00:24:08,790 --> 00:24:10,150
+of something like mania,
+
+582
+00:24:10,150 --> 00:24:14,540
+where somebody is so
+relentlessly in pursuit
+
+583
+00:24:14,540 --> 00:24:17,610
+of external things like
+money and relationships
+
+584
+00:24:17,610 --> 00:24:20,380
+that they're sort of in this
+delusional state of thinking
+
+585
+00:24:20,380 --> 00:24:22,210
+that they have the
+resources that they need
+
+586
+00:24:22,210 --> 00:24:23,370
+in order to pursue all these things
+
+587
+00:24:23,370 --> 00:24:24,680
+when in fact they don't.
+
+588
+00:24:24,680 --> 00:24:27,510
+So these neuromodulators can exist
+
+589
+00:24:27,510 --> 00:24:29,760
+in normal levels, low levels, high levels.
+
+590
+00:24:29,760 --> 00:24:31,520
+And that actually gives us a window
+
+591
+00:24:31,520 --> 00:24:34,608
+into a very important aspect
+of neuroscience history
+
+592
+00:24:34,608 --> 00:24:36,900
+that all of us are impacted by today,
+
+593
+00:24:36,900 --> 00:24:39,160
+which is the discovery of antidepressants
+
+594
+00:24:39,160 --> 00:24:41,130
+and so-called anti-psychotics.
+
+595
+00:24:41,130 --> 00:24:43,600
+In the 1950s, '60s, and '70s,
+
+596
+00:24:43,600 --> 00:24:46,410
+it was discovered that
+there are compounds,
+
+597
+00:24:46,410 --> 00:24:50,130
+chemicals that can increase
+or decrease serotonin,
+
+598
+00:24:50,130 --> 00:24:52,840
+that can increase or decrease dopamine.
+
+599
+00:24:52,840 --> 00:24:55,010
+And that led to the development
+
+600
+00:24:55,010 --> 00:24:57,990
+of most of what we call antidepressants.
+
+601
+00:24:57,990 --> 00:25:01,030
+Now, the trick here or the problem
+
+602
+00:25:01,030 --> 00:25:03,360
+is that most of these drugs,
+
+603
+00:25:03,360 --> 00:25:05,720
+especially in the 1950s and '60s,
+
+604
+00:25:05,720 --> 00:25:07,070
+they would reduce serotonin
+
+605
+00:25:07,070 --> 00:25:08,760
+but they would also reduce dopamine
+
+606
+00:25:08,760 --> 00:25:10,090
+or they would increase serotonin,
+
+607
+00:25:10,090 --> 00:25:11,490
+but they would also increase
+
+608
+00:25:11,490 --> 00:25:13,320
+some other neuromodulator chemical.
+
+609
+00:25:13,320 --> 00:25:17,340
+And that's because all these
+chemical systems in the body,
+
+610
+00:25:17,340 --> 00:25:19,480
+but the neuromodulators in particular,
+
+611
+00:25:19,480 --> 00:25:21,400
+have a lot of receptors.
+
+612
+00:25:21,400 --> 00:25:22,830
+Now, these are different
+than the receptors
+
+613
+00:25:22,830 --> 00:25:24,030
+we were talking about earlier.
+
+614
+00:25:24,030 --> 00:25:25,370
+The receptors I'm talking about now
+
+615
+00:25:25,370 --> 00:25:28,750
+are sort of like parking spots
+where dopamine is released.
+
+616
+00:25:28,750 --> 00:25:32,663
+And if it attaches to a
+receptor, say on the heart,
+
+617
+00:25:32,663 --> 00:25:35,210
+it might make the heart beat faster
+
+618
+00:25:35,210 --> 00:25:37,630
+because there's a certain
+kind of receptor on the heart.
+
+619
+00:25:37,630 --> 00:25:40,020
+Whereas if dopamine is released
+
+620
+00:25:40,020 --> 00:25:42,490
+and goes and attaches to muscle
+
+621
+00:25:42,490 --> 00:25:44,670
+it might have a completely
+different effect on the muscle.
+
+622
+00:25:44,670 --> 00:25:46,520
+And in fact, it does.
+
+623
+00:25:46,520 --> 00:25:48,967
+So different receptors on
+different organs of the body
+
+624
+00:25:48,967 --> 00:25:51,460
+are the ways that these neuromodulators
+
+625
+00:25:51,460 --> 00:25:53,780
+can have all these different effects
+
+626
+00:25:53,780 --> 00:25:55,910
+on different aspects of our biology.
+
+627
+00:25:55,910 --> 00:25:58,900
+This is most salient in the example
+
+628
+00:25:58,900 --> 00:26:03,640
+of some of the antidepressants
+that have sexual side effects
+
+629
+00:26:03,640 --> 00:26:06,920
+or that blunt appetite
+or that blunt motivation.
+
+630
+00:26:06,920 --> 00:26:10,320
+You know, many of these
+which increase serotonin
+
+631
+00:26:10,320 --> 00:26:12,360
+can be very beneficial for people.
+
+632
+00:26:12,360 --> 00:26:13,550
+It can elevate their mood.
+
+633
+00:26:13,550 --> 00:26:14,800
+It can make them feel better.
+
+634
+00:26:14,800 --> 00:26:18,050
+But they also if their,
+the doses are too high
+
+635
+00:26:18,050 --> 00:26:20,650
+or if that particular drug
+isn't right for somebody
+
+636
+00:26:20,650 --> 00:26:23,400
+that person experiences
+challenges with motivation
+
+637
+00:26:23,400 --> 00:26:24,840
+or appetite or libido
+
+638
+00:26:24,840 --> 00:26:27,840
+because serotonin is binding to receptors
+
+639
+00:26:27,840 --> 00:26:28,730
+in the areas of the brain
+
+640
+00:26:28,730 --> 00:26:31,220
+that control those other things as well.
+
+641
+00:26:31,220 --> 00:26:33,020
+So we talked about sensation.
+
+642
+00:26:33,020 --> 00:26:34,470
+We talked about perception.
+
+643
+00:26:34,470 --> 00:26:35,510
+When we talk about feelings,
+
+644
+00:26:35,510 --> 00:26:37,910
+we have to consider these neuromodulators.
+
+645
+00:26:37,910 --> 00:26:40,668
+And we have to consider also
+that feelings and emotions
+
+646
+00:26:40,668 --> 00:26:42,770
+are contextual.
+
+647
+00:26:42,770 --> 00:26:46,550
+In some cultures showing a
+lot of joy or a lot of sadness
+
+648
+00:26:46,550 --> 00:26:47,890
+is entirely appropriate,
+
+649
+00:26:47,890 --> 00:26:50,480
+in other cultures it's
+considered inappropriate.
+
+650
+00:26:50,480 --> 00:26:51,860
+So I don't think it's fair to say
+
+651
+00:26:51,860 --> 00:26:55,210
+that there is a sadness
+circuit or area of the brain
+
+652
+00:26:55,210 --> 00:26:57,560
+or a happiness circuit
+or area of the brain.
+
+653
+00:26:57,560 --> 00:27:01,460
+However, it is fair to
+say that certain chemicals
+
+654
+00:27:01,460 --> 00:27:04,070
+and certain brain
+circuits tend to be active
+
+655
+00:27:04,070 --> 00:27:05,670
+when we are in motivated states,
+
+656
+00:27:05,670 --> 00:27:09,380
+tend to be active when we are
+in non-motivated lazy states,
+
+657
+00:27:09,380 --> 00:27:11,630
+tend to be active when we are focused
+
+658
+00:27:11,630 --> 00:27:14,103
+and tend to be active
+when we are not focused.
+
+659
+00:27:15,740 --> 00:27:17,650
+I want to emphasize also
+
+660
+00:27:17,650 --> 00:27:22,020
+that emotions are something
+that we generally feel
+
+661
+00:27:22,020 --> 00:27:23,260
+are not under our control.
+
+662
+00:27:23,260 --> 00:27:25,140
+We feel like they kind
+of geyser up within us
+
+663
+00:27:25,140 --> 00:27:27,220
+and they just kind of happen to us.
+
+664
+00:27:27,220 --> 00:27:29,920
+And that's because they
+are somewhat reflexive.
+
+665
+00:27:29,920 --> 00:27:31,440
+We don't really set out
+
+666
+00:27:31,440 --> 00:27:33,100
+with a deliberate thought to be happy
+
+667
+00:27:33,100 --> 00:27:34,810
+or a deliberate thought to be sad.
+
+668
+00:27:34,810 --> 00:27:36,140
+We tend to experience them
+
+669
+00:27:36,140 --> 00:27:38,890
+in kind of a passive reflexive way.
+
+670
+00:27:38,890 --> 00:27:41,870
+And that brings us to the next
+thing, which are thoughts.
+
+671
+00:27:41,870 --> 00:27:43,490
+Thoughts are really interesting because
+
+672
+00:27:43,490 --> 00:27:45,780
+in many ways they're like perceptions
+
+673
+00:27:45,780 --> 00:27:47,460
+except that they draw on
+
+674
+00:27:47,460 --> 00:27:49,480
+not just what's happening in the present
+
+675
+00:27:49,480 --> 00:27:52,320
+but also things we remember from the past
+
+676
+00:27:52,320 --> 00:27:55,120
+and things that we
+anticipate about the future.
+
+677
+00:27:55,120 --> 00:27:57,060
+The other thing about thoughts
+that's really interesting
+
+678
+00:27:57,060 --> 00:28:00,790
+is that thoughts can be both reflexive,
+
+679
+00:28:00,790 --> 00:28:02,690
+they can just be occurring all the time
+
+680
+00:28:02,690 --> 00:28:04,420
+sort of like pop-up windows
+
+681
+00:28:04,420 --> 00:28:09,223
+on a poorly filtered web browser,
+or they can be deliberate.
+
+682
+00:28:09,223 --> 00:28:10,080
+We can decide to have a thought.
+
+683
+00:28:10,080 --> 00:28:12,130
+In fact, right now you could
+decide to have a thought
+
+684
+00:28:12,130 --> 00:28:13,950
+just like you would decide
+to write something out
+
+685
+00:28:13,950 --> 00:28:15,320
+on a piece of paper.
+
+686
+00:28:15,320 --> 00:28:17,680
+You could decide that you're
+listening to a podcast,
+
+687
+00:28:17,680 --> 00:28:19,890
+that you are in a particular location.
+
+688
+00:28:19,890 --> 00:28:21,540
+You're not just paying
+attention to what's happening,
+
+689
+00:28:21,540 --> 00:28:23,800
+you're directing your thought process.
+
+690
+00:28:23,800 --> 00:28:25,560
+And a lot of people don't understand
+
+691
+00:28:25,560 --> 00:28:27,780
+or at least appreciate
+that the thought patterns
+
+692
+00:28:27,780 --> 00:28:30,600
+and the neural circuits
+that underlie thoughts
+
+693
+00:28:30,600 --> 00:28:33,690
+can actually be controlled
+in this deliberate way.
+
+694
+00:28:33,690 --> 00:28:36,370
+And then finally there are actions.
+
+695
+00:28:36,370 --> 00:28:40,210
+Actions or behaviors are perhaps
+the most important aspect
+
+696
+00:28:40,210 --> 00:28:41,610
+of our nervous system.
+
+697
+00:28:41,610 --> 00:28:43,712
+Because first of all,
+
+698
+00:28:43,712 --> 00:28:46,630
+our behaviors are actually the only thing
+
+699
+00:28:46,630 --> 00:28:50,540
+that are going to create any
+fossil record of our existence.
+
+700
+00:28:50,540 --> 00:28:53,160
+You know, after we die, the
+nervous system deteriorates,
+
+701
+00:28:53,160 --> 00:28:54,850
+our skeleton will remain.
+
+702
+00:28:54,850 --> 00:28:57,410
+But it's, you know, in the moment
+
+703
+00:28:57,410 --> 00:28:59,560
+of experiencing something very joyful
+
+704
+00:28:59,560 --> 00:29:04,540
+or something very sad, it
+can feel so all encompassing
+
+705
+00:29:04,540 --> 00:29:06,960
+that we actually think
+that it has some meaning
+
+706
+00:29:06,960 --> 00:29:08,210
+beyond that moment.
+
+707
+00:29:08,210 --> 00:29:12,373
+But actually for humans and
+I think for all species,
+
+708
+00:29:12,373 --> 00:29:16,520
+the sensations, the
+perceptions and the thoughts
+
+709
+00:29:16,520 --> 00:29:19,800
+and the feelings that
+we have in our lifespan,
+
+710
+00:29:19,800 --> 00:29:22,740
+none of that is actually carried forward
+
+711
+00:29:22,740 --> 00:29:24,910
+except the ones that we take
+
+712
+00:29:24,910 --> 00:29:28,960
+and we convert into
+actions such as writing,
+
+713
+00:29:28,960 --> 00:29:30,470
+actions such as words,
+
+714
+00:29:30,470 --> 00:29:32,720
+actions such as engineering new things.
+
+715
+00:29:32,720 --> 00:29:37,270
+And so the fossil record of
+our species and each one of us
+
+716
+00:29:37,270 --> 00:29:39,090
+is really through action.
+
+717
+00:29:39,090 --> 00:29:43,350
+And that, in part, is why so
+much of our nervous system
+
+718
+00:29:43,350 --> 00:29:47,880
+is devoted to converting
+sensation, perceptions, feelings,
+
+719
+00:29:47,880 --> 00:29:49,690
+and thoughts into actions.
+
+720
+00:29:49,690 --> 00:29:52,420
+In fact, the great neuroscientist
+
+721
+00:29:52,420 --> 00:29:56,410
+or physiologist Sherrington
+won a Nobel prize
+
+722
+00:29:56,410 --> 00:30:00,000
+for his work in mapping
+some of the circuitry,
+
+723
+00:30:00,000 --> 00:30:01,520
+the connections between nerve cells
+
+724
+00:30:01,520 --> 00:30:03,470
+that give rise to movement.
+
+725
+00:30:03,470 --> 00:30:07,200
+And he said, "Movement is
+the final common pathway".
+
+726
+00:30:07,200 --> 00:30:09,560
+The other way to think about it is that
+
+727
+00:30:09,560 --> 00:30:12,631
+one of the reasons that
+our central nervous system,
+
+728
+00:30:12,631 --> 00:30:14,970
+our brain and spinal cord
+include this stuff in our skull
+
+729
+00:30:14,970 --> 00:30:17,150
+but also connects so heavily to the body
+
+730
+00:30:17,150 --> 00:30:19,860
+is because most everything
+that we experience,
+
+731
+00:30:19,860 --> 00:30:21,630
+including our thoughts and feelings,
+
+732
+00:30:21,630 --> 00:30:25,950
+was really designed to either
+impact our behavior or not.
+
+733
+00:30:25,950 --> 00:30:28,020
+And the fact that
+thoughts allow us to reach
+
+734
+00:30:28,020 --> 00:30:30,010
+into the past and anticipate the future
+
+735
+00:30:30,010 --> 00:30:32,740
+and not just experience
+what's happening in the moment
+
+736
+00:30:32,740 --> 00:30:35,140
+gave rise to an incredible capacity
+
+737
+00:30:35,140 --> 00:30:37,150
+for us to engage in behaviors
+
+738
+00:30:37,150 --> 00:30:38,870
+that are not just for the moment,
+
+739
+00:30:38,870 --> 00:30:40,970
+they're based on things
+that we know from the past
+
+740
+00:30:40,970 --> 00:30:43,950
+and that we would like
+to see in the future.
+
+741
+00:30:43,950 --> 00:30:47,850
+And this aspect of our nervous
+system, of creating movement,
+
+742
+00:30:47,850 --> 00:30:50,510
+occurs through some very simple pathways.
+
+743
+00:30:50,510 --> 00:30:52,880
+The reflexive pathway basically
+
+744
+00:30:52,880 --> 00:30:54,820
+includes areas of the brain stem
+
+745
+00:30:54,820 --> 00:30:57,030
+we call central pattern generators.
+
+746
+00:30:57,030 --> 00:31:00,070
+When you walk, provided you
+already know how to walk,
+
+747
+00:31:00,070 --> 00:31:03,130
+you are basically walking
+
+748
+00:31:03,130 --> 00:31:05,040
+because you have these
+central pattern generators,
+
+749
+00:31:05,040 --> 00:31:06,330
+groups of neurons that generate
+
+750
+00:31:06,330 --> 00:31:07,980
+right foot, left foot,
+right foot, left foot
+
+751
+00:31:07,980 --> 00:31:09,080
+kind of movement.
+
+752
+00:31:09,080 --> 00:31:10,620
+However, when you decide to move
+
+753
+00:31:10,620 --> 00:31:12,200
+in a particular deliberate way
+
+754
+00:31:12,200 --> 00:31:14,270
+that requires a little more attention
+
+755
+00:31:14,270 --> 00:31:17,151
+you start to engage areas of your brain
+
+756
+00:31:17,151 --> 00:31:18,910
+for top-down processing
+
+757
+00:31:18,910 --> 00:31:22,660
+where your forebrain
+works from the top down
+
+758
+00:31:22,660 --> 00:31:24,630
+to control those central
+pattern generators
+
+759
+00:31:24,630 --> 00:31:26,220
+so that maybe it's right foot, right foot,
+
+760
+00:31:26,220 --> 00:31:29,167
+left foot, right foot,
+right foot, left foot
+
+761
+00:31:29,167 --> 00:31:30,170
+if maybe you're hiking along
+some rocks or something.
+
+762
+00:31:30,170 --> 00:31:32,590
+And you have to engage
+in that kind of movement.
+
+763
+00:31:32,590 --> 00:31:36,030
+So movement, just like thoughts,
+
+764
+00:31:36,030 --> 00:31:39,470
+can be either reflexive or deliberate.
+
+765
+00:31:39,470 --> 00:31:41,030
+And when we talk about deliberate
+
+766
+00:31:41,030 --> 00:31:44,070
+I want to be very specific
+about how your brain works
+
+767
+00:31:44,070 --> 00:31:44,903
+in a deliberate way
+
+768
+00:31:44,903 --> 00:31:48,490
+because it gives rise to
+a very important feature
+
+769
+00:31:48,490 --> 00:31:50,280
+of the nervous system that
+we're going to talk about next,
+
+770
+00:31:50,280 --> 00:31:53,010
+which is your ability to
+change your nervous system.
+
+771
+00:31:53,010 --> 00:31:55,210
+And what I'd like to
+center on for a second
+
+772
+00:31:55,210 --> 00:31:58,100
+is this notion of what does it mean
+
+773
+00:31:58,100 --> 00:32:01,110
+for the nervous system to
+do something deliberately?
+
+774
+00:32:01,110 --> 00:32:03,520
+Well, when you do something deliberately,
+
+775
+00:32:03,520 --> 00:32:06,710
+you pay attention, you are
+bringing your perception
+
+776
+00:32:06,710 --> 00:32:09,500
+to an analysis of three things,
+
+777
+00:32:09,500 --> 00:32:12,740
+duration, how long something
+is is going to take
+
+778
+00:32:12,740 --> 00:32:14,200
+or should be done,
+
+779
+00:32:14,200 --> 00:32:16,260
+path, what you should be doing,
+
+780
+00:32:16,260 --> 00:32:18,300
+and outcome, if you do something
+
+781
+00:32:18,300 --> 00:32:20,640
+for a given length of time,
+what's going to happen.
+
+782
+00:32:20,640 --> 00:32:22,570
+Now when you're walking down
+the street or you're eating
+
+783
+00:32:22,570 --> 00:32:25,170
+or you're just talking
+reflexively, you're not doing this
+
+784
+00:32:25,170 --> 00:32:27,750
+what I call DPO, duration, path, outcome,
+
+785
+00:32:27,750 --> 00:32:29,450
+type of deliberate function
+
+786
+00:32:29,450 --> 00:32:31,330
+in your brain and nervous system.
+
+787
+00:32:31,330 --> 00:32:34,090
+But the moment you
+decide to learn something
+
+788
+00:32:34,090 --> 00:32:36,110
+or to resist speaking
+
+789
+00:32:36,110 --> 00:32:39,450
+or to speak up when you
+would rather be quiet,
+
+790
+00:32:39,450 --> 00:32:41,120
+anytime you're deliberately
+
+791
+00:32:41,120 --> 00:32:43,720
+kind of forcing yourself over a threshold,
+
+792
+00:32:43,720 --> 00:32:46,590
+you're engaging these brain circuits
+
+793
+00:32:46,590 --> 00:32:48,400
+and these nervous system circuits
+
+794
+00:32:48,400 --> 00:32:52,170
+that suddenly make it feel as
+if something is challenging.
+
+795
+00:32:52,170 --> 00:32:53,650
+Something has changed.
+
+796
+00:32:53,650 --> 00:32:54,750
+Well, what's changed?
+
+797
+00:32:54,750 --> 00:32:56,870
+What's changed is that when you engage
+
+798
+00:32:56,870 --> 00:32:58,530
+in this duration, path, and outcome
+
+799
+00:32:58,530 --> 00:33:01,970
+type of thinking or
+behavior or way of being
+
+800
+00:33:02,990 --> 00:33:06,070
+you start to recruit these neuromodulators
+
+801
+00:33:06,070 --> 00:33:08,370
+that are released from
+particular areas of your brain,
+
+802
+00:33:08,370 --> 00:33:09,940
+and also it turns out from your body.
+
+803
+00:33:09,940 --> 00:33:12,280
+and they start cuing
+to your nervous system.
+
+804
+00:33:12,280 --> 00:33:13,130
+Something's different.
+
+805
+00:33:13,130 --> 00:33:15,330
+Something's different
+now about what I'm doing.
+
+806
+00:33:15,330 --> 00:33:17,420
+Something's different
+about what I'm feeling.
+
+807
+00:33:17,420 --> 00:33:19,970
+Let's give an example where perhaps
+
+808
+00:33:19,970 --> 00:33:22,190
+somebody says something
+that's triggering to you.
+
+809
+00:33:22,190 --> 00:33:23,240
+You don't like it.
+
+810
+00:33:23,240 --> 00:33:25,360
+And you know you shouldn't respond.
+
+811
+00:33:25,360 --> 00:33:27,030
+You feel like, oh, I shouldn't respond,
+
+812
+00:33:27,030 --> 00:33:28,420
+I shouldn't respond, I shouldn't respond.
+
+813
+00:33:28,420 --> 00:33:30,870
+You're actively suppressing your behavior
+
+814
+00:33:30,870 --> 00:33:33,670
+through top down processing.
+
+815
+00:33:33,670 --> 00:33:35,620
+Your forebrain is actually preventing you
+
+816
+00:33:35,620 --> 00:33:38,370
+from saying the thing that
+you know you shouldn't say
+
+817
+00:33:38,370 --> 00:33:39,810
+or that maybe you should wait to say
+
+818
+00:33:39,810 --> 00:33:41,590
+or say in a different form.
+
+819
+00:33:41,590 --> 00:33:43,810
+This feels like agitation and stress
+
+820
+00:33:43,810 --> 00:33:46,150
+because you're actually
+suppressing a circuit.
+
+821
+00:33:46,150 --> 00:33:47,620
+We actually can see examples
+
+822
+00:33:47,620 --> 00:33:51,130
+of what happens when
+you're not doing this well.
+
+823
+00:33:51,130 --> 00:33:54,000
+Some of the examples come from children.
+
+824
+00:33:54,000 --> 00:33:55,470
+If you look at young children
+
+825
+00:33:55,470 --> 00:33:57,602
+they don't have the forebrain circuitry
+
+826
+00:33:57,602 --> 00:33:59,940
+to engage in this top down processing
+
+827
+00:33:59,940 --> 00:34:03,360
+until they reach age 22, even 25.
+
+828
+00:34:03,360 --> 00:34:06,950
+But in young children, you see
+this in a really robust way.
+
+829
+00:34:06,950 --> 00:34:08,750
+You'll see they'll be
+rocking back and forth.
+
+830
+00:34:08,750 --> 00:34:10,050
+It's hard for them to sit still
+
+831
+00:34:10,050 --> 00:34:11,989
+because those central pattern generators
+
+832
+00:34:11,989 --> 00:34:13,439
+are constantly going in the background.
+
+833
+00:34:13,440 --> 00:34:15,449
+Whereas adults can sit still.
+
+834
+00:34:15,449 --> 00:34:17,679
+A kid sees a piece of candy that it wants
+
+835
+00:34:17,679 --> 00:34:19,709
+and will just reach out and grab it.
+
+836
+00:34:19,710 --> 00:34:21,620
+Whereas an adult probably would ask
+
+837
+00:34:21,620 --> 00:34:22,453
+if they could have a piece
+
+838
+00:34:22,453 --> 00:34:25,620
+or wait until they were
+offered a piece in most cases.
+
+839
+00:34:25,620 --> 00:34:28,020
+People that have damage
+to the certain areas
+
+840
+00:34:28,020 --> 00:34:31,150
+of the frontal lobes don't
+have this kind of restriction.
+
+841
+00:34:31,150 --> 00:34:32,620
+They'll just blurt things out.
+
+842
+00:34:32,620 --> 00:34:33,520
+They'll just say things.
+
+843
+00:34:33,520 --> 00:34:35,020
+We all know people like this.
+
+844
+00:34:35,020 --> 00:34:39,000
+Impulsivity is a lack of top down control,
+
+845
+00:34:39,000 --> 00:34:41,170
+a lack of top-down processing.
+
+846
+00:34:41,170 --> 00:34:43,190
+The other thing that will
+turn off the forebrain
+
+847
+00:34:43,190 --> 00:34:45,300
+and make it harder to top-down processing
+
+848
+00:34:45,300 --> 00:34:48,600
+is a couple of drinks containing alcohol.
+
+849
+00:34:48,600 --> 00:34:51,239
+The removal of inhibition is actually
+
+850
+00:34:51,239 --> 00:34:53,619
+removal of neural inhibition,
+
+851
+00:34:53,620 --> 00:34:56,120
+of nerve cells suppressing the activity
+
+852
+00:34:56,120 --> 00:34:57,490
+of other nerve cells.
+
+853
+00:34:57,490 --> 00:34:59,350
+And so when you look at people
+
+854
+00:34:59,350 --> 00:35:01,140
+that have damage to their frontal lobes
+
+855
+00:35:01,140 --> 00:35:04,130
+or you look at puppies or
+you look at young children,
+
+856
+00:35:04,130 --> 00:35:05,450
+everything's a stimulus.
+
+857
+00:35:05,450 --> 00:35:07,460
+Everything is a potential
+interaction for them.
+
+858
+00:35:07,460 --> 00:35:08,890
+And they have a very hard time
+
+859
+00:35:08,890 --> 00:35:11,560
+restricting their
+behavior and their speech.
+
+860
+00:35:11,560 --> 00:35:15,330
+So a lot of the motor system
+is designed to just work
+
+861
+00:35:15,330 --> 00:35:16,860
+in a reflexive way.
+
+862
+00:35:16,860 --> 00:35:18,790
+And then when we decide
+we want to learn something
+
+863
+00:35:18,790 --> 00:35:21,210
+or do something or not do something,
+
+864
+00:35:21,210 --> 00:35:23,720
+we have to engage in this
+top-down restriction.
+
+865
+00:35:23,720 --> 00:35:26,260
+And it feels like agitation
+because it's accompanied
+
+866
+00:35:26,260 --> 00:35:30,120
+by the release of a neuromodulator
+called norepinephrine,
+
+867
+00:35:30,120 --> 00:35:32,110
+which in the body we call adrenaline.
+
+868
+00:35:32,110 --> 00:35:34,360
+And it actually makes us feel agitated.
+
+869
+00:35:34,360 --> 00:35:36,655
+So for those of you that are
+trying to learn something new
+
+870
+00:35:36,655 --> 00:35:39,160
+or to learn to suppress your responses
+
+871
+00:35:39,160 --> 00:35:42,541
+or be more deliberate and
+careful in your responses,
+
+872
+00:35:42,541 --> 00:35:46,510
+that is going to feel challenging
+for a particular reason.
+
+873
+00:35:46,510 --> 00:35:47,580
+It's going to feel challenging
+
+874
+00:35:47,580 --> 00:35:49,900
+because the chemicals in
+your body that are released
+
+875
+00:35:49,900 --> 00:35:52,440
+in association with that effort
+
+876
+00:35:52,440 --> 00:35:55,670
+are designed to make you
+feel kind of agitated.
+
+877
+00:35:55,670 --> 00:35:57,650
+That low-level tremor
+that sometimes people feel
+
+878
+00:35:57,650 --> 00:35:59,100
+when they're really, really angry
+
+879
+00:35:59,100 --> 00:36:02,440
+is actually a chemically
+induced low-level tremor.
+
+880
+00:36:02,440 --> 00:36:04,950
+And it's the, what I call limbic friction.
+
+881
+00:36:04,950 --> 00:36:05,900
+There's an area of your brain
+
+882
+00:36:05,900 --> 00:36:08,600
+that's involved in our more
+primitive reflexive responses
+
+883
+00:36:08,600 --> 00:36:10,010
+called the limbic system.
+
+884
+00:36:10,010 --> 00:36:12,790
+And the frontal cortex is in a friction,
+
+885
+00:36:12,790 --> 00:36:16,050
+it's in a tug of war with
+that system all the time.
+
+886
+00:36:16,050 --> 00:36:18,300
+Unless of course you have
+damage to the frontal lobe
+
+887
+00:36:18,300 --> 00:36:19,830
+or you've had too much
+to drink or something.
+
+888
+00:36:19,830 --> 00:36:22,360
+In which case you tend to
+just say and do whatever.
+
+889
+00:36:22,360 --> 00:36:25,510
+And so this is really
+important to understand
+
+890
+00:36:25,510 --> 00:36:28,770
+because if you want to
+understand neuroplasticity,
+
+891
+00:36:28,770 --> 00:36:30,790
+you want to understand how
+to shape your behavior,
+
+892
+00:36:30,790 --> 00:36:31,880
+how to shape your thinking,
+
+893
+00:36:31,880 --> 00:36:36,750
+how to change how you're able
+to perform in any context,
+
+894
+00:36:36,750 --> 00:36:38,640
+the most important thing to understand
+
+895
+00:36:38,640 --> 00:36:41,790
+is that it requires top-down processing.
+
+896
+00:36:41,790 --> 00:36:44,800
+It requires this feeling of agitation.
+
+897
+00:36:44,800 --> 00:36:47,300
+In fact, I would say
+the agitation and strain
+
+898
+00:36:47,300 --> 00:36:50,290
+is the entry point to neuroplasticity.
+
+899
+00:36:50,290 --> 00:36:52,960
+So let's take a look at
+what neuroplasticity is.
+
+900
+00:36:52,960 --> 00:36:56,060
+Let's explore it, not as the
+way it's normally talked about
+
+901
+00:36:56,060 --> 00:36:57,810
+in modern culture,
+
+902
+00:36:57,810 --> 00:36:59,900
+neuroplasticity, plasticity is great.
+
+903
+00:36:59,900 --> 00:37:02,070
+Well, what exactly do people mean?
+
+904
+00:37:02,070 --> 00:37:04,070
+Plasticity itself is just a process
+
+905
+00:37:04,070 --> 00:37:06,477
+by which neurons can
+change their connections
+
+906
+00:37:06,477 --> 00:37:07,790
+and the way they work
+
+907
+00:37:07,790 --> 00:37:10,770
+so that you can go from things
+
+908
+00:37:10,770 --> 00:37:13,530
+being very challenging and deliberate,
+
+909
+00:37:13,530 --> 00:37:15,520
+requiring a lot of effort and strain,
+
+910
+00:37:15,520 --> 00:37:17,050
+to them being reflexive.
+
+911
+00:37:17,050 --> 00:37:18,850
+And typically when we
+hear about plasticity,
+
+912
+00:37:18,850 --> 00:37:19,960
+we're thinking about positive
+
+913
+00:37:19,960 --> 00:37:22,410
+or what I call adaptive plasticity.
+
+914
+00:37:22,410 --> 00:37:24,030
+A lot of plasticity can be induced,
+
+915
+00:37:24,030 --> 00:37:25,490
+for instance by brain damage,
+
+916
+00:37:25,490 --> 00:37:26,470
+but that's generally not
+
+917
+00:37:26,470 --> 00:37:28,190
+the kind of plasticity that we want.
+
+918
+00:37:28,190 --> 00:37:30,890
+So when I say plasticity,
+unless I say otherwise
+
+919
+00:37:30,890 --> 00:37:32,710
+I mean adaptive plasticity.
+
+920
+00:37:32,710 --> 00:37:34,220
+And in particular
+
+921
+00:37:34,220 --> 00:37:36,520
+most of the neuroplasticity
+that people want
+
+922
+00:37:36,520 --> 00:37:38,640
+is self-directed plasticity.
+
+923
+00:37:38,640 --> 00:37:41,460
+Because if there's one
+truism to neuroplasticity,
+
+924
+00:37:41,460 --> 00:37:45,720
+it's that from birth until about age 25
+
+925
+00:37:45,720 --> 00:37:47,680
+the brain is incredibly plastic.
+
+926
+00:37:47,680 --> 00:37:49,700
+Kids are learning all sorts of things
+
+927
+00:37:49,700 --> 00:37:51,430
+but they can learn it passively.
+
+928
+00:37:51,430 --> 00:37:54,840
+They don't have to work
+too hard or focus too hard,
+
+929
+00:37:54,840 --> 00:37:57,760
+although focus helps, to learn new things,
+
+930
+00:37:57,760 --> 00:38:00,150
+acquire new languages, acquire new skills.
+
+931
+00:38:00,150 --> 00:38:01,120
+But if you're an adult
+
+932
+00:38:01,120 --> 00:38:03,820
+and you want to change your
+neural circuitry at the level
+
+933
+00:38:03,820 --> 00:38:07,390
+of emotions or behavior or
+thoughts or anything really,
+
+934
+00:38:07,390 --> 00:38:11,320
+you absolutely need to ask
+two important questions.
+
+935
+00:38:11,320 --> 00:38:15,480
+One, what particular aspect
+
+936
+00:38:15,480 --> 00:38:18,410
+of my nervous system
+am I trying to change?
+
+937
+00:38:18,410 --> 00:38:20,480
+Meaning, am I trying to change my emotions
+
+938
+00:38:20,480 --> 00:38:22,520
+or my perceptions, my sensations?
+
+939
+00:38:22,520 --> 00:38:24,860
+And which ones are
+available for me to change?
+
+940
+00:38:24,860 --> 00:38:26,650
+And then the second question is
+
+941
+00:38:26,650 --> 00:38:28,290
+how are you going to go about that?
+
+942
+00:38:28,290 --> 00:38:29,890
+What is the structure
+
+943
+00:38:29,890 --> 00:38:33,380
+of a regimen to engage neuroplasticity?
+
+944
+00:38:33,380 --> 00:38:36,420
+And it turns out that the
+answer to that second question
+
+945
+00:38:36,420 --> 00:38:40,130
+is governed by how awake
+or how sleepy we are.
+
+946
+00:38:40,130 --> 00:38:41,650
+So let's talk about that next.
+
+947
+00:38:41,650 --> 00:38:43,210
+Neuroplasticity is the ability
+
+948
+00:38:43,210 --> 00:38:45,480
+for these connections
+in the brain and body
+
+949
+00:38:45,480 --> 00:38:47,563
+to change in response to experience.
+
+950
+00:38:48,424 --> 00:38:49,257
+And what's so incredible
+
+951
+00:38:49,257 --> 00:38:51,060
+about the human nervous
+system in particular
+
+952
+00:38:51,060 --> 00:38:54,140
+is that we can direct
+our own neural changes.
+
+953
+00:38:54,140 --> 00:38:57,460
+We can decide that we
+want to change our brain.
+
+954
+00:38:57,460 --> 00:38:59,570
+In other words, our
+brain can change itself
+
+955
+00:38:59,570 --> 00:39:01,440
+and our nervous system can change itself.
+
+956
+00:39:01,440 --> 00:39:04,310
+And the same can't be said
+for other organs of the body.
+
+957
+00:39:04,310 --> 00:39:06,190
+Even though our other organs of the body
+
+958
+00:39:06,190 --> 00:39:10,050
+have some ability to change,
+they can't direct it.
+
+959
+00:39:10,050 --> 00:39:11,780
+They can't think and decide,
+
+960
+00:39:11,780 --> 00:39:12,850
+you know your gut doesn't say,
+
+961
+00:39:12,850 --> 00:39:13,990
+oh, you know, I want to be able
+
+962
+00:39:13,990 --> 00:39:15,540
+to digest spicy foods better
+
+963
+00:39:15,540 --> 00:39:17,520
+so I'm going to rearrange the connections
+
+964
+00:39:17,520 --> 00:39:18,390
+to be able to do that.
+
+965
+00:39:18,390 --> 00:39:20,160
+Whereas your brain can decide
+
+966
+00:39:20,160 --> 00:39:21,700
+that you want to learn a language
+
+967
+00:39:21,700 --> 00:39:24,070
+or you want to be less
+emotionally reactive
+
+968
+00:39:24,070 --> 00:39:25,780
+or more emotionally engaged,
+
+969
+00:39:25,780 --> 00:39:28,080
+and you can undergo a series of steps
+
+970
+00:39:28,080 --> 00:39:31,070
+that will allow your brain
+to make those changes
+
+971
+00:39:31,070 --> 00:39:34,210
+so that eventually it becomes
+reflexive for you to do that,
+
+972
+00:39:34,210 --> 00:39:36,093
+which is absolutely incredible.
+
+973
+00:39:37,170 --> 00:39:39,464
+For a long time it was
+thought that neuroplasticity
+
+974
+00:39:39,464 --> 00:39:43,410
+was the unique gift of
+young animals and humans,
+
+975
+00:39:43,410 --> 00:39:45,160
+that it could only occur when we're young.
+
+976
+00:39:45,160 --> 00:39:48,160
+And in fact, a young brain
+is incredibly plastic.
+
+977
+00:39:48,160 --> 00:39:49,960
+Children can learn three languages
+
+978
+00:39:49,960 --> 00:39:52,160
+without an accent reflexively,
+
+979
+00:39:52,160 --> 00:39:54,800
+whereas adults, it's very challenging.
+
+980
+00:39:54,800 --> 00:39:56,480
+It takes a lot more effort and strain,
+
+981
+00:39:56,480 --> 00:39:59,200
+a lot more of that duration,
+path, outcome kind of thinking
+
+982
+00:39:59,200 --> 00:40:02,239
+in order to achieve those plastic changes.
+
+983
+00:40:02,239 --> 00:40:06,410
+We now know, however, that
+the adult brain can change
+
+984
+00:40:06,410 --> 00:40:08,250
+in response to experience.
+
+985
+00:40:08,250 --> 00:40:09,850
+Nobel prizes were given
+
+986
+00:40:09,850 --> 00:40:12,730
+for the understanding that the young brain
+
+987
+00:40:12,730 --> 00:40:14,420
+can change very dramatically.
+
+988
+00:40:14,420 --> 00:40:16,664
+I think one of the most
+extreme examples would be
+
+989
+00:40:16,664 --> 00:40:20,010
+for people that are born blind from birth
+
+990
+00:40:20,010 --> 00:40:21,500
+they use the area of their brain
+
+991
+00:40:21,500 --> 00:40:22,780
+that normally would be used
+
+992
+00:40:22,780 --> 00:40:25,150
+for visualizing objects and colors
+
+993
+00:40:25,150 --> 00:40:28,220
+and things outside of
+them for braille reading.
+
+994
+00:40:28,220 --> 00:40:31,260
+In brain imaging studies it's
+been shown that, you know,
+
+995
+00:40:31,260 --> 00:40:33,460
+people who are blind from
+birth, when they braille read,
+
+996
+00:40:33,460 --> 00:40:34,293
+the area of the brain
+
+997
+00:40:34,293 --> 00:40:39,293
+that would normally light
+up, if you will, for vision
+
+998
+00:40:39,710 --> 00:40:41,000
+lights up for braille reading.
+
+999
+00:40:41,000 --> 00:40:43,590
+So that real estate is reallocated
+
+1000
+00:40:43,590 --> 00:40:45,343
+for an entirely different function.
+
+1001
+00:40:46,330 --> 00:40:49,610
+If someone is made blind in adulthood,
+
+1002
+00:40:49,610 --> 00:40:52,130
+it's unlikely that their
+entire visual brain
+
+1003
+00:40:52,130 --> 00:40:53,590
+will be taken over
+
+1004
+00:40:53,590 --> 00:40:56,890
+by the areas of the brain that
+are responsible for touch.
+
+1005
+00:40:56,890 --> 00:41:00,220
+However, there's some evidence
+that areas of the brain
+
+1006
+00:41:00,220 --> 00:41:01,610
+that are involved in hearing and touch
+
+1007
+00:41:01,610 --> 00:41:04,180
+can kind of migrate into that area.
+
+1008
+00:41:04,180 --> 00:41:06,540
+And there's a lot of interest
+now in trying to figure out
+
+1009
+00:41:06,540 --> 00:41:10,120
+how more plasticity can
+be induced in adulthood,
+
+1010
+00:41:10,120 --> 00:41:12,400
+more positive plasticity.
+
+1011
+00:41:12,400 --> 00:41:15,670
+And in order to understand that process
+
+1012
+00:41:15,670 --> 00:41:17,580
+we really have to understand something
+
+1013
+00:41:17,580 --> 00:41:18,420
+that might at first
+
+1014
+00:41:18,420 --> 00:41:20,920
+seem totally divorced
+from neuroplasticity,
+
+1015
+00:41:20,920 --> 00:41:23,950
+but actually lies at the
+center of neuroplasticity.
+
+1016
+00:41:23,950 --> 00:41:25,460
+And for any of you that are interested
+
+1017
+00:41:25,460 --> 00:41:27,070
+in changing your nervous system
+
+1018
+00:41:27,070 --> 00:41:29,470
+so that something that you want can go
+
+1019
+00:41:29,470 --> 00:41:32,410
+from being very hard or
+seem almost impossible
+
+1020
+00:41:32,410 --> 00:41:34,940
+and out of reach to being very reflexive,
+
+1021
+00:41:34,940 --> 00:41:37,713
+this is especially important
+to pay attention to.
+
+1022
+00:41:39,410 --> 00:41:43,430
+Plasticity in the adult human
+nervous system is gated,
+
+1023
+00:41:43,430 --> 00:41:47,670
+meaning it is controlled
+by neuromodulators.
+
+1024
+00:41:47,670 --> 00:41:49,630
+These things that we talked about earlier,
+
+1025
+00:41:49,630 --> 00:41:51,258
+dopamine, serotonin,
+
+1026
+00:41:51,258 --> 00:41:54,373
+and one in particular
+called acetylcholine,
+
+1027
+00:41:55,350 --> 00:41:57,960
+are what open up plasticity.
+
+1028
+00:41:57,960 --> 00:42:00,240
+They literally unveil plasticity
+
+1029
+00:42:00,240 --> 00:42:01,670
+and allow brief periods of time
+
+1030
+00:42:01,670 --> 00:42:03,750
+in which whatever information,
+
+1031
+00:42:03,750 --> 00:42:07,200
+whatever thing we're sensing
+or perceiving or thinking,
+
+1032
+00:42:07,200 --> 00:42:09,060
+whatever emotions we feel
+
+1033
+00:42:09,060 --> 00:42:11,300
+can literally be mapped in the brain
+
+1034
+00:42:11,300 --> 00:42:14,280
+such that later it will become much easier
+
+1035
+00:42:14,280 --> 00:42:16,960
+for us to experience and feel that thing.
+
+1036
+00:42:16,960 --> 00:42:19,960
+Now, this has a dark
+side and a positive side.
+
+1037
+00:42:19,960 --> 00:42:22,280
+The dark side is it's actually very easy
+
+1038
+00:42:22,280 --> 00:42:24,570
+to get neuroplasticity as an adult
+
+1039
+00:42:24,570 --> 00:42:28,440
+through traumatic or terrible
+or challenging experiences.
+
+1040
+00:42:28,440 --> 00:42:31,770
+But the important question
+is to say, why is that?
+
+1041
+00:42:31,770 --> 00:42:34,460
+And the reason that's the case is because
+
+1042
+00:42:34,460 --> 00:42:38,320
+when something very bad
+happens, there's the release
+
+1043
+00:42:38,320 --> 00:42:41,660
+of two sets of
+neuromodulators in the brain,
+
+1044
+00:42:41,660 --> 00:42:45,290
+epinephrine which tends to make
+us feel alert and agitated,
+
+1045
+00:42:45,290 --> 00:42:48,200
+which is associated with
+most bad circumstances.
+
+1046
+00:42:48,200 --> 00:42:50,830
+And acetylcholine, which tends to create
+
+1047
+00:42:50,830 --> 00:42:55,100
+a even more intense and
+focused perceptual spotlight.
+
+1048
+00:42:55,100 --> 00:42:56,895
+Remember earlier we were
+talking about perception
+
+1049
+00:42:56,895 --> 00:42:58,860
+and how it's kind of like a spotlight.
+
+1050
+00:42:58,860 --> 00:43:01,530
+Acetylcholine makes that
+light particularly bright
+
+1051
+00:43:01,530 --> 00:43:06,130
+and particularly restricted to
+one region of our experience.
+
+1052
+00:43:06,130 --> 00:43:08,630
+And it does that by making certain neurons
+
+1053
+00:43:08,630 --> 00:43:11,336
+in our brain and body
+
+1054
+00:43:11,336 --> 00:43:14,720
+active much more than all the rest.
+
+1055
+00:43:14,720 --> 00:43:18,230
+So acetylcholine is sorta
+like a highlighter marker
+
+1056
+00:43:18,230 --> 00:43:22,180
+upon which neuroplasticity
+then comes in later and says,
+
+1057
+00:43:22,180 --> 00:43:23,860
+wait, which neurons were active
+
+1058
+00:43:23,860 --> 00:43:28,800
+in this particularly alerting
+phase of whatever, you know,
+
+1059
+00:43:28,800 --> 00:43:30,830
+day or night, whenever
+this thing happened.
+
+1060
+00:43:30,830 --> 00:43:33,670
+So the way it works is this,
+you can think of epinephrine
+
+1061
+00:43:33,670 --> 00:43:35,127
+as creating this alertness
+
+1062
+00:43:35,127 --> 00:43:39,020
+and this kind of unbelievable
+level of increased attention
+
+1063
+00:43:39,020 --> 00:43:40,710
+compared to what you
+were experiencing before.
+
+1064
+00:43:40,710 --> 00:43:43,580
+And you can think of acetylcholine
+
+1065
+00:43:43,580 --> 00:43:47,710
+as being the molecule that
+highlights whatever happens
+
+1066
+00:43:47,710 --> 00:43:50,480
+during that period of
+heightened alertness.
+
+1067
+00:43:50,480 --> 00:43:52,110
+So just to be clear,
+
+1068
+00:43:52,110 --> 00:43:54,800
+it's epinephrine creates the alertness,
+
+1069
+00:43:54,800 --> 00:43:56,870
+that's coming from a subset
+of neurons in the brain stem
+
+1070
+00:43:56,870 --> 00:43:57,970
+if you're interested,
+
+1071
+00:43:57,970 --> 00:44:01,228
+and acetylcholine coming
+from an area of the forebrain
+
+1072
+00:44:01,228 --> 00:44:04,640
+is tagging or marking the neurons
+
+1073
+00:44:04,640 --> 00:44:06,040
+that are particularly active
+
+1074
+00:44:06,040 --> 00:44:08,990
+during this heightened level of alertness.
+
+1075
+00:44:08,990 --> 00:44:13,190
+Now that marks the cells,
+the neurons and the synapses
+
+1076
+00:44:13,190 --> 00:44:14,540
+for strengthening,
+
+1077
+00:44:14,540 --> 00:44:18,600
+for becoming more likely
+to be active in the future
+
+1078
+00:44:18,600 --> 00:44:21,080
+even without us thinking about it.
+
+1079
+00:44:21,080 --> 00:44:22,567
+Okay?
+
+1080
+00:44:22,567 --> 00:44:24,340
+So in bad circumstances
+
+1081
+00:44:24,340 --> 00:44:27,640
+this all happens without
+us having to do much.
+
+1082
+00:44:27,640 --> 00:44:30,090
+When we want something to happen, however,
+
+1083
+00:44:30,090 --> 00:44:33,220
+we want to learn a language,
+we want to learn a new skill,
+
+1084
+00:44:33,220 --> 00:44:35,390
+we want to become more motivated,
+
+1085
+00:44:35,390 --> 00:44:36,580
+what do we know for certain?
+
+1086
+00:44:36,580 --> 00:44:40,370
+We know that that process
+of getting neuroplasticity
+
+1087
+00:44:40,370 --> 00:44:42,540
+so that we have more
+focus, more motivation,
+
+1088
+00:44:42,540 --> 00:44:46,780
+absolutely requires the
+release of epinephrine.
+
+1089
+00:44:46,780 --> 00:44:50,130
+We have to have alertness
+in order to have focus
+
+1090
+00:44:50,130 --> 00:44:51,920
+and we have to have focus
+
+1091
+00:44:51,920 --> 00:44:54,830
+in order to direct those plastic changes
+
+1092
+00:44:54,830 --> 00:44:57,710
+to particular parts of our nervous system.
+
+1093
+00:44:57,710 --> 00:45:00,291
+Now, this has immense implications
+
+1094
+00:45:00,291 --> 00:45:03,230
+in thinking about the various tools,
+
+1095
+00:45:03,230 --> 00:45:06,520
+whether or not those are
+chemical tools or machine tools
+
+1096
+00:45:06,520 --> 00:45:08,970
+or just self-induced regimens
+
+1097
+00:45:08,970 --> 00:45:11,840
+of how long or how intensely
+you're going to focus
+
+1098
+00:45:11,840 --> 00:45:13,903
+in order to get neuroplasticity.
+
+1099
+00:45:15,660 --> 00:45:17,210
+But there's another side to it.
+
+1100
+00:45:18,140 --> 00:45:19,970
+The dirty secret of neuroplasticity
+
+1101
+00:45:19,970 --> 00:45:22,630
+is that no neuroplasticity occurs
+
+1102
+00:45:22,630 --> 00:45:24,810
+during the thing you're trying to learn,
+
+1103
+00:45:24,810 --> 00:45:28,630
+during the terrible event,
+during the great event.
+
+1104
+00:45:28,630 --> 00:45:29,470
+During the thing
+
+1105
+00:45:29,470 --> 00:45:32,510
+that you're really trying
+to shape and learn,
+
+1106
+00:45:32,510 --> 00:45:35,710
+nothing is actually
+changing between the neurons
+
+1107
+00:45:35,710 --> 00:45:37,210
+that is going to last.
+
+1108
+00:45:37,210 --> 00:45:41,640
+All the neuroplasticity, the
+strengthening of the synapses,
+
+1109
+00:45:41,640 --> 00:45:44,660
+the addition, in some
+cases, of new nerve cells
+
+1110
+00:45:44,660 --> 00:45:47,490
+or at least connections
+between nerve cells,
+
+1111
+00:45:47,490 --> 00:45:50,940
+all of that occurs at a
+very different phase of life
+
+1112
+00:45:50,940 --> 00:45:54,880
+which is when we are in sleep
+and non-sleep deep rest.
+
+1113
+00:45:54,880 --> 00:45:56,330
+And so neuroplasticity,
+
+1114
+00:45:56,330 --> 00:45:59,480
+which is the kind of Holy
+Grail of human experience of,
+
+1115
+00:45:59,480 --> 00:46:00,490
+you know, this is the New Year
+
+1116
+00:46:00,490 --> 00:46:02,320
+and everyone's thinking
+New Year's resolutions.
+
+1117
+00:46:02,320 --> 00:46:04,950
+And right now, perhaps
+everything's organized
+
+1118
+00:46:04,950 --> 00:46:06,440
+and people are highly motivated
+
+1119
+00:46:06,440 --> 00:46:09,200
+but what happens in March or April or May?
+
+1120
+00:46:09,200 --> 00:46:11,737
+Well, that all depends
+on how much attention
+
+1121
+00:46:11,737 --> 00:46:14,230
+and focus one can continually bring
+
+1122
+00:46:14,230 --> 00:46:16,100
+to whatever it is they're trying to learn,
+
+1123
+00:46:16,100 --> 00:46:19,350
+so much so that agitation
+and a feeling of strain
+
+1124
+00:46:19,350 --> 00:46:20,980
+are actually required
+
+1125
+00:46:20,980 --> 00:46:24,690
+for this process of
+neuro-plasticity to get triggered.
+
+1126
+00:46:24,690 --> 00:46:26,270
+But the actual rewiring occurs
+
+1127
+00:46:26,270 --> 00:46:30,690
+during periods of sleep
+and non-sleep deep rest.
+
+1128
+00:46:30,690 --> 00:46:32,060
+There's a study published last year
+
+1129
+00:46:32,060 --> 00:46:35,310
+that's particularly relevant
+here that I want to share,
+
+1130
+00:46:35,310 --> 00:46:37,350
+it was not done by my laboratory,
+
+1131
+00:46:37,350 --> 00:46:41,320
+that showed that 20 minutes of deep rest,
+
+1132
+00:46:41,320 --> 00:46:42,970
+this is not deep sleep,
+
+1133
+00:46:42,970 --> 00:46:46,890
+but essentially doing something
+very hard and very intense
+
+1134
+00:46:46,890 --> 00:46:50,540
+and then taking 20 minutes
+immediately afterwards
+
+1135
+00:46:50,540 --> 00:46:52,350
+to deliberately turn off
+
+1136
+00:46:52,350 --> 00:46:55,730
+the deliberate focused
+thinking and engagement
+
+1137
+00:46:55,730 --> 00:46:58,510
+actually accelerated neuroplasticity.
+
+1138
+00:46:58,510 --> 00:47:00,710
+There's another study
+that's just incredible.
+
+1139
+00:47:00,710 --> 00:47:01,760
+And we're going to go into this
+
+1140
+00:47:01,760 --> 00:47:05,210
+in a future episode of the
+podcast not too long from now,
+
+1141
+00:47:05,210 --> 00:47:10,210
+that showed that if people are
+learning a particular skill,
+
+1142
+00:47:10,210 --> 00:47:12,840
+it could be a language
+skill or a motor skill,
+
+1143
+00:47:12,840 --> 00:47:16,380
+and they hear a tone just
+playing in the background,
+
+1144
+00:47:16,380 --> 00:47:18,560
+and the tone is playing
+periodically in the background,
+
+1145
+00:47:18,560 --> 00:47:20,510
+like just a bell.
+
+1146
+00:47:20,510 --> 00:47:23,740
+In deep sleep, if that bell is played
+
+1147
+00:47:24,610 --> 00:47:26,730
+learning is much faster for the thing
+
+1148
+00:47:26,730 --> 00:47:29,240
+that they were learning
+while they were awake.
+
+1149
+00:47:29,240 --> 00:47:32,850
+It somehow cues the
+nervous system in sleep,
+
+1150
+00:47:32,850 --> 00:47:34,590
+doesn't even have to be in dreaming,
+
+1151
+00:47:34,590 --> 00:47:38,050
+that something that
+happened in the waking phase
+
+1152
+00:47:38,050 --> 00:47:39,540
+was especially important.
+
+1153
+00:47:39,540 --> 00:47:43,630
+So much so that that bell
+is sort of a Pavlovian cue,
+
+1154
+00:47:43,630 --> 00:47:46,350
+it's sort of a reminder
+to the sleeping brain,
+
+1155
+00:47:46,350 --> 00:47:47,950
+oh, you need to remember what it is
+
+1156
+00:47:47,950 --> 00:47:49,730
+that you were learning at
+that particular time of day.
+
+1157
+00:47:49,730 --> 00:47:52,860
+And the learning rates and
+the rates of retention,
+
+1158
+00:47:52,860 --> 00:47:54,260
+meaning how much people can remember
+
+1159
+00:47:54,260 --> 00:47:55,450
+from the thing they learned,
+
+1160
+00:47:55,450 --> 00:47:58,860
+are significantly higher
+under those conditions.
+
+1161
+00:47:58,860 --> 00:48:01,714
+So I'm going to talk about how
+to apply all this knowledge
+
+1162
+00:48:01,714 --> 00:48:04,150
+a little bit more in this podcast episode
+
+1163
+00:48:04,150 --> 00:48:05,970
+but also in future episodes.
+
+1164
+00:48:05,970 --> 00:48:09,826
+But it really speaks to
+the really key importance
+
+1165
+00:48:09,826 --> 00:48:12,630
+of sleep and focus,
+
+1166
+00:48:12,630 --> 00:48:15,800
+these two opposite ends
+of our attentional state.
+
+1167
+00:48:15,800 --> 00:48:17,810
+When we're in sleep these DPOs,
+
+1168
+00:48:17,810 --> 00:48:20,430
+duration, path, and outcome
+analysis are impossible.
+
+1169
+00:48:20,430 --> 00:48:21,820
+We just can't do that.
+
+1170
+00:48:21,820 --> 00:48:25,460
+We are only in relation to
+what's happening inside of us.
+
+1171
+00:48:25,460 --> 00:48:27,420
+So sleep is key.
+
+1172
+00:48:27,420 --> 00:48:30,120
+Also key are periods
+of non-sleep deep rest
+
+1173
+00:48:30,120 --> 00:48:32,000
+where we're turning off our analysis
+
+1174
+00:48:32,000 --> 00:48:33,593
+of duration, path, and outcome,
+
+1175
+00:48:34,789 --> 00:48:35,990
+in particular for the thing
+
+1176
+00:48:35,990 --> 00:48:37,170
+that we were just trying to learn.
+
+1177
+00:48:37,170 --> 00:48:40,290
+And we're in this kind of liminal state
+
+1178
+00:48:40,290 --> 00:48:42,500
+where our attention is
+kind of drifting all over.
+
+1179
+00:48:42,500 --> 00:48:43,970
+It turns out that's very important
+
+1180
+00:48:43,970 --> 00:48:45,950
+for the consolidation, for the changes
+
+1181
+00:48:45,950 --> 00:48:48,053
+between the nerve cells that will allow
+
+1182
+00:48:48,053 --> 00:48:49,980
+what we were trying to learn to go
+
+1183
+00:48:49,980 --> 00:48:54,000
+from being deliberate and hard
+and stressful and a strain
+
+1184
+00:48:55,052 --> 00:48:57,303
+to easy and reflexive.
+
+1185
+00:48:58,180 --> 00:49:01,270
+This also points to how different people,
+
+1186
+00:49:01,270 --> 00:49:03,160
+including many modern clinicians,
+
+1187
+00:49:03,160 --> 00:49:04,670
+are thinking about how to prevent
+
+1188
+00:49:04,670 --> 00:49:06,660
+bad circumstances, traumas,
+
+1189
+00:49:06,660 --> 00:49:09,320
+from routing their way into
+our nervous system permanently.
+
+1190
+00:49:09,320 --> 00:49:10,999
+It says that you might want to interfere
+
+1191
+00:49:10,999 --> 00:49:14,240
+with certain aspects of brain states
+
+1192
+00:49:14,240 --> 00:49:17,580
+that are away from the
+bad thing that happened,
+
+1193
+00:49:17,580 --> 00:49:19,600
+the brain states that
+happened the next day
+
+1194
+00:49:19,600 --> 00:49:21,810
+or the next month or the next year.
+
+1195
+00:49:21,810 --> 00:49:24,790
+And also, I want to make sure
+
+1196
+00:49:24,790 --> 00:49:27,260
+that I pay attention to the
+fact that for many of you
+
+1197
+00:49:27,260 --> 00:49:28,650
+you're thinking about neuro-plasticity
+
+1198
+00:49:28,650 --> 00:49:30,920
+not just in changing your nervous system
+
+1199
+00:49:30,920 --> 00:49:32,420
+to add something new
+
+1200
+00:49:32,420 --> 00:49:35,910
+but to also get rid of things
+that you don't like, right?
+
+1201
+00:49:35,910 --> 00:49:38,130
+That you want to forget bad experiences
+
+1202
+00:49:38,130 --> 00:49:40,540
+or at least remove the
+emotional contingency
+
+1203
+00:49:40,540 --> 00:49:41,970
+of a bad relationship
+
+1204
+00:49:41,970 --> 00:49:44,020
+or a bad relationship to some thing
+
+1205
+00:49:44,020 --> 00:49:46,820
+or some person or some event.
+
+1206
+00:49:46,820 --> 00:49:51,000
+Learning to fear certain things,
+less to eliminate a phobia,
+
+1207
+00:49:51,000 --> 00:49:52,790
+to erase a trauma.
+
+1208
+00:49:52,790 --> 00:49:55,010
+The memories themselves don't get erased.
+
+1209
+00:49:55,010 --> 00:49:56,600
+I'm sorry to say
+
+1210
+00:49:56,600 --> 00:49:57,800
+that the memories don't
+themselves get erased,
+
+1211
+00:49:57,800 --> 00:50:00,680
+but the emotional load of
+memories can be reduced.
+
+1212
+00:50:00,680 --> 00:50:01,950
+And there are a number of different ways
+
+1213
+00:50:01,950 --> 00:50:03,220
+that that can happen
+
+1214
+00:50:03,220 --> 00:50:04,670
+but they all require this thing
+
+1215
+00:50:04,670 --> 00:50:07,550
+that we're calling neuroplasticity.
+
+1216
+00:50:07,550 --> 00:50:09,960
+We're going to have a
+large number of discussions
+
+1217
+00:50:09,960 --> 00:50:12,060
+about neuroplasticity in depth,
+
+1218
+00:50:12,060 --> 00:50:14,480
+but the most important thing to understand
+
+1219
+00:50:14,480 --> 00:50:17,460
+is that it is indeed a two phase process.
+
+1220
+00:50:17,460 --> 00:50:21,280
+What governs the transition
+between alert and focused
+
+1221
+00:50:21,280 --> 00:50:24,840
+and these deep rest and deep sleep states
+
+1222
+00:50:24,840 --> 00:50:27,280
+is a system in our brain and body,
+
+1223
+00:50:27,280 --> 00:50:28,880
+a certain aspect of the nervous system
+
+1224
+00:50:28,880 --> 00:50:31,640
+called the autonomic nervous system.
+
+1225
+00:50:31,640 --> 00:50:33,850
+And it is immensely
+important to understand
+
+1226
+00:50:33,850 --> 00:50:36,310
+how this autonomic nervous system works.
+
+1227
+00:50:36,310 --> 00:50:38,450
+It has names like the
+sympathetic nervous system
+
+1228
+00:50:38,450 --> 00:50:39,770
+and parasympathetic nervous system
+
+1229
+00:50:39,770 --> 00:50:42,450
+which frankly are complicated names
+
+1230
+00:50:42,450 --> 00:50:43,790
+because they're a little bit misleading.
+
+1231
+00:50:43,790 --> 00:50:45,610
+Sympathetic is the one that's associated
+
+1232
+00:50:45,610 --> 00:50:46,450
+with more alertness.
+
+1233
+00:50:46,450 --> 00:50:48,130
+Parasympathetic is the
+one that's associated
+
+1234
+00:50:48,130 --> 00:50:49,790
+with more calmness.
+
+1235
+00:50:49,790 --> 00:50:51,140
+And it gets really misleading
+
+1236
+00:50:51,140 --> 00:50:54,380
+because the sympathetic nervous
+system sounds like sympathy.
+
+1237
+00:50:54,380 --> 00:50:55,910
+And then people think
+it's related to calm.
+
+1238
+00:50:55,910 --> 00:50:57,480
+I'm going to call it the alertness system
+
+1239
+00:50:57,480 --> 00:50:59,230
+and the calmness system,
+
+1240
+00:50:59,230 --> 00:51:02,730
+because even though
+sympathetic and parasympathetic
+
+1241
+00:51:02,730 --> 00:51:05,420
+are sometimes used, people
+really get confused.
+
+1242
+00:51:05,420 --> 00:51:08,730
+So the way to think about
+the autonomic nervous system
+
+1243
+00:51:08,730 --> 00:51:11,980
+and the reason it's important
+for every aspect of your life,
+
+1244
+00:51:11,980 --> 00:51:13,940
+but in particular for neuroplasticity
+
+1245
+00:51:13,940 --> 00:51:15,857
+and engaging in these focus states
+
+1246
+00:51:15,857 --> 00:51:17,650
+and in these de-focused states
+
+1247
+00:51:17,650 --> 00:51:19,910
+is that it works sort of like a seesaw.
+
+1248
+00:51:19,910 --> 00:51:23,030
+Every 24 hours, we're all
+familiar with the fact
+
+1249
+00:51:23,030 --> 00:51:24,230
+that when we wake up in the morning
+
+1250
+00:51:24,230 --> 00:51:25,350
+we might be a little bit groggy
+
+1251
+00:51:25,350 --> 00:51:26,990
+but then generally we're more alert.
+
+1252
+00:51:26,990 --> 00:51:29,180
+And then as evening comes around
+
+1253
+00:51:29,180 --> 00:51:31,300
+we tend to become a little
+more relaxed and sleepy.
+
+1254
+00:51:31,300 --> 00:51:33,690
+Eventually at some point
+at night, we go to sleep.
+
+1255
+00:51:33,690 --> 00:51:36,920
+So we go from alert to deeply calm.
+
+1256
+00:51:36,920 --> 00:51:39,430
+And as we do that, we go
+from an ability to engage
+
+1257
+00:51:39,430 --> 00:51:43,322
+in these very focused
+duration, path, outcome
+
+1258
+00:51:43,322 --> 00:51:44,155
+types of analyses
+
+1259
+00:51:44,155 --> 00:51:46,830
+to states in sleep that
+are completely divorced
+
+1260
+00:51:46,830 --> 00:51:48,520
+from duration, path, and outcome
+
+1261
+00:51:48,520 --> 00:51:50,880
+in which everything is
+completely random and untethered
+
+1262
+00:51:50,880 --> 00:51:53,160
+in terms of our sensations,
+perceptions and feelings
+
+1263
+00:51:53,160 --> 00:51:54,090
+and so forth.
+
+1264
+00:51:54,090 --> 00:51:57,226
+So every 24 hours, we
+have a phase of our day
+
+1265
+00:51:57,226 --> 00:52:02,226
+that is optimal for thinking
+and focusing and learning
+
+1266
+00:52:02,360 --> 00:52:04,800
+and neuroplasticity and
+doing all sorts of things.
+
+1267
+00:52:04,800 --> 00:52:06,540
+We have energy as well.
+
+1268
+00:52:06,540 --> 00:52:07,940
+And at another phase of our day
+
+1269
+00:52:07,940 --> 00:52:11,400
+we're tired and we have
+no ability to focus.
+
+1270
+00:52:11,400 --> 00:52:12,700
+We have no ability
+
+1271
+00:52:12,700 --> 00:52:15,860
+to engage in duration, path,
+outcome types of analyses.
+
+1272
+00:52:15,860 --> 00:52:19,970
+And it's interesting that
+both phases are important
+
+1273
+00:52:19,970 --> 00:52:22,650
+for shaping our nervous system
+in the ways that we want.
+
+1274
+00:52:22,650 --> 00:52:24,620
+So if we want to engage neuroplasticity
+
+1275
+00:52:24,620 --> 00:52:27,300
+and we want to get the most
+out of our nervous system
+
+1276
+00:52:27,300 --> 00:52:28,831
+we each have to master
+
+1277
+00:52:28,831 --> 00:52:32,850
+both the transition between
+wakefulness and sleep
+
+1278
+00:52:32,850 --> 00:52:35,510
+and the transition between
+sleep and wakefulness.
+
+1279
+00:52:35,510 --> 00:52:37,940
+Now so much has been made
+of the importance of sleep.
+
+1280
+00:52:37,940 --> 00:52:39,320
+And it is critically important
+
+1281
+00:52:39,320 --> 00:52:42,090
+for wound healing, for
+learning as I just mentioned,
+
+1282
+00:52:42,090 --> 00:52:44,060
+for consolidating learning,
+
+1283
+00:52:44,060 --> 00:52:47,370
+for all aspects of our immune system.
+
+1284
+00:52:47,370 --> 00:52:48,540
+It is the one period of time
+
+1285
+00:52:48,540 --> 00:52:49,373
+in which we're not doing
+
+1286
+00:52:49,373 --> 00:52:51,760
+these duration, path, and
+outcome types of analyses.
+
+1287
+00:52:51,760 --> 00:52:52,920
+And it is critically important
+
+1288
+00:52:52,920 --> 00:52:55,620
+to all aspects of our health,
+including our longevity.
+
+1289
+00:52:56,980 --> 00:52:59,140
+Much less has been made, however,
+
+1290
+00:52:59,140 --> 00:53:01,830
+of how to get better at sleeping,
+
+1291
+00:53:01,830 --> 00:53:03,810
+how to get better at the process
+
+1292
+00:53:03,810 --> 00:53:06,680
+that involves falling
+asleep, staying asleep,
+
+1293
+00:53:06,680 --> 00:53:10,090
+and accessing the states of mind and body
+
+1294
+00:53:10,090 --> 00:53:11,770
+that involve total paralysis.
+
+1295
+00:53:11,770 --> 00:53:12,603
+Most people don't know this
+
+1296
+00:53:12,603 --> 00:53:14,930
+but you're actually paralyzed
+during much of your sleep
+
+1297
+00:53:14,930 --> 00:53:17,570
+so that you can't act out
+your dreams, presumably.
+
+1298
+00:53:17,570 --> 00:53:21,870
+But also where your brain
+is in a total idle state
+
+1299
+00:53:21,870 --> 00:53:24,030
+where it's not controlling anything,
+
+1300
+00:53:24,030 --> 00:53:26,103
+it's just left to kind of free run.
+
+1301
+00:53:27,230 --> 00:53:29,910
+And there are certain
+things that we can all do
+
+1302
+00:53:29,910 --> 00:53:32,430
+in order to master that transition,
+
+1303
+00:53:32,430 --> 00:53:34,380
+in order to get better at sleeping.
+
+1304
+00:53:34,380 --> 00:53:36,710
+And it involves much more
+than just how much we sleep.
+
+1305
+00:53:36,710 --> 00:53:39,430
+We're all being told, of course,
+that we need to sleep more
+
+1306
+00:53:39,430 --> 00:53:41,810
+but there's also the
+issue of sleep quality,
+
+1307
+00:53:41,810 --> 00:53:45,330
+accessing those deep
+States of non DPO thinking.
+
+1308
+00:53:45,330 --> 00:53:48,140
+Accessing the right timing of sleep,
+
+1309
+00:53:48,140 --> 00:53:50,670
+not a lot has been discussed
+publicly, as far as I'm aware,
+
+1310
+00:53:50,670 --> 00:53:52,610
+of when to time your sleep.
+
+1311
+00:53:52,610 --> 00:53:54,480
+I think we all can appreciate
+
+1312
+00:53:54,480 --> 00:53:57,890
+that sleeping for half an
+hour throughout the day
+
+1313
+00:53:57,890 --> 00:54:00,565
+so that you get a total
+of eight hours of sleep
+
+1314
+00:54:00,565 --> 00:54:02,420
+every 24 hour cycle
+
+1315
+00:54:02,420 --> 00:54:05,050
+is probably very different and not optimal
+
+1316
+00:54:05,050 --> 00:54:07,380
+compared to a solid block
+of eight hours of sleep.
+
+1317
+00:54:07,380 --> 00:54:08,940
+Although there are people
+that have tried this,
+
+1318
+00:54:08,940 --> 00:54:11,850
+I think it's been written
+about in various books.
+
+1319
+00:54:11,850 --> 00:54:14,500
+Not many people can
+stick to that schedule.
+
+1320
+00:54:14,500 --> 00:54:16,610
+Incidentally, I think it's
+called the Uberman schedule,
+
+1321
+00:54:16,610 --> 00:54:19,070
+not to be confused with
+the Huberman schedule
+
+1322
+00:54:19,070 --> 00:54:19,903
+because first of all
+
+1323
+00:54:19,903 --> 00:54:21,310
+my schedule doesn't
+look anything like that.
+
+1324
+00:54:21,310 --> 00:54:22,143
+And second of all
+
+1325
+00:54:22,143 --> 00:54:24,533
+I would never attempt
+such a sleeping regime.
+
+1326
+00:54:25,670 --> 00:54:28,406
+The other thing that is
+really important to understand
+
+1327
+00:54:28,406 --> 00:54:32,870
+is that we have not
+explored, as a culture,
+
+1328
+00:54:32,870 --> 00:54:35,880
+the rhythms that occur
+in our waking states.
+
+1329
+00:54:35,880 --> 00:54:38,280
+So much has been focused
+on the value of sleep
+
+1330
+00:54:38,280 --> 00:54:40,470
+and the importance of
+sleep, which is great.
+
+1331
+00:54:40,470 --> 00:54:42,970
+But I don't think that most
+people are paying attention
+
+1332
+00:54:42,970 --> 00:54:44,780
+to what's happening in their waking states
+
+1333
+00:54:44,780 --> 00:54:47,540
+and when their brain
+is optimized for focus,
+
+1334
+00:54:47,540 --> 00:54:48,840
+when their brain is optimized
+
+1335
+00:54:48,840 --> 00:54:51,240
+for these DPOs, these
+duration, path, outcome
+
+1336
+00:54:51,240 --> 00:54:55,230
+types of engagements for
+learning and for changing
+
+1337
+00:54:55,230 --> 00:54:57,360
+and when are their brain
+is probably better suited
+
+1338
+00:54:57,360 --> 00:54:59,560
+for more reflexive thinking and behaviors.
+
+1339
+00:54:59,560 --> 00:55:00,880
+And it turns out
+
+1340
+00:55:00,880 --> 00:55:03,820
+that there's a vast
+amount of scientific data
+
+1341
+00:55:04,970 --> 00:55:06,400
+which points to the existence
+
+1342
+00:55:06,400 --> 00:55:08,500
+of what are called ultradian rhythms.
+
+1343
+00:55:08,500 --> 00:55:10,800
+You may have heard of circadian rhythms.
+
+1344
+00:55:10,800 --> 00:55:13,690
+Circadian means, circa, about a day.
+
+1345
+00:55:13,690 --> 00:55:15,664
+So it's 24 hour rhythms
+
+1346
+00:55:15,664 --> 00:55:18,140
+because the earth spins
+once every 24 hours.
+
+1347
+00:55:18,140 --> 00:55:21,284
+Ultradian rhythms occur throughout the day
+
+1348
+00:55:21,284 --> 00:55:24,680
+and they require less
+time, they're shorter.
+
+1349
+00:55:24,680 --> 00:55:26,170
+The most important ultradian rhythm
+
+1350
+00:55:26,170 --> 00:55:27,370
+for sake of this discussion
+
+1351
+00:55:27,370 --> 00:55:29,650
+is the 90 minute rhythm
+that we're going through
+
+1352
+00:55:29,650 --> 00:55:34,030
+all the time in our ability
+to attend and focus.
+
+1353
+00:55:34,030 --> 00:55:37,440
+And in sleep, we are,
+our sleep is broken up
+
+1354
+00:55:37,440 --> 00:55:39,540
+into 90 minute segments.
+
+1355
+00:55:39,540 --> 00:55:40,373
+Early in the night
+
+1356
+00:55:40,373 --> 00:55:42,990
+we have more phase one and
+phase two lighter sleep.
+
+1357
+00:55:42,990 --> 00:55:43,823
+And then we go into
+
+1358
+00:55:43,823 --> 00:55:45,390
+our deeper phase three
+and phase four sleep.
+
+1359
+00:55:45,390 --> 00:55:47,560
+And then we return to phase
+one, two, three, four.
+
+1360
+00:55:47,560 --> 00:55:48,530
+So all night, you're going
+
+1361
+00:55:48,530 --> 00:55:50,220
+through these ultradian rhythms
+
+1362
+00:55:50,220 --> 00:55:52,560
+of stage one, two, three, four,
+
+1363
+00:55:52,560 --> 00:55:54,970
+one, two, three, four, it's repeating.
+
+1364
+00:55:54,970 --> 00:55:57,040
+Most people perhaps know that.
+
+1365
+00:55:57,040 --> 00:55:57,873
+Maybe they don't.
+
+1366
+00:55:57,873 --> 00:56:00,160
+But you wake up in the morning,
+
+1367
+00:56:00,160 --> 00:56:02,340
+these ultradian rhythms continue.
+
+1368
+00:56:02,340 --> 00:56:04,530
+And it turns out that we are optimized
+
+1369
+00:56:04,530 --> 00:56:08,540
+for focus and attention
+within these 90 minute cycles
+
+1370
+00:56:08,540 --> 00:56:10,840
+so that at the beginning of
+one of these 90 minute cycles
+
+1371
+00:56:10,840 --> 00:56:12,500
+maybe you sit down to learn something new
+
+1372
+00:56:12,500 --> 00:56:15,740
+or to engage in some new
+challenging behavior,
+
+1373
+00:56:15,740 --> 00:56:18,210
+for the first five or 10
+minutes of one of those cycles
+
+1374
+00:56:18,210 --> 00:56:20,850
+it's well-known that the
+brain and the neural circuits
+
+1375
+00:56:20,850 --> 00:56:24,880
+and the neuromodulators are
+not going to be optimally tuned
+
+1376
+00:56:24,880 --> 00:56:26,120
+to whatever it is you're trying to do.
+
+1377
+00:56:26,120 --> 00:56:28,600
+But as you drop deeper
+into that 90 minute cycle
+
+1378
+00:56:28,600 --> 00:56:32,270
+your ability to focus and to
+engage in this DPO process
+
+1379
+00:56:32,270 --> 00:56:35,320
+and to direct neuroplasticity and to learn
+
+1380
+00:56:35,320 --> 00:56:36,740
+is actually much greater.
+
+1381
+00:56:36,740 --> 00:56:39,220
+And then you eventually pop out of that
+
+1382
+00:56:39,220 --> 00:56:41,100
+at the end of the 90 minute cycle.
+
+1383
+00:56:41,100 --> 00:56:43,160
+So these cycles are occurring in sleep
+
+1384
+00:56:43,160 --> 00:56:45,330
+and these cycles are
+occurring in wakefulness.
+
+1385
+00:56:45,330 --> 00:56:47,080
+And all of those are governed
+
+1386
+00:56:47,080 --> 00:56:49,350
+by this seesaw of alertness to calmness
+
+1387
+00:56:49,350 --> 00:56:51,660
+that we call the autonomic nervous system.
+
+1388
+00:56:51,660 --> 00:56:55,380
+So if you want to master and
+control your nervous system,
+
+1389
+00:56:55,380 --> 00:56:57,430
+regardless of what tool you reach to,
+
+1390
+00:56:57,430 --> 00:56:59,070
+whether or not it's a pharmacologic tool
+
+1391
+00:56:59,070 --> 00:57:00,670
+or whether or not it's a behavioral tool
+
+1392
+00:57:00,670 --> 00:57:04,010
+or whether or not it's a
+brain machine interface tool,
+
+1393
+00:57:04,010 --> 00:57:06,610
+it's vitally important to understand
+
+1394
+00:57:06,610 --> 00:57:09,600
+that your entire existence is occurring
+
+1395
+00:57:09,600 --> 00:57:11,180
+in these 90 minute cycles,
+
+1396
+00:57:11,180 --> 00:57:13,040
+whether or not you're asleep or awake.
+
+1397
+00:57:13,040 --> 00:57:16,010
+And so you really need to
+learn how to wedge into
+
+1398
+00:57:16,010 --> 00:57:17,660
+those 90 minute cycles.
+
+1399
+00:57:17,660 --> 00:57:20,930
+And for instance, it
+would be completely crazy
+
+1400
+00:57:20,930 --> 00:57:21,850
+and counterproductive
+
+1401
+00:57:21,850 --> 00:57:24,930
+to try and just learn
+information while in deep sleep
+
+1402
+00:57:24,930 --> 00:57:26,330
+by listening to that information
+
+1403
+00:57:26,330 --> 00:57:28,470
+because you're not able to access it.
+
+1404
+00:57:28,470 --> 00:57:30,820
+It would be perfectly good,
+
+1405
+00:57:30,820 --> 00:57:34,240
+however, to engage in a focused
+bout of learning each day.
+
+1406
+00:57:34,240 --> 00:57:35,460
+And now we know how long
+
+1407
+00:57:35,460 --> 00:57:37,160
+that focused bout of learning should be,
+
+1408
+00:57:37,160 --> 00:57:39,400
+it should be at least one 90 minute cycle.
+
+1409
+00:57:39,400 --> 00:57:42,150
+And the expectation should
+be that the early phase
+
+1410
+00:57:42,150 --> 00:57:44,310
+of that cycle is going to be challenging.
+
+1411
+00:57:44,310 --> 00:57:45,143
+It's going to hurt.
+
+1412
+00:57:45,143 --> 00:57:46,330
+It's not going to feel natural.
+
+1413
+00:57:46,330 --> 00:57:48,220
+It's not going to feel like flow.
+
+1414
+00:57:48,220 --> 00:57:49,616
+But that you can learn
+
+1415
+00:57:49,616 --> 00:57:51,930
+and the circuits of your
+brain that are involved
+
+1416
+00:57:51,930 --> 00:57:53,190
+in focus and motivation
+
+1417
+00:57:53,190 --> 00:57:56,810
+can learn to drop into
+a mode of more focus,
+
+1418
+00:57:56,810 --> 00:57:59,400
+get more neuroplasticity in other words,
+
+1419
+00:57:59,400 --> 00:58:02,120
+by engaging these ultradian cycles
+
+1420
+00:58:02,120 --> 00:58:04,350
+at the appropriate times of day.
+
+1421
+00:58:04,350 --> 00:58:06,530
+For instance, some people
+are very good learners
+
+1422
+00:58:06,530 --> 00:58:09,120
+early in the day and not
+so good in the afternoon.
+
+1423
+00:58:09,120 --> 00:58:11,880
+So you can start to explore this process
+
+1424
+00:58:11,880 --> 00:58:13,670
+even without any information
+
+1425
+00:58:13,670 --> 00:58:15,100
+about the underlying neurochemicals
+
+1426
+00:58:15,100 --> 00:58:16,910
+by simply paying attention,
+
+1427
+00:58:16,910 --> 00:58:18,340
+not just to when you go to sleep
+
+1428
+00:58:18,340 --> 00:58:20,380
+and when you wake up each morning,
+
+1429
+00:58:20,380 --> 00:58:24,060
+how deep or how shallow your
+sleep felt to you subjectively.
+
+1430
+00:58:24,060 --> 00:58:25,340
+But also, throughout the day,
+
+1431
+00:58:25,340 --> 00:58:28,480
+when your brain tends to be most anxious.
+
+1432
+00:58:28,480 --> 00:58:30,870
+Because it turns out that has a correlate
+
+1433
+00:58:30,870 --> 00:58:34,850
+related to perception
+that we will talk about.
+
+1434
+00:58:34,850 --> 00:58:36,010
+You can ask yourself
+
+1435
+00:58:36,010 --> 00:58:37,220
+when are you most focused?
+
+1436
+00:58:37,220 --> 00:58:38,390
+When are you least anxious?
+
+1437
+00:58:38,390 --> 00:58:40,040
+When do you feel most motivated?
+
+1438
+00:58:40,040 --> 00:58:42,950
+When do you feel least motivated?
+
+1439
+00:58:42,950 --> 00:58:45,690
+By understanding how the different aspects
+
+1440
+00:58:45,690 --> 00:58:47,520
+of your perception, sensation, feeling,
+
+1441
+00:58:47,520 --> 00:58:48,960
+thought, and actions,
+
+1442
+00:58:48,960 --> 00:58:52,490
+tend to want to be engaged
+or not want to be engaged.
+
+1443
+00:58:52,490 --> 00:58:54,960
+You develop a very good window
+
+1444
+00:58:54,960 --> 00:58:56,640
+into what's going to be required
+
+1445
+00:58:56,640 --> 00:58:59,620
+to shift your ability to focus
+
+1446
+00:58:59,620 --> 00:59:03,380
+or shift your ability to engage
+in creative type thinking
+
+1447
+00:59:03,380 --> 00:59:05,770
+at different times of
+day, should you choose.
+
+1448
+00:59:05,770 --> 00:59:07,900
+And so that's where we're
+heading, going forward.
+
+1449
+00:59:07,900 --> 00:59:10,690
+It all starts with mastering this seesaw
+
+1450
+00:59:10,690 --> 00:59:12,490
+that is the autonomic nervous system,
+
+1451
+00:59:12,490 --> 00:59:14,820
+that at a course level is a transition
+
+1452
+00:59:14,820 --> 00:59:18,300
+between wakefulness and
+sleep, but at a finer level,
+
+1453
+00:59:18,300 --> 00:59:19,550
+and just as important,
+
+1454
+00:59:19,550 --> 00:59:22,250
+are the various cycles, these
+ultradian 90 minute cycles
+
+1455
+00:59:22,250 --> 00:59:24,250
+that govern our life all the time,
+
+1456
+00:59:24,250 --> 00:59:26,450
+24 hours a day every day of our life.
+
+1457
+00:59:26,450 --> 00:59:28,640
+And so we're going to talk
+about how you can take control
+
+1458
+00:59:28,640 --> 00:59:30,110
+of the autonomic nervous system
+
+1459
+00:59:30,110 --> 00:59:33,130
+so that you can better
+access neuroplasticity,
+
+1460
+00:59:33,130 --> 00:59:34,810
+better access sleep,
+
+1461
+00:59:34,810 --> 00:59:36,710
+even take advantage of the phase
+
+1462
+00:59:36,710 --> 00:59:38,920
+that is the transition
+between sleep and waking
+
+1463
+00:59:38,920 --> 00:59:42,570
+to access things like
+creativity and so forth.
+
+1464
+00:59:42,570 --> 00:59:44,485
+All based on studies
+that have been published
+
+1465
+00:59:44,485 --> 00:59:47,690
+over the last 100 years,
+mainly within the last 10 years
+
+1466
+00:59:47,690 --> 00:59:49,330
+and some that are very, very new.
+
+1467
+00:59:49,330 --> 00:59:50,510
+And that point to the use
+
+1468
+00:59:50,510 --> 00:59:52,390
+of specific tools that will allow you
+
+1469
+00:59:52,390 --> 00:59:55,160
+to get the most out of
+your nervous system.
+
+1470
+00:59:55,160 --> 00:59:57,690
+So today we covered a lot of information.
+
+1471
+00:59:57,690 --> 00:59:59,460
+It was sort of a whirlwind tour
+
+1472
+00:59:59,460 --> 01:00:01,800
+of everything from neurons and synapses
+
+1473
+01:00:01,800 --> 01:00:04,490
+to neuroplasticity and the
+autonomic nervous system.
+
+1474
+01:00:04,490 --> 01:00:07,250
+We will revisit a lot of
+these themes going forward.
+
+1475
+01:00:07,250 --> 01:00:10,590
+So if all of that didn't
+sink in in one pass,
+
+1476
+01:00:10,590 --> 01:00:11,480
+please don't worry.
+
+1477
+01:00:11,480 --> 01:00:14,480
+We will come back to these
+themes over and over again.
+
+1478
+01:00:14,480 --> 01:00:17,000
+I wanted to equip you with a language
+
+1479
+01:00:17,000 --> 01:00:18,520
+so that we're all developing
+
+1480
+01:00:18,520 --> 01:00:22,240
+a kind of common base set of
+information going forward.
+
+1481
+01:00:22,240 --> 01:00:24,230
+And I hope the information
+is valuable to you
+
+1482
+01:00:24,230 --> 01:00:27,350
+in your thinking about what
+is working well for you
+
+1483
+01:00:27,350 --> 01:00:29,410
+and what's working less well
+
+1484
+01:00:29,410 --> 01:00:31,080
+and what's been exceedingly challenging,
+
+1485
+01:00:31,080 --> 01:00:32,340
+what's been easy for you
+
+1486
+01:00:32,340 --> 01:00:34,870
+in terms of your pursuit
+of particular behaviors
+
+1487
+01:00:34,870 --> 01:00:37,280
+or emotional states where your challenges
+
+1488
+01:00:37,280 --> 01:00:40,720
+or the challenges of people
+that you know might reside.
+
+1489
+01:00:40,720 --> 01:00:42,740
+As promised in our welcome video,
+
+1490
+01:00:42,740 --> 01:00:44,770
+the format of the "Huberman Lab" podcast
+
+1491
+01:00:44,770 --> 01:00:47,040
+is to dive deep into individual topics
+
+1492
+01:00:47,040 --> 01:00:49,100
+for an entire month at a time.
+
+1493
+01:00:49,100 --> 01:00:51,040
+So for the entire month of January
+
+1494
+01:00:51,040 --> 01:00:55,220
+we're going to explore this
+incredible state that is sleep
+
+1495
+01:00:55,220 --> 01:00:59,040
+and a related state, which
+is non-sleep deep rest
+
+1496
+01:00:59,040 --> 01:01:00,440
+and what they do
+
+1497
+01:01:00,440 --> 01:01:04,100
+for things like learning,
+resetting our emotional capacity.
+
+1498
+01:01:04,100 --> 01:01:05,510
+Everyone's probably familiar with the fact
+
+1499
+01:01:05,510 --> 01:01:07,323
+that when we're sleep deprived
+
+1500
+01:01:07,323 --> 01:01:10,990
+we're so much less good at
+dealing with life circumstances.
+
+1501
+01:01:10,990 --> 01:01:13,010
+We're more emotionally labile.
+
+1502
+01:01:13,010 --> 01:01:13,843
+Why is that?
+
+1503
+01:01:13,843 --> 01:01:14,800
+How is that?
+
+1504
+01:01:14,800 --> 01:01:16,190
+But most importantly,
+we're going to talk about
+
+1505
+01:01:16,190 --> 01:01:17,710
+how to get better at sleeping
+
+1506
+01:01:17,710 --> 01:01:19,330
+and how to access better sleep
+
+1507
+01:01:19,330 --> 01:01:24,290
+even when your sleep timing
+or duration is compromised.
+
+1508
+01:01:24,290 --> 01:01:27,190
+We're also going to talk
+about the data that support
+
+1509
+01:01:27,190 --> 01:01:31,540
+this very interesting state
+called non-sleep deep rest
+
+1510
+01:01:31,540 --> 01:01:34,190
+where one is neither asleep nor awake,
+
+1511
+01:01:34,190 --> 01:01:36,210
+but it turns out one can recover
+
+1512
+01:01:36,210 --> 01:01:37,800
+some of the neuromodulators
+
+1513
+01:01:37,800 --> 01:01:39,840
+and more importantly the processes
+
+1514
+01:01:39,840 --> 01:01:41,640
+involved in sensation, perception,
+
+1515
+01:01:41,640 --> 01:01:43,060
+feeling, thought, and action.
+
+1516
+01:01:43,060 --> 01:01:46,510
+It's sure to be a very rich
+discussion back and forth
+
+1517
+01:01:46,510 --> 01:01:49,470
+where I'm answering your
+questions and providing tools.
+
+1518
+01:01:49,470 --> 01:01:51,380
+And I'm certain you're also going to learn
+
+1519
+01:01:51,380 --> 01:01:54,320
+a lot of information about neuroscience
+
+1520
+01:01:54,320 --> 01:01:57,220
+and what makes up this
+incredible phase of your life
+
+1521
+01:01:57,220 --> 01:01:58,690
+where you think you're not conscious,
+
+1522
+01:01:58,690 --> 01:02:02,270
+but you're actually resetting
+and renewing yourself
+
+1523
+01:02:02,270 --> 01:02:05,140
+in order to perform better,
+feel better, et cetera,
+
+1524
+01:02:05,140 --> 01:02:06,600
+in the waking state.
+
+1525
+01:02:06,600 --> 01:02:08,100
+If you want to support the podcast,
+
+1526
+01:02:08,100 --> 01:02:11,360
+please click the like button
+and subscribe on YouTube.
+
+1527
+01:02:11,360 --> 01:02:13,950
+Leave us a comment if you
+have any feedback for us.
+
+1528
+01:02:13,950 --> 01:02:17,120
+And on Apple, you can also
+leave a review and comments
+
+1529
+01:02:17,120 --> 01:02:20,980
+for us to improve the
+podcast experience for you.
+
+1530
+01:02:20,980 --> 01:02:24,010
+Please also check out our
+sponsors and thank you so much.
+
+1531
+01:02:24,010 --> 01:02:26,966
+We'll see you on the
+next episode next week.
+
+1532
+01:02:26,966 --> 01:02:30,133
+(upbeat guitar music)
+

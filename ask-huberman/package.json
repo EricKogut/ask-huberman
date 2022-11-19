@@ -18,7 +18,15 @@
     "next": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "three": "^0.146.0"
+    "three": "^0.146.0",
+    "@apollo/client": "^3.2.5",
+    "@chakra-ui/core": "^1.0.0-rc.3",
+    "@types/yup": "^0.29.9",
+    "formik": "^2.2.3",
+    "graphql": "^15.4.0",
+    "moment": "^2.29.1",
+    "react-custom-scrollbars": "^4.2.1",
+    "react-scrollable-feed": "^1.2.0"
   },
   "devDependencies": {
     "@types/node": "^18.0.0",

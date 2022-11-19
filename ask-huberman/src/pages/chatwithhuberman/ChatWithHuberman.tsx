@@ -1,15 +1,12 @@
-import {
-  Link as ChakraLink,
-  Text,
-  Code,
-  List,
-  ListIcon,
-  ListItem,
-} from '@chakra-ui/react';
-import { CheckCircleIcon, LinkIcon } from '@chakra-ui/icons';
+import { MessagingFeed } from '../../components/chat/MessagingFeed';
+import { Container } from '../../components/common/Container';
 
 export const ChatWithHuberman = () => {
-  return 'chat with huberman';
+  return (
+    <Container>
+      <MessagingFeed />
+    </Container>
+  );
 };
 
 export default ChatWithHuberman;

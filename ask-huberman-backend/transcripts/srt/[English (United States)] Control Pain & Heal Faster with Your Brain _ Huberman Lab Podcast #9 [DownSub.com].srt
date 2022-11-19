@@ -1,0 +1,10467 @@
+1
+00:00:00,370 --> 00:00:01,880
+- Welcome to the Huberman Lab Podcast,
+
+2
+00:00:01,880 --> 00:00:03,670
+where we discuss science
+
+3
+00:00:03,670 --> 00:00:05,983
+and science-based tools for everyday life.
+
+4
+00:00:09,280 --> 00:00:10,380
+I'm Andrew Huberman
+
+5
+00:00:10,380 --> 00:00:13,710
+and I'm a professor of
+neurobiology and ophthalmology
+
+6
+00:00:13,710 --> 00:00:15,840
+at Stanford School of Medicine.
+
+7
+00:00:15,840 --> 00:00:17,670
+This podcast is separate from my teaching
+
+8
+00:00:17,670 --> 00:00:19,500
+and research roles at Stanford.
+
+9
+00:00:19,500 --> 00:00:21,660
+It is, however, part
+of my desire and effort
+
+10
+00:00:21,660 --> 00:00:23,820
+to bring zero-cost-to-consumer information
+
+11
+00:00:23,820 --> 00:00:25,980
+about science and science-related tools
+
+12
+00:00:25,980 --> 00:00:27,400
+to the general public.
+
+13
+00:00:27,400 --> 00:00:28,760
+In keeping with that theme,
+
+14
+00:00:28,760 --> 00:00:31,650
+I'd like to thank the
+sponsors of today's podcast.
+
+15
+00:00:31,650 --> 00:00:34,027
+Our first sponsor is ExpressVPN.
+
+16
+00:00:34,027 --> 00:00:36,640
+ExpressVPN is a virtual private network
+
+17
+00:00:36,640 --> 00:00:39,410
+that keeps your data
+secure by routing your data
+
+18
+00:00:39,410 --> 00:00:42,120
+and online activities
+through their servers
+
+19
+00:00:42,120 --> 00:00:44,390
+and keeping your data safe and secure
+
+20
+00:00:44,390 --> 00:00:47,740
+but also not selling your
+data to third parties.
+
+21
+00:00:47,740 --> 00:00:50,040
+I started using ExpressVPN
+
+22
+00:00:50,040 --> 00:00:53,610
+because unfortunately I had
+my bank accounts hacked.
+
+23
+00:00:53,610 --> 00:00:54,920
+I was traveling a lot
+
+24
+00:00:54,920 --> 00:00:58,870
+and I typically go on hotel or airline
+
+25
+00:00:58,870 --> 00:01:02,550
+or other public Wi-Fi from time to time
+
+26
+00:01:02,550 --> 00:01:04,709
+and I don't know how it happened,
+
+27
+00:01:04,709 --> 00:01:07,127
+but somehow my information got out there,
+
+28
+00:01:07,127 --> 00:01:09,520
+and as I learned more from my friends
+
+29
+00:01:09,520 --> 00:01:12,810
+and people that work
+in the tech community,
+
+30
+00:01:12,810 --> 00:01:15,660
+it turns out that many
+networks are not secure,
+
+31
+00:01:15,660 --> 00:01:17,320
+so with ExpressVPN,
+
+32
+00:01:17,320 --> 00:01:19,550
+it keeps all your information secure.
+
+33
+00:01:19,550 --> 00:01:22,140
+It keeps information about
+your passwords secure.
+
+34
+00:01:22,140 --> 00:01:23,660
+It keeps information about
+
+35
+00:01:23,660 --> 00:01:26,300
+the websites that you visit secure,
+
+36
+00:01:26,300 --> 00:01:27,760
+and as I mentioned earlier,
+
+37
+00:01:27,760 --> 00:01:30,370
+they never give away or sell your data.
+
+38
+00:01:30,370 --> 00:01:32,730
+The nice thing is you can use ExpressVPN,
+
+39
+00:01:32,730 --> 00:01:34,030
+it runs in the background
+
+40
+00:01:34,030 --> 00:01:36,100
+and you don't even really
+realize that it's on.
+
+41
+00:01:36,100 --> 00:01:38,800
+It works on your phone,
+it works on your laptop,
+
+42
+00:01:38,800 --> 00:01:40,770
+it even works on your smart TV.
+
+43
+00:01:40,770 --> 00:01:42,690
+If you'd like to try ExpressVPN,
+
+44
+00:01:42,690 --> 00:01:46,700
+you can go to expressvpn.com/huberman
+
+45
+00:01:46,700 --> 00:01:49,900
+to get three months free
+on their one-year program.
+
+46
+00:01:49,900 --> 00:01:51,150
+I love ExpressVPN.
+
+47
+00:01:51,150 --> 00:01:53,370
+I use it even when I'm at home,
+
+48
+00:01:53,370 --> 00:01:54,410
+and so if you want to try it,
+
+49
+00:01:54,410 --> 00:01:57,910
+you can go to expressvpn.com/huberman
+
+50
+00:01:57,910 --> 00:02:00,760
+and you'll get three months
+free on their one-year program.
+
+51
+00:02:00,760 --> 00:02:04,090
+The second sponsor of today's
+podcast is Athletic Greens.
+
+52
+00:02:04,090 --> 00:02:07,410
+Athletic Greens is a vitamin
+mineral probiotic drink.
+
+53
+00:02:07,410 --> 00:02:10,330
+I started taking Athletic Greens in 2012
+
+54
+00:02:10,330 --> 00:02:13,380
+because I wanted to cover my
+vitamin and mineral bases.
+
+55
+00:02:13,380 --> 00:02:14,970
+I didn't know which things to take.
+
+56
+00:02:14,970 --> 00:02:16,200
+I found it really dizzying to know
+
+57
+00:02:16,200 --> 00:02:18,350
+which vitamins and minerals to purchase
+
+58
+00:02:18,350 --> 00:02:20,390
+and Athletic Greens allowed
+me to get all the things
+
+59
+00:02:20,390 --> 00:02:23,720
+I needed to cover my bases in
+one easy to consume formula
+
+60
+00:02:23,720 --> 00:02:25,500
+that also happens to taste really good.
+
+61
+00:02:25,500 --> 00:02:28,790
+I mix mine with water and a
+little bit of lemon juice.
+
+62
+00:02:28,790 --> 00:02:30,330
+The probiotics in Athletic Greens
+
+63
+00:02:30,330 --> 00:02:31,610
+are also really important to me
+
+64
+00:02:31,610 --> 00:02:34,370
+because now there's an
+abundance of data showing
+
+65
+00:02:34,370 --> 00:02:37,810
+that the gut microbiome, which
+is supported by probiotics,
+
+66
+00:02:37,810 --> 00:02:40,660
+is important for gut-brain axis, mood,
+
+67
+00:02:40,660 --> 00:02:43,040
+metabolic function, hormone function,
+
+68
+00:02:43,040 --> 00:02:46,160
+just a huge number of biological functions
+
+69
+00:02:46,160 --> 00:02:47,910
+and health parameters.
+
+70
+00:02:47,910 --> 00:02:49,430
+If you want to try Athletic Greens,
+
+71
+00:02:49,430 --> 00:02:52,880
+you can go to athleticgreens.com/huberman,
+
+72
+00:02:52,880 --> 00:02:53,713
+and if you do that,
+
+73
+00:02:53,713 --> 00:02:57,210
+they'll give you a year's
+supply of vitamin D3 K2.
+
+74
+00:02:57,210 --> 00:02:59,720
+Vitamin D3 also has lot of support
+
+75
+00:02:59,720 --> 00:03:00,990
+from the scientific literature
+
+76
+00:03:00,990 --> 00:03:04,560
+showing that it's important
+for immune function,
+
+77
+00:03:04,560 --> 00:03:07,440
+so if you go to
+athleticgreens.com/huberman,
+
+78
+00:03:07,440 --> 00:03:08,680
+you'll get Athletic Greens
+
+79
+00:03:08,680 --> 00:03:11,060
+plus the year's supply of vitamin D3 K2
+
+80
+00:03:11,060 --> 00:03:14,230
+and they'll give you
+five free travel packets.
+
+81
+00:03:14,230 --> 00:03:17,070
+Mixing up powders is a
+little bit messy sometimes
+
+82
+00:03:17,070 --> 00:03:18,570
+when you're on the road,
+if you're in the car,
+
+83
+00:03:18,570 --> 00:03:21,400
+you're on the plane or you're on the move.
+
+84
+00:03:21,400 --> 00:03:23,280
+These travel packets make
+everything really clean
+
+85
+00:03:23,280 --> 00:03:24,430
+and really easy.
+
+86
+00:03:24,430 --> 00:03:27,510
+Once again, that's
+athleticgreens.com/huberman
+
+87
+00:03:27,510 --> 00:03:30,450
+for Athletic Greens, the
+five free travel packets,
+
+88
+00:03:30,450 --> 00:03:33,260
+and the year's supply of vitamin D3 K2.
+
+89
+00:03:33,260 --> 00:03:34,810
+Many of you have graciously asked
+
+90
+00:03:34,810 --> 00:03:37,920
+how you can help support
+the Huberman Lab Podcast.
+
+91
+00:03:37,920 --> 00:03:39,770
+There are several ways
+that you can do that.
+
+92
+00:03:39,770 --> 00:03:41,860
+One is to check out our sponsors,
+
+93
+00:03:41,860 --> 00:03:44,320
+the other is we've set
+up a Patreon account.
+
+94
+00:03:44,320 --> 00:03:47,680
+You can go to patreon.com/andrewhuberman
+
+95
+00:03:47,680 --> 00:03:49,770
+and that allows you to
+donate to the podcast
+
+96
+00:03:49,770 --> 00:03:52,200
+at a variety of different levels.
+
+97
+00:03:52,200 --> 00:03:53,033
+In addition,
+
+98
+00:03:53,033 --> 00:03:56,120
+if you could subscribe to
+the podcast on YouTube,
+
+99
+00:03:56,120 --> 00:03:56,953
+that's terrific.
+
+100
+00:03:56,953 --> 00:03:59,180
+If you haven't done that
+already, please do so,
+
+101
+00:03:59,180 --> 00:04:01,460
+and please leave a comment.
+
+102
+00:04:01,460 --> 00:04:03,910
+If you want to make suggestions
+about future episodes,
+
+103
+00:04:03,910 --> 00:04:06,420
+please also put that
+in the comment section.
+
+104
+00:04:06,420 --> 00:04:10,810
+If you subscribe on Apple or
+Spotify or both, that helps us,
+
+105
+00:04:10,810 --> 00:04:13,220
+and as well, Apple gives
+you the opportunity
+
+106
+00:04:13,220 --> 00:04:16,500
+to leave a review and
+give us a five star rating
+
+107
+00:04:16,500 --> 00:04:19,079
+if you feel we deserve a five star rating,
+
+108
+00:04:19,079 --> 00:04:20,049
+and of course,
+
+109
+00:04:20,050 --> 00:04:22,370
+please recommend the
+podcast to your friends,
+
+110
+00:04:22,370 --> 00:04:23,670
+to your family members,
+
+111
+00:04:23,670 --> 00:04:26,770
+anyone that you think would
+benefit from the information.
+
+112
+00:04:26,770 --> 00:04:28,070
+Really, the answer to your question of
+
+113
+00:04:28,070 --> 00:04:29,860
+how you can support the podcast is
+
+114
+00:04:29,860 --> 00:04:31,230
+you don't have to buy products,
+
+115
+00:04:31,230 --> 00:04:32,910
+although checking out
+the sponsors does help.
+
+116
+00:04:32,910 --> 00:04:35,200
+You don't have to donate to Patreon.
+
+117
+00:04:35,200 --> 00:04:38,480
+We, of course, can't
+require you to subscribe
+
+118
+00:04:38,480 --> 00:04:40,690
+and fill out reviews
+and things of that sort,
+
+119
+00:04:40,690 --> 00:04:42,790
+but we like to think that by providing
+
+120
+00:04:42,790 --> 00:04:45,570
+a number of different ways
+to support the podcast,
+
+121
+00:04:45,570 --> 00:04:46,840
+some of which are zero cost,
+
+122
+00:04:46,840 --> 00:04:48,650
+some of which, if you like,
+
+123
+00:04:48,650 --> 00:04:51,710
+gives you the opportunity
+to contribute financially,
+
+124
+00:04:51,710 --> 00:04:53,490
+that's terrific as well.
+
+125
+00:04:53,490 --> 00:04:54,323
+Thank you so much.
+
+126
+00:04:54,323 --> 00:04:55,590
+We really appreciate your interest
+
+127
+00:04:55,590 --> 00:04:57,780
+in helping us keep this coming your way.
+
+128
+00:04:57,780 --> 00:04:58,613
+Thank you.
+
+129
+00:04:58,613 --> 00:05:02,540
+Let's continue our discussion
+about neuroplasticity.
+
+130
+00:05:02,540 --> 00:05:04,440
+This incredible feature
+of our nervous system
+
+131
+00:05:04,440 --> 00:05:07,680
+that allows it to change itself
+in response to experience,
+
+132
+00:05:07,680 --> 00:05:10,830
+and even in ways that we consciously
+
+133
+00:05:10,830 --> 00:05:13,190
+and deliberately decide to change it.
+
+134
+00:05:13,190 --> 00:05:14,700
+That's an incredible feature.
+
+135
+00:05:14,700 --> 00:05:17,750
+No other organ in our
+body has that capability.
+
+136
+00:05:17,750 --> 00:05:18,840
+Our nervous system,
+
+137
+00:05:18,840 --> 00:05:20,750
+which governs everything about who we are,
+
+138
+00:05:20,750 --> 00:05:22,460
+how we feel and what we do,
+
+139
+00:05:22,460 --> 00:05:24,430
+does have that capability.
+
+140
+00:05:24,430 --> 00:05:26,070
+The issue is most people don't know
+
+141
+00:05:26,070 --> 00:05:28,440
+how to access neuroplasticity.
+
+142
+00:05:28,440 --> 00:05:30,780
+Children readily access neuroplasticity
+
+143
+00:05:30,780 --> 00:05:33,000
+and they don't even realize
+that they're doing it.
+
+144
+00:05:33,000 --> 00:05:35,120
+Adults want neuroplasticity
+
+145
+00:05:35,120 --> 00:05:37,080
+and so that's what this entire month
+
+146
+00:05:37,080 --> 00:05:39,250
+of the Huberman Lab
+Podcast has been about.
+
+147
+00:05:39,250 --> 00:05:41,260
+We've explored neuroplasticity
+
+148
+00:05:41,260 --> 00:05:43,970
+from a variety of different perspectives.
+
+149
+00:05:43,970 --> 00:05:45,960
+We talked about
+representational plasticity.
+
+150
+00:05:45,960 --> 00:05:48,670
+We talked about the importance
+of focus and reward.
+
+151
+00:05:48,670 --> 00:05:52,020
+We talked about this amazing
+and somewhat surprising aspect
+
+152
+00:05:52,020 --> 00:05:53,650
+of the vestibular system,
+
+153
+00:05:53,650 --> 00:05:57,420
+how altering our relationship to gravity,
+
+154
+00:05:57,420 --> 00:05:59,240
+and in addition to that,
+
+155
+00:05:59,240 --> 00:06:01,140
+making errors as we try and learn,
+
+156
+00:06:01,140 --> 00:06:03,340
+can open up windows to plasticity,
+
+157
+00:06:03,340 --> 00:06:06,640
+but we have not really
+talked so much about
+
+158
+00:06:06,640 --> 00:06:09,530
+directing the plasticity
+toward particular outcomes,
+
+159
+00:06:09,530 --> 00:06:11,530
+and thus far,
+
+160
+00:06:11,530 --> 00:06:13,710
+we really haven't talked yet
+
+161
+00:06:13,710 --> 00:06:18,050
+about how to undo things
+that we don't want.
+
+162
+00:06:18,050 --> 00:06:19,550
+I've talked about learning and I say
+
+163
+00:06:19,550 --> 00:06:21,800
+learn a language, learn free throws,
+
+164
+00:06:21,800 --> 00:06:24,350
+learn a particular motor skill, et cetera,
+
+165
+00:06:24,350 --> 00:06:26,280
+but what about what we
+would call unlearning
+
+166
+00:06:26,280 --> 00:06:29,270
+or about removing some aspect
+
+167
+00:06:29,270 --> 00:06:31,070
+of our experience that we don't want?
+
+168
+00:06:31,070 --> 00:06:32,110
+And so today,
+
+169
+00:06:32,110 --> 00:06:35,630
+we are going to explore that
+aspect of neuroplasticity
+
+170
+00:06:35,630 --> 00:06:38,540
+and we are going to do that in the context
+
+171
+00:06:38,540 --> 00:06:42,000
+of a very important and
+somewhat sensitive topic
+
+172
+00:06:42,000 --> 00:06:45,360
+which is pain regeneration,
+
+173
+00:06:45,360 --> 00:06:48,700
+and in some cases, injury
+to the nervous system.
+
+174
+00:06:48,700 --> 00:06:50,800
+For those of you that are fortunate enough
+
+175
+00:06:50,800 --> 00:06:54,350
+to not have or had a concussion
+
+176
+00:06:54,350 --> 00:06:56,960
+or not have or know someone
+
+177
+00:06:56,960 --> 00:06:59,780
+who is experiencing chronic or acute pain,
+
+178
+00:06:59,780 --> 00:07:01,390
+I encourage you to stay in here with us
+
+179
+00:07:01,390 --> 00:07:04,780
+because a lot of the information
+that we are going to cover
+
+180
+00:07:04,780 --> 00:07:09,780
+has direct relevance to
+neuroplasticity for other purposes.
+
+181
+00:07:10,180 --> 00:07:13,170
+We, as always here on this podcast,
+
+182
+00:07:13,170 --> 00:07:14,970
+are going to discuss some of the science,
+
+183
+00:07:14,970 --> 00:07:16,640
+we get into mechanism,
+
+184
+00:07:16,640 --> 00:07:20,760
+but we also really get at principles.
+
+185
+00:07:20,760 --> 00:07:24,540
+Principles are far more
+important than any one experiment
+
+186
+00:07:24,540 --> 00:07:26,140
+or one description of mechanism
+
+187
+00:07:26,140 --> 00:07:29,220
+and certainly far more
+important than any one protocol
+
+188
+00:07:29,220 --> 00:07:30,670
+because principles allow you
+
+189
+00:07:30,670 --> 00:07:32,460
+to think about your nervous system
+
+190
+00:07:32,460 --> 00:07:35,070
+and work with it in ways
+that best serve you.
+
+191
+00:07:35,070 --> 00:07:38,163
+They are very flexible
+batches of information.
+
+192
+00:07:39,540 --> 00:07:42,250
+We are going to talk about the
+principles of neuroplasticity
+
+193
+00:07:42,250 --> 00:07:46,000
+for removing pain and
+wound healing and injury.
+
+194
+00:07:46,000 --> 00:07:49,410
+We're going to talk about
+acupuncture, of all things.
+
+195
+00:07:49,410 --> 00:07:52,700
+We are going to talk about
+modern medicine's attempt
+
+196
+00:07:52,700 --> 00:07:55,880
+to try and restore youth to the aging
+
+197
+00:07:55,880 --> 00:07:59,470
+or injured or demented brain,
+
+198
+00:07:59,470 --> 00:08:02,990
+and we are going to
+definitely talk about tools.
+
+199
+00:08:02,990 --> 00:08:04,000
+Got a lot of tools.
+
+200
+00:08:04,000 --> 00:08:08,330
+I consulted a number of
+fantastic colleagues at Stanford,
+
+201
+00:08:08,330 --> 00:08:09,630
+at Harvard Medical School,
+
+202
+00:08:09,630 --> 00:08:13,410
+and in the greater community
+of tissue rehabilitation,
+
+203
+00:08:13,410 --> 00:08:16,503
+injury and pain management in
+preparation for this podcast.
+
+204
+00:08:17,650 --> 00:08:20,510
+I do want to be very
+clear and just remind you
+
+205
+00:08:20,510 --> 00:08:22,310
+that I'm not a medical doctor.
+
+206
+00:08:22,310 --> 00:08:24,720
+I'm a professor, so I
+don't prescribe anything.
+
+207
+00:08:24,720 --> 00:08:26,010
+I profess things.
+
+208
+00:08:26,010 --> 00:08:27,020
+I have my beliefs,
+
+209
+00:08:27,020 --> 00:08:29,540
+but the podcast is for
+information purposes.
+
+210
+00:08:29,540 --> 00:08:32,620
+I do hope that the tools that we discuss
+
+211
+00:08:32,620 --> 00:08:34,890
+will be of benefit to you, but as always,
+
+212
+00:08:34,890 --> 00:08:38,659
+you should talk to your
+doctor or healthcare provider
+
+213
+00:08:38,659 --> 00:08:41,039
+about any tools that you plan to add
+
+214
+00:08:41,039 --> 00:08:42,689
+or are looking to explore,
+
+215
+00:08:42,690 --> 00:08:45,320
+as well as anything that
+you might look to remove
+
+216
+00:08:45,320 --> 00:08:46,600
+from your daily protocols.
+
+217
+00:08:46,600 --> 00:08:47,880
+In other words, don't change anything
+
+218
+00:08:47,880 --> 00:08:49,970
+without consulting an expert first.
+
+219
+00:08:49,970 --> 00:08:52,220
+You are responsible for
+your health, not me,
+
+220
+00:08:52,220 --> 00:08:54,510
+and I say this not just to protect me
+
+221
+00:08:54,510 --> 00:08:57,110
+but also to protect you.
+
+222
+00:08:57,110 --> 00:08:59,480
+Please keep that in
+mind as we move forward
+
+223
+00:08:59,480 --> 00:09:02,740
+and I'm very excited to share
+with you this information
+
+224
+00:09:02,740 --> 00:09:05,130
+because I do feel that it
+can be of great benefit
+
+225
+00:09:05,130 --> 00:09:06,810
+to a number of people.
+
+226
+00:09:06,810 --> 00:09:10,900
+Let's start our discussion
+about pain and sensation
+
+227
+00:09:10,900 --> 00:09:14,490
+and regeneration and wound
+healing with a discussion about
+
+228
+00:09:14,490 --> 00:09:16,910
+a very important system
+in the nervous system,
+
+229
+00:09:16,910 --> 00:09:19,330
+which is the somatosensory system.
+
+230
+00:09:19,330 --> 00:09:22,890
+The somatosensory system
+is, as the name implies,
+
+231
+00:09:22,890 --> 00:09:26,140
+involved in understanding touch,
+
+232
+00:09:26,140 --> 00:09:28,660
+physical feeling on our body,
+
+233
+00:09:28,660 --> 00:09:31,450
+and the simplest way to think
+about the somatosensory system
+
+234
+00:09:31,450 --> 00:09:33,990
+is that we have little sensors
+
+235
+00:09:33,990 --> 00:09:37,240
+and those sensors come in the
+form of neurons, nerve cells,
+
+236
+00:09:37,240 --> 00:09:38,700
+that reside in our skin
+
+237
+00:09:38,700 --> 00:09:40,730
+and in the deeper layers below the skin,
+
+238
+00:09:40,730 --> 00:09:41,920
+and indeed, we do.
+
+239
+00:09:41,920 --> 00:09:45,390
+We have some that correspond to,
+
+240
+00:09:45,390 --> 00:09:49,000
+and we should say respond
+to, mechanical touch,
+
+241
+00:09:49,000 --> 00:09:53,750
+so pressure on the top
+of my hand or a pinpoint,
+
+242
+00:09:53,750 --> 00:09:58,020
+or other sensors, for instance,
+respond to heat, to cold.
+
+243
+00:09:58,020 --> 00:10:00,920
+Some respond to vibration.
+
+244
+00:10:00,920 --> 00:10:04,640
+We have a huge number of
+different receptors in our skin
+
+245
+00:10:04,640 --> 00:10:07,250
+and they take that information
+
+246
+00:10:07,250 --> 00:10:10,460
+and send it down these
+wires that we call axons
+
+247
+00:10:10,460 --> 00:10:13,010
+in the form of electrical
+signals to our spinal cord
+
+248
+00:10:13,010 --> 00:10:14,450
+and then up to the brain,
+
+249
+00:10:14,450 --> 00:10:16,940
+and within the spinal cord and brain,
+
+250
+00:10:16,940 --> 00:10:19,810
+we have centers that
+interpret that information,
+
+251
+00:10:19,810 --> 00:10:21,970
+that actually make sense of
+those electrical signals,
+
+252
+00:10:21,970 --> 00:10:25,830
+and this is amazing because
+none of those sensors
+
+253
+00:10:25,830 --> 00:10:29,130
+has a different unique form
+of information that it uses.
+
+254
+00:10:29,130 --> 00:10:32,010
+It just sends electrical
+potentials into the nervous system.
+
+255
+00:10:32,010 --> 00:10:33,370
+The nervous system,
+
+256
+00:10:33,370 --> 00:10:38,370
+you somehow decode what a
+given stimulus on your skin is.
+
+257
+00:10:38,430 --> 00:10:41,270
+Maybe it's the wind blowing gently
+
+258
+00:10:41,270 --> 00:10:44,140
+and deflecting some of
+the hairs on your arm
+
+259
+00:10:44,140 --> 00:10:48,540
+or maybe it's a sharp
+pinprick or a hot stove
+
+260
+00:10:48,540 --> 00:10:51,170
+or the warmth of a glowing fire.
+
+261
+00:10:51,170 --> 00:10:53,490
+That all arrives in your nervous system
+
+262
+00:10:53,490 --> 00:10:55,730
+in the form of these electrical things
+
+263
+00:10:55,730 --> 00:10:57,860
+we call action potentials,
+which is just amazing,
+
+264
+00:10:57,860 --> 00:11:01,510
+and then the brain computes
+them and make sense of them.
+
+265
+00:11:01,510 --> 00:11:03,750
+We have peripheral sensors
+
+266
+00:11:03,750 --> 00:11:05,910
+and we've got stations up in our brain
+
+267
+00:11:05,910 --> 00:11:07,130
+and within our spinal cord
+
+268
+00:11:07,130 --> 00:11:10,100
+that make sense of all
+the stuff coming in.
+
+269
+00:11:10,100 --> 00:11:15,010
+Pain and the sensation of
+pain is, believe it or not,
+
+270
+00:11:15,010 --> 00:11:18,010
+a controversial word in
+the neuroscience field.
+
+271
+00:11:18,010 --> 00:11:20,110
+People prefer to use the word nociception.
+
+272
+00:11:21,120 --> 00:11:24,120
+Nociceptors are the sensors in the skin
+
+273
+00:11:24,120 --> 00:11:27,660
+that detect particular types of stimuli.
+
+274
+00:11:27,660 --> 00:11:29,610
+It actually comes from
+the Latin word nocere
+
+275
+00:11:29,610 --> 00:11:30,940
+which means to harm,
+
+276
+00:11:30,940 --> 00:11:33,490
+and why would neuroscientists
+not want to talk about pain?
+
+277
+00:11:33,490 --> 00:11:35,270
+Well, it's very subjective.
+
+278
+00:11:35,270 --> 00:11:38,820
+It has a mental component
+and a physical component.
+
+279
+00:11:38,820 --> 00:11:42,920
+We cannot say that pain
+is simply an attempt
+
+280
+00:11:42,920 --> 00:11:45,690
+to avoid physical harm to the body,
+
+281
+00:11:45,690 --> 00:11:47,140
+and here's why.
+
+282
+00:11:47,140 --> 00:11:49,630
+They actually can be
+dissociated from one another.
+
+283
+00:11:49,630 --> 00:11:53,510
+A good example would be if, God forbid,
+
+284
+00:11:53,510 --> 00:11:55,963
+you were exposed to high
+levels of radiation,
+
+285
+00:11:57,180 --> 00:11:59,480
+such as working with some sort of material
+
+286
+00:11:59,480 --> 00:12:00,830
+that was radioactive
+
+287
+00:12:00,830 --> 00:12:04,080
+or you were near a
+former radioactive plant
+
+288
+00:12:04,080 --> 00:12:05,870
+or some some radiation,
+
+289
+00:12:05,870 --> 00:12:07,620
+excessive X-rays, et cetera,
+
+290
+00:12:07,620 --> 00:12:10,020
+you wouldn't feel any
+pain during the X-rays.
+
+291
+00:12:10,020 --> 00:12:10,853
+In fact, you don't.
+
+292
+00:12:10,853 --> 00:12:12,950
+If you've ever had X-rays, as I have,
+
+293
+00:12:12,950 --> 00:12:14,410
+you don't feel anything.
+
+294
+00:12:14,410 --> 00:12:15,940
+They put you under that lead blanket,
+
+295
+00:12:15,940 --> 00:12:17,810
+they run behind a wall
+and then they, in my case,
+
+296
+00:12:17,810 --> 00:12:19,300
+then they take these
+pictures of your teeth
+
+297
+00:12:19,300 --> 00:12:21,517
+and it's really scary because you go,
+
+298
+00:12:21,517 --> 00:12:23,270
+"Something really terrible
+must be happening here,"
+
+299
+00:12:23,270 --> 00:12:25,070
+but you don't feel anything,
+
+300
+00:12:25,070 --> 00:12:27,780
+but there can be a lot of tissue damage.
+
+301
+00:12:27,780 --> 00:12:31,070
+There can be mutations
+introduced to cells, et cetera.
+
+302
+00:12:31,070 --> 00:12:31,903
+I've had X-rays,
+
+303
+00:12:31,903 --> 00:12:33,250
+I'm not saying people
+shouldn't have X-rays,
+
+304
+00:12:33,250 --> 00:12:35,070
+but excessive X-rays
+certainly are not good
+
+305
+00:12:35,070 --> 00:12:36,560
+for human beings,
+
+306
+00:12:36,560 --> 00:12:39,480
+likewise with excessive
+exposure to any radiation.
+
+307
+00:12:39,480 --> 00:12:43,750
+There can be tissue damage
+without the physical perception
+
+308
+00:12:43,750 --> 00:12:46,870
+or mental perception of pain at all.
+
+309
+00:12:46,870 --> 00:12:50,010
+As well, there can be the belief of pain
+
+310
+00:12:50,010 --> 00:12:52,830
+or the feeling of pain without
+there being tissue damage,
+
+311
+00:12:52,830 --> 00:12:55,500
+and there's a famous
+case that was published
+
+312
+00:12:55,500 --> 00:12:57,580
+in the "British Journal of Medicine"
+
+313
+00:12:57,580 --> 00:12:59,363
+where a construction worker,
+
+314
+00:13:00,200 --> 00:13:03,460
+I think he fell is how the story went,
+
+315
+00:13:03,460 --> 00:13:06,500
+and a 14-inch nail
+
+316
+00:13:06,500 --> 00:13:10,000
+went through his boot
+and up through the boot
+
+317
+00:13:10,000 --> 00:13:13,030
+and he was in excruciating pain
+
+318
+00:13:13,030 --> 00:13:15,010
+just beyond anything he'd experienced.
+
+319
+00:13:15,010 --> 00:13:18,610
+He reported that he couldn't
+even move in any dimension,
+
+320
+00:13:18,610 --> 00:13:21,530
+even a tiny bit, without
+feeling excruciating pain.
+
+321
+00:13:21,530 --> 00:13:24,580
+They brought him into the
+clinic, into the hospital,
+
+322
+00:13:24,580 --> 00:13:26,280
+they were able to cut away the boot
+
+323
+00:13:26,280 --> 00:13:29,990
+and they realized that the
+nail had gone between two toes
+
+324
+00:13:29,990 --> 00:13:33,220
+and it had actually not
+impaled the skin at all.
+
+325
+00:13:33,220 --> 00:13:37,360
+His visual image of the
+nail going through his boot
+
+326
+00:13:37,360 --> 00:13:41,320
+gave him the feeling,
+the legitimate feeling,
+
+327
+00:13:41,320 --> 00:13:43,420
+that he was experiencing the pain
+
+328
+00:13:43,420 --> 00:13:44,770
+of a nail going through his foot,
+
+329
+00:13:44,770 --> 00:13:46,010
+which is incredible
+
+330
+00:13:46,010 --> 00:13:48,570
+because it speaks to the power of the mind
+
+331
+00:13:48,570 --> 00:13:50,480
+in this pain scenario
+
+332
+00:13:50,480 --> 00:13:54,040
+and it also speaks to the
+power of the specificity.
+
+333
+00:13:54,040 --> 00:13:56,060
+It's not like he thought
+that his foot was on fire.
+
+334
+00:13:56,060 --> 00:13:59,240
+He thought, because he saw a
+nail going through his foot,
+
+335
+00:13:59,240 --> 00:14:01,100
+well, it was going through his boot,
+
+336
+00:14:01,100 --> 00:14:02,950
+but he thought it was
+going through his foot,
+
+337
+00:14:02,950 --> 00:14:05,800
+that it was sharp pain of the sort
+
+338
+00:14:05,800 --> 00:14:07,500
+that a nail would produce,
+
+339
+00:14:07,500 --> 00:14:09,240
+and there are thousands
+
+340
+00:14:09,240 --> 00:14:11,800
+of these kinds of case reports out there.
+
+341
+00:14:11,800 --> 00:14:14,270
+That is not to say that
+all pain that we experience
+
+342
+00:14:14,270 --> 00:14:15,770
+is in our head,
+
+343
+00:14:15,770 --> 00:14:18,470
+but it really speaks to
+the incredible capacity
+
+344
+00:14:18,470 --> 00:14:19,990
+that these top-down,
+
+345
+00:14:19,990 --> 00:14:22,920
+these higher-level
+cognitive functions have
+
+346
+00:14:22,920 --> 00:14:25,090
+in interpreting what we're experiencing
+
+347
+00:14:25,090 --> 00:14:26,090
+out in the periphery,
+
+348
+00:14:26,090 --> 00:14:28,620
+even just on the basis of what we see,
+
+349
+00:14:28,620 --> 00:14:31,770
+and the example of
+radiation speaks to the fact
+
+350
+00:14:31,770 --> 00:14:33,610
+that pain and tissue damage
+
+351
+00:14:33,610 --> 00:14:35,513
+are dissociable from one another.
+
+352
+00:14:37,390 --> 00:14:38,380
+Why are we talking about pain
+
+353
+00:14:38,380 --> 00:14:41,500
+during a month on neuroplasticity?
+
+354
+00:14:41,500 --> 00:14:44,280
+Well, it turns out that
+the pain system offers us
+
+355
+00:14:44,280 --> 00:14:48,010
+a number of different principles
+that we can leverage to,
+
+356
+00:14:48,010 --> 00:14:51,080
+A, ensure that if we are ever injured,
+
+357
+00:14:51,080 --> 00:14:52,690
+we are able to understand the difference
+
+358
+00:14:52,690 --> 00:14:55,920
+between injury and pain
+because there is a difference,
+
+359
+00:14:55,920 --> 00:14:57,150
+that if we're ever in pain,
+
+360
+00:14:57,150 --> 00:14:59,370
+that we can understand
+the difference between
+
+361
+00:14:59,370 --> 00:15:00,790
+injury and pain,
+
+362
+00:15:00,790 --> 00:15:02,950
+that we will be able
+to interpret our pain,
+
+363
+00:15:02,950 --> 00:15:04,930
+and during the course of today's podcast,
+
+364
+00:15:04,930 --> 00:15:08,910
+I'm going to cover protocols
+that help eliminate pain
+
+365
+00:15:08,910 --> 00:15:11,040
+from both ends of the spectrum,
+
+366
+00:15:11,040 --> 00:15:14,340
+from the periphery, at
+the level of the injury,
+
+367
+00:15:14,340 --> 00:15:17,890
+and through these top-down
+mental mechanisms.
+
+368
+00:15:17,890 --> 00:15:20,050
+A lot of times on this
+podcast, in fact mostly,
+
+369
+00:15:20,050 --> 00:15:22,500
+I tend to center on the physiology,
+
+370
+00:15:22,500 --> 00:15:24,190
+on the really objective things
+
+371
+00:15:24,190 --> 00:15:26,760
+that you can describe and talk about,
+
+372
+00:15:26,760 --> 00:15:27,740
+diaphragmatic movement
+
+373
+00:15:27,740 --> 00:15:30,300
+or sunlight of a particular
+number of photons, et cetera,
+
+374
+00:15:30,300 --> 00:15:33,200
+but today's a really exciting opportunity
+
+375
+00:15:33,200 --> 00:15:35,380
+for us to discuss some of
+the more subjective things.
+
+376
+00:15:35,380 --> 00:15:37,810
+Believe it or not, we're
+going to talk about love.
+
+377
+00:15:37,810 --> 00:15:39,940
+A colleague of mine at Stanford,
+
+378
+00:15:39,940 --> 00:15:42,113
+who runs a major pain clinic,
+
+379
+00:15:43,070 --> 00:15:47,860
+is working on and has published
+quality peer-reviewed data
+
+380
+00:15:47,860 --> 00:15:52,410
+on the role of love in
+modulating the pain response,
+
+381
+00:15:52,410 --> 00:15:54,310
+only there's a twist to it
+
+382
+00:15:54,310 --> 00:15:55,670
+and I'm not going to reveal it just yet,
+
+383
+00:15:55,670 --> 00:15:59,810
+but it turns out that the
+specific type of connection
+
+384
+00:15:59,810 --> 00:16:01,970
+one has to a romantic partner
+
+385
+00:16:01,970 --> 00:16:05,670
+actually dictates whether
+or not their love for them
+
+386
+00:16:05,670 --> 00:16:07,480
+will alleviate physical pain
+
+387
+00:16:07,480 --> 00:16:09,370
+and the effects are really robust.
+
+388
+00:16:09,370 --> 00:16:10,860
+It's an amazing literature,
+
+389
+00:16:10,860 --> 00:16:12,240
+and so what we're talking about today
+
+390
+00:16:12,240 --> 00:16:14,660
+is plasticity of perception,
+
+391
+00:16:14,660 --> 00:16:18,930
+which has direct bearing on emotional pain
+
+392
+00:16:18,930 --> 00:16:20,900
+and has direct bearing on trauma
+
+393
+00:16:20,900 --> 00:16:22,180
+and other things that we discussed
+
+394
+00:16:22,180 --> 00:16:23,590
+in previous episodes a little bit
+
+395
+00:16:23,590 --> 00:16:25,850
+but that we're going to explore even more
+
+396
+00:16:25,850 --> 00:16:28,253
+in an entire month about those topics.
+
+397
+00:16:29,470 --> 00:16:34,070
+Let's get started in thinking
+about what happens with pain,
+
+398
+00:16:34,070 --> 00:16:36,970
+and I will describe some examples
+
+399
+00:16:36,970 --> 00:16:39,130
+of some kind of extreme cases.
+
+400
+00:16:39,130 --> 00:16:41,470
+For instance, I will tell you just now
+
+401
+00:16:41,470 --> 00:16:42,670
+that there is a mutation,
+
+402
+00:16:42,670 --> 00:16:45,160
+a genetic mutation in a
+particular sodium channel.
+
+403
+00:16:45,160 --> 00:16:48,410
+A sodium channel is one of
+these little holes in neurons
+
+404
+00:16:48,410 --> 00:16:50,350
+that allows them to
+fire action potentials.
+
+405
+00:16:50,350 --> 00:16:51,730
+It's important to the
+function of the neuron.
+
+406
+00:16:51,730 --> 00:16:54,540
+It's also important for the
+development of certain neurons,
+
+407
+00:16:54,540 --> 00:16:56,330
+and there's a particular mutation,
+
+408
+00:16:56,330 --> 00:16:57,530
+there are kids that are born
+
+409
+00:16:57,530 --> 00:16:59,130
+without this sodium channel 1.7,
+
+410
+00:16:59,968 --> 00:17:01,250
+if you want to look it up.
+
+411
+00:17:01,250 --> 00:17:04,780
+Those kids experience no
+pain, no pain whatsoever,
+
+412
+00:17:04,780 --> 00:17:07,160
+and it is a terrible situation.
+
+413
+00:17:07,160 --> 00:17:09,030
+They burn themselves.
+
+414
+00:17:09,030 --> 00:17:11,550
+They tend to rest on their limbs too long.
+
+415
+00:17:11,550 --> 00:17:13,609
+They don't make the microadjustments.
+
+416
+00:17:13,609 --> 00:17:14,929
+You might see me swiveling
+around in my chair,
+
+417
+00:17:14,930 --> 00:17:15,770
+moving around a lot.
+
+418
+00:17:15,770 --> 00:17:17,700
+Those microadjustments are actually
+
+419
+00:17:17,700 --> 00:17:19,829
+normal, healthy microadjustments
+
+420
+00:17:19,829 --> 00:17:21,299
+that prevent us from going into pain.
+
+421
+00:17:21,300 --> 00:17:22,420
+They don't make those adjustments.
+
+422
+00:17:22,420 --> 00:17:23,960
+They don't get the feedback
+
+423
+00:17:23,960 --> 00:17:25,390
+that they're in a particular position
+
+424
+00:17:25,390 --> 00:17:26,900
+and so they never make those adjustments
+
+425
+00:17:26,900 --> 00:17:30,970
+and their joints get
+destroyed, essentially.
+
+426
+00:17:30,970 --> 00:17:33,210
+They don't tend to live
+very long due to accidents.
+
+427
+00:17:33,210 --> 00:17:35,890
+It's a really terrible and
+unfortunate circumstance.
+
+428
+00:17:35,890 --> 00:17:39,090
+Some people have a mutation
+in the same channel
+
+429
+00:17:39,090 --> 00:17:40,630
+where they make too much of this channel
+
+430
+00:17:40,630 --> 00:17:41,760
+so they feel too much pain.
+
+431
+00:17:41,760 --> 00:17:45,260
+In fact, it's reasonable to speculate
+
+432
+00:17:45,260 --> 00:17:46,670
+that one of the reasons, not all,
+
+433
+00:17:46,670 --> 00:17:48,880
+but one of the reasons
+why people might differ
+
+434
+00:17:48,880 --> 00:17:50,400
+in their sensitivity to pain
+
+435
+00:17:50,400 --> 00:17:52,590
+is by way of genetic variation
+
+436
+00:17:52,590 --> 00:17:56,810
+in how many of these sorts of
+receptors that they express.
+
+437
+00:17:56,810 --> 00:17:59,480
+People who make too much of this receptor
+
+438
+00:17:59,480 --> 00:18:03,250
+experience extreme pain
+from even subtle stimuli.
+
+439
+00:18:03,250 --> 00:18:06,250
+The good news is there
+are good drug treatments
+
+440
+00:18:06,250 --> 00:18:09,780
+that can block specifically
+this sodium channel 1.7
+
+441
+00:18:10,660 --> 00:18:12,860
+and so those people get a lot of relief
+
+442
+00:18:12,860 --> 00:18:15,030
+from taking such drugs.
+
+443
+00:18:15,030 --> 00:18:18,780
+Pain and how much pain we are sensitive to
+
+444
+00:18:18,780 --> 00:18:21,900
+or insensitive to probably
+has some genetic basis,
+
+445
+00:18:21,900 --> 00:18:24,380
+and then of course, there
+are things that we can do
+
+446
+00:18:24,380 --> 00:18:26,980
+to make sure that we experience less pain,
+
+447
+00:18:26,980 --> 00:18:29,590
+although pain has this adaptive role.
+
+448
+00:18:29,590 --> 00:18:32,520
+Let's talk about some of the features of
+
+449
+00:18:32,520 --> 00:18:35,780
+how we're built physically
+and how that relates to pain
+
+450
+00:18:35,780 --> 00:18:38,360
+and how we can recover from injury.
+
+451
+00:18:38,360 --> 00:18:39,193
+First of all,
+
+452
+00:18:41,450 --> 00:18:44,140
+we have maps of our body
+surface in our brain.
+
+453
+00:18:44,140 --> 00:18:45,950
+It's called a homunculus.
+
+454
+00:18:45,950 --> 00:18:48,970
+In a rat, believe it or
+not, I'm not making this up,
+
+455
+00:18:48,970 --> 00:18:50,460
+it's called a ratunculus.
+
+456
+00:18:50,460 --> 00:18:53,010
+In Costello, my dog, who
+is snoring behind me,
+
+457
+00:18:53,010 --> 00:18:54,633
+it's a dogunculus.
+
+458
+00:18:55,490 --> 00:18:57,970
+I could get into the nomenclature
+and why it's called this,
+
+459
+00:18:57,970 --> 00:19:00,770
+but it's basically a
+representation of the body surface.
+
+460
+00:19:01,610 --> 00:19:03,890
+That representation is scaled
+
+461
+00:19:03,890 --> 00:19:06,740
+in a way that matches sensitivity,
+
+462
+00:19:06,740 --> 00:19:09,740
+so the areas of your body
+that are most sensitive
+
+463
+00:19:09,740 --> 00:19:12,720
+have a lot more brain real
+estate devoted to them.
+
+464
+00:19:12,720 --> 00:19:15,260
+Your back is an enormous piece of tissue
+
+465
+00:19:15,260 --> 00:19:16,930
+compared to your fingertip,
+
+466
+00:19:16,930 --> 00:19:19,670
+but your back has fewer
+receptors devoted to it
+
+467
+00:19:19,670 --> 00:19:21,680
+and the representation of
+your back in your brain
+
+468
+00:19:21,680 --> 00:19:23,600
+is actually pretty small,
+
+469
+00:19:23,600 --> 00:19:26,763
+whereas the representation
+of your finger is enormous.
+
+470
+00:19:28,274 --> 00:19:32,840
+How big a brain area is
+devoted to a given body part
+
+471
+00:19:32,840 --> 00:19:34,580
+is directly related
+
+472
+00:19:34,580 --> 00:19:36,800
+to the density of receptors
+in that body part,
+
+473
+00:19:36,800 --> 00:19:38,160
+not the size of the body part,
+
+474
+00:19:38,160 --> 00:19:40,700
+and that's why if we were
+to draw your homunculus
+
+475
+00:19:40,700 --> 00:19:42,870
+or Costello's dogunculus,
+
+476
+00:19:42,870 --> 00:19:44,630
+what we would find is that certain areas,
+
+477
+00:19:44,630 --> 00:19:47,050
+like the lips, like the fingertips,
+
+478
+00:19:47,050 --> 00:19:48,370
+like the genitalia,
+
+479
+00:19:48,370 --> 00:19:51,120
+like the eyes and the
+area around the face,
+
+480
+00:19:51,120 --> 00:19:53,300
+would have a huge representation,
+
+481
+00:19:53,300 --> 00:19:55,000
+whereas the back, the torso,
+
+482
+00:19:55,000 --> 00:19:57,610
+and areas of the body
+that are less sensitive
+
+483
+00:19:57,610 --> 00:20:00,040
+are going to have smaller representations.
+
+484
+00:20:00,040 --> 00:20:01,980
+It'd be a very distorted map.
+
+485
+00:20:01,980 --> 00:20:03,600
+You can actually know
+
+486
+00:20:03,600 --> 00:20:07,550
+how sensitive a given body part is
+
+487
+00:20:07,550 --> 00:20:10,620
+and how much brain area is devoted to it
+
+488
+00:20:10,620 --> 00:20:12,740
+through what's called
+two-point discrimination.
+
+489
+00:20:12,740 --> 00:20:13,970
+You can do this experiment if you want.
+
+490
+00:20:13,970 --> 00:20:15,670
+I think I've described
+this once or twice before,
+
+491
+00:20:15,670 --> 00:20:18,980
+but basically if you have someone put,
+
+492
+00:20:18,980 --> 00:20:20,610
+maybe take two pens
+
+493
+00:20:20,610 --> 00:20:24,078
+and put them maybe six
+inches apart on your back
+
+494
+00:20:24,078 --> 00:20:26,600
+and touch while you're facing away
+
+495
+00:20:26,600 --> 00:20:29,870
+and they'll ask you how many
+points they're touching you
+
+496
+00:20:29,870 --> 00:20:31,900
+and you say two,
+
+497
+00:20:31,900 --> 00:20:34,340
+but if they move those closer
+together, say three inches,
+
+498
+00:20:34,340 --> 00:20:37,730
+you're likely to experience
+it as one point of contact,
+
+499
+00:20:37,730 --> 00:20:39,080
+whereas on your finger,
+
+500
+00:20:39,080 --> 00:20:41,340
+you could play that game all day
+
+501
+00:20:41,340 --> 00:20:44,510
+and as long as there's a
+millimeter or so spacing,
+
+502
+00:20:44,510 --> 00:20:46,800
+you will know that it's two
+points as opposed to one
+
+503
+00:20:46,800 --> 00:20:48,220
+and that's because there's more pixels,
+
+504
+00:20:48,220 --> 00:20:50,600
+more density of receptors.
+
+505
+00:20:50,600 --> 00:20:52,410
+This has direct bearing to pain
+
+506
+00:20:52,410 --> 00:20:54,330
+because it says that areas of the body
+
+507
+00:20:54,330 --> 00:20:56,340
+that have denser receptors
+are going to be more sensitive
+
+508
+00:20:56,340 --> 00:20:58,690
+to pain than to others,
+
+509
+00:20:58,690 --> 00:21:01,530
+and where we have more receptors,
+
+510
+00:21:01,530 --> 00:21:05,520
+we tend to have more
+blood vessels and glia,
+
+511
+00:21:05,520 --> 00:21:07,040
+which are the support cells,
+
+512
+00:21:07,040 --> 00:21:10,400
+and other cells that lend
+to the inflammation response
+
+513
+00:21:10,400 --> 00:21:11,803
+and that's really important.
+
+514
+00:21:12,800 --> 00:21:14,320
+Just as a rule of thumb,
+
+515
+00:21:14,320 --> 00:21:16,260
+areas of your body that are injured
+
+516
+00:21:16,260 --> 00:21:19,870
+that are large areas that have
+low sensitivity before injury
+
+517
+00:21:19,870 --> 00:21:23,180
+likely are going to experience less pain
+
+518
+00:21:23,180 --> 00:21:28,180
+and the literature shows
+will heal more slowly
+
+519
+00:21:28,290 --> 00:21:31,080
+because they don't have
+as many cells around
+
+520
+00:21:31,080 --> 00:21:32,570
+to produce inflammation,
+
+521
+00:21:32,570 --> 00:21:35,200
+and you might say, "Wait, I
+thought inflammation is bad."
+
+522
+00:21:35,200 --> 00:21:37,260
+Well, one of the things I
+really want to get across today
+
+523
+00:21:37,260 --> 00:21:40,150
+is that inflammation is not bad.
+
+524
+00:21:40,150 --> 00:21:42,010
+Inflammation out of control is bad,
+
+525
+00:21:42,010 --> 00:21:43,910
+but inflammation is wonderful.
+
+526
+00:21:43,910 --> 00:21:46,720
+Inflammation is the tissue repair response
+
+527
+00:21:46,720 --> 00:21:49,940
+and we are going to talk about
+subjective and objective ways
+
+528
+00:21:49,940 --> 00:21:53,300
+to modulate inflammation
+after tissue injury,
+
+529
+00:21:53,300 --> 00:21:56,203
+even after just exercise
+that's been too intense.
+
+530
+00:21:57,610 --> 00:21:59,550
+You have this map of your body surface.
+
+531
+00:21:59,550 --> 00:22:02,060
+It's sensitive in different
+ways. Now you know why.
+
+532
+00:22:02,060 --> 00:22:05,850
+You've got your neurobiology
+of somatosensation 101
+
+533
+00:22:05,850 --> 00:22:07,360
+under your belt now.
+
+534
+00:22:07,360 --> 00:22:08,470
+We didn't cover everything,
+
+535
+00:22:08,470 --> 00:22:10,660
+but we'll touch on some
+of the other details
+
+536
+00:22:10,660 --> 00:22:12,110
+as we go forward.
+
+537
+00:22:12,110 --> 00:22:14,850
+I thought it might be a nice
+time to just think about
+
+538
+00:22:14,850 --> 00:22:17,200
+the relationship between the
+periphery and the central maps
+
+539
+00:22:17,200 --> 00:22:19,260
+in a way that many of you have
+probably heard about before,
+
+540
+00:22:19,260 --> 00:22:22,550
+which will frame the
+discussion a little bit better,
+
+541
+00:22:22,550 --> 00:22:24,850
+which is phantom limb pain.
+
+542
+00:22:24,850 --> 00:22:26,340
+Some of you are probably
+familiar with this,
+
+543
+00:22:26,340 --> 00:22:30,280
+but for people that have an arm or a leg
+
+544
+00:22:30,280 --> 00:22:35,120
+or a finger or some other
+portion of their body amputated,
+
+545
+00:22:35,120 --> 00:22:37,440
+it's not uncommon for those people
+
+546
+00:22:37,440 --> 00:22:40,560
+to feel as if they still
+have that limb or appendage
+
+547
+00:22:40,560 --> 00:22:42,460
+or piece of their body intact,
+
+548
+00:22:42,460 --> 00:22:45,540
+and typically, unfortunately,
+
+549
+00:22:45,540 --> 00:22:48,470
+the sensation of that limb
+is not one of the limb
+
+550
+00:22:48,470 --> 00:22:52,410
+being nice and relaxed and just there.
+
+551
+00:22:52,410 --> 00:22:56,620
+The sensation is that the
+limb is experiencing pain
+
+552
+00:22:56,620 --> 00:22:59,510
+or is contorted in the
+specific orientation
+
+553
+00:22:59,510 --> 00:23:01,680
+that it was around the time of the injury.
+
+554
+00:23:01,680 --> 00:23:04,530
+If someone has a blunt force to the hand
+
+555
+00:23:04,530 --> 00:23:06,370
+and they end up having
+their hand amputated,
+
+556
+00:23:06,370 --> 00:23:08,780
+typically they will continue to feel pain
+
+557
+00:23:08,780 --> 00:23:11,830
+in their phantom hand,
+which is pretty wild,
+
+558
+00:23:11,830 --> 00:23:14,870
+and that's because the
+representation of that hand
+
+559
+00:23:14,870 --> 00:23:18,240
+is still intact in the
+cortex, in the brain,
+
+560
+00:23:18,240 --> 00:23:21,270
+and it's trying to balance
+its levels of activity.
+
+561
+00:23:21,270 --> 00:23:24,240
+Normally it's getting what's
+called proprioceptive feedback.
+
+562
+00:23:24,240 --> 00:23:26,140
+Proprioception is just our knowledge
+
+563
+00:23:26,140 --> 00:23:27,630
+of where our limbs are in space.
+
+564
+00:23:27,630 --> 00:23:29,490
+It's an extremely important aspect
+
+565
+00:23:29,490 --> 00:23:31,680
+of our somatosensory system,
+
+566
+00:23:31,680 --> 00:23:34,640
+and there's no proprioceptive feedback
+
+567
+00:23:34,640 --> 00:23:36,650
+and so a lot of the
+circuits start to ramp up
+
+568
+00:23:36,650 --> 00:23:37,940
+their levels of activity
+
+569
+00:23:37,940 --> 00:23:40,933
+and they become very
+conscious of the phantom limb.
+
+570
+00:23:42,274 --> 00:23:43,470
+Before my lab was at Stanford,
+
+571
+00:23:43,470 --> 00:23:46,670
+I was at UC San Diego and one
+of my colleagues was a guy,
+
+572
+00:23:46,670 --> 00:23:49,580
+everyone just calls him by
+his last name, Ramachandran,
+
+573
+00:23:49,580 --> 00:23:52,910
+who is famous for understanding
+this phantom limb phenomenon
+
+574
+00:23:52,910 --> 00:23:54,270
+and developing a very simple
+
+575
+00:23:54,270 --> 00:23:56,560
+but very powerful solution to it
+
+576
+00:23:56,560 --> 00:23:59,980
+that speaks to the incredible capacity
+
+577
+00:23:59,980 --> 00:24:01,650
+of top-down modulation,
+
+578
+00:24:01,650 --> 00:24:02,870
+and top-down modulation,
+
+579
+00:24:02,870 --> 00:24:06,590
+the ability to use one's
+brain cognition and senses
+
+580
+00:24:06,590 --> 00:24:08,010
+to control pain in the body,
+
+581
+00:24:08,010 --> 00:24:09,560
+is something that everyone,
+
+582
+00:24:09,560 --> 00:24:12,200
+not just people missing
+limbs or in chronic pain,
+
+583
+00:24:12,200 --> 00:24:15,830
+can learn to benefit from
+because it is a way to tap into
+
+584
+00:24:15,830 --> 00:24:18,140
+our ability to use our mind
+
+585
+00:24:18,140 --> 00:24:22,330
+to control perceptions of
+what's happening in our body,
+
+586
+00:24:22,330 --> 00:24:23,790
+and this is not a mystical statement.
+
+587
+00:24:23,790 --> 00:24:27,490
+This is not about mind, I
+guess, as much as it is brain
+
+588
+00:24:27,490 --> 00:24:29,930
+to control our perceptions of our body.
+
+589
+00:24:29,930 --> 00:24:32,100
+What did Ramachandran do?
+
+590
+00:24:32,100 --> 00:24:37,100
+Ramachandran had people
+who were missing a limb
+
+591
+00:24:37,680 --> 00:24:41,130
+put their intact limb into a box
+
+592
+00:24:41,130 --> 00:24:42,570
+that had mirrors in it
+
+593
+00:24:42,570 --> 00:24:44,470
+such that when they looked in the box
+
+594
+00:24:44,470 --> 00:24:47,200
+and they moved their intact limb,
+
+595
+00:24:47,200 --> 00:24:49,170
+the opposite limb,
+
+596
+00:24:49,170 --> 00:24:51,300
+which was a reflection of the intact limb
+
+597
+00:24:51,300 --> 00:24:53,000
+'cause they're missing the opposite limb,
+
+598
+00:24:53,000 --> 00:24:55,970
+they would see it as if it was intact,
+
+599
+00:24:55,970 --> 00:24:58,060
+and as they would move their intact limb,
+
+600
+00:24:58,060 --> 00:25:01,540
+they would visualize with their eyes
+
+601
+00:25:01,540 --> 00:25:05,390
+the limb that's in the
+place of the absent limb,
+
+602
+00:25:05,390 --> 00:25:06,870
+so this is all by mirrors,
+
+603
+00:25:06,870 --> 00:25:10,520
+moving around and they
+would feel immediate relief
+
+604
+00:25:10,520 --> 00:25:13,080
+from the phantom pain,
+
+605
+00:25:13,080 --> 00:25:16,100
+and he would tell them and
+they would direct their hand
+
+606
+00:25:16,100 --> 00:25:20,400
+toward a orientation that
+felt comfortable to them.
+
+607
+00:25:20,400 --> 00:25:22,150
+Then they would exit the mirror box,
+
+608
+00:25:22,150 --> 00:25:24,770
+they would take their hand out,
+
+609
+00:25:24,770 --> 00:25:26,677
+and they would feel as if
+
+610
+00:25:26,677 --> 00:25:29,610
+the hand was now in its
+relaxed normal position.
+
+611
+00:25:29,610 --> 00:25:32,190
+You could get real time, in moments,
+
+612
+00:25:32,190 --> 00:25:35,070
+remapping of the
+representation of the hand.
+
+613
+00:25:35,070 --> 00:25:36,180
+Now, that's amazing.
+
+614
+00:25:36,180 --> 00:25:37,480
+This is the kind of thing that all of us
+
+615
+00:25:37,480 --> 00:25:39,890
+would like to be able
+to do if we are in pain.
+
+616
+00:25:39,890 --> 00:25:41,810
+If you stub your toe,
+if you break your ankle,
+
+617
+00:25:41,810 --> 00:25:43,660
+if you take a hard fall on your bike
+
+618
+00:25:43,660 --> 00:25:45,536
+or if you're in chronic pain.
+
+619
+00:25:45,536 --> 00:25:47,920
+Wouldn't it be amazing to be able to use
+
+620
+00:25:47,920 --> 00:25:50,530
+a mind trick,
+
+621
+00:25:50,530 --> 00:25:54,140
+but it's not a trick because
+it's real, visual imagery,
+
+622
+00:25:54,140 --> 00:25:57,850
+to remap your representation
+of your body surface
+
+623
+00:25:57,850 --> 00:25:59,260
+and where your body is.
+
+624
+00:25:59,260 --> 00:26:02,540
+That is something that
+we could all benefit from
+
+625
+00:26:02,540 --> 00:26:06,000
+because if you do anything for
+long enough, including live,
+
+626
+00:26:06,000 --> 00:26:08,170
+you're going to experience
+pain of some sort,
+
+627
+00:26:08,170 --> 00:26:10,080
+and this, again I just want to remind you,
+
+628
+00:26:10,080 --> 00:26:12,600
+isn't just about physical
+injuries and pain,
+
+629
+00:26:12,600 --> 00:26:16,160
+this has direct relevance
+to emotional pain as well,
+
+630
+00:26:16,160 --> 00:26:18,243
+which, of course, we'll talk about.
+
+631
+00:26:19,270 --> 00:26:21,330
+The Ramachandran studies
+were really profound
+
+632
+00:26:21,330 --> 00:26:22,560
+because they said a couple things.
+
+633
+00:26:22,560 --> 00:26:25,250
+One, plasticity can be very fast,
+
+634
+00:26:25,250 --> 00:26:28,930
+that it can be driven by
+the experience of something,
+
+635
+00:26:28,930 --> 00:26:29,970
+just the visual experience.
+
+636
+00:26:29,970 --> 00:26:32,490
+He had people do this mirror box thing
+
+637
+00:26:32,490 --> 00:26:34,150
+but not look into the mirror box
+
+638
+00:26:34,150 --> 00:26:35,450
+and they didn't get the remapping,
+
+639
+00:26:35,450 --> 00:26:37,943
+so it required visual imagery coming in.
+
+640
+00:26:39,470 --> 00:26:41,150
+We also know, for instance,
+
+641
+00:26:41,150 --> 00:26:45,713
+that in cases like where
+people are congenitally deaf,
+
+642
+00:26:46,740 --> 00:26:48,050
+the cochlear implant,
+
+643
+00:26:48,050 --> 00:26:51,230
+which is simply a way of
+putting, it's not simple,
+
+644
+00:26:51,230 --> 00:26:53,270
+but it's a way of putting in a device
+
+645
+00:26:53,270 --> 00:26:55,350
+that replaces the cochlea,
+
+646
+00:26:55,350 --> 00:26:59,420
+the device that we're
+normally born with in the ear
+
+647
+00:26:59,420 --> 00:27:01,410
+that has these little
+what are called hair cells
+
+648
+00:27:01,410 --> 00:27:04,320
+that deflect according to sound
+waves and allow us to hear.
+
+649
+00:27:04,320 --> 00:27:07,470
+By replacing the normal hearing apparatus
+
+650
+00:27:07,470 --> 00:27:12,090
+that's deficient in deaf people
+with this cochlear implant,
+
+651
+00:27:12,090 --> 00:27:15,810
+the brain can make sense of
+this artificial ear, basically,
+
+652
+00:27:15,810 --> 00:27:18,830
+it's not the outside ear, not
+the pinna, but the inner ear,
+
+653
+00:27:18,830 --> 00:27:21,870
+and they can start to hear sounds.
+
+654
+00:27:21,870 --> 00:27:26,860
+Some people really like
+the artificial cochlea.
+
+655
+00:27:26,860 --> 00:27:28,640
+They really benefit from it.
+
+656
+00:27:28,640 --> 00:27:31,960
+It restores their ability
+to hear and they like it.
+
+657
+00:27:31,960 --> 00:27:32,990
+Other people don't.
+
+658
+00:27:32,990 --> 00:27:35,460
+Some deaf people would
+prefer not to hear anything,
+
+659
+00:27:35,460 --> 00:27:37,190
+can be very disruptive to them,
+
+660
+00:27:37,190 --> 00:27:39,140
+and some of that might
+have to do with the need
+
+661
+00:27:39,140 --> 00:27:42,470
+for further better engineering
+of these artificial cochleas,
+
+662
+00:27:42,470 --> 00:27:44,730
+but all this really speaks to the fact
+
+663
+00:27:44,730 --> 00:27:47,870
+that the brain is an adaptive device.
+
+664
+00:27:47,870 --> 00:27:50,190
+It will respond to what you give it.
+
+665
+00:27:50,190 --> 00:27:52,060
+It is not a device that is fixed.
+
+666
+00:27:52,060 --> 00:27:53,670
+In fact, the essence of the brain,
+
+667
+00:27:53,670 --> 00:27:54,970
+especially the human brain,
+
+668
+00:27:54,970 --> 00:27:56,960
+is to take sensory inputs
+
+669
+00:27:56,960 --> 00:28:01,040
+and to make sense of those,
+meaning cognitive sense,
+
+670
+00:28:01,040 --> 00:28:02,750
+and then to interpret those signals,
+
+671
+00:28:02,750 --> 00:28:05,230
+and so this may come as
+a shock to some of you
+
+672
+00:28:05,230 --> 00:28:07,140
+and by no means am I
+trying to be insensitive,
+
+673
+00:28:07,140 --> 00:28:10,040
+but pain is a perceptual thing
+
+674
+00:28:10,040 --> 00:28:11,960
+as much as it's a physical thing.
+
+675
+00:28:11,960 --> 00:28:13,920
+It's a belief system about
+
+676
+00:28:13,920 --> 00:28:15,520
+what you're experiencing in your body
+
+677
+00:28:15,520 --> 00:28:17,250
+and that has important relevance
+
+678
+00:28:17,250 --> 00:28:19,130
+for healing different types of injury
+
+679
+00:28:19,130 --> 00:28:21,660
+and the pain associated with that injury.
+
+680
+00:28:21,660 --> 00:28:24,300
+In people's pursuit for neuroplasticity,
+
+681
+00:28:24,300 --> 00:28:26,860
+a question that comes
+up every once in a while
+
+682
+00:28:26,860 --> 00:28:28,247
+is people will say,
+
+683
+00:28:28,247 --> 00:28:30,840
+"If I just brush my teeth
+with the opposite hand
+
+684
+00:28:30,840 --> 00:28:32,090
+for a couple nights in a row,
+
+685
+00:28:32,090 --> 00:28:34,180
+will I get neuroplasticity?"
+
+686
+00:28:34,180 --> 00:28:37,630
+And the answer is probably
+yes. It's a deliberate action.
+
+687
+00:28:37,630 --> 00:28:39,270
+You're focusing on it.
+There's an end goal.
+
+688
+00:28:39,270 --> 00:28:40,810
+You're very likely to make errors,
+
+689
+00:28:40,810 --> 00:28:43,530
+like jamming up into your
+lips and gums at first
+
+690
+00:28:43,530 --> 00:28:44,363
+and then getting better at it,
+
+691
+00:28:44,363 --> 00:28:46,240
+and as you heard in last episode,
+
+692
+00:28:46,240 --> 00:28:48,150
+making errors is really important
+
+693
+00:28:48,150 --> 00:28:49,770
+'cause those errors are the signal
+
+694
+00:28:49,770 --> 00:28:51,390
+that plasticity needs to happen,
+
+695
+00:28:51,390 --> 00:28:54,230
+and then when you get the actions correct,
+
+696
+00:28:54,230 --> 00:28:56,480
+then those correct
+actions are programmed in.
+
+697
+00:28:58,620 --> 00:29:00,260
+I'm not sure that brushing one's teeth
+
+698
+00:29:00,260 --> 00:29:01,970
+with the opposite hand is the most
+
+699
+00:29:03,130 --> 00:29:05,820
+effective use of this
+incredible thing that we have,
+
+700
+00:29:05,820 --> 00:29:06,670
+which is plasticity.
+
+701
+00:29:06,670 --> 00:29:09,740
+It's not going to open up
+plasticity for many other things.
+
+702
+00:29:09,740 --> 00:29:13,380
+If that were really important
+to you, for whatever reason,
+
+703
+00:29:13,380 --> 00:29:14,930
+maybe you have a crowded bathroom
+
+704
+00:29:14,930 --> 00:29:17,180
+and it's easier to do on one
+side or the other, then fine,
+
+705
+00:29:17,180 --> 00:29:18,790
+but it's kind of hard to
+imagine why this would be
+
+706
+00:29:18,790 --> 00:29:20,710
+a highly adaptive behavior,
+
+707
+00:29:20,710 --> 00:29:22,210
+unless, of course, you
+have an injured limb
+
+708
+00:29:22,210 --> 00:29:23,320
+or you're missing a limb,
+
+709
+00:29:23,320 --> 00:29:25,500
+and that gets me to some really exciting
+
+710
+00:29:25,500 --> 00:29:28,040
+and important studies that were performed
+
+711
+00:29:28,040 --> 00:29:31,250
+mostly in the '90s as
+well as in the 2000s,
+
+712
+00:29:31,250 --> 00:29:34,370
+and that, for now, there is
+really a solid base of data.
+
+713
+00:29:34,370 --> 00:29:36,570
+There's really a center of mass around
+
+714
+00:29:37,530 --> 00:29:39,330
+a particular set of experiments
+
+715
+00:29:39,330 --> 00:29:41,680
+that point to particular protocols
+
+716
+00:29:41,680 --> 00:29:44,940
+for how to overcome motor injury,
+
+717
+00:29:44,940 --> 00:29:46,730
+and this may resonate with some of you
+
+718
+00:29:46,730 --> 00:29:48,370
+who've ever been injured to the point
+
+719
+00:29:48,370 --> 00:29:50,840
+where you couldn't walk well,
+
+720
+00:29:50,840 --> 00:29:53,730
+temporarily, I hope, or even longer.
+
+721
+00:29:53,730 --> 00:29:56,260
+Think about a sprained ankle scenario
+
+722
+00:29:56,260 --> 00:29:58,063
+or a broken arm scenario.
+
+723
+00:29:59,610 --> 00:30:01,970
+We're all familiar with
+the stories of people
+
+724
+00:30:01,970 --> 00:30:04,220
+having a cast on and
+then getting the cast off
+
+725
+00:30:04,220 --> 00:30:06,890
+and the particular limb
+that wasn't being used
+
+726
+00:30:06,890 --> 00:30:10,170
+that was casted is much
+smaller and atrophied.
+
+727
+00:30:10,170 --> 00:30:13,430
+Most of that atrophy, you
+might be surprised to learn,
+
+728
+00:30:13,430 --> 00:30:16,030
+is not because the
+muscles aren't being used.
+
+729
+00:30:16,030 --> 00:30:19,060
+It's because the nerves sending
+signals to those muscles
+
+730
+00:30:19,060 --> 00:30:22,513
+are not active and therefore
+the muscles aren't contracting.
+
+731
+00:30:24,620 --> 00:30:26,880
+Work done by a guy named Timothy Schallert
+
+732
+00:30:27,890 --> 00:30:30,200
+and his graduate students and postdocs,
+
+733
+00:30:30,200 --> 00:30:32,020
+Theresa Jones and others,
+
+734
+00:30:32,020 --> 00:30:36,220
+in the '90s and 2000s showed
+something really wonderful
+
+735
+00:30:36,220 --> 00:30:38,150
+that I think we can all benefit from
+
+736
+00:30:38,150 --> 00:30:39,460
+should we have an injury
+
+737
+00:30:39,460 --> 00:30:43,460
+and even if we simply want
+to balance out imbalances
+
+738
+00:30:43,460 --> 00:30:44,930
+in our motor activity,
+
+739
+00:30:44,930 --> 00:30:47,520
+and I think all of us tend to be stronger
+
+740
+00:30:47,520 --> 00:30:49,020
+on one side or the other side.
+
+741
+00:30:49,020 --> 00:30:51,460
+Usually a right-handed person
+
+742
+00:30:51,460 --> 00:30:55,480
+will be stronger in their
+left arm, not always,
+
+743
+00:30:55,480 --> 00:30:57,720
+for compensatory reasons.
+
+744
+00:30:57,720 --> 00:30:59,290
+Some other time we can
+talk about handwriting.
+
+745
+00:30:59,290 --> 00:31:02,440
+The lefties likely will be
+stronger in their right arm,
+
+746
+00:31:02,440 --> 00:31:03,890
+although it depends on whether or not
+
+747
+00:31:03,890 --> 00:31:05,330
+people are hook righties,
+
+748
+00:31:05,330 --> 00:31:07,280
+that's when you hook around
+and write from the top,
+
+749
+00:31:07,280 --> 00:31:08,570
+or hook lefties.
+
+750
+00:31:08,570 --> 00:31:09,870
+There are all sorts of theories about this
+
+751
+00:31:09,870 --> 00:31:11,040
+that we can talk about,
+
+752
+00:31:11,040 --> 00:31:13,250
+right brain, left brain,
+math proficiency, et cetera.
+
+753
+00:31:13,250 --> 00:31:14,830
+In any event,
+
+754
+00:31:14,830 --> 00:31:16,460
+what Schallert and colleagues showed
+
+755
+00:31:16,460 --> 00:31:19,970
+was that if we have damage to our brain
+
+756
+00:31:20,950 --> 00:31:23,580
+in the sensory motor pathways,
+
+757
+00:31:23,580 --> 00:31:25,410
+any number of different
+sensory motor pathways,
+
+758
+00:31:25,410 --> 00:31:29,010
+or we have damage to a limb,
+
+759
+00:31:29,010 --> 00:31:31,460
+could be a leg, could be
+an arm, could be a hand,
+
+760
+00:31:32,370 --> 00:31:36,880
+there's great benefit
+to restricting the use
+
+761
+00:31:36,880 --> 00:31:41,880
+of the opposite,
+better-performing, uninjured limb
+
+762
+00:31:42,150 --> 00:31:45,920
+or hand or other part of the body.
+
+763
+00:31:45,920 --> 00:31:48,470
+They had about a dozen papers showing
+
+764
+00:31:48,470 --> 00:31:50,450
+that if there was damage
+centrally in the brain
+
+765
+00:31:50,450 --> 00:31:52,150
+or there was damage to a limb,
+
+766
+00:31:52,150 --> 00:31:55,270
+so unilateral damage, as we say, one side,
+
+767
+00:31:55,270 --> 00:32:00,270
+the thing to do is not to
+cast up the damaged side,
+
+768
+00:32:00,360 --> 00:32:02,870
+although you need to do
+that to protect the limb,
+
+769
+00:32:02,870 --> 00:32:04,260
+of course, from further damage.
+
+770
+00:32:04,260 --> 00:32:05,990
+If it's a broken arm,
+you need to cast the arm
+
+771
+00:32:05,990 --> 00:32:07,610
+or you need to brace the arm,
+
+772
+00:32:07,610 --> 00:32:11,620
+but that the key thing
+was to restrict movement
+
+773
+00:32:11,620 --> 00:32:14,960
+of the intact, uninjured, opposite limb,
+
+774
+00:32:14,960 --> 00:32:16,980
+and when they did that,
+
+775
+00:32:16,980 --> 00:32:20,440
+it forced some movement
+in the injured limb
+
+776
+00:32:21,290 --> 00:32:23,400
+and remarkably,
+
+777
+00:32:23,400 --> 00:32:26,450
+through connections from
+the two sides of the brain,
+
+778
+00:32:26,450 --> 00:32:27,530
+through the corpus callosum,
+
+779
+00:32:27,530 --> 00:32:28,820
+this huge fiber pathway
+
+780
+00:32:28,820 --> 00:32:30,750
+that links the two sides of the brain,
+
+781
+00:32:30,750 --> 00:32:34,380
+they saw plasticity on
+both sides of the brain.
+
+782
+00:32:34,380 --> 00:32:36,500
+This makes sense when you hear it.
+
+783
+00:32:36,500 --> 00:32:39,660
+Let's say I injure my left ankle
+
+784
+00:32:39,660 --> 00:32:42,970
+and I'm limping along
+or I'm using crutches.
+
+785
+00:32:42,970 --> 00:32:45,110
+You would think, well, the
+last thing you want to do
+
+786
+00:32:45,110 --> 00:32:48,190
+is injure your opposite limb
+or not use your opposite limb.
+
+787
+00:32:48,190 --> 00:32:50,030
+My right ankle is perfectly fine,
+
+788
+00:32:50,030 --> 00:32:53,130
+but if I lean too hard on my right limb
+
+789
+00:32:53,130 --> 00:32:55,677
+and I take all the work
+out of the left limb,
+
+790
+00:32:55,677 --> 00:32:57,460
+the left ankle,
+
+791
+00:32:57,460 --> 00:32:59,220
+that's actually setting up a situation
+
+792
+00:32:59,220 --> 00:33:01,270
+where there's going to
+be runaway asymmetry
+
+793
+00:33:01,270 --> 00:33:02,780
+in the central pathways
+
+794
+00:33:02,780 --> 00:33:06,400
+and the nerve-to-muscle
+pathways on my left side,
+
+795
+00:33:06,400 --> 00:33:07,830
+and so what they suggested
+
+796
+00:33:07,830 --> 00:33:10,760
+and what they showed in
+a variety of experiments
+
+797
+00:33:10,760 --> 00:33:14,470
+was that by encouraging
+activity of the injured limb,
+
+798
+00:33:14,470 --> 00:33:17,560
+provided it could be done without pain,
+
+799
+00:33:17,560 --> 00:33:18,870
+and importantly,
+
+800
+00:33:18,870 --> 00:33:22,180
+not just exercising that
+limb or part of the body
+
+801
+00:33:22,180 --> 00:33:26,103
+but restricting the opposite
+healthy part of the body,
+
+802
+00:33:26,990 --> 00:33:31,150
+that the speed of recovery
+was significantly faster.
+
+803
+00:33:31,150 --> 00:33:32,160
+Now, I want to repeat,
+
+804
+00:33:32,160 --> 00:33:34,050
+you don't want to go
+injuring something further.
+
+805
+00:33:34,050 --> 00:33:36,180
+That's probably the
+worst thing you could do,
+
+806
+00:33:36,180 --> 00:33:39,300
+but in some cases where people
+have damage in their brain,
+
+807
+00:33:39,300 --> 00:33:40,700
+the limbs are perfectly fine,
+
+808
+00:33:40,700 --> 00:33:42,920
+but the motor signals aren't
+getting down to the limbs,
+
+809
+00:33:42,920 --> 00:33:45,430
+and in that case, the limb is fine,
+
+810
+00:33:45,430 --> 00:33:48,650
+so you actually are free to use
+
+811
+00:33:48,650 --> 00:33:50,430
+either limb as much as you
+want, and in that case,
+
+812
+00:33:50,430 --> 00:33:53,430
+you don't want to rely on the
+uninjured pathway too much.
+
+813
+00:33:53,430 --> 00:33:56,430
+In fact, you want to restrict
+the uninjured pathway.
+
+814
+00:33:56,430 --> 00:33:58,460
+I find these studies remarkable
+
+815
+00:33:58,460 --> 00:34:00,500
+and they've been followed up
+on at the molecular level,
+
+816
+00:34:00,500 --> 00:34:02,570
+at the cellar level many times,
+
+817
+00:34:02,570 --> 00:34:04,490
+and I think the physiotherapists out there
+
+818
+00:34:04,490 --> 00:34:06,937
+and the rest of you who are
+involved in sports medicine
+
+819
+00:34:06,937 --> 00:34:08,456
+and some of the physicians will say,
+
+820
+00:34:08,456 --> 00:34:10,139
+"Well, of course that
+makes perfect sense,"
+
+821
+00:34:10,139 --> 00:34:12,969
+but oftentimes this is not what happens.
+
+822
+00:34:12,969 --> 00:34:15,489
+Oftentimes what happens
+is it's all about resting
+
+823
+00:34:15,489 --> 00:34:17,609
+and limiting inflammation, et cetera,
+
+824
+00:34:17,610 --> 00:34:19,489
+of the injured limb
+
+825
+00:34:19,489 --> 00:34:23,859
+or the limbs corresponding to
+the injured part of the brain,
+
+826
+00:34:23,860 --> 00:34:27,610
+and these experiments and
+the collection of them
+
+827
+00:34:27,610 --> 00:34:30,380
+point to the fact that the balance between
+
+828
+00:34:30,380 --> 00:34:33,380
+the right and left side of
+our body is always dynamic.
+
+829
+00:34:33,380 --> 00:34:36,139
+It's always being updated at
+the level of neural circuitry,
+
+830
+00:34:36,139 --> 00:34:37,969
+the Ramachandran studies
+with the mirror box
+
+831
+00:34:37,969 --> 00:34:38,999
+support that too,
+
+832
+00:34:39,000 --> 00:34:42,540
+and that even slight imbalances
+in the two sides of the body
+
+833
+00:34:42,540 --> 00:34:44,040
+can get amplified,
+
+834
+00:34:44,040 --> 00:34:46,730
+and so when you're in a situation
+where one side is injured
+
+835
+00:34:46,730 --> 00:34:49,280
+or the brain is injured
+representing one side of the body,
+
+836
+00:34:49,280 --> 00:34:52,650
+the key thing to do is to really overwork
+
+837
+00:34:52,650 --> 00:34:54,610
+the side that needs the work
+
+838
+00:34:54,610 --> 00:34:57,550
+and to restrict the activity of the side
+
+839
+00:34:57,550 --> 00:34:59,930
+that doesn't need the
+work because it's healthy,
+
+840
+00:34:59,930 --> 00:35:04,450
+and this has great semblance
+to ocular dominance plasticity,
+
+841
+00:35:04,450 --> 00:35:06,390
+which I talked about
+a couple episodes ago.
+
+842
+00:35:06,390 --> 00:35:07,800
+I won't go into it in detail,
+
+843
+00:35:07,800 --> 00:35:10,810
+but where the Nobel Prize
+winning neurobiologists
+
+844
+00:35:10,810 --> 00:35:12,280
+Torsten Wiesel and David Hubel showed
+
+845
+00:35:12,280 --> 00:35:15,470
+that if one eye is closed
+early in development,
+
+846
+00:35:15,470 --> 00:35:19,080
+that the representation of
+the opposite eye in the brain
+
+847
+00:35:19,080 --> 00:35:22,313
+is completely overtaken by the intact eye.
+
+848
+00:35:23,950 --> 00:35:24,783
+This is important.
+
+849
+00:35:24,783 --> 00:35:27,520
+It means that all of our
+senses and our movements
+
+850
+00:35:27,520 --> 00:35:30,380
+are competing for space in our brain
+
+851
+00:35:30,380 --> 00:35:33,550
+and so the way to think
+about the principle is
+
+852
+00:35:33,550 --> 00:35:36,750
+anytime you're injured
+and you're hobbling along,
+
+853
+00:35:36,750 --> 00:35:38,740
+you don't want to injure yourself further,
+
+854
+00:35:38,740 --> 00:35:41,500
+but you want to try and compensate
+
+855
+00:35:41,500 --> 00:35:44,840
+in the ways that respect this competition
+
+856
+00:35:44,840 --> 00:35:46,250
+for neural real estate,
+
+857
+00:35:46,250 --> 00:35:48,920
+and what that usually
+means is not relying on
+
+858
+00:35:48,920 --> 00:35:50,810
+where you're still strong
+
+859
+00:35:50,810 --> 00:35:53,290
+because that's just going
+to create runaway plasticity
+
+860
+00:35:53,290 --> 00:35:54,700
+that's going to make it very hard
+
+861
+00:35:54,700 --> 00:35:57,140
+for you to recover the motor function,
+
+862
+00:35:57,140 --> 00:35:58,880
+and in some cases, the sensory function,
+
+863
+00:35:58,880 --> 00:36:00,660
+of the damaged limb.
+
+864
+00:36:00,660 --> 00:36:02,530
+Some of you may be wondering
+
+865
+00:36:02,530 --> 00:36:05,870
+how long and how often one
+should restrict the activity
+
+866
+00:36:05,870 --> 00:36:09,550
+of the intact or healthy limb,
+
+867
+00:36:09,550 --> 00:36:11,320
+or limbs in some cases,
+
+868
+00:36:11,320 --> 00:36:12,430
+and the answer is
+
+869
+00:36:12,430 --> 00:36:14,260
+you don't have to do
+that all day, every day.
+
+870
+00:36:14,260 --> 00:36:16,290
+These experiments centered on
+
+871
+00:36:16,290 --> 00:36:20,000
+doing one or two hours of dedicated work,
+
+872
+00:36:20,000 --> 00:36:22,140
+sensory motor work or,
+
+873
+00:36:22,140 --> 00:36:25,150
+so for instance, if you had
+a sprained ankle on the left,
+
+874
+00:36:25,150 --> 00:36:28,270
+you might spend part of the
+day where your left leg,
+
+875
+00:36:28,270 --> 00:36:31,083
+provided it's not too
+painful, can be exercised,
+
+876
+00:36:31,960 --> 00:36:34,840
+again, in a way that's not
+damaging to the injury,
+
+877
+00:36:34,840 --> 00:36:37,830
+and the right limb can't
+contribute to that exercise.
+
+878
+00:36:37,830 --> 00:36:40,380
+This might be peddling unilaterally
+
+879
+00:36:40,380 --> 00:36:43,150
+on a stationary bike if you can do that.
+
+880
+00:36:43,150 --> 00:36:46,440
+For a different type of limb
+injury, like an arm injury,
+
+881
+00:36:46,440 --> 00:36:48,590
+this might be reaching,
+
+882
+00:36:48,590 --> 00:36:51,010
+provided the shoulder is
+mobile, doing reaching.
+
+883
+00:36:51,010 --> 00:36:54,910
+It might be even writing
+with the damaged side
+
+884
+00:36:54,910 --> 00:36:56,950
+and then intentionally not writing
+
+885
+00:36:56,950 --> 00:36:59,523
+with the preferred or undamaged side.
+
+886
+00:37:00,770 --> 00:37:03,610
+This has been shown to
+accelerate the central plasticity
+
+887
+00:37:03,610 --> 00:37:05,350
+and the recovery of function,
+
+888
+00:37:05,350 --> 00:37:07,430
+which I think is what most people want
+
+889
+00:37:07,430 --> 00:37:08,390
+when people are injured.
+
+890
+00:37:08,390 --> 00:37:09,560
+They want to get back to doing
+
+891
+00:37:09,560 --> 00:37:11,010
+what they were doing previously
+
+892
+00:37:11,010 --> 00:37:14,113
+and they want to be able
+to do that without pain.
+
+893
+00:37:15,160 --> 00:37:16,760
+This brings up another topic,
+
+894
+00:37:16,760 --> 00:37:20,440
+which is definitely related
+to neuroplasticity and injury
+
+895
+00:37:20,440 --> 00:37:23,870
+but is a more general one
+that I hear about a lot,
+
+896
+00:37:23,870 --> 00:37:25,320
+which is traumatic brain injury.
+
+897
+00:37:25,320 --> 00:37:27,830
+Many injuries are not just about the limb
+
+898
+00:37:27,830 --> 00:37:29,880
+and the lack of use of the limb
+
+899
+00:37:29,880 --> 00:37:31,940
+but concussion and head injury,
+
+900
+00:37:31,940 --> 00:37:34,330
+and I want to emphasize
+I'm not a neurologist.
+
+901
+00:37:34,330 --> 00:37:35,420
+I have many colleagues that are.
+
+902
+00:37:35,420 --> 00:37:38,800
+At some point, we will
+do a whole month on TBI
+
+903
+00:37:38,800 --> 00:37:40,550
+because it's such a serious issue
+
+904
+00:37:40,550 --> 00:37:42,363
+and it's such a huge discussion,
+
+905
+00:37:43,210 --> 00:37:44,930
+but I want to talk a little bit about
+
+906
+00:37:44,930 --> 00:37:48,130
+what is known about
+recovery from concussion,
+
+907
+00:37:48,130 --> 00:37:52,850
+and this is very important
+because it has implications
+
+908
+00:37:52,850 --> 00:37:54,540
+for just normal aging as well
+
+909
+00:37:54,540 --> 00:37:58,210
+and offsetting some of
+the cognitive decline
+
+910
+00:37:58,210 --> 00:38:00,983
+and physical decline that
+occurs with normal aging.
+
+911
+00:38:02,000 --> 00:38:04,470
+We shouldn't think of TBI as
+just for the football players
+
+912
+00:38:04,470 --> 00:38:06,080
+or just for the kids that had an injury
+
+913
+00:38:06,080 --> 00:38:07,770
+or just for the person that
+was in the car accident.
+
+914
+00:38:07,770 --> 00:38:09,040
+We want to learn about TBI
+
+915
+00:38:09,040 --> 00:38:11,100
+and understand TBI for those folks,
+
+916
+00:38:11,100 --> 00:38:14,230
+but we're also going to talk about TBI
+
+917
+00:38:14,230 --> 00:38:18,510
+as it relates to general
+degradation of brain function
+
+918
+00:38:18,510 --> 00:38:21,030
+because there's a
+certain resemblance there
+
+919
+00:38:21,030 --> 00:38:23,910
+of TBI to general brain aging.
+
+920
+00:38:23,910 --> 00:38:25,120
+Typically after TBI,
+
+921
+00:38:25,120 --> 00:38:26,600
+there are a number of
+different things that happen
+
+922
+00:38:26,600 --> 00:38:30,053
+and there are a huge range of
+things that can create TBI.
+
+923
+00:38:31,040 --> 00:38:34,030
+Neurologists and the
+emergency room physicians
+
+924
+00:38:34,030 --> 00:38:35,130
+are going to want to know
+
+925
+00:38:37,302 --> 00:38:38,930
+was the skull itself injured
+
+926
+00:38:38,930 --> 00:38:41,203
+or did the brain rattle
+around in the skull?
+
+927
+00:38:42,450 --> 00:38:45,310
+Was there actually a
+breach through the skull?
+
+928
+00:38:45,310 --> 00:38:47,600
+Is there a physical object in there?
+
+929
+00:38:47,600 --> 00:38:49,510
+How many concussions has the person had?
+
+930
+00:38:49,510 --> 00:38:52,750
+Everyone's situation with
+TBI is incredibly different,
+
+931
+00:38:52,750 --> 00:38:54,540
+but there's a constellation of symptoms
+
+932
+00:38:54,540 --> 00:38:56,670
+that many people, if
+not all people with TBI,
+
+933
+00:38:56,670 --> 00:38:58,880
+report which is headache,
+
+934
+00:38:58,880 --> 00:39:01,920
+photophobia, that lights become aversive,
+
+935
+00:39:01,920 --> 00:39:04,330
+sleep disruption, trouble concentrating,
+
+936
+00:39:04,330 --> 00:39:06,720
+sometimes mood issues.
+
+937
+00:39:06,720 --> 00:39:07,970
+There's a huge range
+
+938
+00:39:07,970 --> 00:39:10,623
+and of course the severity
+will vary, et cetera.
+
+939
+00:39:11,710 --> 00:39:15,130
+In a previous episode, I
+mentioned the Kennard Principle.
+
+940
+00:39:15,130 --> 00:39:16,480
+The Kennard Principle,
+
+941
+00:39:16,480 --> 00:39:18,930
+named after the famous neurologist,
+
+942
+00:39:18,930 --> 00:39:22,640
+named by and after the famous
+neurologist Margaret Kennard,
+
+943
+00:39:22,640 --> 00:39:24,120
+said that if you're going
+to get a brain injury,
+
+944
+00:39:24,120 --> 00:39:26,220
+better to get it early in
+life than later in life
+
+945
+00:39:26,220 --> 00:39:28,080
+and that's because the
+brain has a much greater
+
+946
+00:39:28,080 --> 00:39:30,620
+or heightened capacity
+for repairing itself
+
+947
+00:39:30,620 --> 00:39:32,340
+early in life than later,
+
+948
+00:39:32,340 --> 00:39:34,320
+but of course, none of us want TBI
+
+949
+00:39:34,320 --> 00:39:36,260
+and you can't pick when you get your TBI.
+
+950
+00:39:36,260 --> 00:39:39,050
+You can avoid certain activities
+that would give you TBI,
+
+951
+00:39:39,050 --> 00:39:42,230
+but really, when it comes to TBI,
+
+952
+00:39:42,230 --> 00:39:44,350
+there are a couple of things that are
+
+953
+00:39:44,350 --> 00:39:46,040
+agreed upon across the board.
+
+954
+00:39:46,040 --> 00:39:47,120
+The first one is,
+
+955
+00:39:47,120 --> 00:39:48,990
+as much as possible you want to avoid
+
+956
+00:39:48,990 --> 00:39:52,180
+a second traumatic brain
+injury or concussion.
+
+957
+00:39:52,180 --> 00:39:54,720
+That's going to be a tough
+one for some of the athletes
+
+958
+00:39:54,720 --> 00:39:57,480
+and even recreational athletes to swallow
+
+959
+00:39:57,480 --> 00:40:00,300
+because they want to
+continue in their sport,
+
+960
+00:40:00,300 --> 00:40:01,690
+and I'm not here to tell you
+
+961
+00:40:01,690 --> 00:40:02,770
+that you should or you shouldn't,
+
+962
+00:40:02,770 --> 00:40:07,310
+but that's simply the way that it is.
+
+963
+00:40:07,310 --> 00:40:08,940
+For folks that are in military
+
+964
+00:40:08,940 --> 00:40:11,440
+or that are in certain professions,
+
+965
+00:40:11,440 --> 00:40:14,350
+construction is a place
+where we see a lot of TBI.
+
+966
+00:40:14,350 --> 00:40:15,710
+It's not always just football.
+
+967
+00:40:15,710 --> 00:40:18,010
+A lot of construction workers
+are dealing with heavy objects
+
+968
+00:40:18,010 --> 00:40:19,890
+swinging around in space.
+
+969
+00:40:19,890 --> 00:40:21,520
+They wear those hardhat helmets,
+
+970
+00:40:21,520 --> 00:40:23,380
+which unfortunately don't protect much
+
+971
+00:40:23,380 --> 00:40:26,000
+against a lot of those blunt forces
+
+972
+00:40:26,000 --> 00:40:28,880
+and certainly not against
+falls and things of that sort.
+
+973
+00:40:28,880 --> 00:40:31,390
+Many people, in order to
+survive and feed their families,
+
+974
+00:40:31,390 --> 00:40:32,603
+have to go back to work.
+
+975
+00:40:33,460 --> 00:40:36,180
+It's very clear that
+regardless of whether or not
+
+976
+00:40:36,180 --> 00:40:37,310
+there was a skull break
+
+977
+00:40:37,310 --> 00:40:39,440
+and regardless of when the TBI happened
+
+978
+00:40:39,440 --> 00:40:41,770
+and how many times it's happened,
+
+979
+00:40:41,770 --> 00:40:45,543
+that the system that repairs
+the brain, the adult brain,
+
+980
+00:40:46,400 --> 00:40:49,540
+is mainly centered around
+this lymphatic system
+
+981
+00:40:49,540 --> 00:40:52,833
+that we call, for the brain,
+the glymphatic system.
+
+982
+00:40:53,700 --> 00:40:55,940
+The brain wasn't thought
+to have a lymphatic system.
+
+983
+00:40:55,940 --> 00:40:58,300
+It wasn't thought to have
+circulating immune cells,
+
+984
+00:40:58,300 --> 00:41:01,860
+but about 10 years ago it
+was sort of rediscovered
+
+985
+00:41:01,860 --> 00:41:02,930
+because if you look in the literature
+
+986
+00:41:02,930 --> 00:41:04,750
+you realize this stuff was around longer,
+
+987
+00:41:04,750 --> 00:41:06,040
+that there's a glymphatic system.
+
+988
+00:41:06,040 --> 00:41:09,630
+It's sort of like a sewer
+system that clears out
+
+989
+00:41:09,630 --> 00:41:11,820
+the debris that surrounds neurons,
+
+990
+00:41:11,820 --> 00:41:13,390
+especially injured neurons,
+
+991
+00:41:13,390 --> 00:41:17,520
+and the glymphatic system
+is very active during sleep.
+
+992
+00:41:17,520 --> 00:41:21,950
+It's been imaged in functional
+magnetic resonance imaging
+
+993
+00:41:21,950 --> 00:41:23,620
+and the glymphatic system is something
+
+994
+00:41:23,620 --> 00:41:25,000
+that you want very active
+
+995
+00:41:25,000 --> 00:41:26,790
+because it's going to
+clear away the debris
+
+996
+00:41:26,790 --> 00:41:28,940
+that sits between the neurons,
+
+997
+00:41:28,940 --> 00:41:31,480
+and the cells that surround
+
+998
+00:41:31,480 --> 00:41:34,470
+the connections between the
+neurons, called the glia,
+
+999
+00:41:34,470 --> 00:41:36,290
+those cells are actively involved
+
+1000
+00:41:36,290 --> 00:41:39,923
+in repairing the connections
+between neurons when damaged.
+
+1001
+00:41:41,220 --> 00:41:44,930
+The glymphatic system is so important
+
+1002
+00:41:44,930 --> 00:41:47,820
+that many people, if not
+all people who get TBI,
+
+1003
+00:41:47,820 --> 00:41:50,790
+are told, "Get adequate
+rest, you need to sleep,"
+
+1004
+00:41:50,790 --> 00:41:52,140
+and that's kind of twofold advice.
+
+1005
+00:41:52,140 --> 00:41:54,230
+On the one hand, it's
+telling you to get sleep
+
+1006
+00:41:54,230 --> 00:41:56,300
+because all these good
+things happen in sleep.
+
+1007
+00:41:56,300 --> 00:41:59,180
+It's also about getting those people
+
+1008
+00:41:59,180 --> 00:42:01,910
+to not continue to engage
+in their activity full time
+
+1009
+00:42:01,910 --> 00:42:03,710
+or really try and hammer through it.
+
+1010
+00:42:04,990 --> 00:42:07,040
+You might say, "Well, if
+you have trouble sleeping,
+
+1011
+00:42:07,040 --> 00:42:09,120
+how are you supposed to get deep sleep?"
+
+1012
+00:42:09,120 --> 00:42:11,140
+Most of the activity of
+the glymphatic system,
+
+1013
+00:42:11,140 --> 00:42:12,630
+this wash out of the debris,
+
+1014
+00:42:12,630 --> 00:42:15,130
+is occurring during slow-wave sleep.
+
+1015
+00:42:15,130 --> 00:42:18,130
+Slow-wave sleep, as I mentioned
+in a previous episode,
+
+1016
+00:42:18,130 --> 00:42:19,260
+is something that happens typically
+
+1017
+00:42:19,260 --> 00:42:21,550
+in the early part of the evening.
+
+1018
+00:42:21,550 --> 00:42:23,120
+Even for those of you that are falling,
+
+1019
+00:42:23,120 --> 00:42:24,520
+or early part of the night, rather,
+
+1020
+00:42:24,520 --> 00:42:25,910
+if you're falling asleep
+and then waking up
+
+1021
+00:42:25,910 --> 00:42:26,930
+three, four hours later,
+
+1022
+00:42:26,930 --> 00:42:30,750
+it's important that you
+continue to get sleep
+
+1023
+00:42:30,750 --> 00:42:32,640
+but know that the slow-wave sleep
+
+1024
+00:42:32,640 --> 00:42:35,640
+is mainly packed toward the
+early part of the night,
+
+1025
+00:42:35,640 --> 00:42:39,540
+so that hopefully will
+alleviate some of the anxiety
+
+1026
+00:42:39,540 --> 00:42:41,100
+of the 3:00 and 4:00 am wake up,
+
+1027
+00:42:41,100 --> 00:42:42,810
+although you really should follow
+
+1028
+00:42:42,810 --> 00:42:44,410
+some of the protocols that I've suggested
+
+1029
+00:42:44,410 --> 00:42:45,660
+and your physician's protocols
+
+1030
+00:42:45,660 --> 00:42:48,090
+in order to try and get
+regular, longer sleep
+
+1031
+00:42:48,090 --> 00:42:49,360
+of seven, eight hours.
+
+1032
+00:42:49,360 --> 00:42:51,050
+Later, we're going to talk
+about the eight-hour mark
+
+1033
+00:42:51,050 --> 00:42:52,943
+as a prerequisite for repair.
+
+1034
+00:42:54,000 --> 00:42:56,920
+The glymphatic system has been shown
+
+1035
+00:42:56,920 --> 00:43:00,490
+to be activated further in two ways.
+
+1036
+00:43:00,490 --> 00:43:03,960
+One is that sleeping on one side,
+
+1037
+00:43:03,960 --> 00:43:05,590
+not on back or stomach,
+
+1038
+00:43:05,590 --> 00:43:09,540
+seems to increase the amount of wash out,
+
+1039
+00:43:09,540 --> 00:43:11,520
+or wash through, I should say,
+
+1040
+00:43:11,520 --> 00:43:12,900
+of the glymphatic system.
+
+1041
+00:43:12,900 --> 00:43:14,240
+There aren't a ton of data on this,
+
+1042
+00:43:14,240 --> 00:43:17,110
+but the data that exist are pretty solid.
+
+1043
+00:43:17,110 --> 00:43:19,210
+Again, sleeping on one side
+
+1044
+00:43:19,210 --> 00:43:23,420
+or with feet slightly elevated, as well,
+
+1045
+00:43:23,420 --> 00:43:26,550
+has been shown to increase
+the rate of clearance
+
+1046
+00:43:26,550 --> 00:43:27,830
+of some of the debris
+
+1047
+00:43:27,830 --> 00:43:31,310
+and that's because the way that
+the glymphatic system works
+
+1048
+00:43:31,310 --> 00:43:35,610
+is it has a physical
+pressure fluid dynamic to it
+
+1049
+00:43:35,610 --> 00:43:38,950
+that allow it to work more efficiently
+
+1050
+00:43:38,950 --> 00:43:40,490
+when one is sleeping on their side
+
+1051
+00:43:40,490 --> 00:43:42,290
+or with feet slightly elevated.
+
+1052
+00:43:42,290 --> 00:43:46,130
+This means not falling asleep
+in a chair while watching TV.
+
+1053
+00:43:46,130 --> 00:43:48,080
+This means, if possible,
+
+1054
+00:43:48,080 --> 00:43:50,720
+not falling asleep on one's
+back or on one's stomach,
+
+1055
+00:43:50,720 --> 00:43:52,220
+sleeping on one's side,
+
+1056
+00:43:52,220 --> 00:43:53,590
+and if you can't do that,
+
+1057
+00:43:53,590 --> 00:43:55,040
+I don't really like to sleep on my side.
+
+1058
+00:43:55,040 --> 00:43:56,530
+I sleep with my feet slightly elevated.
+
+1059
+00:43:56,530 --> 00:43:58,590
+I put a thin pillow under my ankles.
+
+1060
+00:43:58,590 --> 00:44:03,590
+I don't have TBI, but I have
+had a few concussions before,
+
+1061
+00:44:03,590 --> 00:44:05,520
+but right now I feel fine,
+
+1062
+00:44:05,520 --> 00:44:08,230
+but I find that putting
+the pillow under my ankles
+
+1063
+00:44:08,230 --> 00:44:10,060
+helps me sleep much more deeply
+
+1064
+00:44:10,060 --> 00:44:12,810
+and I wake up feeling much more refreshed.
+
+1065
+00:44:12,810 --> 00:44:15,490
+The other thing that has been shown
+
+1066
+00:44:15,490 --> 00:44:18,900
+to improve the function
+of the glymphatic system,
+
+1067
+00:44:18,900 --> 00:44:21,860
+and this is, again, is for sake of TBI
+
+1068
+00:44:21,860 --> 00:44:25,500
+as well as for everyone,
+even without brain injury,
+
+1069
+00:44:25,500 --> 00:44:27,910
+is a certain form of exercise,
+
+1070
+00:44:27,910 --> 00:44:29,790
+and I want to be very, very clear here.
+
+1071
+00:44:29,790 --> 00:44:32,490
+I will never and I am not suggesting
+
+1072
+00:44:32,490 --> 00:44:35,360
+that people exercise in any way
+
+1073
+00:44:35,360 --> 00:44:38,150
+that aggravates their injury
+
+1074
+00:44:38,150 --> 00:44:41,440
+or that goes against
+their physician's advice.
+
+1075
+00:44:41,440 --> 00:44:43,040
+Take your physician's advice
+
+1076
+00:44:43,040 --> 00:44:45,960
+as to whether or not you
+should be exercising at all
+
+1077
+00:44:45,960 --> 00:44:48,270
+and how much and then to what intensity.
+
+1078
+00:44:48,270 --> 00:44:51,320
+However, there's some interesting data,
+
+1079
+00:44:51,320 --> 00:44:54,550
+and we can provide a link
+to the review on this.
+
+1080
+00:44:54,550 --> 00:44:56,770
+It shows that exercise of
+
+1081
+00:44:56,770 --> 00:45:00,110
+what I guess people would
+nowadays call it Zone 2 cardio,
+
+1082
+00:45:00,110 --> 00:45:03,530
+which is low-level
+cardio that one could do
+
+1083
+00:45:03,530 --> 00:45:04,930
+while talking to somebody else.
+
+1084
+00:45:04,930 --> 00:45:06,440
+You could maintain a conversation,
+
+1085
+00:45:06,440 --> 00:45:08,320
+although you don't have
+to talk to somebody else.
+
+1086
+00:45:08,320 --> 00:45:11,020
+It just gives you a sense of
+the intensity of the exercise.
+
+1087
+00:45:11,020 --> 00:45:12,700
+That Zone 2 cardio
+
+1088
+00:45:12,700 --> 00:45:15,970
+for 30 to 45 minutes 3 times a week
+
+1089
+00:45:15,970 --> 00:45:19,530
+seems to improve the rates of clearance
+
+1090
+00:45:19,530 --> 00:45:22,400
+of some of the debris after injury,
+
+1091
+00:45:22,400 --> 00:45:24,680
+and in general, injury or no,
+
+1092
+00:45:24,680 --> 00:45:28,810
+to accelerate and
+improve the rates of flow
+
+1093
+00:45:28,810 --> 00:45:31,150
+for the glymphatic system.
+
+1094
+00:45:31,150 --> 00:45:32,600
+I find this really interesting
+
+1095
+00:45:32,600 --> 00:45:34,590
+because I think nowadays
+there's such an obsession
+
+1096
+00:45:34,590 --> 00:45:36,770
+with high-intensity interval training
+
+1097
+00:45:36,770 --> 00:45:39,180
+and people trying to pack
+in as much as they can
+
+1098
+00:45:39,180 --> 00:45:40,410
+into a short workout,
+
+1099
+00:45:40,410 --> 00:45:42,550
+which is great if it
+brings people to the table
+
+1100
+00:45:42,550 --> 00:45:44,460
+who haven't been exercising before,
+
+1101
+00:45:44,460 --> 00:45:47,560
+but I think it's really
+important that we know
+
+1102
+00:45:47,560 --> 00:45:48,987
+that the data on exercise
+
+1103
+00:45:48,987 --> 00:45:51,230
+and its relationship to brain health
+
+1104
+00:45:51,230 --> 00:45:54,560
+speak to doing 30 to 45 minutes
+
+1105
+00:45:54,560 --> 00:45:57,960
+of this what we call low-level cardio.
+
+1106
+00:45:57,960 --> 00:45:59,640
+It could be fast walking.
+
+1107
+00:45:59,640 --> 00:46:00,950
+It could be jogging
+
+1108
+00:46:00,950 --> 00:46:03,100
+if you can do that with
+your injury safely.
+
+1109
+00:46:03,100 --> 00:46:04,690
+It could be cycling.
+
+1110
+00:46:04,690 --> 00:46:06,490
+This is not the kind of workout
+
+1111
+00:46:06,490 --> 00:46:09,110
+that's designed to get your
+heart rate up to the point
+
+1112
+00:46:09,110 --> 00:46:10,920
+where you're improving your fitness levels
+
+1113
+00:46:10,920 --> 00:46:14,330
+at some sort of massive rate
+
+1114
+00:46:14,330 --> 00:46:18,090
+or taking huge jumps in your
+VO2 max or anything like that.
+
+1115
+00:46:18,090 --> 00:46:19,150
+This is exercise,
+
+1116
+00:46:19,150 --> 00:46:22,060
+I do this and I know a
+number of other people,
+
+1117
+00:46:22,060 --> 00:46:23,210
+especially people in communities
+
+1118
+00:46:23,210 --> 00:46:24,730
+where there is a lot of TBI,
+
+1119
+00:46:24,730 --> 00:46:27,040
+are now starting to adopt this,
+
+1120
+00:46:27,040 --> 00:46:30,450
+that the 30 to 45 minutes
+3 times a week or so,
+
+1121
+00:46:30,450 --> 00:46:31,283
+could be more,
+
+1122
+00:46:32,240 --> 00:46:35,720
+of this Zone 2 type cardio
+can be very beneficial
+
+1123
+00:46:35,720 --> 00:46:37,870
+for washout of debris from the brain,
+
+1124
+00:46:37,870 --> 00:46:40,380
+and this is really
+interesting outside of TBI
+
+1125
+00:46:40,380 --> 00:46:42,810
+because what we know from aging
+
+1126
+00:46:42,810 --> 00:46:45,450
+is that aging is a nonlinear process.
+
+1127
+00:46:45,450 --> 00:46:47,270
+It's not like with every year of life
+
+1128
+00:46:47,270 --> 00:46:49,714
+your brain gets a little older.
+
+1129
+00:46:49,714 --> 00:46:51,437
+Sometimes it follows what's
+more like a step function
+
+1130
+00:46:51,437 --> 00:46:55,760
+where you get these big
+jumps in markers of aging.
+
+1131
+00:46:55,760 --> 00:46:57,480
+I guess that we could
+think of them as jumps down
+
+1132
+00:46:57,480 --> 00:47:00,070
+because it's a negative
+thing for most everybody.
+
+1133
+00:47:00,070 --> 00:47:02,850
+We'd like to live longer and
+be healthier in brain and body,
+
+1134
+00:47:02,850 --> 00:47:06,320
+and so the types of exercise
+I'm referring to now
+
+1135
+00:47:06,320 --> 00:47:09,140
+are really more about brain longevity
+
+1136
+00:47:09,140 --> 00:47:11,380
+and about keeping the brain healthy
+
+1137
+00:47:11,380 --> 00:47:14,230
+than they are about physical fitness.
+
+1138
+00:47:14,230 --> 00:47:17,080
+There's no reason why you
+couldn't do this and also,
+
+1139
+00:47:17,080 --> 00:47:19,210
+provided, again, it's safe for you
+
+1140
+00:47:19,210 --> 00:47:21,863
+given your brain state and
+injury state, et cetera,
+
+1141
+00:47:23,070 --> 00:47:24,860
+there's no reason why you
+couldn't also combine it
+
+1142
+00:47:24,860 --> 00:47:27,410
+with weight training and
+other forms of cardio.
+
+1143
+00:47:27,410 --> 00:47:28,660
+I think this is really interesting
+
+1144
+00:47:28,660 --> 00:47:30,780
+and if some of you would
+like to know the mechanism
+
+1145
+00:47:30,780 --> 00:47:33,310
+or at least the hypothesized mechanism,
+
+1146
+00:47:33,310 --> 00:47:36,900
+there's a molecule called aquaporin-4.
+
+1147
+00:47:36,900 --> 00:47:38,330
+It almost sounds like
+
+1148
+00:47:38,330 --> 00:47:40,980
+the fourth in a sequel of
+movies or something like that,
+
+1149
+00:47:40,980 --> 00:47:44,630
+but aquaporin-4 is a molecule
+
+1150
+00:47:44,630 --> 00:47:47,970
+that is related to the glial system.
+
+1151
+00:47:47,970 --> 00:47:49,750
+Glia are the, it means glue in Latin,
+
+1152
+00:47:49,750 --> 00:47:51,380
+are these cells in the brain,
+
+1153
+00:47:51,380 --> 00:47:53,360
+the most numerous cells
+in the brain, in fact,
+
+1154
+00:47:53,360 --> 00:47:56,130
+that ensheathe synapses, but
+they're very dynamic cells.
+
+1155
+00:47:56,130 --> 00:47:57,820
+They're like little ambulant cells.
+
+1156
+00:47:57,820 --> 00:47:59,530
+The microglia will run in
+
+1157
+00:47:59,530 --> 00:48:02,160
+and will gather up debris and soak it up
+
+1158
+00:48:02,160 --> 00:48:04,714
+and then run out after an injury.
+
+1159
+00:48:04,714 --> 00:48:06,080
+Aquaporin-4 is mainly expressed
+
+1160
+00:48:06,080 --> 00:48:07,940
+by the glial cell called the astrocyte.
+
+1161
+00:48:07,940 --> 00:48:10,020
+Astro, it looks like a little star.
+
+1162
+00:48:10,020 --> 00:48:11,740
+Incredibly interesting cells
+
+1163
+00:48:11,740 --> 00:48:14,770
+and the thing to remember is
+
+1164
+00:48:14,770 --> 00:48:17,330
+that the astrocytes bridge the connection
+
+1165
+00:48:17,330 --> 00:48:18,923
+between the neurons,
+
+1166
+00:48:19,760 --> 00:48:23,040
+the synapse, the connections between them,
+
+1167
+00:48:23,040 --> 00:48:25,360
+and the vasculature, the blood system,
+
+1168
+00:48:25,360 --> 00:48:27,286
+and the glymphatic system.
+
+1169
+00:48:27,286 --> 00:48:29,100
+They sit at the interface
+and they kind of,
+
+1170
+00:48:29,100 --> 00:48:31,670
+imagine somebody on an
+emergency site, car crash site,
+
+1171
+00:48:31,670 --> 00:48:33,900
+who's directing everybody
+around as to what to do.
+
+1172
+00:48:33,900 --> 00:48:36,910
+Get that person on a
+stretcher, bandage them up,
+
+1173
+00:48:36,910 --> 00:48:38,910
+call their mother, et cetera, et cetera,
+
+1174
+00:48:38,910 --> 00:48:41,250
+get this out of the road,
+put down some flares.
+
+1175
+00:48:41,250 --> 00:48:43,470
+The astrocytes work in that capacity
+
+1176
+00:48:43,470 --> 00:48:45,620
+as well as doing some
+things more directly.
+
+1177
+00:48:47,100 --> 00:48:49,900
+This glymphatic system and
+the glial astrocyte system
+
+1178
+00:48:49,900 --> 00:48:52,840
+is a system that we
+want chronically active
+
+1179
+00:48:52,840 --> 00:48:54,950
+throughout the day as much as possible,
+
+1180
+00:48:54,950 --> 00:48:57,050
+so low-level walking, Zone 2 cardio,
+
+1181
+00:48:57,050 --> 00:48:59,300
+and then at night, during slow-wave sleep,
+
+1182
+00:48:59,300 --> 00:49:02,193
+is then really when this
+glymphatic system kicks in.
+
+1183
+00:49:02,193 --> 00:49:04,790
+That should hopefully be
+an actionable takeaway,
+
+1184
+00:49:04,790 --> 00:49:07,440
+provided that you can do
+that kind of cardio safely,
+
+1185
+00:49:07,440 --> 00:49:09,710
+that I believe everybody should be doing
+
+1186
+00:49:09,710 --> 00:49:11,270
+who cares about brain longevity,
+
+1187
+00:49:11,270 --> 00:49:13,743
+not just people who are
+trying to get over TBI.
+
+1188
+00:49:14,850 --> 00:49:16,490
+Now I'd like to return a little bit
+
+1189
+00:49:16,490 --> 00:49:20,710
+to some of the subjective
+aspects of pain modulation
+
+1190
+00:49:20,710 --> 00:49:24,180
+because I think it's so
+interesting and so actionable
+
+1191
+00:49:24,180 --> 00:49:26,840
+that everyone should know about this,
+
+1192
+00:49:26,840 --> 00:49:29,020
+and in this case,
+
+1193
+00:49:29,020 --> 00:49:31,160
+we can also say that
+regardless of whether or not
+
+1194
+00:49:31,160 --> 00:49:34,200
+you're experiencing
+pain, acute or chronic,
+
+1195
+00:49:34,200 --> 00:49:35,990
+what I'm about to tell you
+
+1196
+00:49:35,990 --> 00:49:39,870
+is as close as anything is to proof,
+
+1197
+00:49:39,870 --> 00:49:41,620
+in science, we rarely talk about proof,
+
+1198
+00:49:41,620 --> 00:49:44,930
+we talk about evidence in
+favor or against a hypothesis,
+
+1199
+00:49:44,930 --> 00:49:47,600
+but as close as possible to proof
+
+1200
+00:49:47,600 --> 00:49:49,730
+that our interpretation,
+
+1201
+00:49:49,730 --> 00:49:52,420
+our subjective interpretation
+of a sensory event
+
+1202
+00:49:52,420 --> 00:49:53,780
+is immensely powerful
+
+1203
+00:49:53,780 --> 00:49:56,333
+for dictating our experience of the event.
+
+1204
+00:49:58,240 --> 00:49:59,710
+Here are a couple examples.
+
+1205
+00:49:59,710 --> 00:50:01,150
+First of all,
+
+1206
+00:50:01,150 --> 00:50:04,690
+anyone who's ever done
+combat sports or martial arts
+
+1207
+00:50:04,690 --> 00:50:07,960
+knows that it's incredible
+
+1208
+00:50:07,960 --> 00:50:11,850
+how little a punch hurts during a fight
+
+1209
+00:50:11,850 --> 00:50:15,170
+and it's incredible how
+much it hurts after a fight.
+
+1210
+00:50:15,170 --> 00:50:16,870
+The molecule adrenaline,
+
+1211
+00:50:16,870 --> 00:50:18,893
+when it's liberated into our body,
+
+1212
+00:50:20,050 --> 00:50:23,023
+truly blunts our experience of pain.
+
+1213
+00:50:23,930 --> 00:50:25,630
+We all know the stories of people
+
+1214
+00:50:26,750 --> 00:50:29,810
+walking miles on stumped legs,
+
+1215
+00:50:29,810 --> 00:50:32,260
+people doing all sorts of things
+
+1216
+00:50:32,260 --> 00:50:34,110
+that were incredible feats
+
+1217
+00:50:35,110 --> 00:50:36,580
+that allowed them to move through
+
+1218
+00:50:36,580 --> 00:50:38,080
+what would otherwise be pain,
+
+1219
+00:50:38,080 --> 00:50:40,700
+and afterward they do
+experience extreme pain,
+
+1220
+00:50:40,700 --> 00:50:42,640
+but during the event oftentimes
+
+1221
+00:50:42,640 --> 00:50:45,440
+they are not experiencing
+pain and that's because of
+
+1222
+00:50:45,440 --> 00:50:48,020
+the pain-blunting effects of adrenaline.
+
+1223
+00:50:48,020 --> 00:50:50,570
+I'll tell you exactly how
+this works in a few minutes
+
+1224
+00:50:50,570 --> 00:50:52,440
+when we talk about acupuncture,
+
+1225
+00:50:52,440 --> 00:50:55,940
+but norepinephrine binding
+to particular receptors,
+
+1226
+00:50:55,940 --> 00:50:57,890
+adrenaline binding to particular receptors
+
+1227
+00:50:57,890 --> 00:51:00,503
+actually shuts down pain pathways.
+
+1228
+00:51:02,920 --> 00:51:06,460
+People who anticipate
+an injection of morphine
+
+1229
+00:51:06,460 --> 00:51:11,460
+immediately report the
+feeling of loss of pain.
+
+1230
+00:51:11,820 --> 00:51:12,980
+Their pain starts to diminish
+
+1231
+00:51:12,980 --> 00:51:16,040
+because they know they're
+going to get pain relief
+
+1232
+00:51:16,040 --> 00:51:17,227
+and it's a powerful effect.
+
+1233
+00:51:17,227 --> 00:51:19,480
+All of you are probably
+saying placebo effect.
+
+1234
+00:51:19,480 --> 00:51:21,270
+Placebo effects are very real.
+
+1235
+00:51:21,270 --> 00:51:24,340
+Placebo effects and belief
+effects, as they're called,
+
+1236
+00:51:24,340 --> 00:51:26,700
+have a profound effect on our experience
+
+1237
+00:51:26,700 --> 00:51:29,430
+of noxious stimuli like pain
+
+1238
+00:51:29,430 --> 00:51:32,540
+and they can also have a profound
+effect on positive stimuli
+
+1239
+00:51:32,540 --> 00:51:35,060
+and things that we're looking forward to.
+
+1240
+00:51:35,060 --> 00:51:37,910
+One study that I think is
+particularly interesting here,
+
+1241
+00:51:37,910 --> 00:51:39,820
+it's from my colleague
+at Stanford, Sean Mackey.
+
+1242
+00:51:39,820 --> 00:51:41,610
+They did a neuroimaging study.
+
+1243
+00:51:41,610 --> 00:51:43,050
+They subjected people to pain.
+
+1244
+00:51:43,050 --> 00:51:45,270
+In this case, it was a heat pain.
+
+1245
+00:51:45,270 --> 00:51:47,830
+People have very specific
+thresholds to heat
+
+1246
+00:51:47,830 --> 00:51:50,810
+at which they cannot
+tolerate any more heat,
+
+1247
+00:51:50,810 --> 00:51:52,620
+but they explored the extent to which
+
+1248
+00:51:52,620 --> 00:51:55,030
+looking at an image of somebody,
+
+1249
+00:51:55,030 --> 00:51:57,780
+in this case, a romantic
+partner that the person loved,
+
+1250
+00:51:58,830 --> 00:52:02,163
+would allow them to adjust
+their pain response,
+
+1251
+00:52:03,260 --> 00:52:05,150
+and it turns out it does.
+
+1252
+00:52:05,150 --> 00:52:07,130
+If people are looking at an image
+
+1253
+00:52:07,130 --> 00:52:11,550
+or thinking about a person that they love,
+
+1254
+00:52:11,550 --> 00:52:14,450
+or even a thing that they
+love, a pet that they love,
+
+1255
+00:52:14,450 --> 00:52:17,630
+studies previous to the one
+that Mackey and colleagues did
+
+1256
+00:52:17,630 --> 00:52:21,020
+showed that their experience
+of pain was reduced.
+
+1257
+00:52:21,020 --> 00:52:23,090
+Their threshold for pain was higher.
+
+1258
+00:52:23,090 --> 00:52:25,400
+They could tolerate more pain
+
+1259
+00:52:25,400 --> 00:52:27,563
+and they reported it as not as painful,
+
+1260
+00:52:28,470 --> 00:52:31,310
+but there's a twist there
+which is it turns out
+
+1261
+00:52:31,310 --> 00:52:36,310
+that the extent to which
+love will modulate pain
+
+1262
+00:52:36,400 --> 00:52:39,720
+has everything to do with how infatuated
+
+1263
+00:52:39,720 --> 00:52:44,550
+and obsessed somebody is with
+the object of their love.
+
+1264
+00:52:44,550 --> 00:52:49,300
+People that report thinking
+about somebody, or a pet,
+
+1265
+00:52:49,300 --> 00:52:52,560
+for many hours of the day,
+
+1266
+00:52:52,560 --> 00:52:54,640
+kind of having an obsessive nature,
+
+1267
+00:52:54,640 --> 00:52:56,360
+almost like what people might call
+
+1268
+00:52:56,360 --> 00:52:57,890
+quote, unquote, codependency.
+
+1269
+00:52:57,890 --> 00:52:58,830
+For those of you that are listening,
+
+1270
+00:52:58,830 --> 00:53:00,130
+I'm just providing air quotes
+
+1271
+00:53:00,130 --> 00:53:02,240
+'cause codependency is kind
+of a clinical thing now
+
+1272
+00:53:02,240 --> 00:53:04,500
+although it's thrown
+around a lot all the time.
+
+1273
+00:53:04,500 --> 00:53:05,570
+It's sort of like gaslighting.
+
+1274
+00:53:05,570 --> 00:53:07,210
+People talk about
+gaslighting all the time now.
+
+1275
+00:53:07,210 --> 00:53:08,890
+Gaslighting is a real thing
+
+1276
+00:53:08,890 --> 00:53:10,580
+but then people talked about gaslighting
+
+1277
+00:53:10,580 --> 00:53:13,933
+for many things outside
+the clinical description.
+
+1278
+00:53:15,410 --> 00:53:18,370
+If people are very obsessed with somebody,
+
+1279
+00:53:18,370 --> 00:53:21,440
+they have a kind of obsessive
+love of somebody's face,
+
+1280
+00:53:21,440 --> 00:53:22,960
+even if the other person
+doesn't know them,
+
+1281
+00:53:22,960 --> 00:53:24,160
+which is a little weird,
+
+1282
+00:53:25,460 --> 00:53:29,630
+that response, that
+feeling of love internally
+
+1283
+00:53:29,630 --> 00:53:34,200
+can blunt the pain experience
+to a significant degree.
+
+1284
+00:53:34,200 --> 00:53:36,320
+These are not small effects.
+
+1285
+00:53:36,320 --> 00:53:38,850
+It's not just that love
+can protect us from pain.
+
+1286
+00:53:38,850 --> 00:53:41,160
+It's that infatuation and obsession
+
+1287
+00:53:41,160 --> 00:53:42,330
+can protect us from pain,
+
+1288
+00:53:42,330 --> 00:53:44,270
+and not surprisingly,
+
+1289
+00:53:44,270 --> 00:53:48,400
+how early a relationship is,
+how new a relationship is
+
+1290
+00:53:48,400 --> 00:53:51,530
+directly correlates with
+people's ability, they showed,
+
+1291
+00:53:51,530 --> 00:53:55,900
+to use this love, this internal
+representation of love,
+
+1292
+00:53:55,900 --> 00:53:57,463
+to blunt the pain response.
+
+1293
+00:53:58,760 --> 00:54:00,340
+For those of you that have
+been with your partners
+
+1294
+00:54:00,340 --> 00:54:02,180
+for many years and you love them very much
+
+1295
+00:54:02,180 --> 00:54:04,220
+and you're obsessed with them, terrific.
+
+1296
+00:54:04,220 --> 00:54:06,470
+You have a pre-installed,
+
+1297
+00:54:06,470 --> 00:54:07,590
+well, I suppose it's not pre-installed.
+
+1298
+00:54:07,590 --> 00:54:09,500
+You had to do the work because
+relationships are work,
+
+1299
+00:54:09,500 --> 00:54:14,100
+but you've got a installed
+mechanism for blunting pain,
+
+1300
+00:54:14,100 --> 00:54:16,440
+and again, these are not minor effects.
+
+1301
+00:54:16,440 --> 00:54:18,460
+These are major effects
+
+1302
+00:54:18,460 --> 00:54:20,940
+and it's all going to be
+through that top-down modulation
+
+1303
+00:54:20,940 --> 00:54:21,773
+that we talked about,
+
+1304
+00:54:21,773 --> 00:54:24,410
+not unlike the mirror box
+experiments with phantom limb
+
+1305
+00:54:24,410 --> 00:54:26,250
+that relieve phantom pain
+
+1306
+00:54:26,250 --> 00:54:29,070
+or some other top-down modulation,
+
+1307
+00:54:29,070 --> 00:54:31,330
+and the opposite example was
+the nail through the boot,
+
+1308
+00:54:31,330 --> 00:54:33,590
+which is a visual image
+that made the person think
+
+1309
+00:54:33,590 --> 00:54:34,930
+it was painful when in fact
+
+1310
+00:54:34,930 --> 00:54:38,010
+it was painful even though
+there was no tissue damage.
+
+1311
+00:54:38,010 --> 00:54:40,170
+It was all perceptual.
+
+1312
+00:54:40,170 --> 00:54:41,940
+The pain system is really subject
+
+1313
+00:54:41,940 --> 00:54:44,510
+to these perceptual influences,
+
+1314
+00:54:44,510 --> 00:54:47,470
+which is remarkable because, really,
+
+1315
+00:54:47,470 --> 00:54:49,220
+when we think about the
+somatosensory system,
+
+1316
+00:54:49,220 --> 00:54:50,530
+it has this cognitive component,
+
+1317
+00:54:50,530 --> 00:54:52,260
+it's got this peripheral component,
+
+1318
+00:54:52,260 --> 00:54:54,290
+but there's another component
+
+1319
+00:54:54,290 --> 00:54:56,750
+which is the way in which our sensation,
+
+1320
+00:54:56,750 --> 00:54:58,410
+our somatosensory system is woven in
+
+1321
+00:54:58,410 --> 00:55:00,360
+with our autonomic nervous system,
+
+1322
+00:55:00,360 --> 00:55:01,660
+and we're going to get to that next,
+
+1323
+00:55:01,660 --> 00:55:04,780
+but I want to just raise the idea
+
+1324
+00:55:04,780 --> 00:55:07,390
+that the reason that
+this kind of infatuation
+
+1325
+00:55:07,390 --> 00:55:10,600
+and obsessive love can
+blunt the pain response
+
+1326
+00:55:10,600 --> 00:55:13,280
+and increase one's threshold for pain
+
+1327
+00:55:13,280 --> 00:55:15,190
+may have to do,
+
+1328
+00:55:15,190 --> 00:55:16,770
+I would say almost certainly has to do,
+
+1329
+00:55:16,770 --> 00:55:19,100
+but it hasn't been measured yet,
+
+1330
+00:55:19,100 --> 00:55:20,530
+with dopamine release
+
+1331
+00:55:20,530 --> 00:55:23,190
+because dopamine is
+absolutely the molecule
+
+1332
+00:55:23,190 --> 00:55:26,610
+that's liberated in our brain and body
+
+1333
+00:55:26,610 --> 00:55:30,930
+when there's a new kind of
+obsession or infatuation.
+
+1334
+00:55:30,930 --> 00:55:34,500
+It's very distinct from
+the kind of love chemicals,
+
+1335
+00:55:34,500 --> 00:55:36,140
+if you will,
+
+1336
+00:55:36,140 --> 00:55:37,740
+I don't even like calling
+them love chemicals.
+
+1337
+00:55:37,740 --> 00:55:38,650
+That just feels weird.
+
+1338
+00:55:38,650 --> 00:55:40,440
+If this were text, I
+would delete that line,
+
+1339
+00:55:40,440 --> 00:55:43,710
+but from the chemicals associated
+
+1340
+00:55:43,710 --> 00:55:45,410
+with warmth and connection,
+
+1341
+00:55:45,410 --> 00:55:47,600
+such as serotonin and oxytocin,
+
+1342
+00:55:47,600 --> 00:55:49,650
+which tend to be for more stable,
+
+1343
+00:55:49,650 --> 00:55:50,940
+long-lasting relationships.
+
+1344
+00:55:50,940 --> 00:55:53,650
+Dopamine is what dilates the pupils,
+
+1345
+00:55:53,650 --> 00:55:54,850
+which gets people really excited.
+
+1346
+00:55:54,850 --> 00:55:56,470
+They can't stop thinking about somebody.
+
+1347
+00:55:56,470 --> 00:55:58,610
+The text messages are even exciting.
+
+1348
+00:55:58,610 --> 00:56:00,920
+They write to them and they can't wait
+
+1349
+00:56:00,920 --> 00:56:02,400
+for the text message to come back,
+
+1350
+00:56:02,400 --> 00:56:03,810
+the dot dot dot on the screen.
+
+1351
+00:56:03,810 --> 00:56:05,690
+The text message is excruciating.
+
+1352
+00:56:05,690 --> 00:56:07,250
+They don't respond for two minutes
+
+1353
+00:56:07,250 --> 00:56:08,640
+and people are getting flipped out.
+
+1354
+00:56:08,640 --> 00:56:12,360
+I'm not here to support
+that kind of whatever,
+
+1355
+00:56:12,360 --> 00:56:14,700
+what I'm saying is that
+
+1356
+00:56:14,700 --> 00:56:16,270
+that obsessive type of love,
+
+1357
+00:56:16,270 --> 00:56:18,030
+which without question
+
+1358
+00:56:18,030 --> 00:56:19,880
+is going to be associated
+with the dopamine pathway,
+
+1359
+00:56:19,880 --> 00:56:24,480
+does seem to have a
+utility in the context of
+
+1360
+00:56:24,480 --> 00:56:28,380
+reducing the unpleasantness
+of physical pain,
+
+1361
+00:56:28,380 --> 00:56:29,610
+and probably has a lot to do
+
+1362
+00:56:29,610 --> 00:56:31,590
+with reducing the
+unpleasantness of a lot of life,
+
+1363
+00:56:31,590 --> 00:56:32,960
+like sitting in traffic, et cetera,
+
+1364
+00:56:32,960 --> 00:56:34,950
+because when we talk about pain,
+
+1365
+00:56:34,950 --> 00:56:36,530
+emotional pain and physical pain
+
+1366
+00:56:36,530 --> 00:56:38,560
+start to become one in the same.
+
+1367
+00:56:38,560 --> 00:56:41,030
+They are so closely intertwined
+
+1368
+00:56:41,030 --> 00:56:44,740
+that the lines between them
+neurally become very blurry.
+
+1369
+00:56:44,740 --> 00:56:45,840
+What do I mean by that?
+
+1370
+00:56:45,840 --> 00:56:49,200
+Well, if love and infatuation
+
+1371
+00:56:49,200 --> 00:56:51,160
+can reduce pain,
+
+1372
+00:56:51,160 --> 00:56:53,030
+presumably through the
+release of dopamine,
+
+1373
+00:56:53,030 --> 00:56:56,440
+well, then does dopamine
+release itself blunt pain?
+
+1374
+00:56:56,440 --> 00:56:59,390
+Should we be chasing dopamine release
+
+1375
+00:56:59,390 --> 00:57:01,530
+as a way to treat chronic and acute pain?
+
+1376
+00:57:01,530 --> 00:57:03,810
+And that's exactly what we're
+going to talk about now.
+
+1377
+00:57:03,810 --> 00:57:04,890
+Independent of love,
+
+1378
+00:57:04,890 --> 00:57:06,460
+we're going to talk about
+something quite different
+
+1379
+00:57:06,460 --> 00:57:08,590
+which is putting needles and electricity
+
+1380
+00:57:08,590 --> 00:57:11,060
+in different parts of the
+body, so-called acupuncture.
+
+1381
+00:57:11,060 --> 00:57:14,203
+Something that, for many people,
+
+1382
+00:57:15,860 --> 00:57:19,280
+it's been viewed as a kind
+of alternative medicine,
+
+1383
+00:57:19,280 --> 00:57:22,600
+but now there are excellent
+laboratories exploring
+
+1384
+00:57:22,600 --> 00:57:25,130
+what's called electroacupuncture
+and acupuncture.
+
+1385
+00:57:25,130 --> 00:57:26,690
+These are big university centers.
+
+1386
+00:57:26,690 --> 00:57:30,210
+In fact, my source for everything
+I'm about to tell you next
+
+1387
+00:57:30,210 --> 00:57:33,430
+is Professor Qiufu Ma at
+Harvard Medical School
+
+1388
+00:57:33,430 --> 00:57:34,340
+and his papers.
+
+1389
+00:57:34,340 --> 00:57:36,630
+I stand behind the information
+that I'm going to provide today,
+
+1390
+00:57:36,630 --> 00:57:40,760
+but it's extracted largely
+from the Ma lab's papers
+
+1391
+00:57:40,760 --> 00:57:45,760
+which use very rigorous
+variable-isolating experiments
+
+1392
+00:57:46,150 --> 00:57:49,560
+to address just how does
+something like acupuncture work,
+
+1393
+00:57:49,560 --> 00:57:51,320
+and I think what you'll be interested in
+
+1394
+00:57:51,320 --> 00:57:53,900
+and surprised to learn
+is that it does work,
+
+1395
+00:57:53,900 --> 00:57:57,060
+but sometimes it can exacerbate pain
+
+1396
+00:57:57,060 --> 00:57:59,250
+and sometimes it can relieve pain
+
+1397
+00:57:59,250 --> 00:58:01,780
+and it all does that through
+very discrete pathways
+
+1398
+00:58:01,780 --> 00:58:03,957
+for which we can really say,
+
+1399
+00:58:03,957 --> 00:58:05,500
+"This neuron connects to that neuron
+
+1400
+00:58:05,500 --> 00:58:06,470
+connects to the adrenals,"
+
+1401
+00:58:06,470 --> 00:58:08,850
+and we can tie this all back to dopamine
+
+1402
+00:58:08,850 --> 00:58:11,390
+because in the end it's the
+chemicals and neural circuits
+
+1403
+00:58:11,390 --> 00:58:13,410
+that are giving rise to these perceptions,
+
+1404
+00:58:13,410 --> 00:58:15,010
+or these experiences, rather,
+
+1405
+00:58:15,010 --> 00:58:17,650
+of things that we call
+pain, love, et cetera.
+
+1406
+00:58:17,650 --> 00:58:19,540
+In a previous podcast episode,
+
+1407
+00:58:19,540 --> 00:58:23,260
+I mentioned my experience
+of visiting an acupuncturist
+
+1408
+00:58:23,260 --> 00:58:25,320
+and getting acupuncture.
+
+1409
+00:58:25,320 --> 00:58:28,100
+The acupuncture itself
+
+1410
+00:58:28,100 --> 00:58:30,130
+didn't really do that much for me,
+
+1411
+00:58:30,130 --> 00:58:31,910
+but I wasn't there for
+any specific reason.
+
+1412
+00:58:31,910 --> 00:58:35,320
+It was gifted to me by somebody
+and I wanted to try it.
+
+1413
+00:58:35,320 --> 00:58:37,780
+I'm not passing judgment on acupuncture.
+
+1414
+00:58:37,780 --> 00:58:39,170
+In fact, I know a number of people
+
+1415
+00:58:39,170 --> 00:58:42,440
+that really derive tremendous
+benefit from acupuncture
+
+1416
+00:58:42,440 --> 00:58:45,670
+for pain and for gastrointestinal issues.
+
+1417
+00:58:45,670 --> 00:58:46,800
+There are actually a lot of
+
+1418
+00:58:46,800 --> 00:58:49,010
+really good peer-reviewed studies
+
+1419
+00:58:49,010 --> 00:58:52,730
+supporting the use of
+acupuncture for, in particular,
+
+1420
+00:58:52,730 --> 00:58:54,193
+GI tract issues.
+
+1421
+00:58:55,800 --> 00:58:57,840
+In recent years, there's
+been an emphasis on
+
+1422
+00:58:57,840 --> 00:58:59,600
+trying to understand the mechanism
+
+1423
+00:58:59,600 --> 00:59:03,180
+of things like acupuncture
+and acupuncture itself,
+
+1424
+00:59:03,180 --> 00:59:05,250
+not to support acupuncture
+
+1425
+00:59:05,250 --> 00:59:07,140
+or to try to get everybody
+to do acupuncture
+
+1426
+00:59:07,140 --> 00:59:08,780
+but as a way to try and understand
+
+1427
+00:59:08,780 --> 00:59:10,880
+how these sorts of practices
+
+1428
+00:59:10,880 --> 00:59:14,100
+might actually benefit people
+who are experiencing pain
+
+1429
+00:59:14,100 --> 00:59:15,720
+or for changing the nervous system
+
+1430
+00:59:15,720 --> 00:59:18,300
+or brain-body relationship in general,
+
+1431
+00:59:18,300 --> 00:59:19,133
+and actually,
+
+1432
+00:59:19,133 --> 00:59:22,500
+the National Institutes of
+Health in the United States
+
+1433
+00:59:22,500 --> 00:59:25,640
+now has a entire subdivision,
+
+1434
+00:59:25,640 --> 00:59:28,573
+an institute within the
+National Institutes of Health,
+
+1435
+00:59:29,680 --> 00:59:32,210
+which is complementary health,
+
+1436
+00:59:32,210 --> 00:59:36,880
+and that institute is interested
+in things like acupuncture
+
+1437
+00:59:36,880 --> 00:59:39,437
+and a variety of other
+practices that, I think,
+
+1438
+00:59:39,437 --> 00:59:41,930
+10, 15 years ago people probably thought
+
+1439
+00:59:41,930 --> 00:59:45,177
+were really alternative and
+maybe even counterculture,
+
+1440
+00:59:45,177 --> 00:59:47,280
+at least in the States, and it's exciting.
+
+1441
+00:59:47,280 --> 00:59:49,310
+I think people are starting
+to really take a look at
+
+1442
+00:59:49,310 --> 00:59:51,370
+what's going on under the hood
+
+1443
+00:59:51,370 --> 00:59:53,860
+for certain types of
+treatments that are very useful
+
+1444
+00:59:53,860 --> 00:59:55,570
+and I think it's very likely to lead
+
+1445
+00:59:55,570 --> 00:59:57,510
+to an expanded number of treatments
+
+1446
+00:59:57,510 --> 00:59:59,360
+for a number of different conditions.
+
+1447
+01:00:00,670 --> 01:00:02,830
+What I want to talk about
+in terms of acupuncture
+
+1448
+01:00:02,830 --> 01:00:06,570
+is the incredible way in
+which acupuncture illuminates
+
+1449
+01:00:07,560 --> 01:00:10,670
+the crosstalk between
+the somatosensory system,
+
+1450
+01:00:10,670 --> 01:00:12,880
+our ability to feel stuff
+
+1451
+01:00:12,880 --> 01:00:14,890
+externally, exteroception,
+
+1452
+01:00:14,890 --> 01:00:16,820
+internally, interoception,
+
+1453
+01:00:16,820 --> 01:00:20,530
+and how that somatosensory system
+
+1454
+01:00:20,530 --> 01:00:22,440
+is wired in with and communicating
+
+1455
+01:00:22,440 --> 01:00:24,010
+with our autonomic nervous system
+
+1456
+01:00:24,010 --> 01:00:27,963
+that regulates our levels
+of alertness or calmness.
+
+1457
+01:00:29,070 --> 01:00:30,990
+After that, I'm going to talk about
+
+1458
+01:00:30,990 --> 01:00:34,640
+how the acupuncture that's
+being done right now
+
+1459
+01:00:34,640 --> 01:00:38,283
+also points to relief for
+what's called referred pain.
+
+1460
+01:00:39,580 --> 01:00:42,100
+This takes us all back to the
+homunculus. Let's start there.
+
+1461
+01:00:42,100 --> 01:00:44,690
+We have this representation
+of our body surface
+
+1462
+01:00:44,690 --> 01:00:45,893
+in our brain.
+
+1463
+01:00:47,470 --> 01:00:50,023
+That representation is
+what we call somatotopic,
+
+1464
+01:00:50,990 --> 01:00:53,390
+and what somatotopy is
+
+1465
+01:00:53,390 --> 01:00:55,510
+is it just means that areas of your body
+
+1466
+01:00:55,510 --> 01:00:56,800
+that are near one another,
+
+1467
+01:00:56,800 --> 01:00:59,260
+so your thumb and your
+forefinger, for instance,
+
+1468
+01:00:59,260 --> 01:01:02,190
+are represented by neurons
+that are nearby each other
+
+1469
+01:01:02,190 --> 01:01:03,023
+in the brain.
+
+1470
+01:01:04,180 --> 01:01:05,460
+You might say, "Well, duh,"
+
+1471
+01:01:05,460 --> 01:01:07,010
+but actually, it didn't
+have to be that way.
+
+1472
+01:01:07,010 --> 01:01:09,110
+The neurons that represent
+the tip of my forefinger
+
+1473
+01:01:09,110 --> 01:01:11,660
+and the neurons that represent
+my thumb on the same hand
+
+1474
+01:01:11,660 --> 01:01:13,790
+could have been distantly located
+
+1475
+01:01:13,790 --> 01:01:16,570
+and therefore the map of my
+body surface, the homunculus,
+
+1476
+01:01:16,570 --> 01:01:18,650
+would be really disordered,
+but it's not that way.
+
+1477
+01:01:18,650 --> 01:01:20,900
+It's very ordered. It's very smooth.
+
+1478
+01:01:20,900 --> 01:01:22,830
+As, let's say you were to image my brain,
+
+1479
+01:01:22,830 --> 01:01:24,980
+if you were to stimulate
+my finger, my forefinger,
+
+1480
+01:01:24,980 --> 01:01:27,270
+and then march that
+stimulation across my finger,
+
+1481
+01:01:27,270 --> 01:01:29,660
+across the palm and to the nearby thumb,
+
+1482
+01:01:29,660 --> 01:01:31,150
+you would see that neurons in the brain
+
+1483
+01:01:31,150 --> 01:01:32,920
+would also make a sort of J shape
+
+1484
+01:01:32,920 --> 01:01:34,470
+in their pattern of activation.
+
+1485
+01:01:35,780 --> 01:01:37,920
+That means there's so-called somatotopy,
+
+1486
+01:01:37,920 --> 01:01:40,550
+but the connections
+from those brain neurons
+
+1487
+01:01:40,550 --> 01:01:42,400
+are sent into the body
+
+1488
+01:01:42,400 --> 01:01:45,380
+and they are synchronized with,
+
+1489
+01:01:45,380 --> 01:01:47,470
+meaning they cross-wire with
+
+1490
+01:01:47,470 --> 01:01:52,260
+and form synapses with some of the input
+
+1491
+01:01:52,260 --> 01:01:54,750
+from the viscera, from our guts,
+
+1492
+01:01:54,750 --> 01:01:56,970
+from our diaphragm, from our stomach,
+
+1493
+01:01:56,970 --> 01:02:00,410
+from our spleen, from our heart.
+
+1494
+01:02:00,410 --> 01:02:02,820
+Our internal organs
+are sending information
+
+1495
+01:02:02,820 --> 01:02:06,160
+up to this map in our
+brain of the body surface,
+
+1496
+01:02:06,160 --> 01:02:07,870
+but it's about internal information,
+
+1497
+01:02:07,870 --> 01:02:09,380
+what we call interoception,
+
+1498
+01:02:09,380 --> 01:02:11,810
+our ability to look
+inside or imagine inside
+
+1499
+01:02:11,810 --> 01:02:13,653
+and feel what we're feeling inside.
+
+1500
+01:02:14,940 --> 01:02:17,060
+The way to think about this accurately
+
+1501
+01:02:17,060 --> 01:02:19,690
+is that our representation of ourself
+
+1502
+01:02:19,690 --> 01:02:22,650
+is a representation of
+our internal workings,
+
+1503
+01:02:22,650 --> 01:02:25,300
+our viscera, our guts,
+everything inside our skin,
+
+1504
+01:02:25,300 --> 01:02:27,400
+and the surface of our skin,
+
+1505
+01:02:27,400 --> 01:02:30,140
+and the external world, what we're seeing.
+
+1506
+01:02:30,140 --> 01:02:31,960
+Those three things are
+always being combined
+
+1507
+01:02:31,960 --> 01:02:36,143
+in a very interesting,
+complex but very seamless way.
+
+1508
+01:02:38,070 --> 01:02:40,540
+Acupuncture involves taking needles,
+
+1509
+01:02:40,540 --> 01:02:43,720
+and sometimes electricity
+and or heat as well,
+
+1510
+01:02:43,720 --> 01:02:47,250
+and stimulating particular
+locations on the body
+
+1511
+01:02:47,250 --> 01:02:49,960
+and through these maps of stimulation
+
+1512
+01:02:49,960 --> 01:02:52,910
+that have been developed
+over thousands of years,
+
+1513
+01:02:52,910 --> 01:02:55,313
+mostly in Asia,
+
+1514
+01:02:56,240 --> 01:02:58,530
+but now this is a
+practice that's being done
+
+1515
+01:02:58,530 --> 01:03:00,430
+many places throughout the world,
+
+1516
+01:03:00,430 --> 01:03:02,520
+they have these maps that speak to,
+
+1517
+01:03:02,520 --> 01:03:04,480
+oh, well, if you stimulate
+this part of the body,
+
+1518
+01:03:04,480 --> 01:03:05,510
+you get this response,
+
+1519
+01:03:05,510 --> 01:03:07,350
+and if somebody has a
+gastrointestinal issue,
+
+1520
+01:03:07,350 --> 01:03:09,930
+like their guts are moving
+too quick, they have diarrhea,
+
+1521
+01:03:09,930 --> 01:03:11,010
+you stimulate this area
+
+1522
+01:03:11,010 --> 01:03:12,880
+and it'll slow their gut motility down,
+
+1523
+01:03:12,880 --> 01:03:15,540
+or if their gut motility is
+too slow, they're constipated,
+
+1524
+01:03:15,540 --> 01:03:17,710
+you stimulate someplace
+else and it accelerates it,
+
+1525
+01:03:17,710 --> 01:03:20,330
+and hearing about this
+stuff, it sounds kind of,
+
+1526
+01:03:20,330 --> 01:03:22,680
+to a Westerner who's not thinking about
+
+1527
+01:03:22,680 --> 01:03:24,330
+the underlying neural circuitry,
+
+1528
+01:03:24,330 --> 01:03:25,770
+it could sound kind of wacky.
+
+1529
+01:03:25,770 --> 01:03:27,210
+It really sounds like alternative
+
+1530
+01:03:27,210 --> 01:03:29,790
+or even really out there stuff,
+
+1531
+01:03:29,790 --> 01:03:32,390
+but when you look at the neural
+circuitry, the neuroanatomy,
+
+1532
+01:03:32,390 --> 01:03:33,590
+it really starts to make sense,
+
+1533
+01:03:33,590 --> 01:03:36,870
+and Qiufu Ma's lab at
+Harvard Medical School
+
+1534
+01:03:36,870 --> 01:03:39,820
+is an excellent laboratory,
+
+1535
+01:03:39,820 --> 01:03:43,910
+has been exploring how
+stimulation of different types,
+
+1536
+01:03:43,910 --> 01:03:47,740
+intense or weak, with
+heat or without heat,
+
+1537
+01:03:47,740 --> 01:03:50,120
+on different parts of the body
+
+1538
+01:03:50,120 --> 01:03:53,680
+can modulate pain and inflammation,
+
+1539
+01:03:53,680 --> 01:03:57,990
+and what they've shown in a
+particularly exciting study
+
+1540
+01:03:57,990 --> 01:04:00,193
+is that stimulation of the abdomen,
+
+1541
+01:04:01,050 --> 01:04:03,240
+anywhere on the midsection,
+
+1542
+01:04:03,240 --> 01:04:06,247
+weakly does nothing.
+
+1543
+01:04:06,247 --> 01:04:08,230
+"Well, that's not very
+interesting," you might say.
+
+1544
+01:04:08,230 --> 01:04:11,110
+Intense stimulation of
+the abdomen, however,
+
+1545
+01:04:11,110 --> 01:04:14,940
+with this electroacupuncture
+has a very strong effect
+
+1546
+01:04:15,910 --> 01:04:19,690
+of increasing inflammation in the body,
+
+1547
+01:04:19,690 --> 01:04:21,840
+and this is important to understand
+
+1548
+01:04:21,840 --> 01:04:25,450
+because it's not just that
+stimulating the gut does this
+
+1549
+01:04:25,450 --> 01:04:28,150
+because you're activating the gut area.
+
+1550
+01:04:28,150 --> 01:04:30,980
+It activates a particular nerve pathway.
+
+1551
+01:04:30,980 --> 01:04:31,940
+For the aficionados,
+
+1552
+01:04:31,940 --> 01:04:34,550
+it's the splenic spinal sympathetic axis
+
+1553
+01:04:34,550 --> 01:04:35,650
+if you really want to know,
+
+1554
+01:04:35,650 --> 01:04:40,070
+and it's pro-inflammatory
+under most conditions.
+
+1555
+01:04:40,070 --> 01:04:43,300
+However, there are other
+conditions where if, for instance,
+
+1556
+01:04:43,300 --> 01:04:46,330
+the person is dealing with a
+particular bacterial infection,
+
+1557
+01:04:46,330 --> 01:04:48,160
+that can be beneficial,
+
+1558
+01:04:48,160 --> 01:04:51,060
+and this goes back to a
+much earlier discussion
+
+1559
+01:04:51,060 --> 01:04:52,530
+that we had on a previous podcast
+
+1560
+01:04:52,530 --> 01:04:54,430
+that we'll revisit again and again,
+
+1561
+01:04:54,430 --> 01:04:56,130
+which is that the stress response
+
+1562
+01:04:56,130 --> 01:04:58,250
+was designed to combat infection.
+
+1563
+01:04:58,250 --> 01:05:00,200
+It turns out that there
+are certain patterns
+
+1564
+01:05:00,200 --> 01:05:01,600
+of stimulation on the abdomen
+
+1565
+01:05:01,600 --> 01:05:04,090
+that can actually liberate immune cells
+
+1566
+01:05:04,090 --> 01:05:07,120
+from our immune organs, like our spleen,
+
+1567
+01:05:07,120 --> 01:05:08,900
+and counter infection
+
+1568
+01:05:08,900 --> 01:05:11,670
+through the release of
+things like adrenaline.
+
+1569
+01:05:11,670 --> 01:05:13,760
+Qiufu's lab also showed
+
+1570
+01:05:13,760 --> 01:05:18,760
+that stimulation of the feet and hands
+
+1571
+01:05:18,820 --> 01:05:21,330
+can reduce inflammation,
+
+1572
+01:05:21,330 --> 01:05:23,420
+and again, this was done mechanistically.
+
+1573
+01:05:23,420 --> 01:05:26,300
+This was done by blocking certain pathways
+
+1574
+01:05:26,300 --> 01:05:28,430
+with the appropriate control experiments.
+
+1575
+01:05:28,430 --> 01:05:32,020
+This was done not in any
+kind of subjective way.
+
+1576
+01:05:32,020 --> 01:05:34,820
+This was also done by
+measuring particular molecules,
+
+1577
+01:05:34,820 --> 01:05:36,440
+IL-6 and cytokines
+
+1578
+01:05:36,440 --> 01:05:39,140
+and things that are related
+to the inflammation response,
+
+1579
+01:05:39,140 --> 01:05:41,830
+and what they showed is
+that the stimulation of the,
+
+1580
+01:05:41,830 --> 01:05:46,830
+in particular, the hind
+limbs at low intensity
+
+1581
+01:05:47,410 --> 01:05:51,420
+led to increases in the
+activity of this vagal pathway.
+
+1582
+01:05:51,420 --> 01:05:53,380
+The vagus nerve being
+this 10th cranial nerve
+
+1583
+01:05:53,380 --> 01:05:56,270
+that serves the rest and
+digest and parasympathetic,
+
+1584
+01:05:56,270 --> 01:05:58,420
+in other words, calming response.
+
+1585
+01:05:58,420 --> 01:06:00,980
+What this means is that we
+are now at the front edge
+
+1586
+01:06:00,980 --> 01:06:02,993
+of this research field that's,
+
+1587
+01:06:03,870 --> 01:06:05,130
+it's early days still,
+
+1588
+01:06:05,130 --> 01:06:07,060
+but it's discovering that
+depending on whether or not
+
+1589
+01:06:07,060 --> 01:06:10,050
+the stimulation is intense or mild
+
+1590
+01:06:10,050 --> 01:06:13,310
+and depending on where the
+stimulation is done on the body
+
+1591
+01:06:13,310 --> 01:06:15,270
+you can get very different effects.
+
+1592
+01:06:15,270 --> 01:06:18,410
+This points to the idea that
+you can't say acupuncture good
+
+1593
+01:06:18,410 --> 01:06:20,070
+or acupuncture bad.
+
+1594
+01:06:20,070 --> 01:06:23,360
+There has to be a
+systematic understanding of
+
+1595
+01:06:23,360 --> 01:06:26,340
+what exactly the effect is
+that you're trying to achieve
+
+1596
+01:06:26,340 --> 01:06:28,860
+and the underlying basis
+for this is really relevant
+
+1597
+01:06:28,860 --> 01:06:31,540
+to the thing about adrenaline
+that I said before,
+
+1598
+01:06:31,540 --> 01:06:32,840
+that in a fight,
+
+1599
+01:06:32,840 --> 01:06:35,580
+it's rare that you ever
+feel pain when you get hit,
+
+1600
+01:06:35,580 --> 01:06:37,270
+I've experienced that,
+
+1601
+01:06:37,270 --> 01:06:38,500
+but later it hurts a lot.
+
+1602
+01:06:38,500 --> 01:06:40,990
+It turns out that when you
+stimulate these pathways
+
+1603
+01:06:40,990 --> 01:06:43,980
+that activate, in
+particular, the adrenals,
+
+1604
+01:06:43,980 --> 01:06:47,480
+the adrenal gland liberates
+norepinephrine and epinephrine
+
+1605
+01:06:47,480 --> 01:06:49,180
+and the brain does as well,
+
+1606
+01:06:49,180 --> 01:06:50,220
+it binds to what are called
+
+1607
+01:06:50,220 --> 01:06:52,610
+the beta noradrenergic receptors.
+
+1608
+01:06:52,610 --> 01:06:54,540
+This is really getting
+down into the weeds,
+
+1609
+01:06:54,540 --> 01:06:58,010
+but the beta noradrenergic
+receptors activate the spleen
+
+1610
+01:06:58,010 --> 01:07:01,210
+which liberates cells
+that combat infection
+
+1611
+01:07:01,210 --> 01:07:03,960
+and it's anti-inflammatory.
+
+1612
+01:07:03,960 --> 01:07:06,690
+That's the short-term quick response.
+
+1613
+01:07:06,690 --> 01:07:11,660
+The more intense stimulation
+of the abdomen and other areas
+
+1614
+01:07:11,660 --> 01:07:14,050
+can be pro-inflammatory
+
+1615
+01:07:14,050 --> 01:07:16,990
+because of the ways that
+they trigger certain loops
+
+1616
+01:07:16,990 --> 01:07:20,540
+that go back to the brain and
+trigger the anxiety pathways
+
+1617
+01:07:20,540 --> 01:07:22,470
+and that place people
+into a state of anxiety
+
+1618
+01:07:22,470 --> 01:07:24,890
+that exacerbates pain.
+
+1619
+01:07:24,890 --> 01:07:26,940
+One pathway stimulates
+norepinephrine and blunts pain,
+
+1620
+01:07:26,940 --> 01:07:28,780
+the other one doesn't.
+
+1621
+01:07:28,780 --> 01:07:29,810
+What does all this mean?
+
+1622
+01:07:29,810 --> 01:07:31,860
+How are we supposed to
+put all of this together?
+
+1623
+01:07:31,860 --> 01:07:33,190
+Well, there's a paper that was published
+
+1624
+01:07:33,190 --> 01:07:34,783
+in "Nature Medicine" in 2014,
+
+1625
+01:07:34,783 --> 01:07:36,920
+this is an excellent journal,
+
+1626
+01:07:36,920 --> 01:07:40,500
+that describes how dopamine
+
+1627
+01:07:40,500 --> 01:07:43,300
+can activate the vagus
+peripherally in the,
+
+1628
+01:07:43,300 --> 01:07:45,343
+not dopamine in the brain, peripherally,
+
+1629
+01:07:45,343 --> 01:07:49,300
+and norepinephrine can
+activate the vagus peripherally
+
+1630
+01:07:49,300 --> 01:07:50,840
+and reduce inflammation,
+
+1631
+01:07:50,840 --> 01:07:52,977
+and I'm not trying to throw
+a ton of facts at you.
+
+1632
+01:07:52,977 --> 01:07:54,410
+You'll say, "Well, what
+am I supposed to do
+
+1633
+01:07:54,410 --> 01:07:55,300
+with all this information?"
+
+1634
+01:07:55,300 --> 01:07:57,300
+What this means is that
+
+1635
+01:07:57,300 --> 01:07:59,350
+there are real maps of our body surface
+
+1636
+01:07:59,350 --> 01:08:00,740
+that when stimulated
+
+1637
+01:08:01,660 --> 01:08:04,170
+communicate with our
+autonomic nervous system,
+
+1638
+01:08:04,170 --> 01:08:06,830
+the system that controls
+alertness or calmness,
+
+1639
+01:08:06,830 --> 01:08:09,620
+and thereby releases either molecules
+
+1640
+01:08:09,620 --> 01:08:11,010
+like norepinephrine and dopamine,
+
+1641
+01:08:11,010 --> 01:08:15,030
+which make us more alert,
+as we would be in a fight,
+
+1642
+01:08:15,030 --> 01:08:17,510
+and blunt our response to pain
+
+1643
+01:08:17,510 --> 01:08:20,370
+and they reduce inflammation,
+
+1644
+01:08:20,370 --> 01:08:23,710
+but there are yet other
+pathways that when stimulated
+
+1645
+01:08:23,710 --> 01:08:25,229
+are pro-inflammatory,
+
+1646
+01:08:25,229 --> 01:08:26,509
+and that brings us to the question of
+
+1647
+01:08:26,510 --> 01:08:28,340
+what is all this inflammation stuff
+
+1648
+01:08:28,340 --> 01:08:29,220
+that people are talking about?
+
+1649
+01:08:29,220 --> 01:08:32,720
+One of the things that
+bothers me so much these days,
+
+1650
+01:08:32,720 --> 01:08:34,189
+and I'm not easily irritated,
+
+1651
+01:08:34,189 --> 01:08:36,459
+but what really bothers me is when people
+
+1652
+01:08:36,460 --> 01:08:38,640
+are talking about inflammation
+like inflammation is bad.
+
+1653
+01:08:38,640 --> 01:08:39,920
+Inflammation is terrific.
+
+1654
+01:08:39,920 --> 01:08:42,319
+Inflammation is the reason
+why cells are called
+
+1655
+01:08:42,319 --> 01:08:44,229
+to the site of injury to clear it out.
+
+1656
+01:08:44,229 --> 01:08:46,209
+Inflammation is what's going to allow you
+
+1657
+01:08:46,210 --> 01:08:47,930
+to heal from any injury.
+
+1658
+01:08:47,930 --> 01:08:50,109
+Chronic inflammation is bad,
+
+1659
+01:08:50,109 --> 01:08:53,009
+but acute inflammation
+is absolutely essential.
+
+1660
+01:08:53,010 --> 01:08:54,950
+Remember those kids that
+we talked about earlier
+
+1661
+01:08:54,950 --> 01:08:57,859
+that have mutations in these
+receptors for sensing pain?
+
+1662
+01:08:57,859 --> 01:08:59,199
+They never get inflammation
+
+1663
+01:08:59,200 --> 01:09:03,290
+and that's why their joints
+literally disintegrate.
+
+1664
+01:09:03,290 --> 01:09:04,260
+It's really horrible
+
+1665
+01:09:04,260 --> 01:09:06,830
+because they don't actually
+have the inflammation response
+
+1666
+01:09:06,830 --> 01:09:10,340
+because it was never triggered
+by the pain response.
+
+1667
+01:09:10,340 --> 01:09:13,359
+Inflammation can be very beneficial.
+
+1668
+01:09:13,359 --> 01:09:15,279
+There's a lot of interest nowadays
+
+1669
+01:09:15,279 --> 01:09:17,989
+in taking things and doing
+things to limit inflammation.
+
+1670
+01:09:17,990 --> 01:09:19,970
+One of the ones that comes
+up a lot is turmeric.
+
+1671
+01:09:19,970 --> 01:09:21,830
+I'm sure the moment anyone
+starts talking about
+
+1672
+01:09:21,830 --> 01:09:24,620
+inflammation the question
+is, "What about turmeric?"
+
+1673
+01:09:24,620 --> 01:09:28,590
+I have talked before
+about turmeric elsewhere.
+
+1674
+01:09:28,590 --> 01:09:30,700
+I am very skeptical of turmeric
+
+1675
+01:09:30,700 --> 01:09:32,520
+and I might lose a few friends,
+
+1676
+01:09:32,520 --> 01:09:34,279
+although that'd be weird if my friend,
+
+1677
+01:09:34,279 --> 01:09:35,599
+that would say something
+about my friendships
+
+1678
+01:09:35,600 --> 01:09:38,380
+if I lost friends over a
+discussion about turmeric,
+
+1679
+01:09:38,380 --> 01:09:41,000
+but in any case,
+
+1680
+01:09:41,000 --> 01:09:44,300
+turmeric does have
+anti-inflammatory properties,
+
+1681
+01:09:44,300 --> 01:09:45,520
+there's no question about that,
+
+1682
+01:09:45,520 --> 01:09:48,040
+but as we've just described,
+
+1683
+01:09:48,040 --> 01:09:49,550
+inflammation can be a very good thing,
+
+1684
+01:09:49,550 --> 01:09:50,850
+at least in the short term.
+
+1685
+01:09:50,850 --> 01:09:52,229
+The other thing about turmeric is
+
+1686
+01:09:52,229 --> 01:09:54,580
+there was a study
+published out of Stanford
+
+1687
+01:09:54,580 --> 01:09:56,610
+in collection with some
+work from other universities
+
+1688
+01:09:56,610 --> 01:09:58,930
+showing that a lot of turmeric
+
+1689
+01:09:58,930 --> 01:10:01,340
+is heavily contaminated with lead.
+
+1690
+01:10:01,340 --> 01:10:02,910
+The lead is used to get
+
+1691
+01:10:02,910 --> 01:10:06,980
+that really rich, dense,
+orange coloring to it
+
+1692
+01:10:06,980 --> 01:10:08,280
+that everyone wants to see,
+
+1693
+01:10:08,280 --> 01:10:10,060
+so you have to check
+your sources of turmeric.
+
+1694
+01:10:10,060 --> 01:10:13,700
+The other thing is, for men in particular,
+
+1695
+01:10:13,700 --> 01:10:17,860
+turmeric can be very antagonistic
+to dihydrotestosterone.
+
+1696
+01:10:17,860 --> 01:10:20,210
+Dihydrotestosterone is
+the more dominant form
+
+1697
+01:10:20,210 --> 01:10:23,830
+of androgen in human males
+
+1698
+01:10:23,830 --> 01:10:27,120
+and it's involved in things
+like aggression and libido
+
+1699
+01:10:27,120 --> 01:10:28,380
+and things of that sort.
+
+1700
+01:10:28,380 --> 01:10:32,210
+Many people that I've talked
+to who have have taken turmeric
+
+1701
+01:10:32,210 --> 01:10:36,000
+get a severe blunting
+of affect and libido.
+
+1702
+01:10:36,000 --> 01:10:39,110
+For some people that might
+be a serious negative.
+
+1703
+01:10:39,110 --> 01:10:40,760
+I certainly avoid turmeric.
+
+1704
+01:10:40,760 --> 01:10:43,360
+I don't like turmeric for that reason.
+
+1705
+01:10:43,360 --> 01:10:45,130
+I also think that the
+inflammation response
+
+1706
+01:10:45,130 --> 01:10:46,763
+is a healthy response.
+
+1707
+01:10:47,690 --> 01:10:48,740
+You have to keep it in check
+
+1708
+01:10:48,740 --> 01:10:50,440
+and we're going to talk
+about specific practices
+
+1709
+01:10:50,440 --> 01:10:52,780
+for wound healing and injury in a moment,
+
+1710
+01:10:52,780 --> 01:10:55,950
+but this idea that just
+inflammation is bad
+
+1711
+01:10:55,950 --> 01:10:57,760
+and you want to reduce
+inflammation across the board,
+
+1712
+01:10:57,760 --> 01:10:59,350
+nothing could be further from the truth.
+
+1713
+01:10:59,350 --> 01:11:01,920
+We have pathways that exist in our body
+
+1714
+01:11:01,920 --> 01:11:03,963
+specifically to increase inflammation.
+
+1715
+01:11:04,930 --> 01:11:07,810
+It's the inflammation that goes
+unchecked, just like stress,
+
+1716
+01:11:07,810 --> 01:11:11,410
+which is problematic for
+repair, for brain injury,
+
+1717
+01:11:11,410 --> 01:11:14,610
+and it can exacerbate certain
+forms of dementia, et cetera,
+
+1718
+01:11:14,610 --> 01:11:16,760
+but I'd like to create
+a little bit more nuance
+
+1719
+01:11:16,760 --> 01:11:18,320
+or a lot more nuance, if possible,
+
+1720
+01:11:18,320 --> 01:11:20,770
+in the conversation around inflammation
+
+1721
+01:11:20,770 --> 01:11:22,950
+because people have just taken
+
+1722
+01:11:22,950 --> 01:11:26,190
+this discussion around
+inflammation to be this idea
+
+1723
+01:11:26,190 --> 01:11:27,900
+that just inflammation is bad
+
+1724
+01:11:27,900 --> 01:11:30,490
+and nothing could be
+further from the truth.
+
+1725
+01:11:30,490 --> 01:11:31,350
+Before I continue,
+
+1726
+01:11:31,350 --> 01:11:35,260
+I just thought I'd answer
+a question that I get a lot
+
+1727
+01:11:35,260 --> 01:11:37,060
+which is what about Wim Hof breathing?
+
+1728
+01:11:37,060 --> 01:11:38,140
+I get asked about this a lot.
+
+1729
+01:11:38,140 --> 01:11:41,680
+Wim Hof, also called aka The Iceman,
+
+1730
+01:11:41,680 --> 01:11:44,620
+has this breathing that's
+similar to Tummo breathing,
+
+1731
+01:11:44,620 --> 01:11:45,730
+as it was originally called,
+
+1732
+01:11:45,730 --> 01:11:47,530
+involves basically hyperventilating
+
+1733
+01:11:47,530 --> 01:11:49,660
+and then doing some exhales
+and some breath holds.
+
+1734
+01:11:49,660 --> 01:11:50,700
+A couple of things about that.
+
+1735
+01:11:50,700 --> 01:11:52,690
+It should never be done near water.
+
+1736
+01:11:52,690 --> 01:11:53,830
+People who have done it near water
+
+1737
+01:11:53,830 --> 01:11:55,180
+unfortunately have drowned.
+
+1738
+01:11:56,370 --> 01:11:58,650
+It's certainly not for everybody
+
+1739
+01:11:58,650 --> 01:12:01,480
+and I'm not here to either promote it
+
+1740
+01:12:01,480 --> 01:12:03,570
+nor discourage people from doing it,
+
+1741
+01:12:03,570 --> 01:12:04,757
+but I think we should ask ourselves,
+
+1742
+01:12:04,757 --> 01:12:06,210
+"What is the net effect of that?"
+
+1743
+01:12:06,210 --> 01:12:08,320
+Because a number of people
+have asked me about it
+
+1744
+01:12:08,320 --> 01:12:10,900
+in relation to pain management.
+
+1745
+01:12:10,900 --> 01:12:13,140
+The effect of doing
+that kind of breathing,
+
+1746
+01:12:13,140 --> 01:12:14,420
+it's not a mysterious effect.
+
+1747
+01:12:14,420 --> 01:12:17,390
+It liberates adrenaline from the adrenals.
+
+1748
+01:12:17,390 --> 01:12:18,223
+There is a paper published in
+
+1749
+01:12:18,223 --> 01:12:20,300
+the "Proceedings of the
+National Academy of Sciences,"
+
+1750
+01:12:20,300 --> 01:12:21,660
+which is a very fine journal,
+
+1751
+01:12:21,660 --> 01:12:23,520
+showing that that breathing pattern
+
+1752
+01:12:23,520 --> 01:12:26,510
+can counter infection from endotoxin
+
+1753
+01:12:26,510 --> 01:12:29,450
+and that's because when you
+have adrenaline in your system
+
+1754
+01:12:29,450 --> 01:12:31,273
+and when the spleen is very active,
+
+1755
+01:12:32,110 --> 01:12:36,970
+that response is used to counter infection
+
+1756
+01:12:36,970 --> 01:12:39,850
+and stress counters infection.
+
+1757
+01:12:39,850 --> 01:12:41,450
+We'll talk about this more going forward,
+
+1758
+01:12:41,450 --> 01:12:44,740
+but the idea that stress lends
+itself to infection is false.
+
+1759
+01:12:44,740 --> 01:12:46,380
+Stress counters infection
+
+1760
+01:12:46,380 --> 01:12:49,240
+by liberating killer cells in the body.
+
+1761
+01:12:49,240 --> 01:12:50,360
+You don't want the stress response
+
+1762
+01:12:50,360 --> 01:12:52,583
+to stay on indefinitely, however.
+
+1763
+01:12:53,560 --> 01:12:56,310
+Things like Wim Hof
+breathing, like ice baths,
+
+1764
+01:12:56,310 --> 01:12:57,790
+anything that releases adrenaline
+
+1765
+01:12:57,790 --> 01:13:00,343
+will counter the infection,
+
+1766
+01:13:01,360 --> 01:13:03,480
+but you want to regulate the duration
+
+1767
+01:13:03,480 --> 01:13:05,230
+of that adrenaline response.
+
+1768
+01:13:05,230 --> 01:13:06,190
+This should make perfect sense.
+
+1769
+01:13:06,190 --> 01:13:07,720
+We, as a species,
+
+1770
+01:13:07,720 --> 01:13:09,790
+had to evolve under
+conditions of famine and cold.
+
+1771
+01:13:09,790 --> 01:13:10,880
+Actually, Texas right now
+
+1772
+01:13:10,880 --> 01:13:13,580
+is an extreme case of
+cold and power outage.
+
+1773
+01:13:13,580 --> 01:13:15,450
+I've seen the pictures and
+a lot of people out there
+
+1774
+01:13:15,450 --> 01:13:17,120
+are really suffering.
+
+1775
+01:13:17,120 --> 01:13:19,720
+Their systems are releasing
+a ton of adrenaline.
+
+1776
+01:13:19,720 --> 01:13:22,850
+They're cold. Some of them
+are likely to be hungry.
+
+1777
+01:13:22,850 --> 01:13:24,373
+They're probably stressed.
+
+1778
+01:13:25,420 --> 01:13:26,950
+They're releasing a lot of adrenaline
+
+1779
+01:13:26,950 --> 01:13:29,403
+which is keeping them safe from infection.
+
+1780
+01:13:30,360 --> 01:13:32,910
+After they get their heat
+back on and they relax
+
+1781
+01:13:32,910 --> 01:13:34,530
+and they can finally warm up again,
+
+1782
+01:13:34,530 --> 01:13:37,450
+which we would like for them very soon,
+
+1783
+01:13:37,450 --> 01:13:38,900
+hopefully by the time
+this podcast comes out,
+
+1784
+01:13:38,900 --> 01:13:40,530
+that will have already happened,
+
+1785
+01:13:40,530 --> 01:13:42,530
+that's typically when people get sick
+
+1786
+01:13:42,530 --> 01:13:44,550
+because the immune response is blunted
+
+1787
+01:13:44,550 --> 01:13:47,023
+as the stress response starts to subside.
+
+1788
+01:13:48,050 --> 01:13:51,470
+Stress, inflammation,
+countering infection,
+
+1789
+01:13:51,470 --> 01:13:52,700
+that comes from endotoxin,
+
+1790
+01:13:52,700 --> 01:13:54,190
+that comes from any number of things.
+
+1791
+01:13:54,190 --> 01:13:56,250
+It can be from cold. It can
+be from hyperventilation.
+
+1792
+01:13:56,250 --> 01:13:58,080
+It can be from a physical threat.
+
+1793
+01:13:58,080 --> 01:14:02,720
+It can be from the stress of
+an exam or an upcoming surgery.
+
+1794
+01:14:02,720 --> 01:14:04,030
+This adrenaline thing
+
+1795
+01:14:04,030 --> 01:14:07,180
+and the inflammation
+associated with it is adaptive.
+
+1796
+01:14:07,180 --> 01:14:08,780
+It's highly adaptive.
+
+1797
+01:14:08,780 --> 01:14:10,830
+It is a short-term plasticity
+
+1798
+01:14:10,830 --> 01:14:12,660
+that is designed to make us better
+
+1799
+01:14:12,660 --> 01:14:16,890
+for what we're experiencing
+and challenged with, not worse,
+
+1800
+01:14:16,890 --> 01:14:19,140
+and so hopefully that will
+add an additional layer
+
+1801
+01:14:19,140 --> 01:14:21,160
+to this whole idea that stress is bad,
+
+1802
+01:14:21,160 --> 01:14:23,310
+inflammation is bad, et cetera.
+
+1803
+01:14:23,310 --> 01:14:26,510
+Again, I'm not suggesting
+people do or don't do
+
+1804
+01:14:26,510 --> 01:14:28,530
+something like Wim Hof, Tummo breathing,
+
+1805
+01:14:28,530 --> 01:14:29,830
+I just want to point to the utility.
+
+1806
+01:14:29,830 --> 01:14:32,110
+It's very similar to the
+utility from cold showers,
+
+1807
+01:14:32,110 --> 01:14:34,640
+ice baths and other forms of anything
+
+1808
+01:14:34,640 --> 01:14:36,540
+that increase adrenaline.
+
+1809
+01:14:36,540 --> 01:14:38,100
+Every episode, I want to make sure
+
+1810
+01:14:38,100 --> 01:14:39,690
+that every listener comes away
+
+1811
+01:14:39,690 --> 01:14:42,060
+with as much knowledge as possible
+
+1812
+01:14:42,060 --> 01:14:44,390
+but also actionable tools,
+
+1813
+01:14:44,390 --> 01:14:46,400
+and today we've talked
+about a variety of tools,
+
+1814
+01:14:46,400 --> 01:14:50,160
+but I want to center in on a
+particular sequence of tools
+
+1815
+01:14:50,160 --> 01:14:52,310
+that hopefully you won't need,
+
+1816
+01:14:52,310 --> 01:14:55,580
+but presumably if you're a
+human being and you're active,
+
+1817
+01:14:55,580 --> 01:14:57,140
+you will need at some point.
+
+1818
+01:14:57,140 --> 01:14:58,870
+It's about managing injury
+
+1819
+01:14:58,870 --> 01:15:02,550
+and recovering and healing fast
+
+1820
+01:15:02,550 --> 01:15:04,363
+or at least as fast as possible.
+
+1821
+01:15:05,940 --> 01:15:07,370
+It includes removing the pain.
+
+1822
+01:15:07,370 --> 01:15:10,040
+It includes getting mobility back
+
+1823
+01:15:10,040 --> 01:15:12,400
+and getting back to a normal life,
+
+1824
+01:15:12,400 --> 01:15:14,170
+whatever that means for you.
+
+1825
+01:15:14,170 --> 01:15:17,380
+I want to emphasize that what
+I'm about to talk about next
+
+1826
+01:15:17,380 --> 01:15:20,960
+was developed in close
+consultation with Kelly Starrett,
+
+1827
+01:15:20,960 --> 01:15:24,200
+who many of you probably
+have heard of before.
+
+1828
+01:15:24,200 --> 01:15:25,950
+Kelly can be found at The Ready State.
+
+1829
+01:15:25,950 --> 01:15:27,420
+He's a formally trained,
+
+1830
+01:15:27,420 --> 01:15:30,820
+so degreed and educated,
+exercise physiologist.
+
+1831
+01:15:30,820 --> 01:15:32,370
+He's a world expert in movement
+
+1832
+01:15:32,370 --> 01:15:35,010
+and tissue rehabilitation, et cetera.
+
+1833
+01:15:35,010 --> 01:15:36,800
+They're not sponsors of the podcast.
+
+1834
+01:15:36,800 --> 01:15:38,550
+Kelly is a friend and a colleague.
+
+1835
+01:15:38,550 --> 01:15:40,270
+He's somebody that I personally trust
+
+1836
+01:15:40,270 --> 01:15:44,080
+and his views on tissue
+rehabilitation and injury
+
+1837
+01:15:45,180 --> 01:15:47,960
+I think are really grounded extremely well
+
+1838
+01:15:47,960 --> 01:15:50,350
+in both medicine, physiology,
+
+1839
+01:15:50,350 --> 01:15:53,490
+and the real cutting edge of what's new
+
+1840
+01:15:53,490 --> 01:15:56,610
+and what you might not
+get in terms of advice
+
+1841
+01:15:56,610 --> 01:15:58,160
+from the typical person.
+
+1842
+01:15:58,160 --> 01:16:00,700
+All that said, you always,
+always, always should consult
+
+1843
+01:16:00,700 --> 01:16:03,500
+with your physician before
+adopting any protocols
+
+1844
+01:16:03,500 --> 01:16:05,063
+or removing any protocols.
+
+1845
+01:16:06,100 --> 01:16:08,637
+I asked Kelly, I made it
+really simple, I said,
+
+1846
+01:16:08,637 --> 01:16:10,710
+"Okay, let's say I were to sprain my ankle
+
+1847
+01:16:10,710 --> 01:16:12,610
+or break my arm or injure my knee
+
+1848
+01:16:12,610 --> 01:16:15,853
+or ACL tear or something
+like that or shoulder injury,
+
+1849
+01:16:16,760 --> 01:16:20,120
+what are the absolute necessary things
+
+1850
+01:16:20,120 --> 01:16:21,823
+to do regardless of situation
+
+1851
+01:16:21,823 --> 01:16:25,070
+and what science is this grounded in?"
+
+1852
+01:16:25,070 --> 01:16:27,630
+And then I made it a point
+to go find the studies
+
+1853
+01:16:27,630 --> 01:16:32,070
+that either supported or
+refuted what he was telling me
+
+1854
+01:16:32,070 --> 01:16:34,670
+because that's why I'm here.
+
+1855
+01:16:34,670 --> 01:16:37,440
+The first one is a very basic one,
+
+1856
+01:16:37,440 --> 01:16:39,700
+that now you have a lot
+of information to act on,
+
+1857
+01:16:39,700 --> 01:16:42,110
+which is in terms of
+
+1858
+01:16:42,110 --> 01:16:43,940
+what we know about tissue rehabilitation,
+
+1859
+01:16:43,940 --> 01:16:46,420
+both brain and body, we know
+that sleep is essential,
+
+1860
+01:16:46,420 --> 01:16:49,870
+and so we both agreed
+that eight hours minimum
+
+1861
+01:16:49,870 --> 01:16:51,610
+in bed per night is critical.
+
+1862
+01:16:51,610 --> 01:16:52,810
+What was interesting, however,
+
+1863
+01:16:52,810 --> 01:16:55,970
+is that it doesn't have to
+be eight hours of sleep.
+
+1864
+01:16:55,970 --> 01:16:58,240
+We acknowledged that some of that time
+
+1865
+01:16:58,240 --> 01:16:59,970
+might be challenging to get to sleep,
+
+1866
+01:16:59,970 --> 01:17:03,070
+especially if one is in
+pain or mobility is limited.
+
+1867
+01:17:03,070 --> 01:17:05,280
+We forget how often we roll over in bed
+
+1868
+01:17:05,280 --> 01:17:09,060
+or how the conditions of our sleeping
+
+1869
+01:17:09,060 --> 01:17:10,853
+can impact those injuries too.
+
+1870
+01:17:13,020 --> 01:17:14,750
+Kelly acknowledged, and I agree,
+
+1871
+01:17:14,750 --> 01:17:17,030
+that eight hours of sleep would be ideal,
+
+1872
+01:17:17,030 --> 01:17:19,200
+but if not, at least eight hours immobile
+
+1873
+01:17:19,200 --> 01:17:20,420
+and that speaks to the power of
+
+1874
+01:17:20,420 --> 01:17:22,530
+these non-sleep deep rest protocols too.
+
+1875
+01:17:22,530 --> 01:17:23,620
+If you can't sleep,
+
+1876
+01:17:23,620 --> 01:17:25,370
+doing non-sleep deep rest protocols,
+
+1877
+01:17:25,370 --> 01:17:26,920
+we've provided links to them before,
+
+1878
+01:17:26,920 --> 01:17:29,530
+we're going to continue to
+provide links to the previous ones
+
+1879
+01:17:29,530 --> 01:17:31,500
+and new ones are coming soon,
+
+1880
+01:17:31,500 --> 01:17:32,940
+that is extremely beneficial.
+
+1881
+01:17:32,940 --> 01:17:35,040
+That's a non-negotiable
+
+1882
+01:17:35,040 --> 01:17:38,170
+in terms of getting the
+foundation for allowing
+
+1883
+01:17:38,170 --> 01:17:41,060
+for glymphatic clearance and
+tissue clearance, et cetera.
+
+1884
+01:17:41,060 --> 01:17:42,850
+The other is, if possible,
+
+1885
+01:17:42,850 --> 01:17:46,350
+unless it's absolutely excruciating
+or you just can't do it,
+
+1886
+01:17:46,350 --> 01:17:47,950
+a 10-minute walk per day,
+
+1887
+01:17:47,950 --> 01:17:50,030
+of course you don't want
+to exacerbate the injury,
+
+1888
+01:17:50,030 --> 01:17:53,870
+at least a 10-minute walk
+per day and probably longer.
+
+1889
+01:17:53,870 --> 01:17:55,080
+This is where it gets interesting.
+
+1890
+01:17:55,080 --> 01:17:57,640
+I was taught, I learned that
+when you injure yourself,
+
+1891
+01:17:57,640 --> 01:17:58,950
+you're supposed to ice something.
+
+1892
+01:17:58,950 --> 01:18:01,230
+You're supposed to put ice on
+it, but I didn't realize this,
+
+1893
+01:18:01,230 --> 01:18:03,980
+but when speaking to
+exercise physiologists
+
+1894
+01:18:03,980 --> 01:18:05,170
+and some physicians,
+
+1895
+01:18:05,170 --> 01:18:08,990
+they said that the ice is
+really more of a placebo.
+
+1896
+01:18:08,990 --> 01:18:12,100
+It numbs the environment of the injury,
+
+1897
+01:18:12,100 --> 01:18:13,140
+which is not surprising,
+
+1898
+01:18:13,140 --> 01:18:16,020
+and will eliminate the
+pain for a short while,
+
+1899
+01:18:16,020 --> 01:18:18,390
+but it has some negative effects
+
+1900
+01:18:18,390 --> 01:18:21,020
+that perhaps offset its use.
+
+1901
+01:18:21,020 --> 01:18:22,570
+One, it sludges,
+
+1902
+01:18:22,570 --> 01:18:24,440
+it creates sludging within the blood
+
+1903
+01:18:24,440 --> 01:18:25,840
+and other lymphatic tissue,
+
+1904
+01:18:25,840 --> 01:18:28,440
+so it actually can create
+some clotting and sludging
+
+1905
+01:18:28,440 --> 01:18:31,060
+of the tissue and fluids,
+
+1906
+01:18:31,060 --> 01:18:34,320
+the fascial interface with muscle,
+
+1907
+01:18:34,320 --> 01:18:36,240
+and a number of the stuff
+
+1908
+01:18:36,240 --> 01:18:37,720
+that's supposed to be
+flowing through there
+
+1909
+01:18:37,720 --> 01:18:40,690
+can slow up and increase
+inflammation in the wrong way,
+
+1910
+01:18:40,690 --> 01:18:44,980
+can actually restrict movement
+out of the injury site,
+
+1911
+01:18:44,980 --> 01:18:47,770
+which is bad because
+you want the macrophages
+
+1912
+01:18:47,770 --> 01:18:51,060
+and the other cell types
+phagocytosing, eating up,
+
+1913
+01:18:51,060 --> 01:18:53,050
+the debris in an injury
+
+1914
+01:18:53,050 --> 01:18:55,643
+and moving it out of there
+so that it can repair.
+
+1915
+01:18:56,620 --> 01:18:58,587
+That was surprising to
+me which made me ask,
+
+1916
+01:18:58,587 --> 01:18:59,710
+"Well, then what about heat?"
+
+1917
+01:18:59,710 --> 01:19:03,070
+Well, it turns out heat is
+actually quite beneficial.
+
+1918
+01:19:03,070 --> 01:19:04,870
+A lot of people talk
+about heat shock proteins
+
+1919
+01:19:04,870 --> 01:19:07,740
+and all these genetic
+pathways and protein pathways
+
+1920
+01:19:07,740 --> 01:19:09,240
+that can be activated by heat.
+
+1921
+01:19:10,380 --> 01:19:13,050
+Very little data to support the idea
+
+1922
+01:19:13,050 --> 01:19:14,480
+that heat shock proteins
+
+1923
+01:19:14,480 --> 01:19:16,860
+are part of the wound healing process,
+
+1924
+01:19:16,860 --> 01:19:19,930
+at least in terms of the
+sorts of conventional heat
+
+1925
+01:19:19,930 --> 01:19:22,420
+that one could use like a hot water bottle
+
+1926
+01:19:22,420 --> 01:19:25,560
+or a hot bath or a hot compress.
+
+1927
+01:19:25,560 --> 01:19:27,680
+The major effects seem to be explained
+
+1928
+01:19:27,680 --> 01:19:31,270
+by heat improving the
+viscosity of the tissues
+
+1929
+01:19:31,270 --> 01:19:35,420
+and the clearance and
+the perfusion of fluid,
+
+1930
+01:19:35,420 --> 01:19:37,180
+blood, lymph and other fluids,
+
+1931
+01:19:37,180 --> 01:19:38,960
+out of the injury area.
+
+1932
+01:19:38,960 --> 01:19:40,480
+That's really interesting.
+I didn't know this.
+
+1933
+01:19:40,480 --> 01:19:42,020
+I thought, well, you're
+supposed to ice something.
+
+1934
+01:19:42,020 --> 01:19:43,680
+I said, well, whenever I would see
+
+1935
+01:19:43,680 --> 01:19:45,578
+a kid get injured in soccer,
+
+1936
+01:19:45,578 --> 01:19:46,810
+never me, of course,
+
+1937
+01:19:46,810 --> 01:19:48,900
+no, of course I got injured
+in soccer from time to time,
+
+1938
+01:19:48,900 --> 01:19:49,980
+they give you an ice pack
+
+1939
+01:19:49,980 --> 01:19:52,330
+and the ice pack removes some of the pain.
+
+1940
+01:19:52,330 --> 01:19:55,540
+I think the consensus now,
+which was surprising to me,
+
+1941
+01:19:55,540 --> 01:19:57,080
+is that the ice pack is actually
+
+1942
+01:19:57,080 --> 01:19:58,810
+more of the top-down modulation.
+
+1943
+01:19:58,810 --> 01:20:01,410
+You think you're doing
+something for the pain
+
+1944
+01:20:01,410 --> 01:20:02,820
+and there's some interesting studies
+
+1945
+01:20:02,820 --> 01:20:05,030
+that actually showed the
+placebo effect of the ice pack,
+
+1946
+01:20:05,030 --> 01:20:07,570
+so ice packs are placebo, perhaps.
+
+1947
+01:20:07,570 --> 01:20:08,403
+That's interesting.
+
+1948
+01:20:08,403 --> 01:20:10,110
+I'll underline perhaps because who knows?
+
+1949
+01:20:10,110 --> 01:20:12,440
+Maybe there's some people out
+there that are going to say
+
+1950
+01:20:12,440 --> 01:20:13,750
+this is totally crazy
+
+1951
+01:20:13,750 --> 01:20:15,387
+and the ice is actually very beneficial,
+
+1952
+01:20:15,387 --> 01:20:18,120
+but it seems like heat, mobility,
+
+1953
+01:20:18,120 --> 01:20:20,870
+sleep, keeping movement,
+
+1954
+01:20:20,870 --> 01:20:22,890
+and it turns out that the movement itself
+
+1955
+01:20:22,890 --> 01:20:24,930
+can act as a bit of an analgesic,
+
+1956
+01:20:24,930 --> 01:20:26,760
+it can actually reduce the pain,
+
+1957
+01:20:26,760 --> 01:20:29,800
+whereas the ice reduces the
+pain but sludges the tissue
+
+1958
+01:20:29,800 --> 01:20:33,430
+and keeps the cells
+that need to be removed
+
+1959
+01:20:33,430 --> 01:20:35,880
+from leaving the area.
+
+1960
+01:20:35,880 --> 01:20:39,630
+What's also interesting
+is in neuroscience we know
+
+1961
+01:20:39,630 --> 01:20:42,570
+that if we want to kill
+neurons or silence neurons,
+
+1962
+01:20:42,570 --> 01:20:43,970
+we cool them.
+
+1963
+01:20:43,970 --> 01:20:46,540
+This is a well-known
+tool in the laboratory.
+
+1964
+01:20:46,540 --> 01:20:50,420
+Some of the early and most
+important studies in neuroscience
+
+1965
+01:20:50,420 --> 01:20:52,170
+that formed the basis for the textbooks
+
+1966
+01:20:52,170 --> 01:20:53,790
+were lowering a cooling probe
+
+1967
+01:20:53,790 --> 01:20:56,070
+into a particular area of the
+brain or a peripheral nerve
+
+1968
+01:20:56,070 --> 01:20:57,730
+in order to shut down that nerve,
+
+1969
+01:20:57,730 --> 01:21:00,080
+so the cooling will shut down the nerve,
+
+1970
+01:21:00,080 --> 01:21:04,800
+but another very well-known
+fact in neuroscience text books
+
+1971
+01:21:04,800 --> 01:21:07,340
+is that when the activity
+of the nerve pathway
+
+1972
+01:21:07,340 --> 01:21:08,890
+or neurons comes back,
+
+1973
+01:21:08,890 --> 01:21:11,190
+there's what's called
+homeostatic plasticity,
+
+1974
+01:21:11,190 --> 01:21:13,500
+that it rebounds with greater pain,
+
+1975
+01:21:13,500 --> 01:21:14,980
+with a higher level of intensity,
+
+1976
+01:21:14,980 --> 01:21:17,310
+which in the pain system
+would equate to greater pain.
+
+1977
+01:21:17,310 --> 01:21:19,710
+Regardless of where these
+neurons are in the body,
+
+1978
+01:21:19,710 --> 01:21:22,060
+if you stimulate a neuron, it's active.
+
+1979
+01:21:22,060 --> 01:21:24,050
+If you cool it, it becomes inactive
+
+1980
+01:21:24,050 --> 01:21:27,110
+and when the neuron heats
+back up after being cooled,
+
+1981
+01:21:27,110 --> 01:21:28,950
+it becomes hyperactive,
+
+1982
+01:21:28,950 --> 01:21:32,440
+and so this makes really
+good sense as to why heat,
+
+1983
+01:21:32,440 --> 01:21:34,560
+provided it's not damaging levels of heat,
+
+1984
+01:21:34,560 --> 01:21:37,520
+would be more beneficial for wound healing
+
+1985
+01:21:37,520 --> 01:21:40,490
+and for reducing pain in
+the short and long run
+
+1986
+01:21:40,490 --> 01:21:43,930
+than would be cold or ice,
+
+1987
+01:21:43,930 --> 01:21:45,770
+which I find very interesting.
+
+1988
+01:21:45,770 --> 01:21:47,253
+In terms of chronic pain,
+
+1989
+01:21:48,480 --> 01:21:49,510
+the manuscripts on this,
+
+1990
+01:21:49,510 --> 01:21:52,270
+my discussion with Kelly and with others,
+
+1991
+01:21:52,270 --> 01:21:54,560
+point to the fact that
+chronic pain is basically
+
+1992
+01:21:54,560 --> 01:21:56,150
+plasticity gone wrong.
+
+1993
+01:21:56,150 --> 01:21:59,077
+It's sort of like PTSD
+for the emotional system
+
+1994
+01:21:59,077 --> 01:22:00,510
+and the stress system,
+
+1995
+01:22:00,510 --> 01:22:02,950
+and chronic pain is going to involve
+
+1996
+01:22:02,950 --> 01:22:04,550
+a number of different protocols
+
+1997
+01:22:04,550 --> 01:22:07,380
+to rewire both the brain centers
+
+1998
+01:22:07,380 --> 01:22:09,650
+and the peripheral centers
+associated with chronic pain.
+
+1999
+01:22:09,650 --> 01:22:11,850
+Certain things like
+fibromyalgia, for instance,
+
+2000
+01:22:11,850 --> 01:22:13,730
+which is whole-body pain,
+
+2001
+01:22:13,730 --> 01:22:16,470
+relate to too little inhibition.
+
+2002
+01:22:16,470 --> 01:22:18,490
+In the brain, you have
+excitation and inhibition.
+
+2003
+01:22:18,490 --> 01:22:19,890
+They come from different
+sources of neurons.
+
+2004
+01:22:19,890 --> 01:22:23,010
+The inhibition is mainly from GABA
+
+2005
+01:22:23,010 --> 01:22:25,503
+and glycine and things like that.
+
+2006
+01:22:26,360 --> 01:22:29,650
+In fibromyalgia, there's
+too little central,
+
+2007
+01:22:29,650 --> 01:22:30,723
+within the brain,
+
+2008
+01:22:31,920 --> 01:22:33,790
+modulation of the pain responses
+
+2009
+01:22:33,790 --> 01:22:36,330
+so that people experience whole-body pain.
+
+2010
+01:22:36,330 --> 01:22:39,100
+In that case, the emerging
+therapies are really interesting.
+
+2011
+01:22:39,100 --> 01:22:40,250
+I have a friend who works
+
+2012
+01:22:40,250 --> 01:22:41,490
+for the National Institutes of Health
+
+2013
+01:22:41,490 --> 01:22:44,130
+who unfortunately
+suffers from fibromyalgia
+
+2014
+01:22:44,130 --> 01:22:45,440
+who asked me about this a lot
+
+2015
+01:22:45,440 --> 01:22:48,910
+and his question and what
+he's now actually exploring
+
+2016
+01:22:48,910 --> 01:22:50,300
+is red light therapy.
+
+2017
+01:22:50,300 --> 01:22:53,400
+Something that I've talked about
+on various Instagram posts.
+
+2018
+01:22:53,400 --> 01:22:55,120
+Red light therapy
+typically is talked about
+
+2019
+01:22:55,120 --> 01:22:56,990
+in terms of mitochondria
+
+2020
+01:22:56,990 --> 01:22:59,600
+and the data on that are not so terrific,
+
+2021
+01:22:59,600 --> 01:23:01,150
+at least not really published
+
+2022
+01:23:01,150 --> 01:23:03,070
+in blue ribbon journals in most cases,
+
+2023
+01:23:03,070 --> 01:23:04,950
+except for one study that I'm aware of
+
+2024
+01:23:04,950 --> 01:23:07,570
+from Glen Jeffery's lab at
+University College London
+
+2025
+01:23:07,570 --> 01:23:09,710
+showing that red light
+stimulation to the eyes
+
+2026
+01:23:09,710 --> 01:23:11,550
+in people 40 or older
+
+2027
+01:23:11,550 --> 01:23:13,870
+can offset some of the effects
+of macular degeneration
+
+2028
+01:23:13,870 --> 01:23:16,620
+by improving the health
+of the photo receptors.
+
+2029
+01:23:16,620 --> 01:23:19,850
+People with fibromyalgia,
+which is this whole-body pain,
+
+2030
+01:23:19,850 --> 01:23:23,070
+are now starting to use
+red light therapies.
+
+2031
+01:23:23,070 --> 01:23:27,007
+When I asked Kelly and others
+and some experts in pain,
+
+2032
+01:23:27,007 --> 01:23:29,530
+"What are your thoughts
+on this red light therapy
+
+2033
+01:23:29,530 --> 01:23:32,230
+for things like fibromyalgia and pain,
+
+2034
+01:23:32,230 --> 01:23:34,860
+especially red light local therapy?"
+
+2035
+01:23:34,860 --> 01:23:38,530
+Their idea, and I don't
+think this is a field
+
+2036
+01:23:38,530 --> 01:23:39,860
+that's progressed far enough now
+
+2037
+01:23:39,860 --> 01:23:42,450
+to really place any firm conclusions on,
+
+2038
+01:23:42,450 --> 01:23:45,820
+but the idea is that red
+light therapy locally
+
+2039
+01:23:45,820 --> 01:23:47,350
+may have some effect,
+
+2040
+01:23:47,350 --> 01:23:49,320
+but the systemic red light therapy,
+
+2041
+01:23:49,320 --> 01:23:52,880
+this is like wearing protection
+to the eyes, in some cases,
+
+2042
+01:23:52,880 --> 01:23:55,140
+so not for the treatment
+of macular degeneration
+
+2043
+01:23:55,140 --> 01:23:56,460
+but wearing protection of the eyes
+
+2044
+01:23:56,460 --> 01:23:59,540
+and getting very bright red light therapy
+
+2045
+01:23:59,540 --> 01:24:02,447
+in many ways may be, and
+to use Kelly's words,
+
+2046
+01:24:02,447 --> 01:24:04,360
+"Approximating the effects of nature."
+
+2047
+01:24:04,360 --> 01:24:06,100
+These are like surrogate technologies
+
+2048
+01:24:06,100 --> 01:24:07,740
+for getting outside in the sunshine.
+
+2049
+01:24:07,740 --> 01:24:09,450
+When you're in the sun,
+it might not look red,
+
+2050
+01:24:09,450 --> 01:24:12,610
+but there are a lot of red
+wavelengths coming toward you.
+
+2051
+01:24:12,610 --> 01:24:14,920
+The red light therapies
+may have some utility,
+
+2052
+01:24:14,920 --> 01:24:18,090
+but getting into sunlight
+may actually have
+
+2053
+01:24:18,090 --> 01:24:20,010
+as much or more effect.
+
+2054
+01:24:20,010 --> 01:24:21,890
+Of course, if these wounds
+are on a part of the body
+
+2055
+01:24:21,890 --> 01:24:23,330
+that you can't expose,
+
+2056
+01:24:23,330 --> 01:24:24,430
+then you could imagine why
+
+2057
+01:24:24,430 --> 01:24:25,930
+the red light therapy might be good.
+
+2058
+01:24:25,930 --> 01:24:27,363
+I don't know, depending on
+the neighborhood you live in,
+
+2059
+01:24:27,363 --> 01:24:29,500
+that may or may not be a
+weird thing to go outside
+
+2060
+01:24:29,500 --> 01:24:31,150
+and expose your body to sunlight.
+
+2061
+01:24:32,250 --> 01:24:33,810
+Probably a number of factors that dictate
+
+2062
+01:24:33,810 --> 01:24:34,960
+whether or not that'd be weird or not,
+
+2063
+01:24:34,960 --> 01:24:36,690
+but that's up to you, not me,
+
+2064
+01:24:36,690 --> 01:24:38,670
+and it seems that,
+
+2065
+01:24:38,670 --> 01:24:42,320
+so movement, heat, not ice,
+
+2066
+01:24:42,320 --> 01:24:44,740
+light, sleep,
+
+2067
+01:24:44,740 --> 01:24:47,610
+and in some cases, the use,
+
+2068
+01:24:47,610 --> 01:24:48,820
+and I'll talk about this in a moment,
+
+2069
+01:24:48,820 --> 01:24:51,050
+that some cases the use of restricting
+
+2070
+01:24:51,050 --> 01:24:53,420
+above and below the injury to then release
+
+2071
+01:24:53,420 --> 01:24:56,340
+and then increase
+perfusion through the site
+
+2072
+01:24:56,340 --> 01:24:59,800
+may actually accelerate the wound healing.
+
+2073
+01:24:59,800 --> 01:25:02,010
+All of this might sound just
+like common sense knowledge,
+
+2074
+01:25:02,010 --> 01:25:04,710
+but to me, at least as a 45-year-old,
+
+2075
+01:25:04,710 --> 01:25:06,180
+I always just thought it's ice,
+
+2076
+01:25:06,180 --> 01:25:08,730
+it's non-steroid anti-inflammatory drugs,
+
+2077
+01:25:08,730 --> 01:25:10,840
+it's things that block prostaglandins,
+
+2078
+01:25:10,840 --> 01:25:14,310
+so things like aspirin,
+ibuprofen, acetaminophen.
+
+2079
+01:25:14,310 --> 01:25:17,270
+Those things generally
+work by blocking things,
+
+2080
+01:25:17,270 --> 01:25:21,530
+they're called the COX
+prostaglandin blockers
+
+2081
+01:25:21,530 --> 01:25:24,163
+and things of that sort,
+things in that pathway.
+
+2082
+01:25:25,030 --> 01:25:28,460
+Those sorts of treatments
+which reduce inflammation
+
+2083
+01:25:28,460 --> 01:25:29,900
+may not be so great at the beginning
+
+2084
+01:25:29,900 --> 01:25:31,400
+when you want inflammation,
+
+2085
+01:25:31,400 --> 01:25:33,480
+they may be important for limiting pain
+
+2086
+01:25:33,480 --> 01:25:35,430
+so people can be functional at all,
+
+2087
+01:25:35,430 --> 01:25:37,690
+but the things that I talked about today
+
+2088
+01:25:37,690 --> 01:25:41,190
+really are anchored in three principles.
+
+2089
+01:25:41,190 --> 01:25:44,980
+One is that the inflammation
+response is a good one.
+
+2090
+01:25:44,980 --> 01:25:47,500
+This is what we're learning
+from Qiufu Ma's lab's
+
+2091
+01:25:47,500 --> 01:25:48,850
+work on acupuncture.
+
+2092
+01:25:48,850 --> 01:25:51,150
+The immediate acute
+inflammation response is good.
+
+2093
+01:25:51,150 --> 01:25:53,930
+It calls to the site of injury
+
+2094
+01:25:53,930 --> 01:25:56,730
+things that are going to clean
+up the injury and bad cells.
+
+2095
+01:25:57,870 --> 01:25:58,910
+Then there are going to be things
+
+2096
+01:25:58,910 --> 01:26:00,510
+that are going to improve perfusion,
+
+2097
+01:26:00,510 --> 01:26:03,780
+like the glymphatic
+system, getting deep sleep,
+
+2098
+01:26:03,780 --> 01:26:06,083
+feet elevated, sleeping on one side,
+
+2099
+01:26:07,570 --> 01:26:11,100
+low-level Zone 2 cardio
+three times a week.
+
+2100
+01:26:11,100 --> 01:26:13,200
+Red light, perhaps, is going to be useful
+
+2101
+01:26:13,200 --> 01:26:15,430
+although sunlight might be just as good
+
+2102
+01:26:15,430 --> 01:26:17,680
+depending on who you talk to,
+
+2103
+01:26:17,680 --> 01:26:20,460
+and we can talk about that
+probably more at length
+
+2104
+01:26:20,460 --> 01:26:21,660
+in a future episode.
+
+2105
+01:26:21,660 --> 01:26:24,620
+A number of people will ask
+me, I'm sure, about stem cells
+
+2106
+01:26:24,620 --> 01:26:27,540
+and I don't want to take more of your time
+
+2107
+01:26:27,540 --> 01:26:29,960
+by going into an hour-long
+discussion about stem cells.
+
+2108
+01:26:29,960 --> 01:26:31,850
+Stem cells exist in all
+of us during development.
+
+2109
+01:26:31,850 --> 01:26:33,850
+We were created from stem cells,
+
+2110
+01:26:33,850 --> 01:26:36,460
+which are cells that can
+become essentially anything.
+
+2111
+01:26:36,460 --> 01:26:39,210
+Later, cells get what's called
+restricted in their lineage,
+
+2112
+01:26:39,210 --> 01:26:40,280
+so a skin cell,
+
+2113
+01:26:40,280 --> 01:26:44,240
+unless you do some fancy
+molecular gymnastics to it,
+
+2114
+01:26:44,240 --> 01:26:46,903
+you can't actually turn
+that cell into a neuron.
+
+2115
+01:26:47,750 --> 01:26:49,090
+Yamanaka won the Nobel Prize
+
+2116
+01:26:49,090 --> 01:26:51,140
+for finding these Yamanaka factors
+
+2117
+01:26:51,140 --> 01:26:53,080
+which you could give a skin
+cell to turn into a neuron,
+
+2118
+01:26:53,080 --> 01:26:55,580
+but that's not an approved
+therapy at this time,
+
+2119
+01:26:55,580 --> 01:26:59,250
+but many people ask me
+about platelet-rich plasma,
+
+2120
+01:26:59,250 --> 01:27:00,900
+so-called PRP.
+
+2121
+01:27:00,900 --> 01:27:04,180
+They take blood, they
+enrich for platelets,
+
+2122
+01:27:04,180 --> 01:27:06,340
+and they re-inject it back into people.
+
+2123
+01:27:06,340 --> 01:27:08,790
+Here's the deal. This
+deserves an entire episode.
+
+2124
+01:27:10,260 --> 01:27:13,530
+It has never been shown whether
+or not the injection itself
+
+2125
+01:27:13,530 --> 01:27:16,180
+is what's actually creating the effect.
+
+2126
+01:27:16,180 --> 01:27:17,950
+This is something that
+the acupuncture literature
+
+2127
+01:27:17,950 --> 01:27:19,470
+suffered from for a long time,
+
+2128
+01:27:19,470 --> 01:27:22,070
+that the sham control, as it's called,
+
+2129
+01:27:22,070 --> 01:27:23,390
+sham, we don't mean it's a sham,
+
+2130
+01:27:23,390 --> 01:27:25,030
+but in science you say a sham control
+
+2131
+01:27:25,030 --> 01:27:28,700
+meaning you do everything
+exactly the same way you would.
+
+2132
+01:27:28,700 --> 01:27:30,180
+So for acupuncture,
+
+2133
+01:27:30,180 --> 01:27:33,410
+you would bring the needle
+right up to the skin,
+
+2134
+01:27:33,410 --> 01:27:34,560
+but you wouldn't actually poke it
+
+2135
+01:27:34,560 --> 01:27:36,070
+into the skin, for instance.
+
+2136
+01:27:36,070 --> 01:27:37,990
+That would be a sham control.
+
+2137
+01:27:37,990 --> 01:27:38,940
+With a drug treatment,
+
+2138
+01:27:38,940 --> 01:27:41,880
+you would inject a drug into a person
+
+2139
+01:27:41,880 --> 01:27:43,670
+and then the control, the sham control,
+
+2140
+01:27:43,670 --> 01:27:45,630
+would be that you would
+bring the injection over,
+
+2141
+01:27:45,630 --> 01:27:47,810
+you might do the injection
+or not do the injection
+
+2142
+01:27:47,810 --> 01:27:49,380
+'cause you imagine that
+the injection itself
+
+2143
+01:27:49,380 --> 01:27:50,610
+could have an effect.
+
+2144
+01:27:50,610 --> 01:27:52,660
+It's never really been
+shown whether or not PRP
+
+2145
+01:27:52,660 --> 01:27:53,950
+has effects that are separate
+
+2146
+01:27:53,950 --> 01:27:57,010
+from injecting a volume
+of fluid into a tissue.
+
+2147
+01:27:57,010 --> 01:28:00,060
+The claims that PRP
+actually contains stem cells
+
+2148
+01:28:00,060 --> 01:28:02,990
+are very, very feeble,
+
+2149
+01:28:02,990 --> 01:28:04,928
+and when you look at the literature
+
+2150
+01:28:04,928 --> 01:28:08,340
+and you talk to anyone expert
+in the stem cell field,
+
+2151
+01:28:08,340 --> 01:28:10,610
+they will tell you that it's,
+
+2152
+01:28:10,610 --> 01:28:14,280
+the number of stem cells in
+PRP is infinitesimally small.
+
+2153
+01:28:14,280 --> 01:28:17,230
+In fact, so much so that these places
+
+2154
+01:28:17,230 --> 01:28:21,630
+that inject PRP for injuries
+are not allowed to advertise
+
+2155
+01:28:21,630 --> 01:28:23,480
+through the use of the words stem cells.
+
+2156
+01:28:23,480 --> 01:28:24,990
+It's actually illegal at this point,
+
+2157
+01:28:24,990 --> 01:28:26,150
+at least as far as I know.
+
+2158
+01:28:26,150 --> 01:28:28,300
+It was through the end of last year
+
+2159
+01:28:28,300 --> 01:28:30,620
+and I'm guessing it still is now.
+
+2160
+01:28:30,620 --> 01:28:32,970
+Stem cells are an exciting
+area of technology.
+
+2161
+01:28:32,970 --> 01:28:35,980
+However, there's a clinic down in Florida
+
+2162
+01:28:35,980 --> 01:28:37,880
+that was shut down a couple of years ago
+
+2163
+01:28:37,880 --> 01:28:41,350
+for injecting stem cells
+harvested from patients
+
+2164
+01:28:41,350 --> 01:28:43,130
+into the eye for macular degeneration.
+
+2165
+01:28:43,130 --> 01:28:46,490
+These were people that were
+suffering from poor vision
+
+2166
+01:28:46,490 --> 01:28:48,687
+and very shortly after injecting
+
+2167
+01:28:48,687 --> 01:28:50,060
+the stem cells into the eyes,
+
+2168
+01:28:50,060 --> 01:28:52,270
+they went completely blind.
+
+2169
+01:28:52,270 --> 01:28:56,280
+I'm somebody who is very skeptical
+
+2170
+01:28:56,280 --> 01:28:59,760
+of the stem cell treatment
+work that's out there.
+
+2171
+01:28:59,760 --> 01:29:01,010
+It's actually very hard to get
+
+2172
+01:29:01,010 --> 01:29:02,580
+in the United States for this reason.
+
+2173
+01:29:02,580 --> 01:29:06,350
+It's not approved. The PRP
+treatments are very complicated.
+
+2174
+01:29:06,350 --> 01:29:08,080
+The marketing around them is
+
+2175
+01:29:09,290 --> 01:29:11,550
+shaky at best.
+
+2176
+01:29:11,550 --> 01:29:14,080
+I'm sure a number of people
+will say that they had PRP
+
+2177
+01:29:14,080 --> 01:29:17,100
+and benefited from it tremendously
+and I don't doubt that.
+
+2178
+01:29:17,100 --> 01:29:18,380
+Whether or not it was placebo,
+
+2179
+01:29:18,380 --> 01:29:20,290
+today we talked a lot
+about top-down control,
+
+2180
+01:29:20,290 --> 01:29:24,270
+that's just a variant on the
+word placebo, belief effects,
+
+2181
+01:29:24,270 --> 01:29:27,000
+whether or not it was
+placebo or not, I don't know.
+
+2182
+01:29:27,000 --> 01:29:28,740
+I wasn't there.
+
+2183
+01:29:28,740 --> 01:29:31,030
+That's for you to decide
+and I'm not here to tell you
+
+2184
+01:29:31,030 --> 01:29:32,350
+that you should or shouldn't do something,
+
+2185
+01:29:32,350 --> 01:29:34,840
+but I do think that anything
+involving stem cells,
+
+2186
+01:29:34,840 --> 01:29:36,360
+one should be very cautious of.
+
+2187
+01:29:36,360 --> 01:29:38,290
+You should also be very cautious
+of anyone that tells you
+
+2188
+01:29:38,290 --> 01:29:41,050
+that PRP is injecting a lot of stem cells.
+
+2189
+01:29:41,050 --> 01:29:43,410
+This is an evolving area that really needs
+
+2190
+01:29:43,410 --> 01:29:45,460
+a lot more work and attention.
+
+2191
+01:29:45,460 --> 01:29:49,190
+The major issue with stem cells
+that I think is concerning
+
+2192
+01:29:49,190 --> 01:29:52,240
+is that stem cells are cells
+
+2193
+01:29:52,240 --> 01:29:54,270
+that want to become lots
+of different things,
+
+2194
+01:29:54,270 --> 01:29:56,150
+not just the tissue that
+you're interested in.
+
+2195
+01:29:56,150 --> 01:29:57,030
+If you damage your knee
+
+2196
+01:29:57,030 --> 01:30:00,100
+and you inject stem cells into your knee,
+
+2197
+01:30:00,100 --> 01:30:02,730
+you need to molecularly
+restrict those stem cells
+
+2198
+01:30:02,730 --> 01:30:05,733
+so that they don't become tumor cells.
+
+2199
+01:30:05,733 --> 01:30:08,680
+A tumor is a collection of stem cells.
+
+2200
+01:30:08,680 --> 01:30:10,300
+When you get something horrible
+
+2201
+01:30:10,300 --> 01:30:11,940
+like glioblastoma in the brain,
+
+2202
+01:30:11,940 --> 01:30:14,280
+which is a terrible thing to have,
+
+2203
+01:30:14,280 --> 01:30:17,100
+it's glial cells that returned
+
+2204
+01:30:17,100 --> 01:30:19,150
+to stemness, excessive stemness,
+
+2205
+01:30:19,150 --> 01:30:21,610
+they've started to produce
+too many of themselves,
+
+2206
+01:30:21,610 --> 01:30:25,460
+and glioblastoma is
+often deadly, not always.
+
+2207
+01:30:25,460 --> 01:30:27,460
+Injecting stem cells, it sounds great,
+
+2208
+01:30:27,460 --> 01:30:29,990
+and it sounds like something
+that one would want to do,
+
+2209
+01:30:29,990 --> 01:30:33,160
+but one needs to approach
+this with extreme caution,
+
+2210
+01:30:33,160 --> 01:30:35,390
+even if it's your own blood
+
+2211
+01:30:35,390 --> 01:30:37,480
+or stem cells that you're re-injecting.
+
+2212
+01:30:37,480 --> 01:30:40,483
+I think those technologies are
+coming. They're on the way.
+
+2213
+01:30:41,360 --> 01:30:44,980
+If any of you are devotees of PRP,
+
+2214
+01:30:44,980 --> 01:30:46,530
+tell me your experiences with them.
+
+2215
+01:30:46,530 --> 01:30:48,250
+I'm curious. I want to see the papers.
+
+2216
+01:30:48,250 --> 01:30:49,250
+I want to know the evidence,
+
+2217
+01:30:49,250 --> 01:30:51,357
+and of course, there are always
+folks out there that say,
+
+2218
+01:30:51,357 --> 01:30:52,860
+"I don't care what the scientists
+
+2219
+01:30:52,860 --> 01:30:55,550
+and the physicians and the FDA say.
+
+2220
+01:30:55,550 --> 01:30:56,840
+I just want to do this,"
+
+2221
+01:30:56,840 --> 01:30:58,700
+and if that's your stance,
+that's your stance.
+
+2222
+01:30:58,700 --> 01:31:00,400
+I'm not here to govern that,
+
+2223
+01:31:00,400 --> 01:31:02,520
+but I do think that
+people should be informed,
+
+2224
+01:31:02,520 --> 01:31:06,720
+and in thinking about
+tissue recovery and injury,
+
+2225
+01:31:06,720 --> 01:31:08,330
+that's what I was able to glean.
+
+2226
+01:31:08,330 --> 01:31:10,110
+Again, check out what Kelly
+
+2227
+01:31:10,110 --> 01:31:13,120
+and his coworkers are
+doing at The Ready State.
+
+2228
+01:31:13,120 --> 01:31:16,120
+It's phenomenal and they've
+worked with all the top people
+
+2229
+01:31:16,120 --> 01:31:18,670
+in just about every
+domain of life, it seems.
+
+2230
+01:31:18,670 --> 01:31:20,143
+Very high-integrity folks.
+
+2231
+01:31:21,240 --> 01:31:23,550
+Some of you are probably
+saying, "Well, I'm not injured.
+
+2232
+01:31:23,550 --> 01:31:25,660
+I'm not an athlete. I don't
+want stem cell injections.
+
+2233
+01:31:25,660 --> 01:31:26,493
+I don't have," again,
+
+2234
+01:31:26,493 --> 01:31:29,630
+I'm saying you shouldn't get
+stem cell injections for now.
+
+2235
+01:31:29,630 --> 01:31:31,670
+Please hold off until
+the field learns more
+
+2236
+01:31:31,670 --> 01:31:33,230
+about how to do that safely,
+
+2237
+01:31:33,230 --> 01:31:35,087
+but I want to talk about
+
+2238
+01:31:35,087 --> 01:31:38,110
+and end with a really interesting
+
+2239
+01:31:38,110 --> 01:31:40,380
+and somewhat weird technology,
+
+2240
+01:31:40,380 --> 01:31:43,180
+which is baby blood.
+
+2241
+01:31:43,180 --> 01:31:44,570
+I have a colleague at Stanford,
+
+2242
+01:31:44,570 --> 01:31:46,800
+his name is Tony Wyss-Coray,
+
+2243
+01:31:46,800 --> 01:31:50,330
+and in 2014 his laboratory
+published a study
+
+2244
+01:31:50,330 --> 01:31:54,640
+showing that the blood of young rodents,
+
+2245
+01:31:54,640 --> 01:31:56,070
+mice and rats,
+
+2246
+01:31:56,070 --> 01:32:00,300
+when transfused into
+old, demented rodents,
+
+2247
+01:32:00,300 --> 01:32:01,870
+mice and rats,
+
+2248
+01:32:01,870 --> 01:32:04,230
+made those old, demented rodents
+
+2249
+01:32:04,230 --> 01:32:09,160
+recover much of their
+memory and seem much more
+
+2250
+01:32:09,160 --> 01:32:11,103
+vital and energetic,
+
+2251
+01:32:11,980 --> 01:32:16,200
+better recall of different
+spatial learning tasks.
+
+2252
+01:32:16,200 --> 01:32:19,410
+Tissue and wound healing,
+they've since shown,
+
+2253
+01:32:19,410 --> 01:32:22,130
+can be improved in these older animals.
+
+2254
+01:32:22,130 --> 01:32:23,280
+It's pretty incredible.
+
+2255
+01:32:24,130 --> 01:32:26,410
+They went on to show several years later
+
+2256
+01:32:26,410 --> 01:32:30,550
+that blood from umbilical cords,
+
+2257
+01:32:30,550 --> 01:32:31,450
+I'm not making this up,
+
+2258
+01:32:31,450 --> 01:32:35,320
+blood from umbilical cords can do the same
+
+2259
+01:32:35,320 --> 01:32:37,800
+and this is the basis
+of a biotech company.
+
+2260
+01:32:37,800 --> 01:32:39,480
+Actually, one of my former postdocs
+
+2261
+01:32:39,480 --> 01:32:41,850
+is now an employee there.
+
+2262
+01:32:41,850 --> 01:32:46,240
+They've isolated the
+molecules from young blood
+
+2263
+01:32:46,240 --> 01:32:48,910
+that seems to vitalize
+
+2264
+01:32:48,910 --> 01:32:52,900
+or revitalize the old brain and body,
+
+2265
+01:32:52,900 --> 01:32:55,550
+and one of those molecules
+goes by the name TIMP2.
+
+2266
+01:32:55,550 --> 01:32:56,983
+T-I-M-P-2.
+
+2267
+01:32:58,380 --> 01:32:59,890
+Where's all this going?
+
+2268
+01:32:59,890 --> 01:33:03,030
+Well, I don't know how
+long it's going to be
+
+2269
+01:33:03,030 --> 01:33:05,860
+before there are treatments based on
+
+2270
+01:33:05,860 --> 01:33:07,930
+these blood transfusions.
+
+2271
+01:33:07,930 --> 01:33:11,430
+I doubt that blood transfusions themselves
+
+2272
+01:33:11,430 --> 01:33:13,740
+from young people into old people
+
+2273
+01:33:13,740 --> 01:33:16,780
+is going to be used for
+the treatment of dementia,
+
+2274
+01:33:16,780 --> 01:33:19,910
+although it might, as weird as it seems.
+
+2275
+01:33:19,910 --> 01:33:22,730
+We know that transfusions
+of all sorts of stuff,
+
+2276
+01:33:22,730 --> 01:33:24,420
+for instance, fecal transplants
+
+2277
+01:33:24,420 --> 01:33:25,780
+are being used to treat obesity.
+
+2278
+01:33:25,780 --> 01:33:30,310
+The gut microbiome of
+thin people is being,
+
+2279
+01:33:30,310 --> 01:33:33,020
+not transfused, but is being transplanted
+
+2280
+01:33:33,020 --> 01:33:36,140
+into the colons and guts of obese people
+
+2281
+01:33:36,140 --> 01:33:37,480
+and leading to weight loss,
+
+2282
+01:33:37,480 --> 01:33:39,440
+which sounds really wild
+
+2283
+01:33:39,440 --> 01:33:42,610
+and is not a topic I
+particularly enjoy talking about,
+
+2284
+01:33:42,610 --> 01:33:45,810
+but nonetheless, it
+points to the importance
+
+2285
+01:33:45,810 --> 01:33:47,900
+of the gut microbiome in regulating things
+
+2286
+01:33:47,900 --> 01:33:50,210
+like blood sugar and health
+
+2287
+01:33:50,210 --> 01:33:52,720
+as it relates to obesity and diabetes
+
+2288
+01:33:52,720 --> 01:33:54,423
+and all sorts of things.
+
+2289
+01:33:55,550 --> 01:33:57,340
+It does appear that there are things,
+
+2290
+01:33:57,340 --> 01:34:00,560
+factors in the blood of young members
+
+2291
+01:34:00,560 --> 01:34:03,790
+of a given species that are lost over time
+
+2292
+01:34:03,790 --> 01:34:06,920
+in the older members of that species.
+
+2293
+01:34:06,920 --> 01:34:08,340
+I'm not going to give you a tool
+
+2294
+01:34:08,340 --> 01:34:10,210
+on the basis of these findings today.
+
+2295
+01:34:10,210 --> 01:34:14,740
+I am not going to tell
+you to consume any fluid
+
+2296
+01:34:14,740 --> 01:34:17,493
+from any other member of your species,
+
+2297
+01:34:18,450 --> 01:34:21,510
+our species, for any reason,
+
+2298
+01:34:21,510 --> 01:34:23,730
+but I do think that it's
+important to mention
+
+2299
+01:34:23,730 --> 01:34:27,450
+that the science is asking questions
+
+2300
+01:34:27,450 --> 01:34:31,620
+such as what are the
+factors within the brain
+
+2301
+01:34:31,620 --> 01:34:34,900
+that allow the young brain
+to recover so much better
+
+2302
+01:34:34,900 --> 01:34:37,030
+than the older brain from injury,
+
+2303
+01:34:37,030 --> 01:34:40,990
+from all sorts of things,
+events, et cetera,
+
+2304
+01:34:40,990 --> 01:34:43,790
+and what are the factors
+in the older brain
+
+2305
+01:34:43,790 --> 01:34:45,200
+that are limiting,
+
+2306
+01:34:45,200 --> 01:34:49,080
+and thinking about
+identifying which factors
+
+2307
+01:34:49,080 --> 01:34:53,590
+are going to allow people to
+restore cognitive function,
+
+2308
+01:34:53,590 --> 01:34:56,350
+physical function, wound
+healing and so forth.
+
+2309
+01:34:56,350 --> 01:34:57,750
+It's a really exciting area.
+
+2310
+01:34:57,750 --> 01:35:00,200
+I mention it not to be sensationalist
+
+2311
+01:35:00,200 --> 01:35:02,260
+but because it's happening
+
+2312
+01:35:02,260 --> 01:35:05,700
+and because there's a lot
+of excitement about it
+
+2313
+01:35:05,700 --> 01:35:08,700
+and because I think it's clear
+
+2314
+01:35:08,700 --> 01:35:12,050
+that the young brain and body and blood
+
+2315
+01:35:12,050 --> 01:35:16,290
+are very different from the
+old brain, body and blood,
+
+2316
+01:35:16,290 --> 01:35:18,910
+and the goal of science is to identify
+
+2317
+01:35:18,910 --> 01:35:22,083
+and isolate those factors
+that make that so,
+
+2318
+01:35:23,330 --> 01:35:27,060
+such that people who would
+otherwise get dementia
+
+2319
+01:35:27,060 --> 01:35:29,910
+or perhaps even have dementia
+will be allowed to recover.
+
+2320
+01:35:31,210 --> 01:35:34,370
+Again, not an actionable
+item at this point,
+
+2321
+01:35:34,370 --> 01:35:38,630
+but one to think about,
+perhaps not too long,
+
+2322
+01:35:38,630 --> 01:35:39,993
+but one to think about.
+
+2323
+01:35:41,090 --> 01:35:42,260
+I'm going to close there.
+
+2324
+01:35:42,260 --> 01:35:45,020
+I've talked about a lot of tools today.
+
+2325
+01:35:45,020 --> 01:35:48,140
+I've talked a lot about somatosensation,
+
+2326
+01:35:48,140 --> 01:35:51,780
+about plasticity, about
+pain, about acupuncture,
+
+2327
+01:35:51,780 --> 01:35:55,840
+some of the nuance of acupuncture,
+inflammation and stress.
+
+2328
+01:35:55,840 --> 01:35:59,240
+We even talked a little bit
+about high-intensity breathing,
+
+2329
+01:35:59,240 --> 01:36:01,740
+talked about restricting limb movement
+
+2330
+01:36:01,740 --> 01:36:05,610
+to get compensatory regrowth of pathways,
+
+2331
+01:36:05,610 --> 01:36:08,090
+or I should say reactivation of pathways
+
+2332
+01:36:08,090 --> 01:36:09,970
+that have been injured or damaged.
+
+2333
+01:36:09,970 --> 01:36:10,970
+As always,
+
+2334
+01:36:10,970 --> 01:36:15,950
+we take a whirlwind tour
+through a given topic,
+
+2335
+01:36:15,950 --> 01:36:18,220
+lay down some tools as we go.
+
+2336
+01:36:18,220 --> 01:36:22,410
+Hopefully the principles that
+relate to pain and injury
+
+2337
+01:36:22,410 --> 01:36:24,700
+but also neuroplasticity in general,
+
+2338
+01:36:24,700 --> 01:36:26,910
+today in the context of
+the somatosensory system,
+
+2339
+01:36:26,910 --> 01:36:28,310
+will be of use to all of you.
+
+2340
+01:36:28,310 --> 01:36:31,070
+I don't wish injury on any of you,
+
+2341
+01:36:31,070 --> 01:36:34,620
+but I do hope that you'll
+take this information to mind
+
+2342
+01:36:34,620 --> 01:36:35,820
+and that you will think about it
+
+2343
+01:36:35,820 --> 01:36:38,330
+if ever you find yourself in a situation
+
+2344
+01:36:38,330 --> 01:36:39,630
+where you have to ask
+
+2345
+01:36:39,630 --> 01:36:41,840
+what's the difference
+between my perception
+
+2346
+01:36:41,840 --> 01:36:43,040
+and the actual tissue damage?
+
+2347
+01:36:43,040 --> 01:36:45,010
+Is injury and pain, is it the same?
+
+2348
+01:36:45,010 --> 01:36:45,940
+Well, no.
+
+2349
+01:36:45,940 --> 01:36:48,700
+Do I have some control
+over my experience of pain?
+
+2350
+01:36:48,700 --> 01:36:49,910
+Absolutely.
+
+2351
+01:36:49,910 --> 01:36:51,810
+Does all of that involve taking drugs
+
+2352
+01:36:51,810 --> 01:36:53,140
+or doing certain therapeutics?
+
+2353
+01:36:53,140 --> 01:36:54,250
+No, not necessarily.
+
+2354
+01:36:54,250 --> 01:36:56,920
+There's the incredible
+subjective component.
+
+2355
+01:36:56,920 --> 01:36:59,300
+There also is a need sometimes
+
+2356
+01:36:59,300 --> 01:37:03,400
+to treat the injury at the
+level of the pain receptors
+
+2357
+01:37:03,400 --> 01:37:05,220
+at the site of the wound,
+
+2358
+01:37:05,220 --> 01:37:09,450
+so please take the information,
+do with it what you will,
+
+2359
+01:37:09,450 --> 01:37:11,070
+and in the meantime,
+
+2360
+01:37:11,070 --> 01:37:13,400
+thank you so much for
+your time and attention.
+
+2361
+01:37:13,400 --> 01:37:15,470
+Before we go, I just want to remind you
+
+2362
+01:37:15,470 --> 01:37:17,800
+to please subscribe to
+the YouTube channel,
+
+2363
+01:37:17,800 --> 01:37:19,400
+Apple and or Spotify.
+
+2364
+01:37:19,400 --> 01:37:21,170
+Leave us comments and feedback.
+
+2365
+01:37:21,170 --> 01:37:24,110
+Five star review on Apple if
+you think we deserve that.
+
+2366
+01:37:24,110 --> 01:37:25,860
+Please check out our sponsors.
+
+2367
+01:37:25,860 --> 01:37:29,820
+Check out our Patreon,
+patreon.com/andrewhuberman,
+
+2368
+01:37:29,820 --> 01:37:31,050
+and as well,
+
+2369
+01:37:31,050 --> 01:37:33,410
+if you're interested in
+the supplements that I take
+
+2370
+01:37:33,410 --> 01:37:34,870
+and you want to try any of those,
+
+2371
+01:37:34,870 --> 01:37:39,537
+you can go to Thorne,
+thorne.com/u/huberman
+
+2372
+01:37:40,850 --> 01:37:44,270
+and you'll get 20% off any of
+the supplements listed there
+
+2373
+01:37:44,270 --> 01:37:47,230
+as well as any others on the Thorne site.
+
+2374
+01:37:47,230 --> 01:37:48,063
+Once again,
+
+2375
+01:37:48,063 --> 01:37:50,000
+thanks so much for your
+time and attention today,
+
+2376
+01:37:50,000 --> 01:37:52,763
+and as always, thank you for
+your interest in science.
+
+2377
+01:37:54,111 --> 01:37:57,278
+[relaxing rock music]
+
