@@ -5,6 +5,7 @@ import {
   List,
   ListIcon,
   ListItem,
+  Heading,
 } from '@chakra-ui/react';
 import { CheckCircleIcon, LinkIcon } from '@chakra-ui/icons';
 import { lazy, Suspense } from 'react';
@@ -28,6 +29,15 @@ const Index = () => (
         <Code>TypeScript</Code>.
       </Text>
       <ModelCanvas />
+      <Heading>List to the latest episode</Heading>
+      <iframe
+        src='https://open.spotify.com/embed/show/79CkJF3UJTHFV8Dse3Oy0P?utm_source=generator'
+        width='100%'
+        height='152'
+        frameBorder='0'
+        allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'
+        loading='lazy'
+      ></iframe>
       <List spacing={3} my={0} color='text'>
         <ListItem>
           <ListIcon as={CheckCircleIcon} color='green.500' />
