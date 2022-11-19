@@ -15,38 +15,19 @@ import { Main } from '../components/common/Main';
 import { DarkModeSwitch } from '../components/common/DarkModeSwitch';
 import { CTA } from '../components/common/CTA';
 import { Footer } from '../components/common/Footer';
-import { Model } from '../components/3d/model';
+import { ModelCanvas } from '../components/3d/ModelCanvas';
 import { OrbitControls } from '@react-three/drei';
 
 const Index = () => (
   <Container height='100vh'>
-    {/* <Hero /> */}
-
-    <Suspense fallback={'loading'}>
-      <Canvas
-        camera={{ position: [2, 0, 12.25], fov: 15 }}
-        style={{
-          backgroundColor: '#111a21',
-          width: '100vw',
-          height: '100vh',
-        }}
-      >
-        <ambientLight intensity={1.25} />
-        <ambientLight intensity={0.1} />
-        <directionalLight intensity={0.4} />
-        <Suspense fallback={null}>
-          <Model position={[0.025, -0.9, 0]} /> /* highlight-line */
-        </Suspense>
-        <OrbitControls />
-      </Canvas>
-    </Suspense>
+    <Hero title='Ask Huberman' />
 
     <Main>
       <Text color='text'>
         Example repository of <Code>Next.js</Code> + <Code>chakra-ui</Code> +{' '}
         <Code>TypeScript</Code>.
       </Text>
-
+      <ModelCanvas />
       <List spacing={3} my={0} color='text'>
         <ListItem>
           <ListIcon as={CheckCircleIcon} color='green.500' />

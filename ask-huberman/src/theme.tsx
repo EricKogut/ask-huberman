@@ -1,14 +1,14 @@
-import { extendTheme } from '@chakra-ui/react'
-import { createBreakpoints } from '@chakra-ui/theme-tools'
+import { extendTheme } from '@chakra-ui/react';
+import { createBreakpoints } from '@chakra-ui/theme-tools';
 
-const fonts = { mono: `'Menlo', monospace` }
+const fonts = { mono: `'Menlo', monospace` };
 
 const breakpoints = createBreakpoints({
   sm: '40em',
   md: '52em',
   lg: '64em',
   xl: '80em',
-})
+});
 
 const theme = extendTheme({
   semanticTokens: {
@@ -18,12 +18,12 @@ const theme = extendTheme({
         _dark: '#ade3b8',
       },
       heroGradientStart: {
-        default: '#7928CA',
-        _dark: '#e3a7f9',
+        default: '#528FB4',
+        _dark: '#528FB4',
       },
       heroGradientEnd: {
-        default: '#FF0080',
-        _dark: '#fbec8f',
+        default: '#CFEDF6',
+        _dark: '#CFEDF6',
       },
     },
     radii: {
@@ -35,6 +35,6 @@ const theme = extendTheme({
   },
   fonts,
   breakpoints,
-})
+});
 
-export default theme
+export default theme;
