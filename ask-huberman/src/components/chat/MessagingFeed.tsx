@@ -14,26 +14,17 @@ import {
   Button,
   Input,
   InputGroup,
+  Spinner,
 } from '@chakra-ui/react';
-import { useAxios } from '../../hooks/useAxios';
+import axios from 'axios';
 
 interface TestimonialCardProps {
-  name: string;
-  role: string;
-  content: string;
+  name?: string;
+  role?: string;
+  content?: string;
   avatar: string;
-  index: number;
+  index?: number;
 }
-
-const testimonials = [
-  {
-    name: 'Andrew Huberman.',
-    role: 'Associate Professor of Neurobiology',
-    content:
-      "Hi. I'm Andrew Huberman and I'm a professor of Neurobiology and Ophthalmology. Feel free to ask me a question...",
-    avatar: '/assets/headshot.jpg',
-  },
-];
 
 const backgrounds = [
   `url("data:image/svg+xml, %3Csvg xmlns=\'http://www.w3.org/2000/svg\' width=\'560\' height=\'185\' viewBox=\'0 0 560 185\' fill=\'none\'%3E%3Cellipse cx=\'102.633\' cy=\'61.0737\' rx=\'102.633\' ry=\'61.0737\' fill=\'%23ED64A6\' /%3E%3Cellipse cx=\'399.573\' cy=\'123.926\' rx=\'102.633\' ry=\'61.0737\' fill=\'%23F56565\' /%3E%3Cellipse cx=\'366.192\' cy=\'73.2292\' rx=\'193.808\' ry=\'73.2292\' fill=\'%2338B2AC\' /%3E%3Cellipse cx=\'222.705\' cy=\'110.585\' rx=\'193.808\' ry=\'73.2292\' fill=\'%23ED8936\' /%3E%3C/svg%3E")`,
@@ -86,6 +77,7 @@ function TestimonialCard(props: TestimonialCardProps) {
         <chakra.p fontWeight={'medium'} fontSize={'15px'} pb={4}>
           {content}
         </chakra.p>
+
         <chakra.p fontWeight={'bold'} fontSize={14}>
           {name}
           <chakra.span fontWeight={'medium'} color={'gray.500'}>
@@ -94,40 +86,77 @@ function TestimonialCard(props: TestimonialCardProps) {
           </chakra.span>
         </chakra.p>
       </Flex>
-      <Avatar
-        src={avatar}
-        height={'80px'}
-        width={'80px'}
-        alignSelf={'center'}
-        m={{ base: '0 0 35px 0', md: '0 0 0 50px' }}
-      />
+      {avatar && (
+        <Avatar
+          src={avatar}
+          height={'80px'}
+          width={'80px'}
+          alignSelf={'center'}
+          m={{ base: '0 0 35px 0', md: '0 0 0 50px' }}
+        />
+      )}
+      {!avatar && (
+        <>
+          <Spinner alignSelf={'center'} />
+          <Avatar
+            src='https://bit.ly/code-beast'
+            height={'80px'}
+            width={'80px'}
+            alignSelf={'center'}
+            m={{ base: '0 0 35px 0', md: '0 0 0 50px' }}
+          />
+        </>
+      )}
     </Flex>
   );
 }
 
-export function MessagingFeed() {
+TestimonialCard.defaultProps = {
+  name: 'You',
+  role: 'Curious Learner',
+  content: 'dddd',
+};
+export const MessagingFeed = () => {
   const [value, setValue] = useState('');
   const handleChange = (event) => setValue(event.target.value);
 
+  const [testimonials, setTestimonials] = useState([
+    {
+      name: 'Andrew Huberman.',
+      role: 'Associate Professor of Neurobiology',
+      content:
+        "Hi. I'm Andrew Huberman and I'm a professor of Neurobiology and Ophthalmology. Feel free to ask me a question...",
+      avatar: '/assets/headshot.jpg',
+    },
+  ]);
   let handleInputChange = (e) => {
     let inputValue = e.target.value;
     setValue(inputValue);
   };
 
-  const {
-    loading,
-    errors,
-    data,
-    refetch,
-  }: {
-    loading: boolean;
-    errors: any;
-    data: any;
-    refetch(): void;
-  } = useAxios({
-    type: 'get',
-  });
-  console.log({ loading }, { errors }, { data });
+  const handleQuery = async () => {
+    setTestimonials([
+      {
+        content: value,
+      },
+    ]);
+    const res = await axios['post'](
+      `${process.env.NEXT_PUBLIC_REACT_APP_ENDPOINT}/query`,
+      { query: value }
+    );
+
+    console.log(res.data);
+
+    setTestimonials([
+      {
+        name: 'Andrew Huberman.',
+        role: 'Associate Professor of Neurobiology',
+        content: res.data,
+        avatar: '/assets/headshot.jpg',
+      },
+    ]);
+  };
+
   return (
     <>
       <Flex
@@ -162,7 +191,7 @@ export function MessagingFeed() {
           >
             This Huberman bot was trained on{' '}
             <chakra.strong color={useColorModeValue('gray.700', 'gray.50')}>
-              50+
+              40+
             </chakra.strong>{' '}
             podcasts to answer your questions.
           </chakra.h2>
@@ -184,7 +213,7 @@ export function MessagingFeed() {
               onChange={handleChange}
             />
             <InputRightElement width='4.5rem'>
-              <Button h='1.75rem' size='sm'>
+              <Button h='1.75rem' size='sm' onClick={handleQuery}>
                 {' '}
                 Send
               </Button>
@@ -194,4 +223,4 @@ export function MessagingFeed() {
       </Flex>
     </>
   );
-}
+};
